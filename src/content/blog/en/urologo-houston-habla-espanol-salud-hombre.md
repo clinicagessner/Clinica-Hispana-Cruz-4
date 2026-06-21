@@ -4,7 +4,7 @@ title: "Spanish-Speaking Urologist in Houston: Men's Health"
 description: "When to see a urologist in Houston, signs of prostate problems, PSA and testosterone testing. Men's health care in Spanish, walk-in, no insurance needed."
 date: "2026-06-15"
 dateModified: "2026-06-15"
-author: "Clinica Hispana Cruz 4"
+author: "Clínica Hispana Cruz 4"
 image: "/images/services/salud-hombre.webp"
 featured: false
 category: "Men's Health"

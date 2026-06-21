@@ -62,7 +62,7 @@ Houston is one of the cities with the largest Hispanic population in the entire 
 - **Distrust of the healthcare system:** Negative past experiences or lack of awareness about available services can create fear or reluctance to seek care.
 - **Incompatible schedules:** Many Hispanic workers have jobs that don't align with typical clinic and office hours.
 
-At Clínica Hispana Cruz 4, we understand these realities firsthand. That is why we designed our services to break down these barriers: fully bilingual staff, extended hours Monday through Friday until 9 PM and weekends, transparent pricing, and care with no insurance needed.
+At Clínica Hispana Cruz 4, we understand these realities firsthand. That is why we designed our services to break down these barriers: fully bilingual staff, extended hours every day until 9 PM, transparent pricing, and care with no insurance needed.
 
 ## Clínica Hispana Cruz 4 vs. the Emergency Room
 
@@ -92,7 +92,7 @@ Every day, we strive to:
 We invite you to come see our facility and meet our team of health care professionals. We are here to serve you and your family.
 
 **Office Hours:**
-- Monday through Saturday & Sunday: 9:00 AM - 9:00 PM
+- Monday through Sunday: 9:00 AM - 9:00 PM
 
 **Contact Us:**
 - Phone: (281) 324-8369

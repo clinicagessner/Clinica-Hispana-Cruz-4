@@ -233,6 +233,6 @@ Mantenga su salud bajo control con análisis regulares. Servimos a la comunidad 
 **Clínica Hispana Cruz 4**
 - Teléfono: (281) 324-8369
 - Dirección: 10100 Beechnut St Ste 240, Houston, TX 77072
-- Horario: Lunes a Viernes 9AM-9PM
+- Horario: Lunes a Domingo 9AM-9PM
 
 *Resultados rápidos, atención en español, precios justos.*

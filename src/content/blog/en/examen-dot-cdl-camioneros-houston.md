@@ -143,7 +143,7 @@ At Clínica Hispana Cruz 4, **we never turn you away without explaining what to 
 The entire process — from check-in to receiving your certificate — is in Spanish. No translator needed.
 
 ### No Appointment Needed
-Come when it's convenient. We're open **Monday through Saturday, 9 AM to 9 PM**. This is especially helpful for truck drivers with irregular schedules.
+Come when it's convenient. We're open **Monday through Sunday, 9 AM to 9 PM**. This is especially helpful for truck drivers with irregular schedules.
 
 ### Same-Day Results
 Leave our clinic with your **DOT medical certificate and medical card** in hand. No waiting days or coming back for another visit.
@@ -169,7 +169,7 @@ We understand the specific needs of Houston's Hispanic trucking community. Many 
 If slightly elevated, the doctor may issue a 1-year certificate instead of 2. If very high, we'll recommend treatment and you can return when it's controlled.
 
 ### Do I need an appointment?
-**No.** We accept walk-ins Monday through Saturday, 9 AM to 9 PM.
+**No.** We accept walk-ins Monday through Sunday, 9 AM to 9 PM.
 
 ### How long does the exam take?
 Approximately **30-45 minutes**. You leave with your certificate the same day.

@@ -4,7 +4,7 @@ title: "Hispanic Gynecologists in Houston Who Speak Spanish"
 description: "How to find Spanish-speaking gynecologists in Houston. What to ask, what to look for, and where to find options for Hispanic women in Houston TX."
 date: "2026-05-31"
 dateModified: "2026-05-31"
-author: "Clinica Hispana Cruz 4"
+author: "Clínica Hispana Cruz 4"
 image: "/images/services/gynecology.webp"
 featured: false
 category: "Women's Health"

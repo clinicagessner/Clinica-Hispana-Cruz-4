@@ -220,6 +220,6 @@ Your health is important. Don't postpone your gynecological exams. We are the tr
 **Clínica Hispana Cruz 4**
 - Phone: (281) 324-8369
 - Address: 10100 Beechnut St Ste 240, Houston, TX 77072
-- Hours: Monday-Friday 9AM-9PM
+- Hours: Monday-Sunday 9AM-9PM
 
 *Caring for the health of Hispanic women in Houston.*

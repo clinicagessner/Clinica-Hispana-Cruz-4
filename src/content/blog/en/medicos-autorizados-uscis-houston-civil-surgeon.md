@@ -4,7 +4,7 @@ title: "USCIS-Authorized Doctors in Houston: How to Verify"
 description: "How to verify if a doctor is a USCIS-authorized Civil Surgeon in Houston for the I-693 Green Card medical exam. Official list, requirements, and what to avoid."
 date: "2026-05-31"
 dateModified: "2026-05-31"
-author: "Clinica Hispana Cruz 4"
+author: "Clínica Hispana Cruz 4"
 image: "/images/services/I-693.webp"
 featured: false
 category: "Immigration"

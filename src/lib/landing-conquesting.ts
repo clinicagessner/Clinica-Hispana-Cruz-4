@@ -73,14 +73,14 @@ export const LANDING_COPY: Record<Locale, LandingCopy> = {
     meta: {
       title: "Clínica Hispana en Beechnut St · Sharpstown 77072 | Compare",
       description:
-        "Compare antes de elegir clínica hispana en Houston. 10100 Beechnut St Rd, atendemos Bellaire, Sharpstown, Westchase. Sin cita, en español. (832) 639-1005.",
+        "Compare antes de elegir clínica hispana en Houston. 10100 Beechnut St Ste 240, Houston, TX 77072, atendemos Bellaire, Sharpstown, Westchase. Sin cita, en español. (832) 639-1005.",
     },
     hero: {
       badge: "Lunes a Domingo · 9 AM - 9 PM",
       rating: "5.0 · Reseñas reales en Google",
       h1: "Clínica Hispana en Beechnut St · Sharpstown, Houston",
       subtitle:
-        "10100 Beechnut St Ste 240, Houston 77072. Atendemos pacientes de Bellaire, Westchase, Alief y Meyerland. Compare antes de elegir: atención el mismo día en español, sin cita, Civil Surgeon USCIS para examen I-693.",
+        "10100 Beechnut St Ste 240, Houston, TX 77072. Atendemos pacientes de Bellaire, Westchase, Alief y Meyerland. Compare antes de elegir: atención el mismo día en español, sin cita, Civil Surgeon USCIS para examen I-693.",
       ctaCall: "Llamar",
       ctaDirections: "Cómo Llegar",
       imageAlt: "Equipo médico de Clínica Hispana Cruz 4 en Houston atendiendo a pacientes",
@@ -263,14 +263,14 @@ export const LANDING_COPY: Record<Locale, LandingCopy> = {
     meta: {
       title: "Hispanic Clinic on Beechnut St · Sharpstown 77072 | Compare",
       description:
-        "Compare before choosing a Hispanic clinic in Houston. 10100 Beechnut St Rd, we serve Bellaire, Sharpstown, Westchase. Walk-in, in Spanish. (832) 639-1005.",
+        "Compare before choosing a Hispanic clinic in Houston. 10100 Beechnut St Ste 240, Houston, TX 77072, we serve Bellaire, Sharpstown, Westchase. Walk-in, in Spanish. (832) 639-1005.",
     },
     hero: {
       badge: "Monday to Sunday · 9 AM - 9 PM",
       rating: "5.0 · Real Google reviews",
       h1: "Hispanic Clinic on Beechnut St · Sharpstown, Houston",
       subtitle:
-        "10100 Beechnut St Ste 240, Houston 77072. We serve patients from Bellaire, Westchase, Alief, and Meyerland. Compare before choosing: same-day care in Spanish, walk-in, USCIS Civil Surgeon for the I-693 exam.",
+        "10100 Beechnut St Ste 240, Houston, TX 77072. We serve patients from Bellaire, Westchase, Alief, and Meyerland. Compare before choosing: same-day care in Spanish, walk-in, USCIS Civil Surgeon for the I-693 exam.",
       ctaCall: "Call",
       ctaDirections: "Get Directions",
       imageAlt: "Clínica Hispana Cruz 4 medical team in Houston caring for patients",

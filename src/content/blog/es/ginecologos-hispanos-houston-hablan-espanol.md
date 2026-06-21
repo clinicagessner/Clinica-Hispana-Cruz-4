@@ -7,7 +7,7 @@ dateModified: "2026-05-31"
 author: "Clínica Hispana Cruz 4"
 image: "/images/services/gynecology.webp"
 featured: false
-category: "Salud Mujer"
+category: "Salud de la Mujer"
 readTime: 6
 keywords:
   - "ginecólogos en Houston que hablen español"

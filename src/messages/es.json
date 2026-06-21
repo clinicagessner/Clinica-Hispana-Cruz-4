@@ -25,6 +25,7 @@
     "badge": "Atención médica de calidad",
     "title": "Su Clínica Hispana de Confianza en Houston",
     "subtitle": "Atención médica profesional 100% en español, sin cita previa y con precios accesibles. Ofrecemos consultas médicas de ginecología, urología y tratamiento de enfermedades crónicas como diabetes, hipertensión y colesterol.",
+    "subtitleShort": "Atención médica profesional 100% en español, sin cita previa y con precios accesibles.",
     "searchEyebrow": "Encuentra tu servicio médico",
     "searchPlaceholder": "Buscar servicio (diabetes, ultrasonido, examen I-693)...",
     "searchButton": "Buscar",
@@ -34,7 +35,7 @@
     "hours": "Lunes a Domingo: 9:00 AM - 9:00 PM",
     "googleReviews": "+ reseñas en Google",
     "cardTitle": "¿Por qué elegirnos?",
-    "cardSubtitle": "La mejor atención para usted y su familia",
+    "cardSubtitle": "Atención médica de calidad en español para toda su familia en Houston, TX",
     "features": {
       "1": "Atención 100% en español",
       "2": "Sin cita previa necesaria",
@@ -44,7 +45,7 @@
   },
   "services": {
     "title": "Nuestros Servicios",
-    "subtitle": "Atención médica integral para toda la familia",
+    "subtitle": "Consultas, laboratorio y tratamientos en español, sin cita previa en Houston, TX",
     "servicesAvailable": "servicios disponibles",
     "filterAll": "Todos",
     "searchPlaceholder": "Buscar servicio...",
@@ -67,11 +68,20 @@
     "categoryExamenes": "Exámenes y certificados",
     "categoryLaboratorio": "Laboratorio y pruebas",
     "categoryTratamientos": "Tratamientos",
-    "categoryDefault": "Servicio Médico"
+    "categoryDefault": "Servicio Médico",
+    "bentoEyebrow": "Atención sin cita",
+    "bentoServicesCount": "{count} servicios",
+    "bentoExploreCta": "Ver los {count} servicios",
+    "bentoExploreCategory": "Explorar",
+    "trustNoInsurance": "Sin seguro médico",
+    "trustNoAppointment": "Sin cita previa",
+    "trustSpanish": "100% en español",
+    "trustHours": "9 AM – 9 PM",
+    "trustEveryDay": "Los 7 días"
   },
   "testimonials": {
     "title": "Lo Que Dicen Nuestros Pacientes",
-    "subtitle": "Testimonios reales de Google Reviews",
+    "subtitle": "Reseñas reales de Google de pacientes de nuestra clínica hispana en Houston, TX",
     "leaveReview": "Dejar una Reseña",
     "verifiedReview": "Reseña verificada de Google",
     "rating": "calificación",
@@ -79,7 +89,7 @@
   },
   "contact": {
     "title": "Contáctenos",
-    "subtitle": "Estamos aquí para ayudarle",
+    "subtitle": "Llámenos o visítenos sin cita previa — le atendemos en español en Houston, TX",
     "form": {
       "name": "Nombre Completo",
       "namePlaceholder": "Su nombre",
@@ -109,7 +119,11 @@
   },
   "faq": {
     "title": "Preguntas Frecuentes",
-    "subtitle": "Respuestas a las preguntas más comunes",
+    "subtitle": "Resuelve tus dudas sobre horarios, precios y servicios de nuestra clínica hispana en Houston",
+    "eyebrow": "Resolvemos tus dudas",
+    "ctaTitle": "¿Aún tienes dudas?",
+    "ctaText": "Llámanos y con gusto te ayudamos en español, sin compromiso.",
+    "ctaButton": "Llámanos ahora",
     "q1": "¿Necesito cita previa?",
     "a1": "No, atendemos pacientes sin cita previa. Simplemente venga a nuestra clínica durante nuestro horario de atención y lo atenderemos lo más pronto posible. Sin embargo, si prefiere asegurar un horario específico, puede llamarnos para hacer una cita.",
     "q2": "¿Atienden a pacientes sin seguro médico?",
@@ -123,7 +137,7 @@
     "q6": "¿Ofrecen planes de pago?",
     "a6": "Sí, ofrecemos planes de pago flexibles para ayudarle a manejar los costos de su atención médica. Hable con nuestra recepcionista sobre las opciones disponibles para su situación particular.",
     "q7": "¿Dónde están ubicados en Houston?",
-    "a7": "Estamos ubicados en 10100 Beechnut St Ste 240, Houston, TX 77072, en el área norte de Houston cerca de la autopista 59/69. Contamos con amplio estacionamiento gratuito y fácil acceso en transporte público.",
+    "a7": "Estamos ubicados en 10100 Beechnut St Ste 240, Houston, TX 77072, en el suroeste de Houston cerca del Beltway 8 y la US-59 Southwest (zona de Alief / Sharpstown). Contamos con amplio estacionamiento gratuito y fácil acceso en transporte público.",
     "q8": "¿Realizan exámenes médicos de inmigración I-693?",
     "a8": "Sí, contamos con médicos Civil Surgeon certificados por USCIS para realizar el examen médico de inmigración I-693 requerido para la Green Card. Ofrecemos resultados rápidos, vacunas disponibles en sitio, y atención 100% en español.",
     "q9": "¿Cuánto tiempo debo esperar sin cita?",
@@ -133,7 +147,7 @@
   },
   "location": {
     "title": "Nuestra Ubicación",
-    "subtitle": "Visítenos en Houston, TX",
+    "subtitle": "Visítenos en Beechnut St, suroeste de Houston, TX — con estacionamiento gratis",
     "howToGetHere": "Cómo Llegar",
     "getDirections": "Obtener Direcciones",
     "openInMaps": "Abrir en Google Maps",
@@ -218,7 +232,7 @@
   },
   "blog": {
     "title": "Blog de Salud",
-    "subtitle": "Consejos de salud, noticias y actualizaciones de nuestra clínica",
+    "subtitle": "Consejos de salud en español para la comunidad hispana de Houston, TX",
     "metaTitle": "Blog | Clínica Hispana Cruz 4 Houston",
     "metaDescription": "Consejos de salud, información médica y noticias de Clínica Hispana Cruz 4 en Houston, TX. Artículos en español sobre medicina familiar, prevención y bienestar.",
     "featured": "Destacado",

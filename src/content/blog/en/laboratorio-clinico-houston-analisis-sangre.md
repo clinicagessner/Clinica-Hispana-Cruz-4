@@ -233,6 +233,6 @@ Stay on top of your health with regular lab tests. We serve the Hispanic communi
 **Clínica Hispana Cruz 4**
 - Phone: (281) 324-8369
 - Address: 10100 Beechnut St Ste 240, Houston, TX 77072
-- Hours: Monday-Friday 9AM-9PM
+- Hours: Monday-Sunday 9AM-9PM
 
 *Fast results, Spanish-language care, fair prices.*
