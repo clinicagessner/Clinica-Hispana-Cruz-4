@@ -212,8 +212,8 @@
   --radius-2xl: calc(var(--radius) + 8px);
 
   /* Tipografía */
-  --font-sans: var(--font-roboto-condensed), system-ui, sans-serif;
-  --font-heading: var(--font-montserrat), system-ui, sans-serif;
+  --font-sans: var(--font-ibm-plex-sans), system-ui, sans-serif;
+  --font-heading: var(--font-space-grotesk), system-ui, sans-serif;
 }
 
 /* Service card link hover */
@@ -251,11 +251,11 @@ html {
 }
 
 body {
-  font-family: var(--font-roboto-condensed), system-ui, sans-serif;
+  font-family: var(--font-ibm-plex-sans), system-ui, sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: var(--font-montserrat), system-ui, sans-serif;
+  font-family: var(--font-space-grotesk), system-ui, sans-serif;
   letter-spacing: -0.01em;
 }
 
@@ -424,7 +424,7 @@ h1, h2, h3, h4, h5, h6 {
 .blog-content h1:first-child { display: none; }
 
 .blog-content h1 {
-  font-family: var(--font-montserrat), system-ui, sans-serif;
+  font-family: var(--font-space-grotesk), system-ui, sans-serif;
   font-size: 2rem;
   font-weight: 700;
   color: var(--slate-dark);
@@ -433,7 +433,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .blog-content h2 {
-  font-family: var(--font-montserrat), system-ui, sans-serif;
+  font-family: var(--font-space-grotesk), system-ui, sans-serif;
   font-size: 1.5rem;
   font-weight: 700;
   color: var(--slate-dark);
@@ -455,7 +455,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .blog-content h3 {
-  font-family: var(--font-montserrat), system-ui, sans-serif;
+  font-family: var(--font-space-grotesk), system-ui, sans-serif;
   font-size: 1.25rem;
   font-weight: 600;
   color: var(--blue-primary);

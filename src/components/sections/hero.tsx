@@ -89,7 +89,7 @@ export async function Hero() {
               </h1>
 
               <p className="text-base md:text-lg text-slate-primary mb-5 max-w-2xl">
-                {t("subtitle")}
+                {t("subtitleShort")}
               </p>
 
               <ul className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 mb-5 max-w-xl">

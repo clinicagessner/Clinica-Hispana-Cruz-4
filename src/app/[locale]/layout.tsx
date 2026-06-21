@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Montserrat, Roboto_Condensed } from "next/font/google";
+import { Space_Grotesk, IBM_Plex_Sans } from "next/font/google";
 import { NextIntlClientProvider } from "next-intl";
 import { getMessages, getTranslations, setRequestLocale } from "next-intl/server";
 import { routing } from "@/i18n/routing";
@@ -16,17 +16,17 @@ import { SITE_CONFIG, GOOGLE_REVIEWS_DATA } from "@/lib/constants";
 import { getGooglePlaceData } from "@/lib/google-places";
 import "../globals.css";
 
-const montserrat = Montserrat({
+const spaceGrotesk = Space_Grotesk({
   subsets: ["latin"],
-  weight: ["500", "600", "700", "800"],
-  variable: "--font-montserrat",
+  weight: ["400", "500", "600", "700"],
+  variable: "--font-space-grotesk",
   display: "swap",
 });
 
-const robotoCondensed = Roboto_Condensed({
+const ibmPlexSans = IBM_Plex_Sans({
   subsets: ["latin"],
-  weight: ["400", "500", "700"],
-  variable: "--font-roboto-condensed",
+  weight: ["400", "500", "600", "700"],
+  variable: "--font-ibm-plex-sans",
   display: "swap",
 });
 
@@ -137,12 +137,12 @@ export default async function LocaleLayout({ children, params }: Props) {
     <html
       lang={locale}
       data-scroll-behavior="smooth"
-      className={`${montserrat.variable} ${robotoCondensed.variable}`}
+      className={`${spaceGrotesk.variable} ${ibmPlexSans.variable}`}
       suppressHydrationWarning
     >
       <head>
         <link rel="manifest" href="/manifest.json" />
-        <meta name="theme-color" content="#d8232a" />
+        <meta name="theme-color" content="#ed1c24" />
         <link rel="preconnect" href="https://maps.googleapis.com" />
         <link rel="preconnect" href="https://lh3.googleusercontent.com" />
         <link rel="preconnect" href="https://cdn.callrail.com" />
@@ -180,7 +180,7 @@ export default async function LocaleLayout({ children, params }: Props) {
       )}
       <GoogleAdsTag />
       <Script
-        src="//cdn.callrail.com/companies/413132698/334d41c65d6e3acabf78/12/swap.js"
+        src="https://cdn.callrail.com/companies/457895388/15a9b373fb1cf7740b87/12/swap.js"
         strategy="afterInteractive"
       />
     </html>
