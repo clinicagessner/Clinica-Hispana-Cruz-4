@@ -10,11 +10,17 @@ type MetadataProps = {
 
 export async function generateMetadata({ params }: MetadataProps): Promise<Metadata> {
   const { locale } = await params;
-  const localePath = locale === "en" ? "/en" : "";
+  const isEn = locale === "en";
+  const localePath = isEn ? "/en" : "";
+
+  const title = isEn ? "HIPAA Privacy Policy" : "Política de Privacidad HIPAA";
+  const description = isEn
+    ? `Privacy policy and HIPAA notice of privacy practices for ${SITE_CONFIG.name}. Learn how we protect your health information.`
+    : `Política de privacidad y aviso de prácticas de privacidad HIPAA de ${SITE_CONFIG.name}. Conozca cómo protegemos su información de salud.`;
 
   return {
-    title: "Política de Privacidad HIPAA",
-    description: `Política de privacidad y aviso de prácticas de privacidad HIPAA de ${SITE_CONFIG.name}. Conozca cómo protegemos su información de salud.`,
+    title,
+    description,
     alternates: {
       canonical: `${SITE_CONFIG.baseUrl}${localePath}/privacy`,
       languages: {
@@ -24,8 +30,8 @@ export async function generateMetadata({ params }: MetadataProps): Promise<Metad
       },
     },
     openGraph: {
-      title: `Política de Privacidad HIPAA | ${SITE_CONFIG.name}`,
-      description: `Política de privacidad y aviso de prácticas de privacidad HIPAA. Conozca cómo protegemos su información de salud en ${SITE_CONFIG.name}.`,
+      title: `${title} | ${SITE_CONFIG.name}`,
+      description,
       url: `${SITE_CONFIG.baseUrl}${localePath}/privacy`,
       type: "website",
     },

@@ -15,7 +15,9 @@ type SitemapEntry = {
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = SITE_CONFIG.baseUrl;
-  const siteLastUpdated = new Date("2026-04-15");
+  // Derived from build/deploy time so static + service routes always advertise a
+  // fresh lastmod on each deploy (avoids a hardcoded date drifting stale).
+  const siteLastUpdated = new Date();
 
   // Helper to create alternates for hreflang
   const createAlternates = (path: string) => ({

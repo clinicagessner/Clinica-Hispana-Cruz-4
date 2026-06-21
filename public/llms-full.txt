@@ -1,9 +1,45 @@
 # Clínica Hispana Cruz 4 — Full Service Descriptions
 
 Website: https://www.clinicahispanacruz4.com
-Address: 10100 Beechnut St Ste 240, Houston, TX 77072
+Address: 10100 Beechnut St Ste 240, Houston, TX 77072 (southwest Houston — Alief / Sharpstown)
 Phone: (281) 324-8369
 Hours: Monday–Sunday 9:00 AM – 9:00 PM
+
+---
+
+## Directorio de Servicios / Service Directory (29 services — canonical URLs)
+
+Every service has a dedicated page. Spanish URLs have no locale prefix; English URLs use `/en`.
+
+- Control de Diabetes, Hipertensión y Colesterol / Diabetes, Hypertension & Cholesterol Care: https://www.clinicahispanacruz4.com/services/condiciones-cronicas (EN: https://www.clinicahispanacruz4.com/en/services/condiciones-cronicas)
+- Exámenes y Tratamiento de la Tiroides / Thyroid Testing & Treatment: https://www.clinicahispanacruz4.com/services/tiroides (EN: https://www.clinicahispanacruz4.com/en/services/tiroides)
+- Exámenes y Tratamiento de Alergias / Allergy Testing & Treatment: https://www.clinicahispanacruz4.com/services/alergias (EN: https://www.clinicahispanacruz4.com/en/services/alergias)
+- Pruebas de Flu y COVID y Enfermedades Respiratorias / Flu & COVID Testing and Respiratory Illness Care: https://www.clinicahispanacruz4.com/services/enfermedades-respiratorias (EN: https://www.clinicahispanacruz4.com/en/services/enfermedades-respiratorias)
+- Chequeos Físicos Escolares y Deportivos / School & Sports Physical Exams: https://www.clinicahispanacruz4.com/services/examen-fisico-escolar (EN: https://www.clinicahispanacruz4.com/en/services/examen-fisico-escolar)
+- Atención Ginecológica: Papanicolaou y Cultivos / Gynecology Care: Pap Smear & Cultures: https://www.clinicahispanacruz4.com/services/ginecologia (EN: https://www.clinicahispanacruz4.com/en/services/ginecologia)
+- Examen y Diagnóstico de Embarazo / Pregnancy Testing & Confirmation: https://www.clinicahispanacruz4.com/services/prueba-embarazo (EN: https://www.clinicahispanacruz4.com/en/services/prueba-embarazo)
+- Tratamientos Anticonceptivos / Contraceptive Methods: https://www.clinicahispanacruz4.com/services/anticonceptivos (EN: https://www.clinicahispanacruz4.com/en/services/anticonceptivos)
+- Extracción de Implantes Subdérmicos / Subdermal Implant Removal: https://www.clinicahispanacruz4.com/services/extraccion-implantes (EN: https://www.clinicahispanacruz4.com/en/services/extraccion-implantes)
+- Exámenes del Hombre: PSA y Testosterona (urología / men's & urological health) / Men's Health Exams: PSA & Testosterone: https://www.clinicahispanacruz4.com/services/salud-hombre (EN: https://www.clinicahispanacruz4.com/en/services/salud-hombre)
+- Exámenes de Sangre | Laboratorio / Blood Tests | Lab: https://www.clinicahispanacruz4.com/services/examenes-sangre (EN: https://www.clinicahispanacruz4.com/en/services/examenes-sangre)
+- Examen de Orina y Tratamiento de Infecciones Urinarias / Urinalysis & Urinary Infection Treatment: https://www.clinicahispanacruz4.com/services/infecciones-urinarias (EN: https://www.clinicahispanacruz4.com/en/services/infecciones-urinarias)
+- Exámenes de Heces Fecales / Stool Tests: https://www.clinicahispanacruz4.com/services/examen-heces (EN: https://www.clinicahispanacruz4.com/en/services/examen-heces)
+- Prueba de Estreptococo (Strep Test) / Strep Test: https://www.clinicahispanacruz4.com/services/prueba-strep (EN: https://www.clinicahispanacruz4.com/en/services/prueba-strep)
+- Examen de Tuberculosis (TB) / Tuberculosis (TB) Test: https://www.clinicahispanacruz4.com/services/prueba-tuberculosis (EN: https://www.clinicahispanacruz4.com/en/services/prueba-tuberculosis)
+- Pruebas de Enfermedades de Transmisión Sexual (STD) / Sexually Transmitted Disease (STD) Testing: https://www.clinicahispanacruz4.com/services/enfermedades-transmision-sexual (EN: https://www.clinicahispanacruz4.com/en/services/enfermedades-transmision-sexual)
+- Exámenes de Alcohol y Drogas / Alcohol & Drug Testing: https://www.clinicahispanacruz4.com/services/examen-alcohol-drogas (EN: https://www.clinicahispanacruz4.com/en/services/examen-alcohol-drogas)
+- Electrocardiograma (EKG) / Electrocardiogram (EKG): https://www.clinicahispanacruz4.com/services/electrocardiograma (EN: https://www.clinicahispanacruz4.com/en/services/electrocardiograma)
+- Ultrasonido y Ecografía / Ultrasound & Sonography: https://www.clinicahispanacruz4.com/services/ultrasonido (EN: https://www.clinicahispanacruz4.com/en/services/ultrasonido)
+- Examen Físico DOT - Licencia CDL / DOT Physical Exam - CDL License: https://www.clinicahispanacruz4.com/services/examen-dot (EN: https://www.clinicahispanacruz4.com/en/services/examen-dot)
+- Examen Médico de Inmigración I-693 / Immigration Medical Exam I-693: https://www.clinicahispanacruz4.com/services/examenes-inmigracion (EN: https://www.clinicahispanacruz4.com/en/services/examenes-inmigracion)
+- Vacunas contra la Influenza y Toxoide Tetánico / Flu and Tetanus (Tdap) Vaccines: https://www.clinicahispanacruz4.com/services/vacunas (EN: https://www.clinicahispanacruz4.com/en/services/vacunas)
+- Sueros Vitaminados (Terapia IV) / Vitamin IV Therapy: https://www.clinicahispanacruz4.com/services/sueros-vitaminados (EN: https://www.clinicahispanacruz4.com/en/services/sueros-vitaminados)
+- Suturas de Heridas / Wound Suturing: https://www.clinicahispanacruz4.com/services/suturas-heridas (EN: https://www.clinicahispanacruz4.com/en/services/suturas-heridas)
+- Cura y Curación de Heridas / Wound Care: https://www.clinicahispanacruz4.com/services/curacion-heridas (EN: https://www.clinicahispanacruz4.com/en/services/curacion-heridas)
+- Cirugías Menores / Minor Surgery: https://www.clinicahispanacruz4.com/services/cirugias-menores (EN: https://www.clinicahispanacruz4.com/en/services/cirugias-menores)
+- Drenaje de Abscesos / Abscess Drainage: https://www.clinicahispanacruz4.com/services/drenaje-abscesos (EN: https://www.clinicahispanacruz4.com/en/services/drenaje-abscesos)
+- Extracción de Uñas Encarnadas / Ingrown Toenail Removal: https://www.clinicahispanacruz4.com/services/unas-encarnadas (EN: https://www.clinicahispanacruz4.com/en/services/unas-encarnadas)
+- Farmacia / Pharmacy: https://www.clinicahispanacruz4.com/services/farmacia (EN: https://www.clinicahispanacruz4.com/en/services/farmacia)
 
 ---
 
@@ -512,43 +548,6 @@ Documentación oficial incluida, resultados rápidos, atención en español, y p
 
 ---
 
-## Tratamiento Dolor de Espalda y Muscular Houston / Muscle & Back Pain Treatment Houston TX
-
-Ofrecemos evaluación completa y tratamiento del dolor muscular y articular en Houston TX. El dolor de espalda, cuello y articulaciones es una de las causas más comunes de consulta médica y puede afectar significativamente su calidad de vida y capacidad de trabajo.
-
-Condiciones que evaluamos y tratamos:
-
-- Dolor de espalda baja (lumbalgia)
-- Dolor de cuello y cervical
-- Dolor de hombros
-- Dolor de rodillas
-- Dolor articular general
-- Espasmos musculares
-- Ciática (dolor que baja por la pierna)
-- Lesiones musculares por trabajo o ejercicio
-- Artritis y dolor articular crónico
-
-¿Qué incluye la evaluación?
-
-Nuestro médico realizará un examen físico detallado de la zona afectada, evaluará su rango de movimiento, y determinará la causa del dolor. Si es necesario, se ordenarán estudios adicionales como radiografías o ultrasonido para un diagnóstico más preciso.
-
-Opciones de tratamiento:
-
-- Medicamentos antiinflamatorios y relajantes musculares
-- Inyecciones para alivio del dolor (trigger points)
-- Terapia con calor o frío
-- Recomendaciones de ejercicios y estiramientos
-- Referencia a terapia física
-- Referencia a ortopedista si es necesario
-
-¿Cuándo debe buscar atención?
-
-Consulte si el dolor persiste más de una semana, le impide trabajar o dormir, se acompaña de entumecimiento o debilidad, o es resultado de una lesión o accidente. La evaluación temprana puede prevenir que el dolor se vuelva crónico.
-
-Atención en español, sin cita previa, con precios accesibles en Houston TX.
-
----
-
 ## Clínica Sin Cita Previa Houston / Walk-in Clinic Houston
 
 Clínica Hispana Cruz 4 atiende walk-in todos los días de 9 AM a 9 PM en nuestra ubicación de 10100 Beechnut St Ste 240, Houston TX 77072. No necesita cita previa. Atención profesional en español para la comunidad hispana de Houston.
@@ -624,8 +623,8 @@ URL: https://www.clinicahispanacruz4.com/blog/ginecologos-hispanos-houston-habla
 
 ## Reseñas y Reputación / Reviews and Reputation
 
-Clínica Hispana Cruz 4 tiene una calificación de **5.0 estrellas en Google con más de 370 reseñas verificadas de pacientes**. La calificación y conteo se actualizan dinámicamente desde Google Places en cada visita al sitio web. Los pacientes destacan consistentemente la atención en español, los precios accesibles, la disponibilidad walk-in 9-9 todos los días, y la profesionalismo del equipo médico.
+Clínica Hispana Cruz 4 mantiene una **calificación sobresaliente en Google con cientos de reseñas verificadas de pacientes**. La calificación y el conteo exactos se obtienen en vivo desde Google Places en cada visita al sitio web (no se fijan aquí). Los pacientes destacan consistentemente la atención en español, los precios accesibles, la disponibilidad walk-in 9-9 todos los días, y el profesionalismo del equipo médico.
 
 ---
 
-Last updated: 2026-05-31
+Last updated: 2026-06-20

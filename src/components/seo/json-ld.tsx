@@ -1,5 +1,7 @@
+import { getLocale } from "next-intl/server";
 import { SITE_CONFIG, CONTACT_INFO, SERVICES, SOCIAL_LINKS, GOOGLE_REVIEWS_DATA } from "@/lib/constants";
 import { getGooglePlaceData } from "@/lib/google-places";
+import { getLocalizedService } from "@/lib/utils";
 
 const FALLBACK_REVIEWS = [
   {
@@ -33,7 +35,10 @@ const FALLBACK_REVIEWS = [
 ];
 
 export async function JsonLdMedicalClinic() {
-  const placeData = await getGooglePlaceData();
+  const [placeData, locale] = await Promise.all([
+    getGooglePlaceData(),
+    getLocale(),
+  ]);
 
   const aggregateRating = {
     "@type": "AggregateRating" as const,
@@ -107,12 +112,15 @@ export async function JsonLdMedicalClinic() {
             alternateName: "en",
           },
         ],
-        availableService: SERVICES.slice(0, 10).map((service) => ({
-          "@type": "MedicalProcedure",
-          name: service.title,
-          description: service.description,
-          url: `${SITE_CONFIG.baseUrl}/services/${service.slug}`,
-        })),
+        availableService: SERVICES.map((service) => {
+          const localized = getLocalizedService(service, locale);
+          return {
+            "@type": "MedicalProcedure",
+            name: localized.title,
+            description: localized.description,
+            url: `${SITE_CONFIG.baseUrl}${locale === "en" ? "/en" : ""}/services/${service.slug}`,
+          };
+        }),
         sameAs: [
           SOCIAL_LINKS.facebook,
           SOCIAL_LINKS.instagram,
