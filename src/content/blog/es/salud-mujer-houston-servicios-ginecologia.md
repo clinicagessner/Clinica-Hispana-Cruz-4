@@ -218,7 +218,7 @@ Nuestros servicios de [enfermedades de transmisión sexual](/services/enfermedad
 Su salud es importante. No posponga sus exámenes ginecológicos. Somos la clínica de referencia para miles de mujeres hispanas en Houston TX, incluyendo las áreas de Greenspoint, Northline, Aldine y el norte de la ciudad.
 
 **Clínica Hispana Cruz 4**
-- Teléfono: (281) 324-8369
+- Teléfono: (281) 588-0033
 - Dirección: 10100 Beechnut St Ste 240, Houston, TX 77072
 - Horario: Lunes a Domingo 9AM-9PM
 

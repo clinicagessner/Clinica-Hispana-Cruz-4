@@ -122,7 +122,7 @@ Beneficios de hacer su examen con nosotros:
 - Precios competitivos y transparentes
 - Sin cita previa para la primera consulta
 
-Llame al **(281) 324-8369** para confirmar disponibilidad y precios actualizados.
+Llame al **(281) 588-0033** para confirmar disponibilidad y precios actualizados.
 
 ## Preguntas frecuentes
 
@@ -143,4 +143,4 @@ El formulario I-693 debe completarse en inglés. Pero la consulta y explicación
 
 ---
 
-¿Necesita verificar si su próximo médico está autorizado? Use la herramienta oficial de USCIS antes de agendar. Y si quiere hacer su examen con Civil Surgeon hispano en Houston, llámenos al (281) 324-8369.
+¿Necesita verificar si su próximo médico está autorizado? Use la herramienta oficial de USCIS antes de agendar. Y si quiere hacer su examen con Civil Surgeon hispano en Houston, llámenos al (281) 588-0033.

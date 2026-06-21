@@ -153,7 +153,7 @@ Si su formulario fue rechazado, contáctenos. Podemos ayudarle a entender el mot
 No deje que el examen médico retrase su proceso migratorio. Contáctenos hoy para programar su [examen de inmigración I-693](/services/examenes-inmigracion).
 
 **Clínica Hispana Cruz 4**
-- Teléfono: (281) 324-8369
+- Teléfono: (281) 588-0033
 - Dirección: 10100 Beechnut St Ste 240, Houston, TX 77072
 - Horario: Lunes a Domingo 9AM-9PM
 

@@ -231,7 +231,7 @@ Visite nuestra página de [laboratorio clínico](/services/examenes-sangre) para
 Mantenga su salud bajo control con análisis regulares. Servimos a la comunidad hispana en Houston, incluyendo los vecindarios de Northside, Eastwood, Magnolia Park y Greater Greenspoint.
 
 **Clínica Hispana Cruz 4**
-- Teléfono: (281) 324-8369
+- Teléfono: (281) 588-0033
 - Dirección: 10100 Beechnut St Ste 240, Houston, TX 77072
 - Horario: Lunes a Domingo 9AM-9PM
 

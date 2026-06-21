@@ -194,7 +194,7 @@ At **Clínica Hispana Cruz 4** we are committed to:
 Don't let lack of insurance prevent you from caring for your health. We serve Hispanic families in Houston TX, including the Northside Village, Denver Harbor, Lindale Park, and all of north Houston communities.
 
 **Contact:**
-- Phone: (281) 324-8369
+- Phone: (281) 588-0033
 - Address: 10100 Beechnut St Ste 240, Houston, TX 77072
 - Walk-ins welcome
 

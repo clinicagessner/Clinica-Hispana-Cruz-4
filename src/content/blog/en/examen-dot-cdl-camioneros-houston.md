@@ -181,7 +181,7 @@ Approximately **30-45 minutes**. You leave with your certificate the same day.
 
 Ready for your DOT physical? Visit Clínica Hispana Cruz 4 today:
 
-- **Phone:** (281) 324-8369
+- **Phone:** (281) 588-0033
 - **Address:** 10100 Beechnut St Ste 240, Houston, TX 77072
 - **Hours:** Monday through Sunday, 9:00 AM - 9:00 PM
 - **No appointment needed** — Walk-ins welcome

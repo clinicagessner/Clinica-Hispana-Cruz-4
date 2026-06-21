@@ -118,7 +118,7 @@ We provide:
 - Menopause consultation
 - Family planning
 
-No insurance needed to be seen — we offer affordable self-pay pricing. Call **(281) 324-8369** to confirm availability.
+No insurance needed to be seen — we offer affordable self-pay pricing. Call **(281) 588-0033** to confirm availability.
 
 ## Frequently asked questions
 
@@ -139,4 +139,4 @@ The full consultation with Pap smear takes 20 to 30 minutes. Results are deliver
 
 ---
 
-Finding a gynecologist you feel comfortable and understood with is key to your health. If you're in Houston, call us at (281) 324-8369 or come in without an appointment.
+Finding a gynecologist you feel comfortable and understood with is key to your health. If you're in Houston, call us at (281) 588-0033 or come in without an appointment.

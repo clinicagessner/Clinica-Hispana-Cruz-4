@@ -194,7 +194,7 @@ En **Clínica Hispana Cruz 4** nos comprometemos a:
 No permita que la falta de seguro le impida cuidar su salud. Atendemos a familias hispanas en Houston TX, incluyendo las comunidades de Northside Village, Denver Harbor, Lindale Park y toda el área norte de la ciudad.
 
 **Contacto:**
-- Teléfono: (281) 324-8369
+- Teléfono: (281) 588-0033
 - Dirección: 10100 Beechnut St Ste 240, Houston, TX 77072
 - Sin cita previa
 

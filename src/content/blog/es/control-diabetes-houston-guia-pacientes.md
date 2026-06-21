@@ -221,7 +221,7 @@ En **Clínica Hispana Cruz 4** ofrecemos atención integral para el [manejo de c
 No espere hasta que la diabetes afecte su calidad de vida. Visite Clínica Hispana Cruz 4 en Houston para un chequeo completo y un plan de manejo personalizado.
 
 **Contacto:**
-- Teléfono: (281) 324-8369
+- Teléfono: (281) 588-0033
 - Dirección: 10100 Beechnut St Ste 240, Houston, TX 77072
 
 *Recuerde: el control de la diabetes es un trabajo de equipo entre usted y su médico.*

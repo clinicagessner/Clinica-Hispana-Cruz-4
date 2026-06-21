@@ -181,7 +181,7 @@ Aproximadamente **30-45 minutos**. Sale con su certificado el mismo día.
 
 ¿Listo para su examen DOT? Visite Clínica Hispana Cruz 4 hoy:
 
-- **Teléfono:** (281) 324-8369
+- **Teléfono:** (281) 588-0033
 - **Dirección:** 10100 Beechnut St Ste 240, Houston, TX 77072
 - **Horario:** Lunes a Domingo, 9:00 AM - 9:00 PM
 - **Sin cita previa** — Walk-ins bienvenidos

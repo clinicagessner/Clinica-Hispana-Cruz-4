@@ -187,7 +187,7 @@ export function ContactForm() {
           <p className="text-sm text-destructive">{errors.mensaje.message}</p>
         )}
         <p className="text-[11px] text-slate-muted leading-snug">
-          No comparta información médica delicada aquí. Para temas de salud específicos, llámenos al (281) 324-8369.
+          No comparta información médica delicada aquí. Para temas de salud específicos, llámenos al (281) 588-0033.
         </p>
       </div>
 

@@ -221,7 +221,7 @@ At **Clínica Hispana Cruz 4** we offer comprehensive care for the [management o
 Don't wait until diabetes affects your quality of life. Visit Clínica Hispana Cruz 4 for a complete checkup and personalized management plan.
 
 **Contact:**
-- Phone: (281) 324-8369
+- Phone: (281) 588-0033
 - Address: 10100 Beechnut St Ste 240, Houston, TX 77072
 
 *Remember: managing diabetes is a team effort between you and your doctor.*

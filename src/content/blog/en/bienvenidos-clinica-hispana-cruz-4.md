@@ -95,7 +95,7 @@ We invite you to come see our facility and meet our team of health care professi
 - Monday through Sunday: 9:00 AM - 9:00 PM
 
 **Contact Us:**
-- Phone: (281) 324-8369
+- Phone: (281) 588-0033
 - Address: 10100 Beechnut St Ste 240, Houston, TX 77072
 
 We look forward to seeing you soon!

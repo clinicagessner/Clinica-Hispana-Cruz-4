@@ -118,7 +118,7 @@ Atendemos:
 - Consulta de menopausia
 - Planificación familiar
 
-No necesita seguro médico para atenderse: ofrecemos precios accesibles de pago directo. Llame al **(281) 324-8369** para confirmar disponibilidad.
+No necesita seguro médico para atenderse: ofrecemos precios accesibles de pago directo. Llame al **(281) 588-0033** para confirmar disponibilidad.
 
 ## Preguntas frecuentes
 
@@ -139,4 +139,4 @@ La consulta completa con Papanicolaou toma entre 20 y 30 minutos. Los resultados
 
 ---
 
-Buscar un ginecólogo con quien se sienta cómoda y entendida es clave para su salud. Si está en Houston, llámenos al (281) 324-8369 o venga sin cita previa.
+Buscar un ginecólogo con quien se sienta cómoda y entendida es clave para su salud. Si está en Houston, llámenos al (281) 588-0033 o venga sin cita previa.

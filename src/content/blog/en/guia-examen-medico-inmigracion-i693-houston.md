@@ -153,7 +153,7 @@ If your form was rejected, contact us. We can help you understand why and schedu
 Don't let the medical exam delay your immigration process. Contact us today to schedule your [I-693 immigration exam](/services/examenes-inmigracion).
 
 **Clínica Hispana Cruz 4**
-- Phone: (281) 324-8369
+- Phone: (281) 588-0033
 - Address: 10100 Beechnut St Ste 240, Houston, TX 77072
 - Hours: Monday-Sunday 9AM-9PM
 

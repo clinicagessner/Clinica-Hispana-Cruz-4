@@ -95,7 +95,7 @@ Los invitamos a conocer nuestras instalaciones y a nuestro equipo de profesional
 - Lunes a Domingo: 9:00 AM - 9:00 PM
 
 **Contáctenos:**
-- Teléfono: (281) 324-8369
+- Teléfono: (281) 588-0033
 - Dirección: 10100 Beechnut St Ste 240, Houston, TX 77072
 
 ¡Esperamos verle pronto!

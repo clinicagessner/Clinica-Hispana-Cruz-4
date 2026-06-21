@@ -122,7 +122,7 @@ Benefits of doing your exam with us:
 - Competitive and transparent pricing
 - Walk-ins welcome for the first consultation
 
-Call **(281) 324-8369** to confirm availability and current pricing.
+Call **(281) 588-0033** to confirm availability and current pricing.
 
 ## Frequently asked questions
 
@@ -143,4 +143,4 @@ Form I-693 must be completed in English. But the consultation and explanation ca
 
 ---
 
-Need to verify if your next doctor is authorized? Use the official USCIS tool before scheduling. And if you want to do your exam with a Hispanic Civil Surgeon in Houston, call us at (281) 324-8369.
+Need to verify if your next doctor is authorized? Use the official USCIS tool before scheduling. And if you want to do your exam with a Hispanic Civil Surgeon in Houston, call us at (281) 588-0033.
