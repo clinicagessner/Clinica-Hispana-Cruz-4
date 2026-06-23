@@ -17,6 +17,9 @@ const RETIRED_SERVICE_SLUGS: Record<string, string> = {
 };
 
 const nextConfig: NextConfig = {
+  // React Compiler: memoiza componentes y funciones automáticamente, por lo que
+  // no hace falta useMemo/useCallback manuales. Requiere babel-plugin-react-compiler.
+  reactCompiler: true,
   images: {
     qualities: [60, 75],
     minimumCacheTTL: 31536000,
