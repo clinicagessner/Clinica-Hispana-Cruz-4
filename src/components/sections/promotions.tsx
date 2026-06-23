@@ -87,7 +87,7 @@ export function Promotions() {
               type="button"
               onClick={() => setOpenIndex(i)}
               aria-label={`${text(promo.title, promo.titleEn)} — ${t("viewLabel")}`}
-              className="group relative aspect-[4/5] cursor-pointer overflow-hidden rounded-2xl bg-white shadow-lg ring-1 ring-blue-dark/5 transition-all duration-500 hover:shadow-2xl hover:-translate-y-1 focus:outline-none focus-visible:ring-2 focus-visible:ring-red-accent"
+              className="group relative aspect-4/5 cursor-pointer overflow-hidden rounded-2xl bg-white shadow-lg ring-1 ring-blue-dark/5 transition-all duration-500 hover:shadow-2xl hover:-translate-y-1 focus:outline-none focus-visible:ring-2 focus-visible:ring-red-accent"
             >
               <Image
                 src={promo.image}
