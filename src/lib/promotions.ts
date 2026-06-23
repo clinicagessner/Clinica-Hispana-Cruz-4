@@ -1,7 +1,9 @@
 // Promociones de la clínica (flyers / imágenes).
 //
 // Cómo añadir/editar:
-// 1. Sube cada imagen a /public/images/promos/ (formato .webp recomendado).
+// 1. Sube cada imagen a /public/images/promos/v2/ (formato .webp recomendado).
+//    Las imágenes están horneadas a 4:5 (1080x1350) para que llenen la card
+//    sin recortarse; si subes una nueva con otra proporción, hornéala a 4:5.
 // 2. Añade o edita una entrada por promoción aquí abajo.
 // 3. Borra las entradas que no uses — la sección se oculta sola si queda vacía.
 //
@@ -22,7 +24,7 @@ export type Promotion = {
 export const PROMOS: Promotion[] = [
   {
     id: "salud-intima-femenina",
-    image: "/images/promos/promo-1.webp",
+    image: "/images/promos/v2/promo-1.webp",
     alt: "Promoción de salud íntima femenina por $69 en Clínica Hispana Cruz 4, Houston TX",
     altEn: "Women's intimate health promotion for $69 at Clínica Hispana Cruz 4, Houston TX",
     title: "Salud íntima femenina",
@@ -34,7 +36,7 @@ export const PROMOS: Promotion[] = [
   },
   {
     id: "chequeo-completo-salud",
-    image: "/images/promos/promo-2.webp",
+    image: "/images/promos/v2/promo-2.webp",
     alt: "Promoción de chequeo completo de salud por $99 en Clínica Hispana Cruz 4, Houston TX",
     altEn: "Complete health check-up promotion for $99 at Clínica Hispana Cruz 4, Houston TX",
     title: "Chequeo completo de salud",
@@ -46,7 +48,7 @@ export const PROMOS: Promotion[] = [
   },
   {
     id: "general-sangre-b12",
-    image: "/images/promos/promo-3.webp",
+    image: "/images/promos/v2/promo-3.webp",
     alt: "Promoción de examen general de sangre más Vitamina B12 por $99 en Clínica Hispana Cruz 4, Houston TX",
     altEn: "General blood panel plus Vitamin B12 promotion for $99 at Clínica Hispana Cruz 4, Houston TX",
     title: "General de sangre + Vitamina B12",
@@ -58,7 +60,7 @@ export const PROMOS: Promotion[] = [
   },
   {
     id: "chequeo-familiar",
-    image: "/images/promos/promo-4.webp",
+    image: "/images/promos/v2/promo-4.webp",
     alt: "Promoción de chequeo médico para adultos y niños en Clínica Hispana Cruz 4, Houston TX",
     altEn: "Medical check-up promotion for adults and children at Clínica Hispana Cruz 4, Houston TX",
     title: "Chequeo para adultos y niños",
@@ -70,7 +72,7 @@ export const PROMOS: Promotion[] = [
   },
   {
     id: "perfil-hormonal-hombres",
-    image: "/images/promos/promo-5.webp",
+    image: "/images/promos/v2/promo-5.webp",
     alt: "Promoción de perfil hormonal masculino por $200 en Clínica Hispana Cruz 4, Houston TX",
     altEn: "Men's hormone panel promotion for $200 at Clínica Hispana Cruz 4, Houston TX",
     title: "Perfil hormonal para hombres",
@@ -82,7 +84,7 @@ export const PROMOS: Promotion[] = [
   },
   {
     id: "perfil-hormonal-mujeres",
-    image: "/images/promos/promo-6.webp",
+    image: "/images/promos/v2/promo-6.webp",
     alt: "Promoción de perfil hormonal femenino por $250 en Clínica Hispana Cruz 4, Houston TX",
     altEn: "Women's hormone panel promotion for $250 at Clínica Hispana Cruz 4, Houston TX",
     title: "Perfil hormonal para mujeres",
@@ -94,7 +96,7 @@ export const PROMOS: Promotion[] = [
   },
   {
     id: "solo-vitaminas",
-    image: "/images/promos/promo-7.webp",
+    image: "/images/promos/v2/promo-7.webp",
     alt: "Promoción solo vitaminas con consulta y examen de orina por $99 en Clínica Hispana Cruz 4, Houston TX",
     altEn: "Vitamins-only promotion with consultation and urine test for $99 at Clínica Hispana Cruz 4, Houston TX",
     title: "Promoción solo vitaminas",
@@ -106,7 +108,7 @@ export const PROMOS: Promotion[] = [
   },
   {
     id: "diagnostico-ets",
-    image: "/images/promos/promo-8.webp",
+    image: "/images/promos/v2/promo-8.webp",
     alt: "Promoción de diagnóstico completo de enfermedades de transmisión sexual por $250 en Clínica Hispana Cruz 4, Houston TX",
     altEn: "Complete sexually transmitted disease screening promotion for $250 at Clínica Hispana Cruz 4, Houston TX",
     title: "Diagnóstico completo de ETS",
@@ -118,7 +120,7 @@ export const PROMOS: Promotion[] = [
   },
   {
     id: "chequeo-completo-mujer",
-    image: "/images/promos/promo-9.webp",
+    image: "/images/promos/v2/promo-9.webp",
     alt: "Promoción de chequeo completo de la mujer con Papanicolaou por $79 en Clínica Hispana Cruz 4, Houston TX",
     altEn: "Complete women's check-up with Pap smear promotion for $79 at Clínica Hispana Cruz 4, Houston TX",
     title: "Chequeo completo de la mujer",
@@ -130,7 +132,7 @@ export const PROMOS: Promotion[] = [
   },
   {
     id: "examen-completo-hombres",
-    image: "/images/promos/promo-10.webp",
+    image: "/images/promos/v2/promo-10.webp",
     alt: "Promoción de examen completo para hombres por $89 en Clínica Hispana Cruz 4, Houston TX",
     altEn: "Complete men's exam promotion for $89 at Clínica Hispana Cruz 4, Houston TX",
     title: "Examen completo para hombres",
@@ -142,7 +144,7 @@ export const PROMOS: Promotion[] = [
   },
   {
     id: "vitamina-b12-6-dosis",
-    image: "/images/promos/promo-11.webp",
+    image: "/images/promos/v2/promo-11.webp",
     alt: "Promoción de 6 dosis de Vitamina B12 por $150 con 50% de descuento en Clínica Hispana Cruz 4, Houston TX",
     altEn: "6 doses of Vitamin B12 for $150 with 50% off at Clínica Hispana Cruz 4, Houston TX",
     title: "6 dosis de Vitamina B12",

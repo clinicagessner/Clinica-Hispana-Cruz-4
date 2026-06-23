@@ -191,6 +191,8 @@ export function Promotions() {
                   aria-label={`${text(promo.title, promo.titleEn)} — ${t("viewLabel")}`}
                   className="group relative block aspect-4/5 w-full cursor-pointer overflow-hidden rounded-2xl bg-white shadow-lg ring-1 ring-blue-dark/5 transition-shadow duration-500 hover:shadow-2xl focus:outline-none focus-visible:ring-2 focus-visible:ring-red-accent"
                 >
+                  {/* Imágenes ya horneadas a 4:5 (flyer completo + relleno borroso),
+                      por eso object-cover llena la card sin recortar. */}
                   <Image
                     src={promo.image}
                     alt={text(promo.alt, promo.altEn)}
