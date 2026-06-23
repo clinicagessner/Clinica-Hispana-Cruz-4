@@ -45,6 +45,7 @@
   },
   "promotions": {
     "eyebrow": "Deals & promotions",
+    "badge": "Deal",
     "title": "Clinic promotions",
     "subtitle": "Take advantage of our deals on consultations, lab work and exams. Tap a promotion to see it full size.",
     "viewLabel": "View promotion",

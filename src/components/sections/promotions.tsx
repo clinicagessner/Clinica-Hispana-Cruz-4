@@ -97,6 +97,12 @@ export function Promotions() {
                 className="object-cover transition-transform duration-700 group-hover:scale-105"
               />
 
+              {/* Badge "Oferta" — pulso sutil (solo opacidad, respeta reduced-motion) */}
+              <span className="absolute left-2.5 top-2.5 z-10 inline-flex items-center gap-1 rounded-full bg-yellow-accent px-2.5 py-1 text-[10px] font-bold uppercase tracking-wide text-blue-deep shadow-md motion-safe:animate-pulse">
+                <Tag className="size-3" aria-hidden="true" />
+                {t("badge")}
+              </span>
+
               {/* Overlay al hover/focus */}
               <div className="absolute inset-0 bg-linear-to-t from-blue-deep/90 via-blue-deep/20 to-transparent opacity-0 transition-opacity duration-300 group-hover:opacity-100 group-focus-visible:opacity-100" />
 
