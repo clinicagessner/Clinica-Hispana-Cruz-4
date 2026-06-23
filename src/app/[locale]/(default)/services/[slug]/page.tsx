@@ -161,7 +161,7 @@ export default async function ServicePage({ params }: Props) {
               className="object-cover"
               sizes="100vw"
             />
-            <div className="absolute inset-0 bg-linear-to-r from-slate-900/95 via-slate-900/80 to-slate-900/60" />
+            <div className="absolute inset-0 bg-linear-to-r from-blue-deep/95 via-blue-dark/80 to-blue-dark/55" />
           </div>
 
           <div className="container relative z-10 mx-auto px-4">

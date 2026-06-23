@@ -25,7 +25,7 @@
     "badge": "Quality medical care",
     "title": "Your Trusted Hispanic Clinic in Houston",
     "subtitle": "Professional medical care 100% in Spanish, walk-ins welcome and affordable prices. We offer medical consultations for gynecology, urology and treatment of chronic conditions like diabetes, hypertension and cholesterol.",
-    "subtitleShort": "Professional medical care 100% in Spanish, walk-ins welcome and affordable prices.",
+    "subtitleShort": "One of the leading Hispanic clinics in Houston, TX. Gynecology, urology and chronic conditions like diabetes, hypertension and cholesterol. Walk-ins welcome, affordable prices.",
     "searchEyebrow": "Find your medical service",
     "searchPlaceholder": "Search a service (diabetes, ultrasound, I-693 exam)...",
     "searchButton": "Search",
@@ -42,6 +42,18 @@
       "3": "Uninsured patients welcome",
       "4": "Affordable and transparent prices"
     }
+  },
+  "promotions": {
+    "eyebrow": "Deals & promotions",
+    "title": "Clinic promotions",
+    "subtitle": "Take advantage of our deals on consultations, lab work and exams. Tap a promotion to see it full size.",
+    "viewLabel": "View promotion",
+    "callCta": "Call now",
+    "directionsCta": "Get directions",
+    "dialogHint": "Promotion from Clínica Hispana Cruz 4 in Houston, TX.",
+    "prev": "Previous",
+    "next": "Next",
+    "close": "Close"
   },
   "services": {
     "title": "Our Services",

@@ -25,7 +25,7 @@
     "badge": "Atención médica de calidad",
     "title": "Su Clínica Hispana de Confianza en Houston",
     "subtitle": "Atención médica profesional 100% en español, sin cita previa y con precios accesibles. Ofrecemos consultas médicas de ginecología, urología y tratamiento de enfermedades crónicas como diabetes, hipertensión y colesterol.",
-    "subtitleShort": "Atención médica profesional 100% en español, sin cita previa y con precios accesibles.",
+    "subtitleShort": "Una de las clínicas hispanas líderes en Houston, TX. Ginecología, urología y enfermedades crónicas como diabetes, hipertensión y colesterol. Sin cita previa, precios accesibles.",
     "searchEyebrow": "Encuentra tu servicio médico",
     "searchPlaceholder": "Buscar servicio (diabetes, ultrasonido, examen I-693)...",
     "searchButton": "Buscar",
@@ -42,6 +42,18 @@
       "3": "Aceptamos pacientes sin seguro",
       "4": "Precios accesibles y transparentes"
     }
+  },
+  "promotions": {
+    "eyebrow": "Ofertas y promociones",
+    "title": "Promociones de la clínica",
+    "subtitle": "Aprovecha nuestras ofertas en consultas, laboratorio y exámenes. Toca una promoción para verla en grande.",
+    "viewLabel": "Ver promoción",
+    "callCta": "Llamar ahora",
+    "directionsCta": "Cómo llegar",
+    "dialogHint": "Promoción de Clínica Hispana Cruz 4 en Houston, TX.",
+    "prev": "Anterior",
+    "next": "Siguiente",
+    "close": "Cerrar"
   },
   "services": {
     "title": "Nuestros Servicios",

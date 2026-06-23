@@ -34,7 +34,7 @@ export function HeroSearch() {
       <form
         onSubmit={handleSubmit}
         role="search"
-        className="flex items-center gap-2 rounded-full bg-white shadow-2xl shadow-black/20 p-2 pl-5"
+        className="flex items-center gap-2 rounded-full bg-white shadow-xl shadow-blue-dark/10 ring-1 ring-blue-dark/10 p-2 pl-5"
       >
         <Search className="size-5 shrink-0 text-slate-muted" aria-hidden="true" />
         <input
@@ -56,7 +56,7 @@ export function HeroSearch() {
 
       {/* Category pills */}
       <div className="mt-5 flex flex-wrap items-center justify-center gap-2 md:gap-2.5">
-        <span className="w-full sm:w-auto text-center text-xs font-medium text-white/80 mb-1 sm:mb-0 sm:mr-1">
+        <span className="w-full sm:w-auto text-center text-xs font-medium text-slate-primary mb-1 sm:mb-0 sm:mr-1">
           {t("browseByCategory")}
         </span>
         {CATEGORIES.map((cat) => (
@@ -65,8 +65,8 @@ export function HeroSearch() {
             href={cat.id === "all" ? "/services" : `/services?cat=${cat.id}`}
             className={cn(
               "rounded-full px-4 py-1.5 text-xs md:text-sm font-semibold transition-all duration-200",
-              "bg-white/15 text-white ring-1 ring-white/30 backdrop-blur-sm",
-              "hover:bg-white hover:text-blue-primary focus:outline-none focus-visible:ring-2 focus-visible:ring-white"
+              "bg-white text-blue-primary ring-1 ring-blue-dark/10 shadow-sm",
+              "hover:bg-blue-primary hover:text-white focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-primary"
             )}
           >
             {locale === "en" ? cat.en : cat.es}

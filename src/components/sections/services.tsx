@@ -18,6 +18,7 @@ import {
   type LucideIcon,
 } from "lucide-react";
 import { Link } from "@/i18n/routing";
+import { HeroSearch } from "@/components/sections/hero-search";
 import { SERVICES } from "@/lib/constants";
 import { getLocalizedService } from "@/lib/utils";
 
@@ -83,6 +84,11 @@ export function Services() {
           <p className="mt-3 text-base md:text-lg text-slate-primary">
             {t("subtitle")}
           </p>
+        </div>
+
+        {/* Service search — moved here from the hero */}
+        <div className="mb-10 md:mb-12">
+          <HeroSearch />
         </div>
 
         {/* Bento grid */}
