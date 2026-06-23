@@ -45,7 +45,8 @@
   },
   "promotions": {
     "eyebrow": "Ofertas y promociones",
-    "badge": "Oferta",
+    "swipeHint": "Desliza para ver más promociones →",
+    "goToSlide": "Ir a la promoción",
     "title": "Promociones de la clínica",
     "subtitle": "Aprovecha nuestras ofertas en consultas, laboratorio y exámenes. Toca una promoción para verla en grande.",
     "viewLabel": "Ver promoción",
