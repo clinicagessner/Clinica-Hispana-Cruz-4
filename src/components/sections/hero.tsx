@@ -37,7 +37,7 @@ export async function Hero() {
           sizes="100vw"
           className="object-cover object-[35%_22%]"
         />
-        {/* Brand gradient for text legibility — darker on the left where copy sits */}
+        {/* Brand gradient for text legibility behind the centered copy */}
         <div className="absolute inset-0 bg-linear-to-br from-blue-dark/95 via-blue-primary/85 to-blue-dark/85" />
         <div className="absolute inset-0 bg-linear-to-t from-blue-dark/80 via-transparent to-blue-dark/30 md:bg-none" />
       </div>
@@ -49,7 +49,7 @@ export async function Hero() {
       </div>
 
       <div className="container relative z-10 mx-auto px-4 py-14 md:py-24 lg:py-28">
-        <div className="max-w-xl lg:max-w-2xl text-center md:text-left mx-auto md:mx-0">
+        <div className="max-w-xl lg:max-w-2xl text-center mx-auto">
           {/* Google rating badge */}
           <div className="inline-flex items-center gap-2.5 rounded-full bg-white/15 ring-1 ring-white/25 backdrop-blur-sm px-4 py-1.5 mb-5">
             <StarRating rating={rating} starClassName="size-4" />
@@ -76,12 +76,12 @@ export async function Hero() {
           </h1>
 
           {/* Subtitle */}
-          <p className="text-base md:text-lg text-white/90 mb-6 max-w-xl mx-auto md:mx-0">
+          <p className="text-base md:text-lg text-white/90 mb-6 max-w-xl mx-auto">
             {t("subtitleShort")}
           </p>
 
           {/* CTAs */}
-          <div className="flex flex-col sm:flex-row gap-3 mb-7 justify-center md:justify-start">
+          <div className="flex flex-col sm:flex-row gap-3 mb-7 justify-center">
             <Button
               asChild
               size="lg"
@@ -114,8 +114,19 @@ export async function Hero() {
             </Button>
           </div>
 
+          {/* Contact form prompt */}
+          <p className="text-sm text-white/90 mb-7 text-center">
+            {t("contactPrompt")}{" "}
+            <a
+              href="#contact"
+              className="font-semibold text-yellow-accent underline underline-offset-4 hover:text-white transition-colors"
+            >
+              {t("contactLink")}
+            </a>
+          </p>
+
           {/* Feature list */}
-          <ul className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 mb-7 max-w-xl mx-auto md:mx-0 text-left">
+          <ul className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 mb-7 max-w-xl mx-auto text-left">
             {features.map((key) => (
               <li key={key} className="flex items-start gap-2.5">
                 <span className="shrink-0 inline-flex items-center justify-center w-5 h-5 rounded-full bg-white/15 ring-1 ring-white/25 mt-0.5">
@@ -132,12 +143,12 @@ export async function Hero() {
           </ul>
 
           {/* Location + hours strip */}
-          <div className="flex flex-col sm:flex-row sm:items-center gap-3 sm:gap-5 justify-center md:justify-start border-t border-white/15 pt-5">
+          <div className="flex flex-col sm:flex-row sm:items-center gap-3 sm:gap-5 justify-center border-t border-white/15 pt-5">
             <a
               href={CONTACT_INFO.googleMapsUrl}
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-flex items-center justify-center md:justify-start gap-2 text-sm text-white/90 hover:text-yellow-accent transition-colors"
+              className="inline-flex items-center justify-center gap-2 text-sm text-white/90 hover:text-yellow-accent transition-colors"
             >
               <MapPin className="size-4 shrink-0 text-yellow-accent" aria-hidden="true" />
               <span className="font-medium">
@@ -147,13 +158,19 @@ export async function Hero() {
             <span aria-hidden="true" className="hidden sm:inline text-white/30">
               •
             </span>
-            <span className="inline-flex items-center justify-center md:justify-start gap-2 text-sm text-white/90">
+            <span className="inline-flex items-center justify-center gap-2 text-sm text-white/90">
               <Clock className="size-4 shrink-0 text-yellow-accent" aria-hidden="true" />
               <span className="font-medium">{CONTACT_INFO.hoursWeekday}</span>
             </span>
           </div>
         </div>
       </div>
+
+      {/* Fundido hacia la siguiente sección (Promociones — bg-cyan-warm) */}
+      <div
+        aria-hidden="true"
+        className="pointer-events-none absolute inset-x-0 bottom-0 z-0 h-24 bg-linear-to-b from-transparent to-cyan-warm md:h-32"
+      />
     </section>
   );
 }

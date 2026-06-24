@@ -15,6 +15,7 @@ import {
   BookOpen,
   Star,
   Mail,
+  Tag,
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import {
@@ -36,6 +37,7 @@ type NavLink = {
 
 const NAV_LINKS: NavLink[] = [
   { href: "/services", labelKey: "services", Icon: Briefcase },
+  { href: "/promociones", labelKey: "promotions", Icon: Tag },
   { href: "/#chronic-care", labelKey: "chronicCare", Icon: Star },
   { href: "/blog", labelKey: "blog", Icon: BookOpen },
   { href: "/#contact", labelKey: "contact", Icon: Mail },
