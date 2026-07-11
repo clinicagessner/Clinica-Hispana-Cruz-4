@@ -71,7 +71,7 @@ See `.env.example`. Required for full functionality: `RESEND_API_KEY`, `NEXT_PUB
 ## Conventions
 
 - **No barrel imports** from shadcn. Always `import { Button } from "@/components/ui/button"` — one component per import line. The `@/*` path alias maps to `src/*`.
-- **No hardcoded hex colors.** The brand palette (`#02176d` blue / `#ed1c24` red / `#ffe16a` yellow / `#e4f7fc` cyan / white) lives as CSS variables in `src/app/globals.css` and as shadcn tokens. Use Tailwind utilities or the custom variables.
+- **No hardcoded hex colors.** The brand palette (`#d8232a` red for CTAs/accents, `#2e2226`/`#1d1517` ink-charcoal for dark surfaces & scrims, `#eaa733` brass gold as secondary accent, `#faf7f3`/`#f7efe7` warm porcelain/sand backgrounds, white for cards) lives as CSS variables in `src/app/globals.css` and as shadcn tokens. Token names are legacy (`blue-*` = red family, `blue-dark`/`blue-deep` = ink, `cyan-*` = warm neutrals) — the values were remapped, not the class names. Red is reserved for actions/accents so it pops instead of saturating; never use stock Tailwind palette classes (`slate-100`, `blue-900`, etc.).
 - **Never use `bg-white` for sections.** Sections should use palette colors or gradients — white is reserved for cards/inputs. This is a user preference with existing precedent across the codebase.
 - **Fonts:** Space Grotesk (headings) and IBM Plex Sans (body), loaded via `next/font/google` in `[locale]/layout.tsx` as CSS variables `--font-space-grotesk` / `--font-ibm-plex-sans`. Don't add other Google fonts.
 - **Server Components by default.** Only reach for `"use client"` for forms, state, browser APIs, or components with event handlers (Header mobile nav, ScrollToTop, MetaPixelSPATracker, ScrollAnimations, contact form).

@@ -39,7 +39,7 @@ export function LandingOfferings({ locale }: { locale: Locale }) {
           <p className="text-lg text-slate-dark/70">{c.subtitle}</p>
         </div>
 
-        <div className="max-w-3xl mx-auto bg-white rounded-3xl shadow-sm border border-slate-100 divide-y divide-slate-100 overflow-hidden">
+        <div className="max-w-3xl mx-auto bg-white rounded-3xl shadow-sm border border-slate-light divide-y divide-slate-light overflow-hidden">
           {c.items.map((item) => {
             const Icon = ICONS[item.icon] ?? Star;
             return (

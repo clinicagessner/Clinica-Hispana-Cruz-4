@@ -6,29 +6,34 @@
 
 :root {
   /* ==========================================================
-     CLÍNICA HISPANA CRUZ 4 - Paleta oficial (basada en el logo)
-     - #d8232a (rojo primario de marca — logo)
-     - #2a2424 (negro/charcoal del logo)
-     - #f0b429 (dorado, acento añadido)
-     - #fbf8f6 (fondo cálido)
-     - #ffffff (blanco)
+     CLÍNICA HISPANA CRUZ 4 - Paleta oficial (basada en el logo
+     y en el interior real de la clínica: charcoal + mármol)
+     - #d8232a (rojo de marca — acciones y acentos)
+     - #2e2226 (tinta/charcoal del logo y del interior)
+     - #eaa733 (dorado latón — acento cálido secundario)
+     - #faf7f3 / #f7efe7 (porcelana y arena cálida — fondos)
+     - #ffffff (blanco — solo tarjetas e inputs)
      NOTA: se conservan los NOMBRES de tokens del template
-     (los "blue-" y "cyan-") y solo se remapean sus VALORES a la
-     marca, para no tocar las clases en componentes. blue = rojo.
+     (los "blue-" y "cyan-") y solo se remapean sus VALORES:
+     blue-primary/medium/soft/light = familia roja de marca;
+     blue-dark/deep = TINTA (superficies oscuras, scrims,
+     sombras y hovers); cyan-* = neutros cálidos de fondo.
+     El rojo se reserva para CTAs, enlaces y acentos: así
+     resalta en vez de saturar.
      ========================================================== */
 
-  /* MARCA (rojo) — token "blue-*" remapeado a rojo */
+  /* MARCA (rojo) — token "blue-*" */
   --blue-primary: #d8232a;
-  --blue-dark: #b01b22;
-  --blue-deep: #8c1218;
+  --blue-dark: #2e2226;
+  --blue-deep: #1d1517;
   --blue-medium: #e0202e;
   --blue-soft: #ef4e57;
   --blue-light: #fbe2e3;
 
-  /* FONDO cálido — token "cyan-*" remapeado a neutro cálido */
-  --cyan-bg: #fbeeee;
-  --cyan-bg-alt: #f3dcdc;
-  --cyan-warm: #fbf8f6;
+  /* FONDO cálido — token "cyan-*" (porcelana / arena) */
+  --cyan-bg: #f7efe7;
+  --cyan-bg-alt: #eadfd2;
+  --cyan-warm: #faf7f3;
 
   /* ROJO - Acento (alineado a la marca) */
   --red-accent: #d8232a;
@@ -36,17 +41,17 @@
   --red-accent-light: #fbd0d2;
   --red-accent-bg: #fef2f2;
 
-  /* DORADO - Acento añadido (token "yellow-*") */
-  --yellow-accent: #f0b429;
-  --yellow-accent-dark: #c98a1a;
-  --yellow-accent-light: #fbe39b;
-  --yellow-accent-bg: #fff7e6;
+  /* DORADO latón - Acento cálido (token "yellow-*") */
+  --yellow-accent: #eaa733;
+  --yellow-accent-dark: #c9871f;
+  --yellow-accent-light: #f5deab;
+  --yellow-accent-bg: #fbf3e3;
 
-  /* SLATE - Neutros */
-  --slate-dark: #1e293b;
-  --slate-primary: #475569;
-  --slate-muted: #64748b;
-  --slate-light: #f1f5f9;
+  /* SLATE - Neutros cálidos (alineados a la tinta de marca) */
+  --slate-dark: #2b2426;
+  --slate-primary: #574f4e;
+  --slate-muted: #766c6a;
+  --slate-light: #f3eee9;
 
   /* Estados */
   --error: #dc2626;
@@ -56,44 +61,44 @@
   --success: #16a34a;
   --success-light: #dcfce7;
 
-  /* shadcn/ui tokens — mapeados al rojo de marca */
+  /* shadcn/ui tokens — rojo de acción sobre neutros cálidos */
   --radius: 0.75rem;
-  --background: #fbf8f6;
-  --foreground: #211c1c;
+  --background: #faf7f3;
+  --foreground: #221c1d;
   --card: #ffffff;
-  --card-foreground: #211c1c;
+  --card-foreground: #221c1d;
   --popover: #ffffff;
-  --popover-foreground: #211c1c;
+  --popover-foreground: #221c1d;
   --primary: #d8232a;
   --primary-foreground: #ffffff;
-  --secondary: #3f3a3a;
+  --secondary: #2e2226;
   --secondary-foreground: #ffffff;
-  --muted: #fbeeee;
-  --muted-foreground: #6b5f5f;
+  --muted: #f7efe7;
+  --muted-foreground: #6f6462;
   --accent: #fbe2e3;
   --accent-foreground: #d8232a;
   --destructive: #dc2626;
   --destructive-foreground: #ffffff;
-  --border: #ece7e4;
-  --input: #ece7e4;
+  --border: #e8e0d7;
+  --input: #e8e0d7;
   --ring: #d8232a;
 
   /* Sidebar */
   --sidebar: #ffffff;
-  --sidebar-foreground: #211c1c;
+  --sidebar-foreground: #221c1d;
   --sidebar-primary: #d8232a;
   --sidebar-primary-foreground: #ffffff;
   --sidebar-accent: #fbe2e3;
   --sidebar-accent-foreground: #d8232a;
-  --sidebar-border: #ece7e4;
+  --sidebar-border: #e8e0d7;
   --sidebar-ring: #d8232a;
 
   /* Charts */
   --chart-1: #d8232a;
-  --chart-2: #b01b22;
-  --chart-3: #ef4e57;
-  --chart-4: #f0b429;
-  --chart-5: #2a2424;
+  --chart-2: #2e2226;
+  --chart-3: #eaa733;
+  --chart-4: #ef4e57;
+  --chart-5: #766c6a;
 }
 
 .dark {
@@ -391,7 +396,7 @@ h1, h2, h3, h4, h5, h6 {
 
 ::selection {
   background-color: var(--yellow-accent);
-  color: var(--blue-primary);
+  color: var(--blue-dark);
 }
 
 @media (prefers-reduced-motion: reduce) {

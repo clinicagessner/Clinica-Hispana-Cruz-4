@@ -45,8 +45,8 @@ export function LandingComparison({ locale }: { locale: Locale }) {
 
         {/* Desktop: 3-column table */}
         <div className="hidden md:block max-w-5xl mx-auto">
-          <div className="bg-white rounded-3xl shadow-sm border border-slate-100 overflow-hidden">
-            <div className="grid grid-cols-12 bg-slate-50 border-b border-slate-100">
+          <div className="bg-white rounded-3xl shadow-sm border border-slate-light overflow-hidden">
+            <div className="grid grid-cols-12 bg-slate-light border-b border-slate-light">
               <div className="col-span-4 px-6 py-4 font-heading font-bold text-slate-dark text-sm uppercase tracking-wide">
                 {c.headers.feature}
               </div>
@@ -64,7 +64,7 @@ export function LandingComparison({ locale }: { locale: Locale }) {
                 <div
                   key={row.feature}
                   className={`grid grid-cols-12 items-center ${
-                    isLast ? "" : "border-b border-slate-100"
+                    isLast ? "" : "border-b border-slate-light"
                   }`}
                 >
                   <div className="col-span-4 px-6 py-5 flex items-center gap-3">
@@ -100,9 +100,9 @@ export function LandingComparison({ locale }: { locale: Locale }) {
             return (
               <div
                 key={row.feature}
-                className="bg-white rounded-2xl border border-slate-100 shadow-sm overflow-hidden"
+                className="bg-white rounded-2xl border border-slate-light shadow-sm overflow-hidden"
               >
-                <div className="flex items-center gap-3 px-5 py-3 bg-slate-50 border-b border-slate-100">
+                <div className="flex items-center gap-3 px-5 py-3 bg-slate-light border-b border-slate-light">
                   <div className="size-9 shrink-0 rounded-lg bg-red-accent-bg flex items-center justify-center">
                     <Icon className="size-4 text-red-accent" aria-hidden="true" />
                   </div>
@@ -111,7 +111,7 @@ export function LandingComparison({ locale }: { locale: Locale }) {
                   </span>
                 </div>
                 <div className="grid grid-cols-2">
-                  <div className="px-4 py-3 border-r border-slate-100">
+                  <div className="px-4 py-3 border-r border-slate-light">
                     <p className="text-[10px] uppercase tracking-wide text-slate-dark/50 font-semibold mb-1">
                       {c.headers.others}
                     </p>

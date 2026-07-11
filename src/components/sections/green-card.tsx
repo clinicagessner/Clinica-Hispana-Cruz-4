@@ -46,14 +46,14 @@ export async function GreenCard() {
           quality={60}
           sizes="100vw"
         />
-        <div className="absolute inset-0 bg-linear-to-br from-blue-dark/95 via-blue-primary/85 to-blue-dark/90" />
+        <div className="absolute inset-0 bg-linear-to-br from-blue-primary/95 via-blue-dark/90 to-blue-deep/95" />
       </div>
 
       <div className="container mx-auto px-4 relative z-10">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 lg:gap-16 items-center max-w-6xl mx-auto">
           {/* Left — Content */}
           <div className="animate-on-scroll fade-up">
-            <Badge className="bg-yellow-accent text-blue-primary text-xs font-bold px-4 py-1.5 mb-5 shadow-md hover:bg-yellow-accent-dark">
+            <Badge className="bg-yellow-accent text-blue-dark text-xs font-bold px-4 py-1.5 mb-5 shadow-md hover:bg-yellow-accent-dark">
               <ShieldCheck className="size-4 mr-1.5" weight="fill" />
               {t("badge")}
             </Badge>
@@ -84,7 +84,7 @@ export async function GreenCard() {
             <div className="flex flex-col sm:flex-row gap-3">
               <Button
                 size="lg"
-                className="bg-yellow-accent hover:bg-yellow-accent-dark text-blue-primary font-bold gap-2 shadow-lg text-sm md:text-base px-6 md:px-8"
+                className="bg-yellow-accent hover:bg-yellow-accent-dark text-blue-dark font-bold gap-2 shadow-lg text-sm md:text-base px-6 md:px-8"
                 asChild
               >
                 <Link href="/#contact">

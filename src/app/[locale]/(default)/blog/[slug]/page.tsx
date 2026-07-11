@@ -170,7 +170,7 @@ export default async function BlogPostPage({ params }: Props) {
             </div>
 
             {/* CTA Section */}
-            <div className="mt-16 p-8 md:p-10 bg-linear-to-br from-blue-primary via-blue-dark to-slate-900 rounded-2xl text-white text-center shadow-xl">
+            <div className="mt-16 p-8 md:p-10 bg-linear-to-br from-blue-primary via-blue-dark to-blue-deep rounded-2xl text-white text-center shadow-xl">
               <h3 className="text-2xl md:text-3xl font-heading font-bold mb-4">
                 {t("ctaTitle")}
               </h3>
@@ -198,7 +198,7 @@ export default async function BlogPostPage({ params }: Props) {
                     <Link
                       key={relatedPost.slug}
                       href={getLocalizedHref(`/blog/${relatedPost.slug}`)}
-                      className="group block bg-white rounded-2xl overflow-hidden shadow-md hover:shadow-xl transition-all border border-slate-100 hover:border-red-200"
+                      className="group block bg-white rounded-2xl overflow-hidden shadow-md hover:shadow-xl transition-all border border-slate-light hover:border-blue-light"
                     >
                       {relatedPost.image && (
                         <div className="relative h-40 overflow-hidden">

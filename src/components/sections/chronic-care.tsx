@@ -40,14 +40,14 @@ export async function ChronicCare() {
           quality={60}
           sizes="100vw"
         />
-        <div className="absolute inset-0 bg-linear-to-br from-blue-dark/95 via-blue-primary/85 to-blue-dark/90" />
+        <div className="absolute inset-0 bg-linear-to-br from-blue-deep/95 via-blue-dark/90 to-blue-deep/95" />
       </div>
 
       <div className="container mx-auto px-4 relative z-10">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 lg:gap-16 items-center max-w-6xl mx-auto">
           {/* Left — Content */}
           <div className="animate-on-scroll fade-up">
-            <span className="inline-flex items-center gap-2 bg-yellow-accent text-blue-primary text-xs font-bold px-4 py-1.5 rounded-full mb-5 shadow-md">
+            <span className="inline-flex items-center gap-2 bg-yellow-accent text-blue-dark text-xs font-bold px-4 py-1.5 rounded-full mb-5 shadow-md">
               <Heart className="size-4" weight="fill" />
               {t("badge")}
             </span>
@@ -78,7 +78,7 @@ export async function ChronicCare() {
             <div className="flex flex-col sm:flex-row gap-3">
               <Link
                 href="/#contact"
-                className="inline-flex items-center justify-center gap-2 bg-yellow-accent hover:bg-yellow-accent-dark text-blue-primary font-bold rounded-lg px-6 md:px-8 h-11 text-sm md:text-base shadow-lg transition-colors"
+                className="inline-flex items-center justify-center gap-2 bg-yellow-accent hover:bg-yellow-accent-dark text-blue-dark font-bold rounded-lg px-6 md:px-8 h-11 text-sm md:text-base shadow-lg transition-colors"
               >
                 {t("ctaSchedule")}
               </Link>

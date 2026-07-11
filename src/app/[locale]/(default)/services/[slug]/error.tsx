@@ -19,7 +19,7 @@ export default function ServiceError({
   return (
     <main className="min-h-screen bg-background flex items-center justify-center px-4">
       <div className="text-center max-w-md">
-        <div className="size-16 rounded-full bg-red-100 text-blue-primary flex items-center justify-center mx-auto mb-6">
+        <div className="size-16 rounded-full bg-blue-light text-blue-primary flex items-center justify-center mx-auto mb-6">
           <WarningCircle className="size-8" weight="fill" />
         </div>
 

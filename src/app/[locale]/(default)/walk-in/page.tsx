@@ -231,10 +231,10 @@ export default async function WalkInPage({ params }: Props) {
     <>
       <main className="min-h-screen">
         {/* Hero */}
-        <section className="relative pt-28 pb-12 md:pt-32 md:pb-16 bg-linear-to-br from-blue-900 via-blue-primary to-blue-900 text-white overflow-hidden">
+        <section className="relative pt-28 pb-12 md:pt-32 md:pb-16 bg-linear-to-br from-blue-deep via-blue-dark to-blue-deep text-white overflow-hidden">
           <div className="container mx-auto px-4 relative z-10">
             <div className="max-w-3xl">
-              <div className="inline-flex items-center gap-2 bg-yellow-accent text-blue-primary font-bold text-sm md:text-base rounded-full px-4 py-2 mb-5 shadow-md">
+              <div className="inline-flex items-center gap-2 bg-yellow-accent text-blue-dark font-bold text-sm md:text-base rounded-full px-4 py-2 mb-5 shadow-md">
                 <Clock weight="bold" className="size-4" />
                 {c.hoursLabel} — {locale === "en" ? "Open every day" : "Abierta todos los días"}
               </div>
@@ -247,7 +247,7 @@ export default async function WalkInPage({ params }: Props) {
               <div className="flex flex-col sm:flex-row gap-3">
                 <a
                   href={`tel:${CONTACT_INFO.phone}`}
-                  className="inline-flex items-center justify-center gap-2 bg-yellow-accent text-blue-primary font-bold text-base md:text-lg rounded-lg px-7 py-3.5 shadow-lg hover:shadow-xl hover:bg-yellow-accent/90 transition-all"
+                  className="inline-flex items-center justify-center gap-2 bg-yellow-accent text-blue-dark font-bold text-base md:text-lg rounded-lg px-7 py-3.5 shadow-lg hover:shadow-xl hover:bg-yellow-accent/90 transition-all"
                 >
                   <Phone weight="bold" className="size-5" />
                   {c.callCta} — {CONTACT_INFO.phoneFormatted}
@@ -276,7 +276,7 @@ export default async function WalkInPage({ params }: Props) {
                 {c.hoursDays.map((day) => (
                   <div
                     key={day}
-                    className="bg-white border border-slate-200 rounded-xl p-4 text-center shadow-sm"
+                    className="bg-white border border-cyan-bg-alt rounded-xl p-4 text-center shadow-sm"
                   >
                     <div className="text-sm font-semibold text-slate-dark mb-1">{day}</div>
                     <div className="text-xs text-blue-primary font-medium">{c.hoursLabel}</div>
@@ -300,7 +300,7 @@ export default async function WalkInPage({ params }: Props) {
                   <Link
                     key={s.slug}
                     href={`${localePath}/services/${s.slug}`}
-                    className="group flex items-center justify-between gap-3 p-4 bg-cyan-warm border border-cyan-200 rounded-xl hover:border-blue-primary hover:shadow-md transition-all"
+                    className="group flex items-center justify-between gap-3 p-4 bg-cyan-warm border border-cyan-bg-alt rounded-xl hover:border-blue-primary hover:shadow-md transition-all"
                   >
                     <div className="flex items-center gap-3">
                       <CheckCircle weight="fill" className="size-5 text-blue-primary shrink-0" />
@@ -330,7 +330,7 @@ export default async function WalkInPage({ params }: Props) {
                 {c.howSteps.map((step, i) => (
                   <li
                     key={i}
-                    className="flex items-start gap-4 bg-white p-5 rounded-xl border border-slate-200 shadow-sm"
+                    className="flex items-start gap-4 bg-white p-5 rounded-xl border border-cyan-bg-alt shadow-sm"
                   >
                     <span className="shrink-0 size-9 rounded-full bg-blue-primary text-white font-bold flex items-center justify-center">
                       {i + 1}
@@ -385,7 +385,7 @@ export default async function WalkInPage({ params }: Props) {
                 {c.faqs.map((faq) => (
                   <details
                     key={faq.question}
-                    className="group bg-white rounded-xl border border-slate-200 shadow-sm overflow-hidden"
+                    className="group bg-white rounded-xl border border-cyan-bg-alt shadow-sm overflow-hidden"
                   >
                     <summary className="flex items-center justify-between gap-4 cursor-pointer p-5 font-semibold text-slate-dark hover:bg-cyan-warm/50 list-none [&::-webkit-details-marker]:hidden">
                       <span>{faq.question}</span>
@@ -405,7 +405,7 @@ export default async function WalkInPage({ params }: Props) {
         </section>
 
         {/* Final CTA */}
-        <section className="py-14 md:py-20 bg-linear-to-br from-red-accent to-red-700 text-white">
+        <section className="py-14 md:py-20 bg-linear-to-br from-red-accent to-red-accent-dark text-white">
           <div className="container mx-auto px-4 text-center max-w-3xl">
             <FirstAidKit weight="duotone" className="size-12 mx-auto mb-4 text-yellow-accent" />
             <h2 className="text-2xl md:text-4xl font-heading font-bold mb-4">
@@ -415,7 +415,7 @@ export default async function WalkInPage({ params }: Props) {
             <div className="flex flex-col sm:flex-row gap-3 justify-center">
               <a
                 href={`tel:${CONTACT_INFO.phone}`}
-                className="inline-flex items-center justify-center gap-2 bg-yellow-accent text-blue-primary font-bold rounded-lg px-7 py-3.5 shadow-md hover:shadow-lg transition-all text-lg"
+                className="inline-flex items-center justify-center gap-2 bg-yellow-accent text-blue-dark font-bold rounded-lg px-7 py-3.5 shadow-md hover:shadow-lg transition-all text-lg"
               >
                 <Phone weight="bold" className="size-5" />
                 {CONTACT_INFO.phoneFormatted}

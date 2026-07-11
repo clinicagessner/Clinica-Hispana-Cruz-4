@@ -45,7 +45,7 @@ export function LandingDifferentiators({ locale }: { locale: Locale }) {
             return (
               <div
                 key={item.title}
-                className="bg-white rounded-2xl p-6 shadow-sm border border-slate-100 hover:shadow-md hover:border-blue-primary/20 transition-all"
+                className="bg-white rounded-2xl p-6 shadow-sm border border-slate-light hover:shadow-md hover:border-blue-primary/20 transition-all"
               >
                 <div className="size-12 rounded-xl bg-red-accent-bg flex items-center justify-center mb-4">
                   <Icon className="size-6 text-red-accent" aria-hidden="true" />

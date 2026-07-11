@@ -85,7 +85,7 @@ export async function LandingReviews({ locale }: { locale: Locale }) {
           {reviews.map((r) => (
             <article
               key={`${r.author_name}-${r.time}`}
-              className="bg-white rounded-2xl p-6 shadow-sm border border-slate-100 flex flex-col"
+              className="bg-white rounded-2xl p-6 shadow-sm border border-slate-light flex flex-col"
             >
               <div className="flex gap-1 mb-4" aria-label={`${r.rating} ${locale === "en" ? "stars" : "estrellas"}`}>
                 {Array.from({ length: r.rating }).map((_, i) => (
@@ -100,7 +100,7 @@ export async function LandingReviews({ locale }: { locale: Locale }) {
               <p className="text-sm text-slate-dark/80 leading-relaxed mb-6 flex-1 line-clamp-6">
                 {r.text}
               </p>
-              <div className="flex items-center gap-3 pt-4 border-t border-slate-100">
+              <div className="flex items-center gap-3 pt-4 border-t border-slate-light">
                 {r.profile_photo_url && !r.profile_photo_url.includes("default.webp") ? (
                   <Image
                     src={r.profile_photo_url}

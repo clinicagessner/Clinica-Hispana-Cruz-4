@@ -74,7 +74,7 @@ export default async function PrivacyPage({ params }: Props) {
           <div className="bg-white rounded-2xl shadow-lg p-6 md:p-10 prose prose-slate max-w-none prose-headings:font-heading prose-headings:text-slate-dark prose-a:text-blue-primary prose-a:no-underline hover:prose-a:underline">
 
             {/* Introduction */}
-            <div className="bg-red-50 border-l-4 border-blue-primary p-4 rounded-r-lg mb-8 not-prose">
+            <div className="bg-red-accent-bg border-l-4 border-blue-primary p-4 rounded-r-lg mb-8 not-prose">
               <p className="text-slate-dark text-sm leading-relaxed">
                 Este documento proporciona un resumen formal de la manera en que <strong>{SITE_CONFIG.name}</strong> cumple
                 con la Ley de Portabilidad y Responsabilidad del Seguro de Salud de 1996 (HIPAA) en relación con la
@@ -153,7 +153,7 @@ export default async function PrivacyPage({ params }: Props) {
             </p>
 
             <h2 id="aviso-legal">Aviso Legal</h2>
-            <div className="bg-amber-50 border-l-4 border-amber-500 p-4 rounded-r-lg not-prose">
+            <div className="bg-yellow-accent-bg border-l-4 border-yellow-accent p-4 rounded-r-lg not-prose">
               <p className="text-slate-dark text-sm leading-relaxed">
                 La información presentada en el sitio web de la Clínica tiene fines informativos generales
                 únicamente y <strong>no constituye consejo médico, diagnóstico o tratamiento</strong>. Se recomienda a
@@ -186,7 +186,7 @@ export default async function PrivacyPage({ params }: Props) {
             <div className="not-prose grid sm:grid-cols-2 gap-4 mt-6">
               <a
                 href={`tel:${CONTACT_INFO.phone}`}
-                className="flex items-center gap-3 p-4 bg-slate-50 rounded-xl hover:bg-red-50 transition-colors group"
+                className="flex items-center gap-3 p-4 bg-slate-light rounded-xl hover:bg-red-accent-bg transition-colors group"
               >
                 <div className="size-10 rounded-full bg-blue-primary/10 flex items-center justify-center group-hover:bg-blue-primary/20 transition-colors">
                   <Phone className="size-5 text-blue-primary" weight="fill" />
@@ -199,7 +199,7 @@ export default async function PrivacyPage({ params }: Props) {
 
               <a
                 href={`mailto:${CONTACT_INFO.email}`}
-                className="flex items-center gap-3 p-4 bg-slate-50 rounded-xl hover:bg-red-50 transition-colors group"
+                className="flex items-center gap-3 p-4 bg-slate-light rounded-xl hover:bg-red-accent-bg transition-colors group"
               >
                 <div className="size-10 rounded-full bg-blue-primary/10 flex items-center justify-center group-hover:bg-blue-primary/20 transition-colors">
                   <Envelope className="size-5 text-blue-primary" weight="fill" />
@@ -214,7 +214,7 @@ export default async function PrivacyPage({ params }: Props) {
                 href={CONTACT_INFO.googleMapsUrl}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="flex items-center gap-3 p-4 bg-slate-50 rounded-xl hover:bg-red-50 transition-colors group sm:col-span-2"
+                className="flex items-center gap-3 p-4 bg-slate-light rounded-xl hover:bg-red-accent-bg transition-colors group sm:col-span-2"
               >
                 <div className="size-10 rounded-full bg-blue-primary/10 flex items-center justify-center group-hover:bg-blue-primary/20 transition-colors">
                   <MapPin className="size-5 text-blue-primary" weight="fill" />
@@ -228,7 +228,7 @@ export default async function PrivacyPage({ params }: Props) {
               </a>
             </div>
 
-            <div className="mt-8 pt-6 border-t border-slate-200">
+            <div className="mt-8 pt-6 border-t border-cyan-bg-alt">
               <p className="text-sm text-muted-foreground italic">
                 Este resumen se proporciona con fines informativos y no reemplaza el Aviso Completo de
                 Prácticas de Privacidad de la Clínica, el cual está disponible a solicitud.

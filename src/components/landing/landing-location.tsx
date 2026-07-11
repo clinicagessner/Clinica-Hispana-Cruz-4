@@ -21,7 +21,7 @@ export function LandingLocation({ locale }: { locale: Locale }) {
         </div>
 
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 max-w-6xl mx-auto">
-          <div className="bg-white rounded-3xl p-8 shadow-sm border border-slate-100 flex flex-col">
+          <div className="bg-white rounded-3xl p-8 shadow-sm border border-slate-light flex flex-col">
             <div className="space-y-6 flex-1">
               <div className="flex gap-4">
                 <div className="size-10 shrink-0 rounded-xl bg-red-accent-bg flex items-center justify-center">
@@ -81,7 +81,7 @@ export function LandingLocation({ locale }: { locale: Locale }) {
             </a>
           </div>
 
-          <div className="rounded-3xl overflow-hidden shadow-sm border border-slate-100 min-h-[320px] lg:min-h-full">
+          <div className="rounded-3xl overflow-hidden shadow-sm border border-slate-light min-h-[320px] lg:min-h-full">
             <iframe
               src={CONTACT_INFO.googleMapsEmbed}
               width="100%"

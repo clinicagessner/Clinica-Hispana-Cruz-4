@@ -29,7 +29,7 @@ export function LandingFAQ({ locale }: { locale: Locale }) {
               <AccordionItem
                 key={i}
                 value={`item-${i}`}
-                className="bg-white border border-slate-100 rounded-2xl px-6 shadow-sm hover:shadow-md hover:border-blue-primary/20 transition-all data-[state=open]:border-blue-primary/30 data-[state=open]:shadow-md"
+                className="bg-white border border-slate-light rounded-2xl px-6 shadow-sm hover:shadow-md hover:border-blue-primary/20 transition-all data-[state=open]:border-blue-primary/30 data-[state=open]:shadow-md"
               >
                 <AccordionTrigger className="text-left font-semibold text-slate-dark py-5 hover:no-underline">
                   {item.q}

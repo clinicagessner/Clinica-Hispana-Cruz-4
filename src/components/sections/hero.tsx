@@ -37,8 +37,8 @@ export async function Hero() {
           sizes="100vw"
           className="object-cover object-[35%_22%]"
         />
-        {/* Brand gradient for text legibility behind the centered copy */}
-        <div className="absolute inset-0 bg-linear-to-br from-blue-dark/95 via-blue-primary/85 to-blue-dark/85" />
+        {/* Ink scrim for text legibility — deja respirar la foto real de la clínica */}
+        <div className="absolute inset-0 bg-linear-to-br from-blue-deep/95 via-blue-dark/80 to-blue-deep/70" />
         <div className="absolute inset-0 bg-linear-to-t from-blue-dark/80 via-transparent to-blue-dark/30 md:bg-none" />
       </div>
 

@@ -93,7 +93,7 @@ export default async function ServicesPage({ params }: Props) {
       <main className="min-h-screen bg-background">
         {/* Hero Header */}
         <section className="relative pt-24 pb-10 md:pt-28 md:pb-14 overflow-hidden">
-          <div className="absolute inset-0 bg-linear-to-br from-blue-primary via-blue-dark to-slate-900" />
+          <div className="absolute inset-0 bg-linear-to-br from-blue-primary via-blue-dark to-blue-deep" />
           <div className="absolute inset-0 opacity-25">
             <Image
               src="/images/hero-clinic.webp"

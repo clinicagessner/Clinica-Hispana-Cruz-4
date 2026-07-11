@@ -232,7 +232,7 @@ export default async function ServicePage({ params }: Props) {
         </section>
 
         {/* Features Section */}
-        <section className="py-12 md:py-16 bg-slate-50">
+        <section className="py-12 md:py-16 bg-slate-light">
           <div className="container mx-auto px-4">
             <h2 className="text-2xl md:text-3xl font-heading font-bold text-slate-dark mb-8 text-center">
               {t("included")}
@@ -242,9 +242,9 @@ export default async function ServicePage({ params }: Props) {
               {service.features.map((feature, index) => (
                 <div
                   key={index}
-                  className="flex items-start gap-3 p-4 bg-white rounded-xl border border-slate-100 shadow-sm hover:shadow-md hover:border-red-200 transition-all"
+                  className="flex items-start gap-3 p-4 bg-white rounded-xl border border-slate-light shadow-sm hover:shadow-md hover:border-blue-light transition-all"
                 >
-                  <div className="size-8 rounded-lg bg-green-100 text-green-600 flex items-center justify-center shrink-0">
+                  <div className="size-8 rounded-lg bg-success-light text-success flex items-center justify-center shrink-0">
                     <CheckCircle className="size-5" weight="fill" />
                   </div>
                   <span className="text-slate-dark font-medium">{feature}</span>
@@ -295,7 +295,7 @@ export default async function ServicePage({ params }: Props) {
                     <AccordionItem
                       key={index}
                       value={`faq-${index}`}
-                      className="group bg-white border border-slate-100 rounded-2xl px-6 shadow-sm hover:shadow-md hover:border-blue-primary/20 transition-all duration-300 data-[state=open]:border-blue-primary/30 data-[state=open]:shadow-md"
+                      className="group bg-white border border-slate-light rounded-2xl px-6 shadow-sm hover:shadow-md hover:border-blue-primary/20 transition-all duration-300 data-[state=open]:border-blue-primary/30 data-[state=open]:shadow-md"
                     >
                       <AccordionTrigger className="text-left font-semibold text-slate-dark hover:text-blue-primary hover:no-underline py-5 data-[state=open]:text-blue-primary">
                         <span className="flex items-center gap-4">
@@ -318,7 +318,7 @@ export default async function ServicePage({ params }: Props) {
 
         {/* Related Services */}
         {relatedServices.length > 0 && (
-          <section className="py-12 md:py-16 bg-slate-50">
+          <section className="py-12 md:py-16 bg-slate-light">
             <div className="container mx-auto px-4">
               <h2 className="text-2xl md:text-3xl font-heading font-bold text-slate-dark mb-8 text-center">
                 {t("relatedServices")}
@@ -333,7 +333,7 @@ export default async function ServicePage({ params }: Props) {
                       href={`/services/${related.slug}`}
                       className="group block"
                     >
-                      <article className="relative h-full bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 border border-slate-100 hover:border-red-200">
+                      <article className="relative h-full bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 border border-slate-light hover:border-blue-light">
                         <div className="relative h-32 overflow-hidden">
                           <Image
                             src={related.image}
@@ -410,7 +410,7 @@ function ServiceContent({ content }: { content: string }) {
               {listItems.length > 0 && (
                 <ul className="grid sm:grid-cols-2 gap-x-6 gap-y-2 ml-4">
                   {listItems.map((item, j) => (
-                    <li key={j} className="flex items-start gap-2.5 text-slate-600">
+                    <li key={j} className="flex items-start gap-2.5 text-slate-primary">
                       <CheckCircle className="size-4 text-blue-primary shrink-0 mt-1" weight="fill" />
                       <span className="text-sm md:text-base">{item}</span>
                     </li>
@@ -418,7 +418,7 @@ function ServiceContent({ content }: { content: string }) {
                 </ul>
               )}
               {paragraphs.map((p, j) => (
-                <p key={j} className="text-slate-600 leading-relaxed mt-2 ml-4 text-sm md:text-base">{p}</p>
+                <p key={j} className="text-slate-primary leading-relaxed mt-2 ml-4 text-sm md:text-base">{p}</p>
               ))}
             </div>
           );
@@ -427,7 +427,7 @@ function ServiceContent({ content }: { content: string }) {
         // Regular paragraph
         if (trimmed) {
           return (
-            <p key={i} className="text-slate-600 leading-relaxed text-sm md:text-base">
+            <p key={i} className="text-slate-primary leading-relaxed text-sm md:text-base">
               {trimmed}
             </p>
           );

@@ -34,7 +34,7 @@ export function FloatingButtons() {
             href={CONTACT_INFO.googleMapsUrl}
             target="_blank"
             rel="noopener noreferrer"
-            className="size-12 rounded-full bg-white text-slate-dark border border-slate-200 shadow-md flex items-center justify-center hover:bg-slate-50 hover:shadow-lg transition-all"
+            className="size-12 rounded-full bg-white text-slate-dark border border-cyan-bg-alt shadow-md flex items-center justify-center hover:bg-slate-light hover:shadow-lg transition-all"
             aria-label="Ver ubicación en Google Maps"
           >
             <MapPin className="size-5" weight="fill" />
