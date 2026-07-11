@@ -166,11 +166,6 @@ export async function Hero() {
         </div>
       </div>
 
-      {/* Fundido hacia la siguiente sección (Promociones — bg-cyan-warm) */}
-      <div
-        aria-hidden="true"
-        className="pointer-events-none absolute inset-x-0 bottom-0 z-0 h-24 bg-linear-to-b from-transparent to-cyan-warm md:h-32"
-      />
     </section>
   );
 }
