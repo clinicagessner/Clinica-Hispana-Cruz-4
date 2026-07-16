@@ -53,6 +53,10 @@
   --slate-muted: #766c6a;
   --slate-light: #f3eee9;
 
+  /* WhatsApp (color oficial de la marca) */
+  --whatsapp: #25d366;
+  --whatsapp-dark: #1da851;
+
   /* Estados */
   --error: #dc2626;
   --error-light: #fee2e2;
@@ -200,6 +204,10 @@
   --color-slate-primary: var(--slate-primary);
   --color-slate-muted: var(--slate-muted);
   --color-slate-light: var(--slate-light);
+
+  /* WhatsApp */
+  --color-whatsapp: var(--whatsapp);
+  --color-whatsapp-dark: var(--whatsapp-dark);
 
   /* Estados */
   --color-error: var(--error);

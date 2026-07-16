@@ -1,16 +1,23 @@
 import Image from "next/image";
 import { getTranslations } from "next-intl/server";
 import { Phone, MapPin, Clock, CheckCircle2 } from "lucide-react";
+import { WhatsappLogo } from "@phosphor-icons/react/dist/ssr";
 import { Button } from "@/components/ui/button";
 import { StarRating } from "@/components/sections/star-rating";
 import { getGooglePlaceData } from "@/lib/google-places";
 import { CONTACT_INFO, GOOGLE_REVIEWS_DATA } from "@/lib/constants";
 
 export async function Hero() {
-  const [t, googleData] = await Promise.all([
+  const [t, tc, googleData] = await Promise.all([
     getTranslations("hero"),
+    getTranslations("cta"),
     getGooglePlaceData(),
   ]);
+
+  // WhatsApp usa su número dedicado (CONTACT_INFO.whatsapp), nunca el principal:
+  // el swap.js de CallRail reescribe el número de llamadas mostrado en el DOM,
+  // por eso el botón solo muestra el label "WhatsApp" y jamás el número visible.
+  const whatsappHref = `https://wa.me/${CONTACT_INFO.whatsapp}?text=${encodeURIComponent(tc("whatsappMessage"))}`;
   const rating = googleData?.rating ?? 5;
   const totalReviews =
     googleData?.totalReviews ?? GOOGLE_REVIEWS_DATA.totalReviews;
@@ -93,6 +100,22 @@ export async function Hero() {
               >
                 <Phone className="size-5" aria-hidden="true" />
                 {t("ctaCall")}
+              </a>
+            </Button>
+
+            <Button
+              asChild
+              size="lg"
+              className="bg-whatsapp hover:bg-whatsapp-dark text-white text-sm md:text-base px-6 py-5 gap-2 shadow-lg shadow-whatsapp/30"
+            >
+              <a
+                href={whatsappHref}
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label={tc("whatsapp")}
+              >
+                <WhatsappLogo className="size-5" weight="fill" aria-hidden="true" />
+                {t("ctaWhatsapp")}
               </a>
             </Button>
 

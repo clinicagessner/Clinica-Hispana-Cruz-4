@@ -33,6 +33,7 @@
     "browseByCategory": "O explora por categoría:",
     "ctaCall": "Llamar Ahora",
     "ctaLocation": "Cómo Llegar",
+    "ctaWhatsapp": "WhatsApp",
     "contactPrompt": "¿Prefieres que te contactemos?",
     "contactLink": "Escríbenos",
     "hours": "Lunes a Domingo: 9:00 AM - 9:00 PM",
@@ -232,6 +233,8 @@
   "cta": {
     "callNow": "Llamar Ahora",
     "getDirections": "Cómo Llegar",
+    "whatsapp": "Escríbenos por WhatsApp",
+    "whatsappMessage": "Hola, me gustaría más información sobre sus servicios.",
     "bookAppointment": "Agendar Cita",
     "learnMore": "Más Información",
     "contactUs": "Contáctenos",
