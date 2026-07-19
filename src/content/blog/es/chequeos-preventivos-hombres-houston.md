@@ -5,7 +5,7 @@ description: "Qué exámenes debe hacerse un hombre según su edad: presión, gl
 date: "2026-07-19"
 dateModified: "2026-07-19"
 author: "Clínica Hispana Cruz 4"
-image: "/images/services/general-exams.webp"
+image: "/images/services/salud-hombre.webp"
 featured: false
 category: "Salud del Hombre"
 readTime: 8
