@@ -2,7 +2,7 @@
   "metadata": {
     "title": "Clínica Hispana Cruz 4 | Spanish-Speaking Doctors Houston",
     "titleTemplate": "%s",
-    "description": "Hispanic medical clinic in Houston, TX. Professional healthcare 100% in Spanish, walk-ins welcome, no insurance needed. General medicine, immigration exams, laboratory and more.",
+    "description": "Hispanic medical clinic in Houston, TX. A medical center with care 100% in Spanish, walk-ins welcome, no insurance needed. Primary care doctor, general medicine, immigration exams, laboratory and more.",
     "ogDescription": "Your trusted clinic in Houston. Professional medical care in Spanish for the whole family. Walk-ins welcome, affordable prices. {rating} stars on Google with more than {count} reviews."
   },
   "nav": {
@@ -87,7 +87,7 @@
   },
   "services": {
     "title": "Our Services",
-    "subtitle": "Consultations, lab work and treatments in Spanish, walk-ins welcome in Houston, TX",
+    "subtitle": "Consultations, lab work and treatments in Spanish, walk-ins welcome at our Hispanic clinic in Houston, TX",
     "servicesAvailable": "services available",
     "filterAll": "All",
     "searchPlaceholder": "Search a service...",
@@ -185,10 +185,14 @@
     "q9": "How long is the wait without an appointment?",
     "a9": "Wait times vary depending on daily demand, but we generally see patients within 15-30 minutes. We recommend arriving early to ensure faster service.",
     "q10": "Is parking available?",
-    "a10": "Yes, we have ample free parking in front of the clinic. Our facilities are also accessible for people with disabilities, including ramps and adapted restrooms."
+    "a10": "Yes, we have ample free parking in front of the clinic. Our facilities are also accessible for people with disabilities, including ramps and adapted restrooms.",
+    "q11": "Where can I find a Hispanic clinic near me in Houston?",
+    "a11": "Clínica Hispana Cruz 4 is a Hispanic and Latino clinic at 10100 Beechnut St Ste 240, Houston, TX 77072, on the southwest side of Houston. We are open every day from 9:00 AM to 9:00 PM, no appointment needed.",
+    "q12": "Can this clinic be my primary care doctor?",
+    "a12": "Yes. Many families choose us as their primary care provider and medical center close to home: general medicine visits, chronic condition management and lab work in one place."
   },
   "location": {
-    "title": "Our Location",
+    "title": "Our Hispanic Clinic Near You in Houston",
     "subtitle": "Visit us on Beechnut St, southwest Houston, TX — with free parking",
     "howToGetHere": "How to Get Here",
     "getDirections": "Get Directions",
@@ -203,7 +207,7 @@
     "call": "Call"
   },
   "footer": {
-    "tagline": "Your health is our priority",
+    "tagline": "Your Hispanic clinic in Houston, TX: your health is our priority",
     "quickLinks": "Quick Links",
     "contactInfo": "Contact Information",
     "followUs": "Follow Us",
