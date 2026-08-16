@@ -35,7 +35,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       url: `${SITE_CONFIG.baseUrl}${localePath}/promociones`,
       images: [
         {
-          url: `${SITE_CONFIG.baseUrl}/images/promos/v2/promo-2.webp`,
+          url: `${SITE_CONFIG.baseUrl}/images/promos/v2/promo-2b.webp`,
           width: 1080,
           height: 1350,
           alt: t("title"),
