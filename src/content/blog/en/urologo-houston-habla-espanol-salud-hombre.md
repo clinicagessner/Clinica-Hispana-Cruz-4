@@ -84,7 +84,7 @@ Talking about your prostate, erection problems, or urinary symptoms isn't easy f
 
 ## Walk-in care, no insurance needed, in Houston
 
-You don't need health insurance to be seen with us. We offer **affordable, transparent self-pay pricing**, and we tell you the cost before your visit. We see patients **on a walk-in basis, 7 days a week from 9 AM to 9 PM**, at our southwest Houston clinic.
+You don't need health insurance to be seen with us. We offer **affordable, transparent self-pay pricing**, and we tell you the cost before your visit. We see patients **on a walk-in basis, 7 days a week from 9 AM to 9 PM**, at our southwest Houston clinic. Before you come in, check our [current promotions](/promociones) — they often include general checkup and lab packages at a special price.
 
 Your health shouldn't wait. If you have urinary symptoms, questions about your prostate, or simply want a men's checkup, visit our [Men's Health](/services/salud-hombre) page or come in without an appointment. Call us at **(281) 588-0033** with any questions.
 

@@ -133,7 +133,15 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
     "faqs": [
       {
         "question": "¿Llenan el formulario de la escuela o el equipo?",
-        "answer": "Sí, trae el formulario de tu escuela o equipo deportivo y lo completamos durante la visita."
+        "answer": "Sí, trae el formulario de tu escuela o equipo deportivo y lo completamos durante la visita, firmado el mismo día."
+      },
+      {
+        "question": "¿Cuánto tarda el examen físico escolar?",
+        "answer": "La mayoría de los exámenes toman entre 15 y 30 minutos. Sales de la clínica con el formulario completado y firmado en la misma visita."
+      },
+      {
+        "question": "¿Hacen también la prueba de tuberculosis o las vacunas que pide la escuela?",
+        "answer": "Sí. Si tu escuela pide prueba de tuberculosis, vacunas o el récord de vacunación, podemos completarlo todo en la misma visita, sin que tengas que regresar otro día."
       },
       {
         "question": "¿Necesito cita previa?",
@@ -147,7 +155,15 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
     "faqsEn": [
       {
         "question": "Do you fill out the school or team form?",
-        "answer": "Yes, bring your school or sports-team form and we complete it during the visit."
+        "answer": "Yes, bring your school or sports-team form and we complete it during the visit, signed the same day."
+      },
+      {
+        "question": "How long does the school physical take?",
+        "answer": "Most exams take 15 to 30 minutes. You leave the clinic with the form completed and signed in the same visit."
+      },
+      {
+        "question": "Do you also do the TB test or vaccines the school requires?",
+        "answer": "Yes. If your school requires a tuberculosis test, vaccines, or the immunization record, we can complete everything in the same visit — no second trip needed."
       },
       {
         "question": "Do I need an appointment?",

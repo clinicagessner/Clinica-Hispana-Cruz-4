@@ -15,7 +15,7 @@ Every service has a dedicated page. Spanish URLs have no locale prefix; English 
 - Exámenes y Tratamiento de la Tiroides / Thyroid Testing & Treatment: https://www.clinicahispanacruz4.com/services/tiroides (EN: https://www.clinicahispanacruz4.com/en/services/tiroides)
 - Exámenes y Tratamiento de Alergias / Allergy Testing & Treatment: https://www.clinicahispanacruz4.com/services/alergias (EN: https://www.clinicahispanacruz4.com/en/services/alergias)
 - Pruebas de Flu y COVID y Enfermedades Respiratorias / Flu & COVID Testing and Respiratory Illness Care: https://www.clinicahispanacruz4.com/services/enfermedades-respiratorias (EN: https://www.clinicahispanacruz4.com/en/services/enfermedades-respiratorias)
-- Chequeos Físicos Escolares y Deportivos / School & Sports Physical Exams: https://www.clinicahispanacruz4.com/services/examen-fisico-escolar (EN: https://www.clinicahispanacruz4.com/en/services/examen-fisico-escolar)
+- Examen Físico Escolar y Deportivo en Houston / School & Sports Physicals in Houston: https://www.clinicahispanacruz4.com/services/examen-fisico-escolar (EN: https://www.clinicahispanacruz4.com/en/services/examen-fisico-escolar)
 - Atención Ginecológica: Papanicolaou y Cultivos / Gynecology Care: Pap Smear & Cultures: https://www.clinicahispanacruz4.com/services/ginecologia (EN: https://www.clinicahispanacruz4.com/en/services/ginecologia)
 - Examen y Diagnóstico de Embarazo / Pregnancy Testing & Confirmation: https://www.clinicahispanacruz4.com/services/prueba-embarazo (EN: https://www.clinicahispanacruz4.com/en/services/prueba-embarazo)
 - Tratamientos Anticonceptivos / Contraceptive Methods: https://www.clinicahispanacruz4.com/services/anticonceptivos (EN: https://www.clinicahispanacruz4.com/en/services/anticonceptivos)

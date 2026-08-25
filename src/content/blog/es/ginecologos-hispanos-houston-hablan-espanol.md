@@ -107,7 +107,7 @@ Algunas clínicas también ofrecen escala según ingresos (sliding fee scale) pa
 
 ## Cómo Clínica Hispana Cruz 4 la puede ayudar
 
-En **Clínica Hispana Cruz 4** ofrecemos servicios de ginecología 100% en español. Nuestro equipo está en **10100 Beechnut St Ste 240, Houston TX 77072**, abierto los 7 días de la semana de 9 AM a 9 PM, sin cita previa.
+En **Clínica Hispana Cruz 4** ofrecemos [servicios de ginecología](/services/ginecologia) 100% en español. Nuestro equipo está en **10100 Beechnut St Ste 240, Houston TX 77072**, abierto los 7 días de la semana de 9 AM a 9 PM, sin cita previa.
 
 Atendemos:
 
@@ -116,7 +116,9 @@ Atendemos:
 - Atención prenatal básica
 - Evaluación de irregularidades menstruales
 - Consulta de menopausia
-- Planificación familiar
+- [Planificación familiar y anticonceptivos](/services/anticonceptivos)
+
+Si quiere conocer a fondo todos los servicios para la mujer, le preparamos una guía completa: [Salud de la mujer en Houston: servicios de ginecología en español](/blog/salud-mujer-houston-servicios-ginecologia).
 
 No necesita seguro médico para atenderse: ofrecemos precios accesibles de pago directo. Llame al **(281) 588-0033** para confirmar disponibilidad.
 

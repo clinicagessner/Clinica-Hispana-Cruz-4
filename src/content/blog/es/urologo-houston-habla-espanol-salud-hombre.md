@@ -84,7 +84,7 @@ Hablar de la próstata, de problemas de erección o de síntomas urinarios no es
 
 ## Atención sin cita y sin necesidad de seguro en Houston
 
-No necesita seguro médico para atenderse con nosotros. Manejamos **precios accesibles y transparentes de pago directo**, y le informamos el costo antes de su consulta. Atendemos **sin cita previa, los 7 días de la semana de 9 AM a 9 PM**, en nuestra clínica del suroeste de Houston.
+No necesita seguro médico para atenderse con nosotros. Manejamos **precios accesibles y transparentes de pago directo**, y le informamos el costo antes de su consulta. Atendemos **sin cita previa, los 7 días de la semana de 9 AM a 9 PM**, en nuestra clínica del suroeste de Houston. Antes de venir, revise nuestras [promociones vigentes](/promociones) — con frecuencia incluyen paquetes de chequeo general y laboratorio a precio especial.
 
 Su salud no debería esperar. Si tiene síntomas urinarios, dudas sobre su próstata o simplemente quiere un chequeo del hombre, visite nuestra página de [Salud del Hombre](/services/salud-hombre) o venga sin cita. Llámenos al **(281) 588-0033** si tiene preguntas.
 

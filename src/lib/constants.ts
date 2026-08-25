@@ -217,13 +217,13 @@ export const SERVICES: Service[] = [
   {
     "id": "examen-fisico-escolar",
     "slug": "examen-fisico-escolar",
-    "title": "Chequeos Físicos Escolares y Deportivos",
-    "titleEn": "School & Sports Physical Exams",
+    "title": "Examen Físico Escolar y Deportivo en Houston",
+    "titleEn": "School & Sports Physicals in Houston",
     "shortTitle": "Examen Físico",
-    "description": "Chequeos físicos escolares y deportivos en Houston, TX. Rápidos, en español y con precios accesibles.",
-    "descriptionEn": "School and sports physical exams in Houston, TX. Fast, in Spanish, with affordable pricing.",
-    "longDescription": "Antes de inscribirse en la escuela o practicar un deporte, los niños y jóvenes necesitan un chequeo físico. En Clínica Hispana Cruz 4 lo hacemos de forma rápida y completa, con todos los formularios listos.\n\n**¿Qué incluye?**\n- Examen físico general\n- Revisión de signos vitales (peso, talla, presión)\n- Evaluación de visión y audición\n- Llenado de los formularios requeridos\n- Recomendaciones de salud\n\n**Para la escuela y el deporte**\nCumple los requisitos de inscripción escolar y la evaluación para practicar deportes con seguridad. Trae el formulario de tu escuela o equipo y lo completamos.\n\n**¿Por qué elegir Clínica Hispana Cruz 4?**\nSomos una clínica hispana y latina que te atiende 100% en español, sin cita previa y con precios accesibles, sin necesidad de seguro médico. Encuéntranos como tu centro médico cerca de ti en 10100 Beechnut St Ste 240, Houston, TX 77072, con horario de lunes a domingo de 9 AM a 9 PM. Nuestro equipo trata a cada paciente con respeto, tiempo y explicaciones claras.\n\n**Formas de pago**\nNo necesitas seguro médico. Manejamos precios accesibles y transparentes, y aceptamos efectivo y tarjetas. Pregúntanos por el costo de tu servicio antes de tu visita.\n\n**Áreas que servimos**\nAtendemos a pacientes de Houston, TX y todo el suroeste de la ciudad: Alief, Sharpstown, Mission Bend, Westchase, Gulfton, Bellaire y comunidades cercanas.",
-    "longDescriptionEn": "Before enrolling in school or playing a sport, children and teens need a physical exam. At Clínica Hispana Cruz 4 we do it quickly and thoroughly, with all the forms ready.\n\n**What's included?**\n- General physical exam\n- Vital-signs check (weight, height, blood pressure)\n- Vision and hearing screening\n- Completion of required forms\n- Health recommendations\n\n**For school and sports**\nMeet school enrollment requirements and the evaluation to play sports safely. Bring your school or team form and we'll complete it.\n\n**Why choose Clínica Hispana Cruz 4?**\nWe are a Hispanic and Latino clinic that cares for you 100% in Spanish, with no appointment needed and affordable pricing, no insurance required. Find your medical center near you at 10100 Beechnut St Ste 240, Houston, TX 77072, open Monday through Sunday from 9 AM to 9 PM. Our team treats every patient with respect, time and clear explanations.\n\n**Payment**\nYou don't need health insurance. We offer affordable, transparent pricing and accept cash and cards. Ask us about the cost of your service before your visit.\n\n**Areas we serve**\nWe care for patients across Houston, TX and the entire southwest side of the city: Alief, Sharpstown, Mission Bend, Westchase, Gulfton, Bellaire and nearby communities.",
+    "description": "Examen físico escolar y deportivo en Houston, TX. Sin cita, con el formulario de la escuela o del equipo llenado el mismo día, en español y a precio accesible.",
+    "descriptionEn": "School and sports physicals in Houston, TX. Walk in — your school or team form completed the same day, in Spanish, at an affordable price.",
+    "longDescription": "Antes de inscribirse en la escuela o practicar un deporte, los niños y jóvenes necesitan un examen físico. En Clínica Hispana Cruz 4 lo hacemos de forma rápida y completa, sin cita previa y con el formulario firmado el mismo día — ideal para la temporada de regreso a clases.\n\n**¿Qué incluye?**\n- Examen físico general\n- Revisión de signos vitales (peso, talla, presión)\n- Evaluación de visión y audición\n- Llenado de los formularios requeridos\n- Recomendaciones de salud\n\n**Para la escuela y el deporte**\nCumple los requisitos de inscripción escolar y la evaluación para practicar deportes con seguridad. Trae el formulario de tu escuela o equipo y lo completamos en la misma visita. La mayoría de los exámenes toman entre 15 y 30 minutos.\n\n**Todo lo que pide la escuela, en una sola visita**\nSi tu escuela también pide prueba de tuberculosis, vacunas o el récord de vacunación, podemos completarlo todo el mismo día, sin regresar otra vez.\n\n**¿Por qué elegir Clínica Hispana Cruz 4?**\nSomos una clínica hispana y latina que te atiende 100% en español, sin cita previa y con precios accesibles, sin necesidad de seguro médico. Encuéntranos como tu centro médico cerca de ti en 10100 Beechnut St Ste 240, Houston, TX 77072, con horario de lunes a domingo de 9 AM a 9 PM. Nuestro equipo trata a cada paciente con respeto, tiempo y explicaciones claras.\n\n**Formas de pago**\nNo necesitas seguro médico. Manejamos precios accesibles y transparentes, y aceptamos efectivo y tarjetas. Pregúntanos por el costo de tu servicio antes de tu visita.\n\n**Áreas que servimos**\nAtendemos a pacientes de Houston, TX y todo el suroeste de la ciudad: Alief, Sharpstown, Mission Bend, Westchase, Gulfton, Bellaire y comunidades cercanas.",
+    "longDescriptionEn": "Before enrolling in school or playing a sport, children and teens need a physical exam. At Clínica Hispana Cruz 4 we do it quickly and thoroughly, no appointment needed and with the form signed the same day — ideal for back-to-school season.\n\n**What's included?**\n- General physical exam\n- Vital-signs check (weight, height, blood pressure)\n- Vision and hearing screening\n- Completion of required forms\n- Health recommendations\n\n**For school and sports**\nMeet school enrollment requirements and the evaluation to play sports safely. Bring your school or team form and we'll complete it during the same visit. Most exams take 15 to 30 minutes.\n\n**Everything the school asks for, in one visit**\nIf your school also requires a tuberculosis test, vaccines, or the immunization record, we can complete everything the same day — no second trip needed.\n\n**Why choose Clínica Hispana Cruz 4?**\nWe are a Hispanic and Latino clinic that cares for you 100% in Spanish, with no appointment needed and affordable pricing, no insurance required. Find your medical center near you at 10100 Beechnut St Ste 240, Houston, TX 77072, open Monday through Sunday from 9 AM to 9 PM. Our team treats every patient with respect, time and clear explanations.\n\n**Payment**\nYou don't need health insurance. We offer affordable, transparent pricing and accept cash and cards. Ask us about the cost of your service before your visit.\n\n**Areas we serve**\nWe care for patients across Houston, TX and the entire southwest side of the city: Alief, Sharpstown, Mission Bend, Westchase, Gulfton, Bellaire and nearby communities.",
     "icon": "Clipboard",
     "image": "/images/services/examen-fisico-escolar.webp",
     "category": "examenes",
@@ -231,13 +231,18 @@ export const SERVICES: Service[] = [
       "examen fisico escolar houston",
       "physical para la escuela houston",
       "examen deportivo houston",
-      "chequeo escolar houston"
+      "chequeo escolar houston",
+      "examen fisico para la escuela houston",
+      "examenes fisicos cerca de mi",
+      "examen fisico deportivo houston"
     ],
     "keywordsEn": [
       "school physical houston",
       "sports physical houston",
       "school physical exam houston",
-      "kids physical houston"
+      "kids physical houston",
+      "back to school physical houston",
+      "sports physical near me houston"
     ],
     "features": [
       "Examen físico completo",
@@ -473,7 +478,10 @@ export const SERVICES: Service[] = [
       "examenes de sangre houston",
       "analisis de sangre houston",
       "laboratorio houston",
-      "laboratorio cerca de mi houston"
+      "laboratorio cerca de mi houston",
+      "examenes de sangre cerca de mi",
+      "analisis de sangre cerca de mi",
+      "laboratorio clinico houston"
     ],
     "keywordsEn": [
       "blood test houston",
