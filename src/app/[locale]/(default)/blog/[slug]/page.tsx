@@ -233,11 +233,50 @@ export default async function BlogPostPage({ params }: Props) {
   );
 }
 
+// Converts markdown pipe tables into single-line HTML tables so the regex-based
+// parser below (which has no table support) doesn't emit them as raw pipe text.
+function tablesToHtml(md: string): string {
+  const lines = md.split("\n");
+  const out: string[] = [];
+  let buf: string[] = [];
+
+  const flush = () => {
+    if (buf.length >= 2) {
+      const rows = buf
+        .filter((l) => !/^\|[\s:|-]+\|$/.test(l.trim()))
+        .map((l) =>
+          l.trim().replace(/^\||\|$/g, "").split("|").map((c) => c.trim())
+        );
+      const [head, ...body] = rows;
+      const th = head.map((c) => `<th>${c}</th>`).join("");
+      const trs = body
+        .map((r) => `<tr>${r.map((c) => `<td>${c}</td>`).join("")}</tr>`)
+        .join("");
+      out.push(
+        `<div class="table-wrap"><table><thead><tr>${th}</tr></thead><tbody>${trs}</tbody></table></div>`
+      );
+    } else {
+      out.push(...buf);
+    }
+    buf = [];
+  };
+
+  for (const line of lines) {
+    if (line.trim().startsWith("|")) buf.push(line);
+    else {
+      flush();
+      out.push(line);
+    }
+  }
+  flush();
+  return out.join("\n");
+}
+
 // Simple markdown parser (for basic formatting)
 function parseMarkdown(markdown: string): string {
   // The page already renders the post title as the h1 (from frontmatter), so any
   // leading `# Title` in the markdown body would produce a duplicate h1.
-  const stripped = markdown.replace(/^\s*#\s+.+\r?\n+/, "");
+  const stripped = tablesToHtml(markdown.replace(/^\s*#\s+.+\r?\n+/, ""));
 
   let html = stripped
     // Headers — `#` (single hash) is intentionally not handled: see strip above.
@@ -268,6 +307,13 @@ function parseMarkdown(markdown: string): string {
     .replace(/<\/li><br><li>/g, '</li><li>')
     .replace(/<br><ul>/g, '</p><ul>')
     .replace(/<\/ul><br>/g, '</ul><p>');
+
+  // Un-wrap tables from the paragraph tags the blank-line replacement adds
+  html = html
+    .replace(/<p><div class="table-wrap">/g, '<div class="table-wrap">')
+    .replace(/<\/table><\/div><\/p>/g, '</table></div>')
+    .replace(/<br><div class="table-wrap">/g, '</p><div class="table-wrap">')
+    .replace(/<\/table><\/div><br>/g, '</table></div><p>');
 
   return html;
 }
