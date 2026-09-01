@@ -103,6 +103,56 @@ export const PROMOS: Promotion[] = [
     ],
   },
   {
+    id: "testosterona-baja",
+    image: "/images/promos/v2/promo-16.webp",
+    alt: "Señales de testosterona baja como cansancio, menos deseo sexual y aumento de barriga, información de Clínica Hispana Cruz 4, Houston TX",
+    altEn: "Signs of low testosterone such as tiredness, less sexual desire and belly gain, information from Clínica Hispana Cruz 4, Houston TX",
+    title: "Señales de testosterona baja",
+    titleEn: "Signs of low testosterone",
+    price: null,
+    description:
+      "¿Cansancio, menos deseo sexual y aumento de barriga? No siempre es la edad: podría ser testosterona baja. Un examen de sangre puede medir tus niveles.",
+    descriptionEn:
+      "Tiredness, less sexual desire and belly gain? It's not always your age: it could be low testosterone. A blood test can measure your levels.",
+    includes: [
+      "Cansancio constante",
+      "Menos deseo sexual",
+      "Aumento de barriga",
+      "Pérdida de fuerza o molestias musculares",
+    ],
+    includesEn: [
+      "Constant tiredness",
+      "Less sexual desire",
+      "Belly gain",
+      "Loss of strength or muscle discomfort",
+    ],
+  },
+  {
+    id: "salud-prostata",
+    image: "/images/promos/v2/promo-17.webp",
+    alt: "Señales de alerta de próstata agrandada como chorro débil y levantarse de noche a orinar, información de Clínica Hispana Cruz 4, Houston TX",
+    altEn: "Enlarged prostate warning signs such as a weak stream and getting up at night to urinate, information from Clínica Hispana Cruz 4, Houston TX",
+    title: "Señales de alerta de la próstata",
+    titleEn: "Prostate warning signs",
+    price: null,
+    description:
+      "¿Te levantas varias veces en la noche a orinar? Podría ser una señal de que tu próstata necesita atención, sobre todo en hombres mayores de 40.",
+    descriptionEn:
+      "Getting up several times at night to urinate? It could be a sign your prostate needs attention, especially in men over 40.",
+    includes: [
+      "Chorro débil",
+      "Dificultad para empezar a orinar",
+      "Orinar varias veces de noche",
+      "Hombres mayores de 40: presta atención",
+    ],
+    includesEn: [
+      "Weak stream",
+      "Difficulty starting to urinate",
+      "Urinating several times at night",
+      "Men over 40: pay attention",
+    ],
+  },
+  {
     id: "salud-intima-femenina",
     image: "/images/promos/v2/promo-1.webp",
     alt: "Promoción de salud íntima femenina por $69 en Clínica Hispana Cruz 4, Houston TX",
