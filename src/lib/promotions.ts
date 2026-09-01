@@ -30,6 +30,104 @@ export type Promotion = {
 
 export const PROMOS: Promotion[] = [
   {
+    id: "examen-testosterona",
+    image: "/images/promos/v2/promo-12.webp",
+    alt: "Promoción de examen de testosterona por $79 con examen de orina y consulta médica gratis en Clínica Hispana Cruz 4, Houston TX",
+    altEn: "Testosterone test promotion for $79 with urine test and free medical consultation at Clínica Hispana Cruz 4, Houston TX",
+    title: "Revisa tu testosterona",
+    titleEn: "Testosterone check",
+    price: "$79",
+    description:
+      "¿Cansado o con menos energía? Examen de testosterona y de orina con consulta médica gratis. Precio regular $220, ahora por solo $79.",
+    descriptionEn:
+      "Tired or low on energy? Testosterone and urine tests with a free medical consultation. Regular price $220, now only $79.",
+    includes: [
+      "Examen de testosterona",
+      "Examen de orina",
+      "Consulta médica gratis",
+    ],
+    includesEn: [
+      "Testosterone test",
+      "Urine test",
+      "Free medical consultation",
+    ],
+  },
+  {
+    id: "chequeo-testosterona",
+    image: "/images/promos/v2/promo-13.webp",
+    alt: "Promoción de chequeo de testosterona por $99 con examen general de sangre y orina en Clínica Hispana Cruz 4, Houston TX",
+    altEn: "Testosterone checkup promotion for $99 with general blood and urine tests at Clínica Hispana Cruz 4, Houston TX",
+    title: "Chequeo de testosterona",
+    titleEn: "Testosterone checkup",
+    price: "$99",
+    description:
+      "¿Cansado, sin deseo y con más barriga? Puede ser tu testosterona. Testosterona, examen general de sangre y de orina con consulta gratis. Precio regular $299, por solo $99.",
+    descriptionEn:
+      "Tired, low desire and gaining belly fat? It could be your testosterone. Testosterone, general blood and urine tests with a free consultation. Regular price $299, just $99.",
+    includes: [
+      "Examen de testosterona",
+      "Examen general de sangre",
+      "Examen general de orina",
+      "Consulta gratis",
+    ],
+    includesEn: [
+      "Testosterone test",
+      "General blood test",
+      "General urine test",
+      "Free consultation",
+    ],
+  },
+  {
+    id: "chequeo-prostata",
+    image: "/images/promos/v2/promo-14.webp",
+    alt: "Promoción de chequeo completo de próstata por $149 con PSA, ultrasonido prostático y examen de orina en Clínica Hispana Cruz 4, Houston TX",
+    altEn: "Complete prostate checkup promotion for $149 with PSA, prostate ultrasound and urine test at Clínica Hispana Cruz 4, Houston TX",
+    title: "Chequeo completo de próstata",
+    titleEn: "Complete prostate checkup",
+    price: "$149",
+    description:
+      "Chequea tu salud hoy y gana tranquilidad: PSA en sangre, ultrasonido prostático y examen de orina con consulta gratis. Precio regular $300, ahora por $149.",
+    descriptionEn:
+      "Check your health today and gain peace of mind: blood PSA, prostate ultrasound and urine test with a free consultation. Regular price $300, now $149.",
+    includes: [
+      "Examen de PSA (próstata) en sangre",
+      "Ultrasonido prostático",
+      "Examen de orina",
+      "Consulta gratis",
+    ],
+    includesEn: [
+      "Blood PSA (prostate) test",
+      "Prostate ultrasound",
+      "Urine test",
+      "Free consultation",
+    ],
+  },
+  {
+    id: "chequeo-mujer-ultrasonido",
+    image: "/images/promos/v2/promo-15.webp",
+    alt: "Promoción de chequeo completo de la mujer por $179 con ultrasonido pélvico, Papanicolaou y examen de orina en Clínica Hispana Cruz 4, Houston TX",
+    altEn: "Complete women's checkup promotion for $179 with pelvic ultrasound, Pap smear and urine test at Clínica Hispana Cruz 4, Houston TX",
+    title: "Chequeo de la mujer con ultrasonido",
+    titleEn: "Women's checkup with ultrasound",
+    price: "$179",
+    description:
+      "¿Hace cuánto no revisas tu salud femenina? Ultrasonido pélvico, Papanicolaou y examen de orina con consulta médica gratis. Precio regular $300, por solo $179.",
+    descriptionEn:
+      "How long since you last checked your feminine health? Pelvic ultrasound, Pap smear and urine test with a free medical consultation. Regular price $300, just $179.",
+    includes: [
+      "Ultrasonido pélvico",
+      "Examen de Papanicolaou",
+      "Examen de orina",
+      "Consulta médica gratis",
+    ],
+    includesEn: [
+      "Pelvic ultrasound",
+      "Pap smear",
+      "Urine test",
+      "Free medical consultation",
+    ],
+  },
+  {
     id: "salud-intima-femenina",
     image: "/images/promos/v2/promo-1.webp",
     alt: "Promoción de salud íntima femenina por $69 en Clínica Hispana Cruz 4, Houston TX",
