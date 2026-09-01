@@ -53,31 +53,6 @@ export const PROMOS: Promotion[] = [
     ],
   },
   {
-    id: "chequeo-testosterona",
-    image: "/images/promos/v2/promo-13.webp",
-    alt: "Promoción de chequeo de testosterona por $99 con examen general de sangre y orina en Clínica Hispana Cruz 4, Houston TX",
-    altEn: "Testosterone checkup promotion for $99 with general blood and urine tests at Clínica Hispana Cruz 4, Houston TX",
-    title: "Chequeo de testosterona",
-    titleEn: "Testosterone checkup",
-    price: "$99",
-    description:
-      "¿Cansado, sin deseo y con más barriga? Puede ser tu testosterona. Testosterona, examen general de sangre y de orina con consulta gratis. Precio regular $299, por solo $99.",
-    descriptionEn:
-      "Tired, low desire and gaining belly fat? It could be your testosterone. Testosterone, general blood and urine tests with a free consultation. Regular price $299, just $99.",
-    includes: [
-      "Examen de testosterona",
-      "Examen general de sangre",
-      "Examen general de orina",
-      "Consulta gratis",
-    ],
-    includesEn: [
-      "Testosterone test",
-      "General blood test",
-      "General urine test",
-      "Free consultation",
-    ],
-  },
-  {
     id: "chequeo-prostata",
     image: "/images/promos/v2/promo-14.webp",
     alt: "Promoción de chequeo completo de próstata por $149 con PSA, ultrasonido prostático y examen de orina en Clínica Hispana Cruz 4, Houston TX",
