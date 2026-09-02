@@ -30,6 +30,29 @@ export type Promotion = {
 
 export const PROMOS: Promotion[] = [
   {
+    id: "salud-mamaria",
+    image: "/images/promos/v2/promo-18.webp",
+    alt: "Promoción de evaluación integral de salud mamaria por $175 con ultrasonido mamario bilateral, examen general de sangre y consulta médica gratis en Clínica Hispana Cruz 4, Houston TX",
+    altEn: "Comprehensive breast health evaluation promotion for $175 with bilateral breast ultrasound, general blood test and free medical consultation at Clínica Hispana Cruz 4, Houston TX",
+    title: "Evaluación integral de salud mamaria",
+    titleEn: "Comprehensive breast health evaluation",
+    price: "$175",
+    description:
+      "¿Hace cuánto no revisas tus senos? Ultrasonido mamario bilateral, examen general de sangre y consulta médica gratis. Precio regular $350, ahora por solo $175.",
+    descriptionEn:
+      "How long since your last breast check? Bilateral breast ultrasound, general blood test and a free medical consultation. Regular price $350, now only $175.",
+    includes: [
+      "Ultrasonido mamario bilateral",
+      "Examen general de sangre",
+      "Consulta médica gratis",
+    ],
+    includesEn: [
+      "Bilateral breast ultrasound",
+      "General blood test",
+      "Free medical consultation",
+    ],
+  },
+  {
     id: "examen-testosterona",
     image: "/images/promos/v2/promo-12.webp",
     alt: "Promoción de examen de testosterona por $79 con examen de orina y consulta médica gratis en Clínica Hispana Cruz 4, Houston TX",
