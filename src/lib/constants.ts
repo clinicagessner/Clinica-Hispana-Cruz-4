@@ -46,11 +46,12 @@ export const SOCIAL_LINKS: SocialLinks = {
 };
 
 // Reviews reales vienen LIVE de getGooglePlaceData() (Places API New).
-// Fallback estático; NO inventar el rating en el HTML.
+// Fallback estático con los valores reales de Places, comprobados el 2026-09-29.
+// Solo cubre el conteo visible: el JSON-LD no publica rating ni reseñas sin la API.
 export const GOOGLE_REVIEWS_DATA = {
-  totalReviews: 0,
-  averageRating: 0,
-  placeId: "",
+  totalReviews: 622,
+  averageRating: 5,
+  placeId: "ChIJ4YfUj5LDQIYRLtyN-0uSnMU",
 };
 
 export const SERVICES: Service[] = [
