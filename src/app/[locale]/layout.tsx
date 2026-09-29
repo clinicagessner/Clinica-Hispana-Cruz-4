@@ -12,7 +12,7 @@ import { SpeedInsights } from "@vercel/speed-insights/next";
 import { Analytics } from "@vercel/analytics/next";
 import { GoogleAnalytics } from "@next/third-parties/google";
 import Script from "next/script";
-import { SITE_CONFIG, GOOGLE_REVIEWS_DATA } from "@/lib/constants";
+import { SITE_CONFIG } from "@/lib/constants";
 import { getGooglePlaceData } from "@/lib/google-places";
 import "../globals.css";
 
@@ -40,9 +40,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const t = await getTranslations({ locale, namespace: "metadata" });
 
   const placeData = await getGooglePlaceData();
-  const rating = (placeData?.rating ?? GOOGLE_REVIEWS_DATA.averageRating).toFixed(1);
-  const count = placeData?.totalReviews ?? GOOGLE_REVIEWS_DATA.totalReviews;
-  const ogDescription = t("ogDescription", { rating, count });
+  // Sin datos de Google no se anuncia rating ("0.0 estrellas" en redes).
+  const ogDescription = placeData?.totalReviews
+    ? t("ogDescription", {
+        rating: placeData.rating.toFixed(1),
+        count: placeData.totalReviews,
+      })
+    : t("description");
 
   return {
     title: {
