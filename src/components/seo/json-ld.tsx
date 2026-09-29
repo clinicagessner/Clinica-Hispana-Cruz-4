@@ -1,38 +1,7 @@
 import { getLocale } from "next-intl/server";
-import { SITE_CONFIG, CONTACT_INFO, SERVICES, SOCIAL_LINKS, GOOGLE_REVIEWS_DATA } from "@/lib/constants";
+import { SITE_CONFIG, CONTACT_INFO, SERVICES, SOCIAL_LINKS } from "@/lib/constants";
 import { getGooglePlaceData } from "@/lib/google-places";
 import { getLocalizedService } from "@/lib/utils";
-
-const FALLBACK_REVIEWS = [
-  {
-    "@type": "Review" as const,
-    author: { "@type": "Person" as const, name: "María García" },
-    datePublished: "2026-03-28",
-    reviewBody: "Excelente atención, todo el personal habla español y me sentí muy cómoda. El doctor fue muy amable y profesional. Recomiendo esta clínica a toda la comunidad hispana.",
-    reviewRating: { "@type": "Rating" as const, ratingValue: 5, bestRating: 5 },
-  },
-  {
-    "@type": "Review" as const,
-    author: { "@type": "Person" as const, name: "Carlos Rodríguez" },
-    datePublished: "2026-03-10",
-    reviewBody: "Muy buen servicio, no tuve que esperar mucho y los precios son muy accesibles. Me atendieron sin cita y resolvieron mi problema de salud rápidamente.",
-    reviewRating: { "@type": "Rating" as const, ratingValue: 5, bestRating: 5 },
-  },
-  {
-    "@type": "Review" as const,
-    author: { "@type": "Person" as const, name: "Ana Martínez" },
-    datePublished: "2026-03-21",
-    reviewBody: "La mejor clínica hispana en Houston. Llevé a mis hijos y los trataron con mucho cariño. El laboratorio es muy eficiente y los resultados fueron rápidos.",
-    reviewRating: { "@type": "Rating" as const, ratingValue: 5, bestRating: 5 },
-  },
-  {
-    "@type": "Review" as const,
-    author: { "@type": "Person" as const, name: "José López" },
-    datePublished: "2026-02-15",
-    reviewBody: "Muy profesionales y atentos. Me explicaron todo en español y me dieron opciones de pago. Definitivamente volveré para mis chequeos regulares.",
-    reviewRating: { "@type": "Rating" as const, ratingValue: 5, bestRating: 5 },
-  },
-];
 
 export async function JsonLdMedicalClinic() {
   const [placeData, locale] = await Promise.all([
@@ -40,15 +9,21 @@ export async function JsonLdMedicalClinic() {
     getLocale(),
   ]);
 
-  const aggregateRating = {
-    "@type": "AggregateRating" as const,
-    ratingValue: placeData?.rating ?? GOOGLE_REVIEWS_DATA.averageRating,
-    reviewCount: placeData?.totalReviews ?? GOOGLE_REVIEWS_DATA.totalReviews,
-    bestRating: 5,
-    worstRating: 1,
-  };
+  // Rating y reseñas solo si vienen de Google. Si la API falla no se publica
+  // nada: un 0/0 es inválido y reseñas de relleno violan las políticas de Google.
+  const hasGoogleRating = !!placeData && placeData.totalReviews > 0;
 
-  const reviewItems = placeData?.reviews?.length
+  const aggregateRating = hasGoogleRating
+    ? {
+        "@type": "AggregateRating" as const,
+        ratingValue: placeData.rating,
+        reviewCount: placeData.totalReviews,
+        bestRating: 5,
+        worstRating: 1,
+      }
+    : undefined;
+
+  const reviewItems = hasGoogleRating && placeData.reviews.length
     ? placeData.reviews.slice(0, 5).map((r) => ({
         "@type": "Review" as const,
         author: { "@type": "Person" as const, name: r.author_name },
@@ -57,10 +32,7 @@ export async function JsonLdMedicalClinic() {
         reviewRating: { "@type": "Rating" as const, ratingValue: r.rating, bestRating: 5 },
         itemReviewed: { "@id": `${SITE_CONFIG.baseUrl}/#clinic` },
       }))
-    : FALLBACK_REVIEWS.map((r) => ({
-        ...r,
-        itemReviewed: { "@id": `${SITE_CONFIG.baseUrl}/#clinic` },
-      }));
+    : undefined;
 
   const schema = {
     "@context": "https://schema.org",
