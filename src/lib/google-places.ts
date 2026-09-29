@@ -46,72 +46,68 @@ async function fetchGooglePlaceDetails(): Promise<GooglePlaceData | null> {
     return null;
   }
 
-  try {
-    // Places API (New): GET /v1/places/{placeId} con FieldMask por headers.
-    const response = await fetch(
-      `https://places.googleapis.com/v1/places/${placeId}?languageCode=es`,
-      {
-        headers: {
-          "X-Goog-Api-Key": apiKey,
-          "X-Goog-FieldMask": "rating,userRatingCount,reviews",
-        },
-        next: { revalidate: 604800 }, // Cache 1 semana
-      }
-    );
-
-    if (!response.ok) {
-      throw new Error(`HTTP error: ${response.status}`);
+  // Sin try/catch aquí: si falla, la promesa se rechaza y unstable_cache no
+  // guarda el fallo (se reintenta en la próxima petición).
+  // Places API (New): GET /v1/places/{placeId} con FieldMask por headers.
+  const response = await fetch(
+    `https://places.googleapis.com/v1/places/${placeId}?languageCode=es`,
+    {
+      headers: {
+        "X-Goog-Api-Key": apiKey,
+        "X-Goog-FieldMask": "rating,userRatingCount,reviews",
+      },
+      next: { revalidate: 604800 }, // Cache 1 semana
     }
+  );
 
-    const data: NewPlaceResponse = await response.json();
-
-    if (data.error) {
-      console.error("Google Places API error:", data.error.status, data.error.message);
-      return null;
-    }
-
-    // Solo reseñas de 5★ con texto, más recientes primero.
-    const filteredReviews = (data.reviews ?? [])
-      .filter((review) => {
-        const text = review.text?.text ?? review.originalText?.text ?? "";
-        return review.rating === 5 && text.trim().length > 0;
-      })
-      .map((review) => {
-        const text = review.text?.text ?? review.originalText?.text ?? "";
-        const publishMs = review.publishTime ? Date.parse(review.publishTime) : 0;
-        return {
-          author_name: review.authorAttribution?.displayName ?? "Cliente de Google",
-          rating: review.rating ?? 5,
-          text,
-          time: Number.isNaN(publishMs) ? 0 : Math.floor(publishMs / 1000),
-          relative_time_description: review.relativePublishTimeDescription ?? "",
-          profile_photo_url:
-            review.authorAttribution?.photoUri || "/images/avatars/default.webp",
-          author_url: review.authorAttribution?.uri,
-        };
-      })
-      // Orden: primero las que tienen FOTO REAL del autor (ruta "/a-/" en
-      // googleusercontent = foto subida; "/a/ACg8oc" = avatar genérico de
-      // Google), y dentro de cada grupo, las más recientes primero.
-      .sort((a, b) => {
-        const aReal = a.profile_photo_url.includes("/a-/") ? 1 : 0;
-        const bReal = b.profile_photo_url.includes("/a-/") ? 1 : 0;
-        return bReal - aReal || b.time - a.time;
-      });
-
-    return {
-      rating: data.rating ?? 5.0,
-      totalReviews: data.userRatingCount ?? 0,
-      reviews: filteredReviews,
-    };
-  } catch (error) {
-    console.error("Error fetching Google Place details:", error);
-    return null;
+  if (!response.ok) {
+    throw new Error(`HTTP error: ${response.status}`);
   }
+
+  const data: NewPlaceResponse = await response.json();
+
+  if (data.error) {
+    throw new Error(`Google Places API error: ${data.error.status} ${data.error.message}`);
+  }
+
+  // Solo reseñas de 5★ con texto, más recientes primero.
+  const filteredReviews = (data.reviews ?? [])
+    .filter((review) => {
+      const text = review.text?.text ?? review.originalText?.text ?? "";
+      return review.rating === 5 && text.trim().length > 0;
+    })
+    .map((review) => {
+      const text = review.text?.text ?? review.originalText?.text ?? "";
+      const publishMs = review.publishTime ? Date.parse(review.publishTime) : 0;
+      return {
+        author_name: review.authorAttribution?.displayName ?? "Cliente de Google",
+        rating: review.rating ?? 5,
+        text,
+        time: Number.isNaN(publishMs) ? 0 : Math.floor(publishMs / 1000),
+        relative_time_description: review.relativePublishTimeDescription ?? "",
+        profile_photo_url:
+          review.authorAttribution?.photoUri || "/images/avatars/default.webp",
+        author_url: review.authorAttribution?.uri,
+      };
+    })
+    // Orden: primero las que tienen FOTO REAL del autor (ruta "/a-/" en
+    // googleusercontent = foto subida; "/a/ACg8oc" = avatar genérico de
+    // Google), y dentro de cada grupo, las más recientes primero.
+    .sort((a, b) => {
+      const aReal = a.profile_photo_url.includes("/a-/") ? 1 : 0;
+      const bReal = b.profile_photo_url.includes("/a-/") ? 1 : 0;
+      return bReal - aReal || b.time - a.time;
+    });
+
+  return {
+    rating: data.rating ?? 5.0,
+    totalReviews: data.userRatingCount ?? 0,
+    reviews: filteredReviews,
+  };
 }
 
-// Cached version - revalidates every week
-export const getGooglePlaceData = unstable_cache(
+// Cached version - revalidates every week. Solo se cachean respuestas buenas.
+const getCachedGooglePlaceData = unstable_cache(
   fetchGooglePlaceDetails,
   ["google-place-data"],
   {
@@ -119,3 +115,12 @@ export const getGooglePlaceData = unstable_cache(
     tags: ["google-reviews"],
   }
 );
+
+export async function getGooglePlaceData(): Promise<GooglePlaceData | null> {
+  try {
+    return await getCachedGooglePlaceData();
+  } catch (error) {
+    console.error("Error fetching Google Place details:", error);
+    return null;
+  }
+}
