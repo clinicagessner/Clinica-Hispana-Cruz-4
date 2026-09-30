@@ -119,6 +119,8 @@ export default async function BlogPostPage({ params }: Props) {
                 fill
                 className="object-cover"
                 priority
+                fetchPriority="high"
+                sizes="100vw"
               />
               <div className="absolute inset-0 bg-linear-to-t from-blue-deep via-blue-dark/85 to-blue-dark/40" />
             </div>
