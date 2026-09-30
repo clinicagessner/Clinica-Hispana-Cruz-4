@@ -3,6 +3,7 @@ import { JsonLdMedicalClinic } from "@/components/seo/json-ld";
 import { Hero } from "@/components/sections/hero";
 import { Promotions } from "@/components/sections/promotions";
 import { Services } from "@/components/sections/services";
+import { AboutClinic } from "@/components/sections/about-clinic";
 import { ChronicCare } from "@/components/sections/chronic-care";
 import { Testimonials } from "@/components/sections/testimonials";
 import { Contact } from "@/components/sections/contact";
@@ -26,6 +27,7 @@ export default async function HomePage({ params }: Props) {
       <Hero />
       <Promotions />
       <Services />
+      <AboutClinic />
       <ChronicCare />
       <Testimonials />
       <FAQ />
