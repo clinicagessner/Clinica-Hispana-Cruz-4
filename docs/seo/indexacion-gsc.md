@@ -7,6 +7,8 @@ Orden: reescribir → `dateModified` → reenviar sitemap → pedir indexación 
 **Decisión del usuario (2026-09-29): reenviar el sitemap y pedir indexación AL FINAL**, cuando
 esté terminado todo el contenido (B3). No proponerlo antes. Las tandas se van acumulando aquí.
 
+**Estado 2026-09-30: B3 terminado. Las 9 tandas (90 URLs) están listas para pedirse en GSC, 10 por día.**
+
 ## Estado conocido (API, 2026-09-29)
 
 59 de 94 indexadas · 25 descubiertas sin indexar · 4 rastreadas sin indexar · 6 desconocidas.
@@ -123,3 +125,8 @@ Farmacia ya está en la tanda 1 (se reescribió de nuevo el 30-sep; se reenvía 
 - [ ] https://www.clinicahispanacruz4.com/en/services/unas-encarnadas
 - [ ] https://www.clinicahispanacruz4.com/services/sueros-vitaminados
 - [ ] https://www.clinicahispanacruz4.com/en/services/sueros-vitaminados
+
+## Tanda 9 — home (hero, FAQ, schema y metadatos cambiaron en B0-B3; IndexNow enviado 2026-09-30)
+
+- [ ] https://www.clinicahispanacruz4.com/
+- [ ] https://www.clinicahispanacruz4.com/en
