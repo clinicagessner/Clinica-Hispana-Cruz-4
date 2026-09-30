@@ -1,14 +1,14 @@
 ---
 slug: "bienvenidos-clinica-hispana-cruz-4"
 title: "¡Bienvenidos a Clínica Hispana Cruz 4!"
-description: "Conoce nuestra clínica médica hispana en Houston, TX. Atención profesional en español, precios accesibles y un equipo comprometido con tu salud."
+description: "Quiénes somos: clínica médica en español en Beechnut St, suroeste de Houston. Abierta los 7 días de 9 AM a 9 PM, sin cita y sin seguro. Servicios y cómo llegar."
 date: "2026-03-16"
-dateModified: "2026-03-21"
+dateModified: "2026-09-29"
 author: "Clínica Hispana Cruz 4"
 image: "/images/hero-bg.webp"
 featured: false
 category: "Anuncios"
-readTime: 4
+readTime: 3
 keywords:
   - "clínica hispana Houston"
   - "médicos español Houston"
@@ -19,85 +19,46 @@ keywords:
 
 # ¡Bienvenidos a Clínica Hispana Cruz 4!
 
-Estamos emocionados de darles la bienvenida a nuestra página web. En **Clínica Hispana Cruz 4**, nos dedicamos a brindar atención médica de calidad a la comunidad hispana de Houston, TX, y áreas circundantes.
+Clínica Hispana Cruz 4 es un consultorio de medicina general que abrió sus puertas en enero de 2020 en el suroeste de Houston. Desde entonces atendemos a familias latinas de Alief, Sharpstown, Gulfton, Westchase, Mission Bend y Bellaire que buscan un médico que les explique las cosas en su idioma y les cobre un precio claro. Esta página resume quiénes somos y qué puede resolver con nosotros.
 
-## Nuestra Misión
+## Lo básico en cinco datos
 
-Nuestra misión es simple pero poderosa: proporcionar atención médica **accesible, profesional y 100% en español** a todas las familias que nos visitan. Entendemos que la barrera del idioma puede ser un obstáculo significativo cuando se trata de su salud, por eso nos aseguramos de que cada paciente se sienta cómodo y comprendido.
+- **Dónde:** 10100 Beechnut St, Suite 240, Houston, TX 77072, con estacionamiento gratuito en el lugar.
+- **Cuándo:** abrimos también sábados y domingos; el horario es de 9 AM a 9 PM sin cerrar a mediodía. En algunos feriados el horario cambia; si viene en uno, llámenos antes.
+- **Cómo:** sin cita. Llega, se registra en recepción y espera su turno.
+- **En qué idioma:** español en todo el proceso; también hablamos inglés.
+- **Cómo se paga:** directo, en efectivo o con tarjeta de débito o crédito. No hace falta seguro médico.
 
-## ¿Por Qué Elegirnos?
+## Qué atendemos
 
-### Atención en Español
-Todo nuestro personal habla español fluido. Desde el momento en que entra por nuestra puerta hasta que sale con su tratamiento, usted será atendido en su idioma.
+El equipo médico de la clínica cubre la mayoría de las necesidades de una familia sin mandarle a otro lado:
 
-### Sin Cita Previa
-Sabemos que las emergencias de salud no esperan. Por eso ofrecemos atención sin cita previa para que pueda recibir el cuidado que necesita cuando lo necesita.
+**Consultas y enfermedades comunes.** Gripe, infecciones de garganta y de orina, alergias, tiroides, y el seguimiento de [diabetes, presión alta y colesterol](/services/condiciones-cronicas).
 
-### Precios Accesibles
-Creemos que la salud no debe ser un lujo. Ofrecemos precios justos y transparentes de pago directo, sin necesidad de seguro médico.
+**Exámenes y trámites.** [Examen médico de inmigración I-693](/services/examenes-inmigracion) con médico autorizado por USCIS (Civil Surgeon); [examen DOT](/services/examen-dot) para licencia comercial; [físicos escolares y deportivos](/services/examen-fisico-escolar); pruebas de tuberculosis y de alcohol y drogas.
 
-### Ubicación Conveniente
-Estamos ubicados en **10100 Beechnut St Ste 240, Houston, TX 77072**, con fácil acceso y amplio estacionamiento.
+**Laboratorio e imagen en el mismo lugar.** [Análisis de sangre](/services/examenes-sangre), orina y heces, [ultrasonido](/services/ultrasonido) y [electrocardiograma](/services/electrocardiograma).
 
-## Nuestros Servicios
+**Salud de la mujer y del hombre.** Papanicolaou, cultivos, pruebas de embarazo y métodos anticonceptivos en [atención ginecológica básica](/services/ginecologia); PSA y testosterona en [exámenes del hombre](/services/salud-hombre). Si un resultado requiere especialista, le orientamos con la referencia.
 
-Ofrecemos una amplia gama de servicios médicos para toda la familia:
+**Procedimientos menores.** Puntos de sutura, curación de heridas, drenaje de abscesos y uñas encarnadas.
 
-- [**Exámenes Físicos**](/services/examen-fisico-escolar) - Exámenes físicos para escuela, deportes, trabajo y certificados, para todas las edades.
-- [**Exámenes de Inmigración**](/services/examenes-inmigracion) - Formulario I-693 realizado por Civil Surgeons certificados por USCIS. Proceso completo en español.
-- [**Laboratorio Clínico**](/services/examenes-sangre) - Análisis de sangre, orina y más con resultados rápidos y precisos. Sin necesidad de ir a otro lugar.
-- [**Ginecología**](/services/ginecologia) - Salud integral de la mujer: Papanicolaou, examen pélvico, planificación familiar y más.
-- [**Condiciones Crónicas**](/services/condiciones-cronicas) - Manejo especializado de diabetes, hipertensión, colesterol alto y otras condiciones de largo plazo.
-- [**Ultrasonido y EKG**](/services/ultrasonido) - Diagnóstico por imagen disponible en nuestra clínica, sin referencias externas.
-- [**Enfermedades Respiratorias**](/services/enfermedades-respiratorias) - Tratamiento de asma, bronquitis, neumonía y otras condiciones pulmonares.
-- [**Salud del Hombre**](/services/salud-hombre) - Exámenes de próstata (PSA), testosterona y atención de problemas urinarios masculinos.
-- [**Vacunas**](/services/vacunas) - Esquemas de vacunación completos para todas las edades: influenza, tétanos y más.
+**Medicamentos al salir.** Nuestra farmacia le entrega lo que el equipo médico le indicó en la consulta y productos de venta libre.
 
-## La Comunidad Hispana de Houston y sus Necesidades de Salud
+El catálogo completo, con lo que incluye cada servicio, está en la [página de servicios](/services).
 
-Houston es una de las ciudades con mayor población hispana en todo Estados Unidos. Según datos del Censo, más de **1.5 millones de hispanos** viven en el área metropolitana de Houston, representando cerca del 44% de la población total. A pesar de ello, muchos enfrentan barreras importantes para acceder a atención médica de calidad:
+## Pensado para quien no tiene tiempo ni seguro
 
-- **Barrera del idioma**: Muchos hispanos en Houston hablan poco o ningún inglés, lo que dificulta comunicar síntomas con precisión y entender diagnósticos.
-- **Falta de seguro médico**: Las tasas de personas sin seguro son más altas en la comunidad hispana que en otros grupos.
-- **Desconfianza del sistema de salud**: Experiencias negativas previas o desconocimiento de los servicios disponibles generan miedo o rechazo a buscar atención.
-- **Horarios incompatibles**: Muchos trabajadores hispanos tienen horarios que no encajan con los horarios típicos de clínicas y consultorios.
+En la zona mucha gente trabaja turnos largos o fines de semana. Por eso abrimos a diario hasta las 9 de la noche. Y como gran parte de la comunidad paga de su bolsillo, le decimos el costo antes de cualquier consulta o examen. En la sección de [promociones](/promociones) publicamos paquetes con precio fijo que combinan análisis y consulta.
 
-En Clínica Hispana Cruz 4 entendemos estas realidades de primera mano. Por eso diseñamos nuestros servicios para eliminar estas barreras: personal completamente bilingüe, horarios extendidos todos los días hasta las 9 PM, precios transparentes y atención sin necesidad de seguro médico.
+## Accesibilidad
 
-## Clínica Hispana Cruz 4 vs. la Sala de Emergencias
+La entrada, el estacionamiento y los sanitarios están adaptados para silla de ruedas. Si viene con alguien que necesita ayuda, avísenos al llegar.
 
-Muchos pacientes en Houston acuden a las salas de emergencia de hospitales incluso para situaciones que no son urgentes, porque no saben a dónde más ir. Esto puede generar facturas médicas de miles de dólares y esperas de varias horas. Clínica Hispana Cruz 4 es la alternativa inteligente para la mayoría de necesidades de salud:
+## Cómo contactarnos
 
-| Situación | Sala de Emergencias | Clínica Hispana Cruz 4 |
-|---|---|---|
-| Gripe, fiebre, tos | Espera 3-6 horas, costo alto | Atención rápida, precio accesible |
-| Control de diabetes o presión | Generalmente no disponible | Sí, con seguimiento continuo |
-| Examen de inmigración I-693 | No disponible | Civil Surgeons certificados |
-| Resultados de laboratorio | Días de espera | Mismo día en muchos casos |
-| Atención en español | No garantizada | 100% en español |
-
-Para condiciones que ponen en riesgo la vida como ataques al corazón, derrames cerebrales o accidentes graves, siempre llame al 911 o vaya a la sala de emergencias más cercana. Para todo lo demás, **estamos aquí para usted**.
-
-## Nuestro Compromiso
-
-Cada día nos esforzamos por:
-
-1. **Escuchar** a nuestros pacientes con atención y empatía
-2. **Diagnosticar** con precisión utilizando tecnología moderna
-3. **Tratar** con los mejores estándares médicos
-4. **Educar** sobre prevención y cuidado de la salud
-
-## Visítenos Hoy
-
-Los invitamos a conocer nuestras instalaciones y a nuestro equipo de profesionales de la salud. Estamos aquí para servirle a usted y a su familia.
-
-**Horario de Atención:**
-- Lunes a Domingo: 9:00 AM - 9:00 PM
-
-**Contáctenos:**
 - Teléfono: (281) 588-0033
-- Dirección: 10100 Beechnut St Ste 240, Houston, TX 77072
+- WhatsApp: (281) 741-2157
+- Facebook e Instagram: @clinicahispanacruz4 y @clinicahispcruz4
 
-¡Esperamos verle pronto!
-
-*El equipo de Clínica Hispana Cruz 4*
+Si ya nos visitó, su reseña en Google ayuda a otras familias a encontrarnos. Y si es su primera vez, le esperamos: no necesita llamar antes.

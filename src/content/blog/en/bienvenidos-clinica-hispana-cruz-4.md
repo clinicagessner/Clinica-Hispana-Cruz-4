@@ -1,14 +1,14 @@
 ---
 slug: "bienvenidos-clinica-hispana-cruz-4"
 title: "Welcome to Clínica Hispana Cruz 4!"
-description: "Discover our Hispanic medical clinic in Houston, TX. Professional care in Spanish, affordable prices, and a team committed to your health."
+description: "Who we are: a Spanish-speaking medical clinic on Beechnut St in southwest Houston. Open 7 days, 9 AM to 9 PM, walk-in, no insurance needed. Services and directions."
 date: "2026-03-16"
-dateModified: "2026-03-21"
+dateModified: "2026-09-29"
 author: "Clínica Hispana Cruz 4"
 image: "/images/hero-bg.webp"
 featured: false
 category: "Announcements"
-readTime: 4
+readTime: 3
 keywords:
   - "Hispanic clinic Houston"
   - "Spanish speaking doctor Houston"
@@ -19,85 +19,46 @@ keywords:
 
 # Welcome to Clínica Hispana Cruz 4!
 
-We are thrilled to welcome you to our website. At **Clínica Hispana Cruz 4**, we are dedicated to providing quality medical care to the Hispanic community in Houston, TX, and the surrounding areas.
+Clínica Hispana Cruz 4 is a general medicine practice that opened in January 2020 on Houston's southwest side. Since then we have cared for Latino families from Alief, Sharpstown, Gulfton, Westchase, Mission Bend and Bellaire who want a doctor that explains things in their language and quotes a clear price. This page sums up who we are and what you can take care of with us.
 
-## Our Mission
+## The basics in five facts
 
-Our mission is simple but powerful: to deliver **accessible, professional, and fully Spanish-language medical care** to every family that walks through our doors. We understand that a language barrier can be a significant obstacle when it comes to your health, which is why we make sure every patient feels comfortable and truly understood.
+- **Where:** 10100 Beechnut St, Suite 240, Houston, TX 77072, with free on-site parking.
+- **When:** weekends included; hours run 9 AM to 9 PM straight through, no midday break. Some holidays have different hours, so call ahead if you're coming on one.
+- **How:** no appointment. Walk in, check in at the front desk and wait for your turn.
+- **Language:** Spanish at every step, and we speak English too.
+- **Payment:** self-pay by cash, debit or credit card. No health insurance required.
 
-## Why Choose Us?
+## What we treat
 
-### Care in Spanish
-Every member of our staff speaks fluent Spanish. From the moment you walk in to the moment you leave with your treatment, you will be served in your language.
+The clinic's medical team covers most of what a family needs without sending you elsewhere:
 
-### No Appointment Needed
-We know health emergencies don't wait. That's why we offer walk-in care so you can get the attention you need, when you need it.
+**Everyday illness.** Flu, throat and urinary infections, allergies, thyroid issues, plus ongoing care for [diabetes, high blood pressure and cholesterol](/en/services/condiciones-cronicas).
 
-### Affordable Prices
-We believe health care should not be a luxury. We offer fair, transparent pricing and accept patients with or without health insurance.
+**Exams and paperwork.** The [I-693 immigration medical exam](/en/services/examenes-inmigracion) with a USCIS-designated Civil Surgeon; the [DOT physical](/en/services/examen-dot) for commercial drivers; [school and sports physicals](/en/services/examen-fisico-escolar); TB and alcohol and drug testing.
 
-### Convenient Location
-We are located at **10100 Beechnut St Ste 240, Houston, TX 77072**, with easy access and ample parking.
+**Lab and imaging under one roof.** [Blood work](/en/services/examenes-sangre), urine and stool tests, [ultrasound](/en/services/ultrasonido) and an [EKG](/en/services/electrocardiograma).
 
-## Our Services
+**Women's and men's health.** Pap smears, cultures, pregnancy tests and birth control through [basic gynecology care](/en/services/ginecologia); PSA and testosterone in [men's health exams](/en/services/salud-hombre). When a result points to specialist care, the team helps arrange the referral.
 
-We offer a wide range of medical services for the whole family:
+**Minor procedures.** Stitches, wound care, abscess drainage and ingrown toenails.
 
-- [**Physical Exams**](/services/examen-fisico-escolar) — Physical exams for school, sports, work, and certificates, for all ages.
-- [**Immigration Medical Exams**](/services/examenes-inmigracion) — I-693 form completed by USCIS-certified Civil Surgeons. The entire process conducted in Spanish.
-- [**Clinical Laboratory**](/services/examenes-sangre) — Blood tests, urinalysis, and more with fast, accurate results — all in one place.
-- [**Gynecology**](/services/ginecologia) — Complete women's health care: Pap smears, pelvic exams, family planning, and more.
-- [**Chronic Conditions**](/services/condiciones-cronicas) — Specialized management of diabetes, hypertension, high cholesterol, and other long-term conditions.
-- [**Ultrasound & EKG**](/services/ultrasonido) — Diagnostic imaging available at our clinic, no outside referrals needed.
-- [**Respiratory Illnesses**](/services/enfermedades-respiratorias) — Treatment of asthma, bronchitis, pneumonia, and other lung conditions.
-- [**Men's Health**](/services/salud-hombre) — Prostate (PSA) and testosterone exams and care for male urinary concerns.
-- [**Vaccines**](/services/vacunas) — Complete vaccination schedules for all ages: flu, tetanus, and more.
+**Medications before you leave.** Our pharmacy hands you what the medical team prescribed during the visit, plus over-the-counter products.
 
-## Houston's Hispanic Community and Their Health Needs
+The full catalog, with what each service includes, is on our [services page](/en/services).
 
-Houston is one of the cities with the largest Hispanic population in the entire United States. According to Census data, more than **1.5 million Hispanics** live in the Houston metropolitan area, representing nearly 44% of the total population. Despite this, many face significant barriers to accessing quality medical care:
+## Built for people short on time or coverage
 
-- **Language barrier:** Many Hispanics in Houston speak little or no English, making it difficult to accurately describe symptoms and understand diagnoses.
-- **Lack of health insurance:** Uninsured rates are higher in the Hispanic community than in other groups.
-- **Distrust of the healthcare system:** Negative past experiences or lack of awareness about available services can create fear or reluctance to seek care.
-- **Incompatible schedules:** Many Hispanic workers have jobs that don't align with typical clinic and office hours.
+Many people in the area work long shifts or weekends, which is why we stay open until 9 at night every day. And since much of the community pays out of pocket, we tell you the cost before any visit or test. On the [promotions page](/en/promociones) we post fixed-price packages that bundle lab work with a consultation.
 
-At Clínica Hispana Cruz 4, we understand these realities firsthand. That is why we designed our services to break down these barriers: fully bilingual staff, extended hours every day until 9 PM, transparent pricing, and care with no insurance needed.
+## Accessibility
 
-## Clínica Hispana Cruz 4 vs. the Emergency Room
+The entrance, parking and restrooms are wheelchair accessible. If you're bringing someone who needs a hand, let us know when you arrive.
 
-Many patients in Houston go to hospital emergency rooms even for non-urgent situations because they don't know where else to turn. This can result in medical bills of thousands of dollars and waits of several hours. Clínica Hispana Cruz 4 is the smart alternative for most healthcare needs:
+## How to reach us
 
-| Situation | Emergency Room | Clínica Hispana Cruz 4 |
-|---|---|---|
-| Flu, fever, cough | 3-6 hour wait, high cost | Fast care, affordable price |
-| Diabetes or blood pressure management | Generally not available | Yes, with ongoing follow-up |
-| I-693 immigration exam | Not available | USCIS-certified Civil Surgeons |
-| Lab results | Days of waiting | Same day in most cases |
-| Care in Spanish | Not guaranteed | 100% in Spanish |
-
-For life-threatening conditions such as heart attacks, strokes, or serious accidents, always call 911 or go to the nearest emergency room. For everything else, **we are here for you**.
-
-## Our Commitment
-
-Every day, we strive to:
-
-1. **Listen** to our patients with attention and empathy
-2. **Diagnose** accurately using modern technology
-3. **Treat** to the highest medical standards
-4. **Educate** on prevention and healthy living
-
-## Visit Us Today
-
-We invite you to come see our facility and meet our team of health care professionals. We are here to serve you and your family.
-
-**Office Hours:**
-- Monday through Sunday: 9:00 AM - 9:00 PM
-
-**Contact Us:**
 - Phone: (281) 588-0033
-- Address: 10100 Beechnut St Ste 240, Houston, TX 77072
+- WhatsApp: (281) 741-2157
+- Facebook and Instagram: @clinicahispanacruz4 and @clinicahispcruz4
 
-We look forward to seeing you soon!
-
-*The Clínica Hispana Cruz 4 team*
+If you've visited before, a Google review helps other families find us. And if it's your first time, you're welcome: there's no need to call ahead.
