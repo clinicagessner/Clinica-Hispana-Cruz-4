@@ -72,30 +72,30 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   "alergias": {
     "faqs": [
       {
-        "question": "¿Tratan alergias en la piel y respiratorias?",
-        "answer": "Sí, evaluamos y tratamos alergias respiratorias (rinitis, congestión) y de la piel (ronchas, comezón)."
+        "question": "¿Es alergia o es un resfriado? ¿Cómo distinguirlos?",
+        "answer": "El resfriado suele durar una semana y puede dar fiebre o dolor de cuerpo. La alergia no da fiebre, dura mientras dura la exposición y la picazón en ojos o nariz es muy típica."
       },
       {
-        "question": "¿Necesito cita previa?",
-        "answer": "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario."
+        "question": "Tengo ronchas que aparecen y desaparecen desde hace días. ¿Debo consultar?",
+        "answer": "Sí. Las ronchas que duran más de unos días conviene revisarlas para buscar la causa y darle un tratamiento que las controle. Si se acompañan de hinchazón de labios o falta de aire, llame al 911."
       },
       {
-        "question": "¿Atienden a pacientes sin seguro?",
-        "answer": "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita."
+        "question": "¿Puedo usar el aerosol nasal para la congestión todos los días?",
+        "answer": "Los de esteroide para la alergia sí, con la técnica correcta. Los descongestionantes que destapan al instante no deben usarse más de tres días seguidos porque la congestión regresa peor."
       }
     ],
     "faqsEn": [
       {
-        "question": "Do you treat both skin and respiratory allergies?",
-        "answer": "Yes, we evaluate and treat respiratory allergies (rhinitis, congestion) and skin allergies (hives, itching)."
+        "question": "How can I tell allergies from a cold?",
+        "answer": "A cold usually lasts about a week and can bring fever or body aches. Allergies don't cause fever, last as long as the exposure lasts, and itchy eyes or nose are a telltale sign."
       },
       {
-        "question": "Do I need an appointment?",
-        "answer": "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time."
+        "question": "I've had hives coming and going for days. Should I be seen?",
+        "answer": "Yes. Hives that last more than a few days are worth checking to look for the cause and get treatment that controls them. If they come with lip swelling or shortness of breath, call 911."
       },
       {
-        "question": "Do you accept patients without insurance?",
-        "answer": "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit."
+        "question": "Can I use a nasal spray for congestion every day?",
+        "answer": "Steroid sprays for allergies, yes, with the right technique. Instant-relief decongestant sprays shouldn't be used more than three days in a row because the congestion comes back worse."
       }
     ]
   },
