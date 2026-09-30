@@ -3,7 +3,7 @@ slug: "chequeos-preventivos-hombres-houston"
 title: "Preventive Health Checkups for Men in Houston: Age Guide"
 description: "Which screenings men need at every age: blood pressure, glucose, cholesterol and more. Preventive checkups in Spanish in Houston, walk-in, no insurance."
 date: "2026-07-19"
-dateModified: "2026-07-19"
+dateModified: "2026-09-30"
 author: "Clínica Hispana Cruz 4"
 image: "/images/services/salud-hombre.webp"
 featured: false
@@ -47,7 +47,7 @@ Blood pressure, weight and vital signs, plus a conversation in Spanish about you
 
 ### Lab work
 
-A [blood test](/en/services/examenes-sangre) covering glucose, a full cholesterol panel, and kidney and liver function. We have our own lab with same-day results, so you don't have to come back another day just to learn your numbers.
+A [blood test](/en/services/examenes-sangre) covering glucose, a full cholesterol panel, and kidney and liver function. The sample is drawn in our own lab during the visit, and we let you know when your results are ready.
 
 ### Electrocardiogram
 
@@ -116,7 +116,7 @@ We know why many men put off their checkup: work never lets up, they don't have 
 
 - Care **100% in Spanish**, from the front desk to the exam room
 - **No appointment needed:** walk in any day of the week
-- **On-site lab** with same-day results
+- **On-site lab**: the sample is taken during the same visit
 - **No insurance required:** affordable, transparent self-pay pricing
 - **Extended hours:** Monday through Sunday, 9:00 AM to 9:00 PM
 - Located in southwest Houston, close to Alief, Sharpstown, Mission Bend, Westchase, Gulfton and Bellaire
@@ -142,4 +142,4 @@ No. We see patients without insurance, with affordable self-pay pricing we share
 For glucose and cholesterol, 8–12 hours of fasting is ideal. If you couldn't fast, come anyway — we'll tell you which tests can be done now and which are worth repeating.
 
 **How soon are results ready?**
-Most lab work is delivered the same day, with results explained in Spanish.
+Once your lab work is ready, the medical team explains the results in Spanish.
