@@ -432,30 +432,30 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   "prueba-tuberculosis": {
     "faqs": [
       {
-        "question": "¿Tengo que regresar para leer la prueba de TB?",
-        "answer": "Sí, la prueba cutánea (PPD) se lee entre 48 y 72 horas después de aplicarla; te damos la cita de lectura."
+        "question": "¿Tengo que regresar para la lectura?",
+        "answer": "Sí. La reacción se mide dos o tres días después de la aplicación. Si no vuelve en ese plazo, hay que repetirla."
       },
       {
-        "question": "¿Necesito cita previa?",
-        "answer": "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario."
+        "question": "Me vacunaron con BCG de niño, ¿puedo hacerme la prueba?",
+        "answer": "Sí, pero avíselo antes. La BCG puede dar un resultado positivo en la piel, y el médico le dirá si conviene más una prueba en sangre."
       },
       {
-        "question": "¿Atienden a pacientes sin seguro?",
-        "answer": "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita."
+        "question": "¿Un resultado positivo quiere decir que tengo tuberculosis?",
+        "answer": "No necesariamente. Indica contacto con la bacteria. Se completa con una radiografía de tórax para saber si hay enfermedad activa, que es poco frecuente."
       }
     ],
     "faqsEn": [
       {
-        "question": "Do I have to come back to read the TB test?",
-        "answer": "Yes, the skin test (PPD) is read 48 to 72 hours after it's placed; we schedule your reading appointment."
+        "question": "Is a second visit needed for the TB skin test?",
+        "answer": "Yes. The reaction has to be measured two to three days after placement. If you don't return within that window, it has to be repeated."
       },
       {
-        "question": "Do I need an appointment?",
-        "answer": "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time."
+        "question": "Can I take the skin test if I got BCG as a kid?",
+        "answer": "Yes, but mention it first. BCG can cause a positive skin reaction, and the doctor will tell you whether a blood test is a better option."
       },
       {
-        "question": "Do you accept patients without insurance?",
-        "answer": "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit."
+        "question": "If my skin test is positive, am I sick with TB?",
+        "answer": "Not necessarily. It shows contact with the bacteria. A chest X-ray follows to check for active disease, which is uncommon."
       }
     ]
   },
