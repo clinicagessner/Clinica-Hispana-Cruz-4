@@ -403,29 +403,29 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
     "faqs": [
       {
         "question": "¿Cuánto tarda el resultado del strep test?",
-        "answer": "La prueba rápida de estreptococo da resultado en pocos minutos durante tu visita."
+        "answer": "La prueba rápida da el resultado en pocos minutos, durante la misma consulta."
       },
       {
-        "question": "¿Necesito cita previa?",
-        "answer": "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario."
+        "question": "¿Por qué no me dan antibiótico para cualquier dolor de garganta?",
+        "answer": "La gran mayoría los causa un virus, y contra los virus el antibiótico no sirve. Tomarlo sin necesidad expone a efectos secundarios y hace que las bacterias se vuelvan resistentes."
       },
       {
-        "question": "¿Atienden a pacientes sin seguro?",
-        "answer": "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita."
+        "question": "¿Cuándo puede regresar a clases un niño con estreptococo?",
+        "answer": "Por lo general después de 12 horas de antibiótico y sin fiebre. Si la escuela pide constancia, pídala en la consulta."
       }
     ],
     "faqsEn": [
       {
         "question": "How long does the strep test take?",
-        "answer": "The rapid strep test gives a result in just a few minutes during your visit."
+        "answer": "You'll know within minutes, before you leave the exam room."
       },
       {
-        "question": "Do I need an appointment?",
-        "answer": "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time."
+        "question": "Why not give antibiotics for every sore throat?",
+        "answer": "Most sore throats are caused by viruses, and antibiotics don't touch viruses. Taking them unnecessarily means side effects and helps bacteria become resistant."
       },
       {
-        "question": "Do you accept patients without insurance?",
-        "answer": "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit."
+        "question": "How soon can a child with strep return to class?",
+        "answer": "Usually after 12 hours on antibiotics and no fever. If the school wants a note, ask for it during the visit."
       }
     ]
   },
