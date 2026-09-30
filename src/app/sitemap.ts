@@ -26,6 +26,7 @@ const PAGE_DATES: Record<string, string> = {
 // en SERVICE_DATES con su propia fecha.
 const SERVICES_LAST_REVIEWED = "2026-08-25";
 const SERVICE_DATES: Record<string, string> = {
+  "prueba-embarazo": "2026-09-30", // B3: texto propio
   "enfermedades-transmision-sexual": "2026-09-30", // B3: texto propio
   "prueba-tuberculosis": "2026-09-30", // B3: texto propio
   "prueba-strep": "2026-09-30", // B3: texto propio

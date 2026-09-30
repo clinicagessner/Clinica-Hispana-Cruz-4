@@ -192,30 +192,30 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   "prueba-embarazo": {
     "faqs": [
       {
-        "question": "¿Qué tan confiable es la prueba de embarazo?",
-        "answer": "Nuestras pruebas son confiables y las confirma personal médico; también podemos orientarte sobre los siguientes pasos."
+        "question": "¿Desde cuándo puedo hacerme la prueba?",
+        "answer": "Desde el día en que la regla se atrasa, la prueba de orina da una respuesta fiable. La de sangre puede adelantarse varios días a esa fecha. Si tiene dudas sobre las fechas, el médico le dice cuál conviene."
       },
       {
-        "question": "¿Necesito cita previa?",
-        "answer": "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario."
+        "question": "La prueba casera salió con una línea muy tenue, ¿qué significa?",
+        "answer": "Una segunda línea, aunque sea tenue, casi siempre indica embarazo. Conviene confirmarlo en consulta, sobre todo si hay sangrado o dolor."
       },
       {
-        "question": "¿Atienden a pacientes sin seguro?",
-        "answer": "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita."
+        "question": "¿Hacen el control prenatal?",
+        "answer": "Confirmamos el embarazo, le damos las primeras indicaciones y podemos hacer un ultrasonido temprano. Para el control prenatal completo le orientamos con la referencia al ginecólogo u obstetra."
       }
     ],
     "faqsEn": [
       {
-        "question": "How reliable is the pregnancy test?",
-        "answer": "Our tests are reliable and confirmed by medical staff; we can also guide you on next steps."
+        "question": "How early can I take the test?",
+        "answer": "From the day your period is late, a urine test gives a trustworthy answer. Blood testing can catch it several days earlier. If you're unsure of your dates, the doctor tells you which fits."
       },
       {
-        "question": "Do I need an appointment?",
-        "answer": "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time."
+        "question": "My home test showed a very faint line. What does it mean?",
+        "answer": "A second line, even a faint one, almost always means pregnancy. It's worth confirming at a visit, especially if there's bleeding or pain."
       },
       {
-        "question": "Do you accept patients without insurance?",
-        "answer": "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit."
+        "question": "Do you provide prenatal care?",
+        "answer": "We confirm the pregnancy, give you first steps and can do an early ultrasound. For full prenatal care we help you with a referral to a gynecologist or obstetrician."
       }
     ]
   },
