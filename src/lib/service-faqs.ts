@@ -822,30 +822,30 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   "unas-encarnadas": {
     "faqs": [
       {
-        "question": "¿Cómo tratan la uña encarnada?",
-        "answer": "Con un procedimiento sencillo y anestesia local retiramos la porción encarnada para aliviar el dolor el mismo día."
+        "question": "¿Me quitan toda la uña?",
+        "answer": "Casi nunca. Se retira solo la franja que está enterrada en la piel; el resto de la uña se queda."
       },
       {
-        "question": "¿Necesito cita previa?",
-        "answer": "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario."
+        "question": "¿Puedo trabajar después del procedimiento?",
+        "answer": "Muchas personas regresan pronto, sobre todo si pueden usar zapato amplio. Si su trabajo exige botas o estar de pie todo el día, puede necesitar uno o dos días de descanso."
       },
       {
-        "question": "¿Atienden a pacientes sin seguro?",
-        "answer": "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita."
+        "question": "¿Por qué se me vuelve a encarnar?",
+        "answer": "Suele deberse a la forma de cortarla, al calzado o a una uña curva de nacimiento. Si se repite en el mismo lado, el médico puede proponerle un tratamiento para ese borde."
       }
     ],
     "faqsEn": [
       {
-        "question": "How do you treat an ingrown toenail?",
-        "answer": "With a simple procedure and local anesthesia we remove the ingrown portion to relieve pain the same day."
+        "question": "Will you remove the whole nail?",
+        "answer": "Almost never. We take out just the narrow edge that's digging in and leave the rest of the nail alone."
       },
       {
-        "question": "Do I need an appointment?",
-        "answer": "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time."
+        "question": "Can I work after the procedure?",
+        "answer": "Many people return soon, especially if they can wear roomy shoes. If your job requires boots or standing all day, you may need a day or two off."
       },
       {
-        "question": "Do you accept patients without insurance?",
-        "answer": "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit."
+        "question": "Why does it keep growing in?",
+        "answer": "Usually because of how it's trimmed, the footwear or a naturally curved nail. If it recurs on the same side, the doctor may suggest a treatment for that edge."
       }
     ]
   },
