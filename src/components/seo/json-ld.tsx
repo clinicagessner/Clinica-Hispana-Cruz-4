@@ -41,8 +41,11 @@ export async function JsonLdMedicalClinic() {
         "@type": "MedicalClinic",
         "@id": `${SITE_CONFIG.baseUrl}/#clinic`,
         name: SITE_CONFIG.name,
+        // Nombre tal como aparece en la ficha de Google (sin tilde).
+        alternateName: "Clinica Hispana Cruz 4",
         description: SITE_CONFIG.description,
         url: SITE_CONFIG.baseUrl,
+        foundingDate: "2020-01",
         telephone: CONTACT_INFO.phone,
         email: CONTACT_INFO.email,
         image: `${SITE_CONFIG.baseUrl}/images/clinic-interior.webp`,
@@ -93,15 +96,29 @@ export async function JsonLdMedicalClinic() {
             url: `${SITE_CONFIG.baseUrl}${locale === "en" ? "/en" : ""}/services/${service.slug}`,
           };
         }),
+        hasMap: CONTACT_INFO.googleMapsUrl,
         sameAs: [
           SOCIAL_LINKS.facebook,
           SOCIAL_LINKS.instagram,
         ].filter(Boolean),
-        areaServed: {
-          "@type": "City",
-          name: "Houston",
-          "@id": "https://www.wikidata.org/wiki/Q16555",
-        },
+        // Houston (área de la ficha) y los barrios del suroeste que nombra el sitio.
+        areaServed: [
+          { "@type": "City", name: "Houston", "@id": "https://www.wikidata.org/wiki/Q16555" },
+          { "@type": "Place", name: "Alief, Houston, TX" },
+          { "@type": "Place", name: "Sharpstown, Houston, TX" },
+          { "@type": "Place", name: "Mission Bend, TX" },
+          { "@type": "Place", name: "Westchase, Houston, TX" },
+          { "@type": "Place", name: "Gulfton, Houston, TX" },
+          { "@type": "City", name: "Bellaire, TX" },
+        ],
+        // Atributos declarados en la ficha de Google.
+        amenityFeature: [
+          { "@type": "LocationFeatureSpecification", name: "Entrada accesible para silla de ruedas", value: true },
+          { "@type": "LocationFeatureSpecification", name: "Sanitarios accesibles para silla de ruedas", value: true },
+          { "@type": "LocationFeatureSpecification", name: "Estacionamiento accesible para silla de ruedas", value: true },
+          { "@type": "LocationFeatureSpecification", name: "Estacionamiento gratuito en el lugar", value: true },
+        ],
+        publicAccess: true,
         medicalSpecialty: [
           "https://schema.org/FamilyPractice",
           "https://schema.org/EmergencyMedicine",
