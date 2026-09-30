@@ -3,7 +3,7 @@ slug: "urologo-houston-habla-espanol-salud-hombre"
 title: "Spanish-Speaking Urologist in Houston: Men's Health"
 description: "When to see a urologist in Houston, signs of prostate problems, PSA and testosterone testing. Men's health care in Spanish, walk-in, no insurance needed."
 date: "2026-06-15"
-dateModified: "2026-06-15"
+dateModified: "2026-09-29"
 author: "Clínica Hispana Cruz 4"
 image: "/images/services/salud-hombre.webp"
 featured: false
@@ -36,7 +36,7 @@ Urology deals with the urinary system and the male reproductive system. You don'
 - Low energy, fatigue, or changes linked to testosterone
 - Erection problems
 
-At [Clínica Hispana Cruz 4](/services/salud-hombre) we evaluate these conditions in Spanish and, when additional specialized care is needed, we refer you to trusted urologists in the Houston area.
+At [Clínica Hispana Cruz 4](/en/services/salud-hombre) these conditions are evaluated by our general medicine team, in Spanish, and when a case calls for specialized care we refer you to trusted urologists in the Houston area.
 
 ## Signs you should check your prostate
 
@@ -51,7 +51,7 @@ These symptoms don't always mean cancer — often it's benign prostate enlargeme
 
 ## Prostate (PSA) and testosterone testing: what to expect
 
-A men's health evaluation usually includes a [blood test](/services/examenes-sangre) with **PSA** (prostate-specific antigen) and, when there are signs of fatigue or low libido, a **testosterone** level.
+A men's health evaluation usually includes a [blood test](/en/services/examenes-sangre) with **PSA** (prostate-specific antigen) and, when there are signs of fatigue or low libido, a **testosterone** level.
 
 The process is simple and fast:
 
@@ -63,9 +63,9 @@ With same-day lab results, you don't have to come back another day just to learn
 
 ## Common urinary problems in men
 
-[Urinary tract infections](/services/infecciones-urinarias) are not exclusive to women: in men they can point to an underlying condition and are worth evaluating. We also treat burning when urinating, blood in the urine, and prostate-related discomfort.
+[Urinary tract infections](/en/services/infecciones-urinarias) are not exclusive to women: in men they can point to an underlying condition and are worth evaluating. We also treat burning when urinating, blood in the urine, and prostate-related discomfort.
 
-If you live with diabetes or high blood pressure, managing those [chronic conditions](/services/condiciones-cronicas) also protects your urinary and sexual health, since both affect circulation and nerves.
+If you live with diabetes or high blood pressure, managing those [chronic conditions](/en/services/condiciones-cronicas) also protects your urinary and sexual health, since both affect circulation and nerves.
 
 ## When is it urgent?
 
@@ -84,9 +84,9 @@ Talking about your prostate, erection problems, or urinary symptoms isn't easy f
 
 ## Walk-in care, no insurance needed, in Houston
 
-You don't need health insurance to be seen with us. We offer **affordable, transparent self-pay pricing**, and we tell you the cost before your visit. We see patients **on a walk-in basis, 7 days a week from 9 AM to 9 PM**, at our southwest Houston clinic. Before you come in, check our [current promotions](/promociones) — they often include general checkup and lab packages at a special price.
+You don't need health insurance to be seen with us. We offer **affordable, transparent self-pay pricing**, and we tell you the cost before your visit. We see patients **on a walk-in basis, 7 days a week from 9 AM to 9 PM**, at our southwest Houston clinic. Before you come in, check our [current promotions](/en/promociones) — they often include general checkup and lab packages at a special price.
 
-Your health shouldn't wait. If you have urinary symptoms, questions about your prostate, or simply want a men's checkup, visit our [Men's Health](/services/salud-hombre) page or come in without an appointment. Call us at **(281) 588-0033** with any questions.
+Your health shouldn't wait. If you have urinary symptoms, questions about your prostate, or simply want a men's checkup, visit our [Men's Health](/en/services/salud-hombre) page or come in without an appointment. Call us at **(281) 588-0033** with any questions.
 
 ## Frequently asked questions
 
