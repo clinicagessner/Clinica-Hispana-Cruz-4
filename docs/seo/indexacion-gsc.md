@@ -1,0 +1,25 @@
+# Indexación en Google Search Console — Clínica Hispana Cruz 4
+
+Propiedad: `https://www.clinicahispanacruz4.com/` (prefijo de URL).
+Método: `../playbook/PROMPT.md` §12. Se pide **por lote y solo después de reescribir**; máximo 10 por día.
+Orden: reescribir → `dateModified` → reenviar sitemap → pedir indexación de esas URLs.
+
+## Estado conocido (API, 2026-09-29)
+
+59 de 94 indexadas · 25 descubiertas sin indexar · 4 rastreadas sin indexar · 6 desconocidas.
+Sitemap `sitemap.xml` enviado por última vez el 2026-06-21 (0 errores). Detalle en `seo-data/2026-09-27/index-status.json`.
+
+## Tanda 1 — B3 posts lote 1 + farmacia (IndexNow enviado 2026-09-29)
+
+Antes de pedirlas: **Sitemaps → reenviar `sitemap.xml`**.
+
+- [ ] https://www.clinicahispanacruz4.com/blog/urologo-houston-habla-espanol-salud-hombre
+- [ ] https://www.clinicahispanacruz4.com/blog/atencion-medica-sin-seguro-houston
+- [ ] https://www.clinicahispanacruz4.com/blog/vitamina-b12-beneficios-inyecciones-houston
+- [ ] https://www.clinicahispanacruz4.com/blog/bienvenidos-clinica-hispana-cruz-4
+- [ ] https://www.clinicahispanacruz4.com/services/farmacia
+- [ ] https://www.clinicahispanacruz4.com/en/blog/urologo-houston-habla-espanol-salud-hombre
+- [ ] https://www.clinicahispanacruz4.com/en/blog/atencion-medica-sin-seguro-houston
+- [ ] https://www.clinicahispanacruz4.com/en/blog/vitamina-b12-beneficios-inyecciones-houston
+- [ ] https://www.clinicahispanacruz4.com/en/blog/bienvenidos-clinica-hispana-cruz-4
+- [ ] https://www.clinicahispanacruz4.com/en/services/farmacia
