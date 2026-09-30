@@ -642,30 +642,30 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   "vacunas": {
     "faqs": [
       {
-        "question": "¿Qué vacunas aplican?",
-        "answer": "Aplicamos la vacuna contra la influenza (flu) y el toxoide tetánico; pregúntanos cuál te conviene."
+        "question": "¿Puedo ponerme la vacuna de la flu si estoy embarazada?",
+        "answer": "Sí. Los CDC la recomiendan durante el embarazo porque protege a la madre y, en los primeros meses, al bebé. Avísenos de su embarazo al llegar."
       },
       {
-        "question": "¿Necesito cita previa?",
-        "answer": "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario."
+        "question": "¿Cada cuánto necesito el refuerzo del tétanos?",
+        "answer": "Cada diez años, después de haber recibido al menos una Tdap de adulto. Si se hace una herida sucia y su último refuerzo tiene más de cinco años, consulte cuanto antes."
       },
       {
-        "question": "¿Atienden a pacientes sin seguro?",
-        "answer": "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita."
+        "question": "¿Me dan comprobante de la vacuna?",
+        "answer": "Sí. Le entregamos un comprobante con la fecha y el nombre de la vacuna para su cartilla, la escuela o el trabajo."
       }
     ],
     "faqsEn": [
       {
-        "question": "Which vaccines do you give?",
-        "answer": "We administer the influenza (flu) vaccine and tetanus toxoid; ask us which one you need."
+        "question": "Is the flu vaccine safe during pregnancy?",
+        "answer": "Yes. The CDC recommends it during pregnancy because it protects the mother and, in the first months, the baby. Let us know you're pregnant when you arrive."
       },
       {
-        "question": "Do I need an appointment?",
-        "answer": "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time."
+        "question": "When is my next tetanus shot due?",
+        "answer": "Every ten years, after at least one adult Tdap dose. If you get a dirty wound and your last booster was more than five years ago, get checked promptly."
       },
       {
-        "question": "Do you accept patients without insurance?",
-        "answer": "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit."
+        "question": "Will I get proof of vaccination?",
+        "answer": "Yes. We give you a record with the date and vaccine name for your shot card, school or job."
       }
     ]
   },
