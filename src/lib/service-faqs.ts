@@ -702,30 +702,30 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   "suturas-heridas": {
     "faqs": [
       {
-        "question": "¿Atienden heridas sin cita?",
-        "answer": "Sí, atendemos cortes y heridas sin cita previa; entre más pronto, menor el riesgo de infección."
+        "question": "¿Cuánto tiempo puedo esperar para que me cosan una herida?",
+        "answer": "Venga cuanto antes, sin esperar al día siguiente. Mientras más tiempo pasa, más riesgo hay de infección y más difícil es cerrarla con seguridad."
       },
       {
-        "question": "¿Necesito cita previa?",
-        "answer": "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario."
+        "question": "¿Me tienen que poner la vacuna del tétanos?",
+        "answer": "Depende de cuándo fue su último refuerzo y de qué tan sucia estaba la herida. Si hace falta, la aplicamos en la misma visita."
       },
       {
-        "question": "¿Atienden a pacientes sin seguro?",
-        "answer": "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita."
+        "question": "¿Me quitan los puntos en la clínica?",
+        "answer": "Sí. Le indicamos la fecha según la zona de la herida y el retiro toma unos minutos."
       }
     ],
     "faqsEn": [
       {
-        "question": "Do you treat wounds without an appointment?",
-        "answer": "Yes, we treat cuts and wounds on a walk-in basis; the sooner, the lower the risk of infection."
+        "question": "How long can I wait to get a wound stitched?",
+        "answer": "Ideally, come in within the first hours. The longer it waits, the higher the infection risk and the harder it is to close safely."
       },
       {
-        "question": "Do I need an appointment?",
-        "answer": "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time."
+        "question": "Will I need a tetanus shot?",
+        "answer": "It depends on when you had your last booster and how dirty the wound was. If you need one, we give it at the same visit."
       },
       {
-        "question": "Do you accept patients without insurance?",
-        "answer": "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit."
+        "question": "Do you remove the stitches at the clinic?",
+        "answer": "Yes. We tell you the date based on where the wound is, and removal takes just a few minutes."
       }
     ]
   },
