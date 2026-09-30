@@ -136,10 +136,16 @@ export default async function ServicePage({ params }: Props) {
   const service = getLocalizedService(rawService, locale);
   const IconComponent = iconMap[service.icon] || Stethoscope;
 
-  // Get related services (same category, excluding current)
-  const relatedServices = SERVICES.filter(
-    (s) => s.category === rawService.category && s.id !== rawService.id
-  ).slice(0, 3).map((s) => getLocalizedService(s, locale));
+  // Relacionados por rotación circular dentro de la categoría: cada servicio
+  // enlaza a los tres siguientes, así todos reciben enlaces. Con slice(0, 3)
+  // la cola de cada categoría se quedaba sin ninguno.
+  const sameCategory = SERVICES.filter((s) => s.category === rawService.category)
+    .sort((a, b) => a.order - b.order);
+  const position = sameCategory.findIndex((s) => s.id === rawService.id);
+  const relatedServices = Array.from(
+    { length: Math.min(3, sameCategory.length - 1) },
+    (_, i) => sameCategory[(position + i + 1) % sameCategory.length]
+  ).map((s) => getLocalizedService(s, locale));
 
   const localePath = locale === "en" ? "/en" : "";
   const breadcrumbs = [
@@ -332,7 +338,7 @@ export default async function ServicePage({ params }: Props) {
                   return (
                     <Link
                       key={related.id}
-                      href={`/services/${related.slug}`}
+                      href={`${locale === "en" ? "/en" : ""}/services/${related.slug}`}
                       className="group block"
                     >
                       <article className="relative h-full bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 border border-slate-light hover:border-blue-light">
