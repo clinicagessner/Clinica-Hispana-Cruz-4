@@ -1,8 +1,9 @@
 import type { Metadata } from "next";
 import { Space_Grotesk, IBM_Plex_Sans } from "next/font/google";
-import { NextIntlClientProvider } from "next-intl";
+import { hasLocale, NextIntlClientProvider } from "next-intl";
 import { getMessages, getTranslations, setRequestLocale } from "next-intl/server";
 import { routing } from "@/i18n/routing";
+import { notFound } from "next/navigation";
 import { TooltipProvider } from "@/components/ui/tooltip";
 import { ScrollToTop } from "@/components/layout/scroll-to-top";
 import { ScrollAnimations } from "@/components/animations/scroll-animations";
@@ -129,6 +130,11 @@ export function generateStaticParams() {
 
 export default async function LocaleLayout({ children, params }: Props) {
   const { locale } = await params;
+
+  // Sin esto, /ads.txt, /foo.xml o /index.html renderizan la home con 200.
+  if (!hasLocale(routing.locales, locale)) {
+    notFound();
+  }
 
   setRequestLocale(locale);
 
