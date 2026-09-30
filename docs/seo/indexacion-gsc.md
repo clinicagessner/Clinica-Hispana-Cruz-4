@@ -78,3 +78,18 @@ La tanda 1 ya incluye el post del urólogo; se vuelve a enviar solo por IndexNow
 - [ ] https://www.clinicahispanacruz4.com/en/services/vacunas
 - [ ] https://www.clinicahispanacruz4.com/services/electrocardiograma
 - [ ] https://www.clinicahispanacruz4.com/en/services/electrocardiograma
+
+## Tanda 6 — B3 servicios lote 3 (IndexNow al publicar; GSC al final)
+
+- [ ] https://www.clinicahispanacruz4.com/services/ultrasonido
+- [ ] https://www.clinicahispanacruz4.com/en/services/ultrasonido
+- [ ] https://www.clinicahispanacruz4.com/services/examenes-sangre
+- [ ] https://www.clinicahispanacruz4.com/en/services/examenes-sangre
+- [ ] https://www.clinicahispanacruz4.com/services/infecciones-urinarias
+- [ ] https://www.clinicahispanacruz4.com/en/services/infecciones-urinarias
+- [ ] https://www.clinicahispanacruz4.com/services/prueba-strep
+- [ ] https://www.clinicahispanacruz4.com/en/services/prueba-strep
+- [ ] https://www.clinicahispanacruz4.com/services/prueba-tuberculosis
+- [ ] https://www.clinicahispanacruz4.com/en/services/prueba-tuberculosis
+- [ ] https://www.clinicahispanacruz4.com/services/enfermedades-transmision-sexual
+- [ ] https://www.clinicahispanacruz4.com/en/services/enfermedades-transmision-sexual
