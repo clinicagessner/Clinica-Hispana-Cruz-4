@@ -93,3 +93,18 @@ La tanda 1 ya incluye el post del urólogo; se vuelve a enviar solo por IndexNow
 - [ ] https://www.clinicahispanacruz4.com/en/services/prueba-tuberculosis
 - [ ] https://www.clinicahispanacruz4.com/services/enfermedades-transmision-sexual
 - [ ] https://www.clinicahispanacruz4.com/en/services/enfermedades-transmision-sexual
+
+## Tanda 7 — B3 servicios lote 4 (IndexNow al publicar; GSC al final)
+
+Farmacia ya está en la tanda 1 (se reescribió de nuevo el 30-sep; se reenvía solo por IndexNow).
+
+- [ ] https://www.clinicahispanacruz4.com/services/prueba-embarazo
+- [ ] https://www.clinicahispanacruz4.com/en/services/prueba-embarazo
+- [ ] https://www.clinicahispanacruz4.com/services/anticonceptivos
+- [ ] https://www.clinicahispanacruz4.com/en/services/anticonceptivos
+- [ ] https://www.clinicahispanacruz4.com/services/extraccion-implantes
+- [ ] https://www.clinicahispanacruz4.com/en/services/extraccion-implantes
+- [ ] https://www.clinicahispanacruz4.com/services/salud-hombre
+- [ ] https://www.clinicahispanacruz4.com/en/services/salud-hombre
+- [ ] https://www.clinicahispanacruz4.com/services/enfermedades-respiratorias
+- [ ] https://www.clinicahispanacruz4.com/en/services/enfermedades-respiratorias
