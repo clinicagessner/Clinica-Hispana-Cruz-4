@@ -1191,10 +1191,10 @@ export const SERVICES: Service[] = [
     "title": "Farmacia",
     "titleEn": "Pharmacy",
     "shortTitle": "Farmacia",
-    "description": "Farmacia en Houston, TX dentro de la clínica. Surtimos tu receta al terminar la consulta, atención en español.",
-    "descriptionEn": "Pharmacy in Houston, TX inside the clinic. We fill your prescription right after your visit, service in Spanish.",
-    "longDescription": "Al terminar tu consulta en Clínica Hispana Cruz 4 puedes recoger tus medicamentos en nuestra propia farmacia, sin tener que ir a otro lugar. Es la comodidad de resolver todo en una sola visita, con atención en español.\n\n**¿Qué incluye?**\n- Surtido de tu receta justo al terminar la consulta\n- Medicamentos de marca y genéricos\n- Medicamentos de venta libre (OTC) para gripe, dolor, alergias y más\n- Asesoría del personal sobre cómo tomar tus medicamentos\n- Resurtido de recetas\n\n**¿Por qué usar nuestra farmacia?**\nTe ahorras una segunda parada: el médico te atiende, te receta y recoges tu medicamento en el mismo lugar. Te explicamos en español la dosis, los horarios y los cuidados.\n\n**¿Por qué elegir Clínica Hispana Cruz 4?**\nSomos una clínica hispana y latina que te atiende 100% en español, sin cita previa y con precios accesibles, sin necesidad de seguro médico. Encuéntranos como tu centro médico cerca de ti en 10100 Beechnut St Ste 240, Houston, TX 77072, con horario de lunes a domingo de 9 AM a 9 PM. Nuestro equipo trata a cada paciente con respeto, tiempo y explicaciones claras.\n\n**Formas de pago**\nNo necesitas seguro médico. Manejamos precios accesibles y transparentes, y aceptamos efectivo y tarjetas. Pregúntanos por el costo de tu servicio antes de tu visita.\n\n**Áreas que servimos**\nAtendemos a pacientes de Houston, TX y todo el suroeste de la ciudad: Alief, Sharpstown, Mission Bend, Westchase, Gulfton, Bellaire y comunidades cercanas.",
-    "longDescriptionEn": "After your visit at Clínica Hispana Cruz 4 you can pick up your medications at our own pharmacy, without going anywhere else. It's the convenience of getting everything done in a single visit, with service in Spanish.\n\n**What's included?**\n- Your prescription filled right after your visit\n- Brand-name and generic medications\n- Over-the-counter (OTC) medications for colds, pain, allergies and more\n- Staff guidance on how to take your medications\n- Prescription refills\n\n**Why use our pharmacy?**\nYou skip the second stop: the doctor sees you, writes your prescription, and you pick up your medication in the same place. We explain the dosage, schedule and precautions in Spanish.\n\n**Why choose Clínica Hispana Cruz 4?**\nWe are a Hispanic and Latino clinic that cares for you 100% in Spanish, with no appointment needed and affordable pricing, no insurance required. Find your medical center near you at 10100 Beechnut St Ste 240, Houston, TX 77072, open Monday through Sunday from 9 AM to 9 PM. Our team treats every patient with respect, time and clear explanations.\n\n**Payment**\nYou don't need health insurance. We offer affordable, transparent pricing and accept cash and cards. Ask us about the cost of your service before your visit.\n\n**Areas we serve**\nWe care for patients across Houston, TX and the entire southwest side of the city: Alief, Sharpstown, Mission Bend, Westchase, Gulfton, Bellaire and nearby communities.",
+    "description": "Farmacia dentro de la clínica en Houston, TX: te llevas los medicamentos que indicó tu consulta y productos de venta libre.",
+    "descriptionEn": "In-clinic pharmacy in Houston, TX: take home the medications prescribed at your visit plus over-the-counter products.",
+    "longDescription": "Al terminar tu consulta en Clínica Hispana Cruz 4 puedes recoger tus medicamentos en nuestra propia farmacia, sin tener que ir a otro lugar. Es la comodidad de resolver todo en una sola visita, con atención en español.\n\n**¿Qué incluye?**\n- Entrega, antes de irte, de lo que se recetó en tu visita\n- Medicamentos de marca y genéricos\n- Medicamentos de venta libre (OTC) para gripe, dolor, alergias y más\n- Asesoría del personal sobre cómo tomar tus medicamentos\n\n**¿Por qué usar nuestra farmacia?**\nTe ahorras una segunda parada: te atiende el equipo médico y sales con el medicamento que te indicó. Te explicamos en español la dosis, los horarios y los cuidados.\n\n**¿Por qué elegir Clínica Hispana Cruz 4?**\nSomos una clínica hispana y latina que te atiende 100% en español, sin cita previa y con precios accesibles, sin necesidad de seguro médico. Encuéntranos como tu centro médico cerca de ti en 10100 Beechnut St Ste 240, Houston, TX 77072, con horario de lunes a domingo de 9 AM a 9 PM. Nuestro equipo trata a cada paciente con respeto, tiempo y explicaciones claras.\n\n**Formas de pago**\nNo necesitas seguro médico. Manejamos precios accesibles y transparentes, y aceptamos efectivo y tarjetas. Pregúntanos por el costo de tu servicio antes de tu visita.\n\n**Áreas que servimos**\nAtendemos a pacientes de Houston, TX y todo el suroeste de la ciudad: Alief, Sharpstown, Mission Bend, Westchase, Gulfton, Bellaire y comunidades cercanas.",
+    "longDescriptionEn": "After your visit at Clínica Hispana Cruz 4 you can pick up your medications at our own pharmacy, without going anywhere else. It's the convenience of getting everything done in a single visit, with service in Spanish.\n\n**What's included?**\n- The medications our medical team prescribed at your visit, before you leave\n- Brand-name and generic medications\n- Over-the-counter (OTC) medications for colds, pain, allergies and more\n- Staff guidance on how to take your medications\n\n**Why use our pharmacy?**\nYou skip the second stop: our medical team sees you and you leave with the medication it prescribed. We explain the dosage, schedule and precautions in Spanish.\n\n**Why choose Clínica Hispana Cruz 4?**\nWe are a Hispanic and Latino clinic that cares for you 100% in Spanish, with no appointment needed and affordable pricing, no insurance required. Find your medical center near you at 10100 Beechnut St Ste 240, Houston, TX 77072, open Monday through Sunday from 9 AM to 9 PM. Our team treats every patient with respect, time and clear explanations.\n\n**Payment**\nYou don't need health insurance. We offer affordable, transparent pricing and accept cash and cards. Ask us about the cost of your service before your visit.\n\n**Areas we serve**\nWe care for patients across Houston, TX and the entire southwest side of the city: Alief, Sharpstown, Mission Bend, Westchase, Gulfton, Bellaire and nearby communities.",
     "icon": "Syringe",
     "image": "/images/services/farmacia.webp",
     "category": "tratamientos",
@@ -1202,22 +1202,22 @@ export const SERVICES: Service[] = [
       "farmacia en houston",
       "farmacia hispana houston",
       "farmacia cerca de mí houston",
-      "surtir receta houston"
+      "medicamentos en la clínica houston"
     ],
     "keywordsEn": [
       "pharmacy houston",
       "hispanic pharmacy houston",
       "pharmacy near me houston",
-      "fill prescription houston"
+      "medications at the clinic houston"
     ],
     "features": [
-      "Surtido de tu receta al instante",
+      "Medicamentos indicados en tu consulta",
       "Medicamentos de marca y genéricos",
       "Medicamentos de venta libre (OTC)",
       "Asesoría sobre tus medicamentos en español"
     ],
     "featuresEn": [
-      "Prescriptions filled on the spot",
+      "Medications prescribed at your visit",
       "Brand-name and generic medications",
       "Over-the-counter (OTC) medications",
       "Guidance about your medications in Spanish"
