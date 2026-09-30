@@ -329,7 +329,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
     "faqs": [
       {
         "question": "¿En cuánto tiempo entregan los resultados?",
-        "answer": "En la mayoría de los casos los resultados están listos el mismo día o muy pronto, y te los explicamos en español."
+        "answer": "Los resultados salen rápido y te avisamos en cuanto están listos; el equipo médico te los explica en español."
       },
       {
         "question": "¿Necesito cita previa?",
@@ -343,7 +343,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
     "faqsEn": [
       {
         "question": "How soon are results ready?",
-        "answer": "In most cases results are ready the same day or very soon, and we explain them to you in Spanish."
+        "answer": "Results come back quickly and we let you know as soon as they're ready; the medical team explains them in Spanish."
       },
       {
         "question": "Do I need an appointment?",
