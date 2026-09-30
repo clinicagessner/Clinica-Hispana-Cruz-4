@@ -175,7 +175,7 @@
     "q4": "¿Cuáles son sus horarios de atención?",
     "a4": "Atendemos de lunes a domingo. Nuestro horario regular es de 9:00 AM a 9:00 PM todos los días. Por favor llámenos para confirmar horarios en días festivos.",
     "q5": "¿Qué formas de pago aceptan?",
-    "a5": "Aceptamos efectivo y todas las tarjetas de crédito y débito principales (Visa, MasterCard, American Express, Discover). No necesita seguro médico: manejamos precios accesibles y transparentes de pago directo.",
+    "a5": "Puede pagar en efectivo o con tarjeta de débito o crédito. No hace falta seguro médico: le decimos el precio antes de atenderle.",
     "q6": "¿Ofrecen planes de pago?",
     "a6": "Sí, ofrecemos planes de pago flexibles para ayudarle a manejar los costos de su atención médica. Hable con nuestra recepcionista sobre las opciones disponibles para su situación particular.",
     "q7": "¿Dónde están ubicados en Houston?",
@@ -186,10 +186,10 @@
     "a9": "El tiempo de espera varía según la demanda del día, pero generalmente atendemos a los pacientes en 15-30 minutos. Le recomendamos llegar temprano para asegurar una atención más rápida.",
     "q10": "¿Hay estacionamiento disponible?",
     "a10": "Sí, contamos con amplio estacionamiento gratuito frente a la clínica. Nuestras instalaciones también son accesibles para personas con discapacidad, incluyendo rampas y baños adaptados.",
-    "q11": "¿Dónde encuentro una clínica hispana cerca de mí en Houston?",
-    "a11": "Clínica Hispana Cruz 4 es una clínica hispana y latina en 10100 Beechnut St Ste 240, Houston, TX 77072, en el suroeste de Houston. Abrimos todos los días de 9:00 AM a 9:00 PM, sin cita previa.",
-    "q12": "¿Puedo tener aquí a mi médico primario?",
-    "a12": "Sí. Muchas familias nos eligen como su médico primario y centro médico cerca de casa: consultas de medicina general, control de condiciones crónicas y laboratorio en un solo lugar."
+    "q11": "¿Hay una clínica hispana cerca de Alief y Sharpstown?",
+    "a11": "Sí: Clínica Hispana Cruz 4 está en 10100 Beechnut St, Suite 240, Houston, TX 77072, a pocos minutos de Alief, Sharpstown y Bellaire. Recibimos pacientes sin cita de 9 de la mañana a 9 de la noche, también sábados y domingos.",
+    "q12": "¿Puedo tener aquí a mi médico de cabecera?",
+    "a12": "Sí. Puede llevar con nosotros su medicina general de todo el año: consultas cuando se enferma, control de diabetes, presión y colesterol, y análisis en nuestro propio laboratorio, todo en el mismo lugar."
   },
   "location": {
     "title": "Nuestra Clínica Hispana Cerca de Ti en Houston",

@@ -175,7 +175,7 @@
     "q4": "What are your business hours?",
     "a4": "We're open Monday through Sunday. Our regular hours are 9:00 AM to 9:00 PM every day. Please call us to confirm hours on holidays.",
     "q5": "What payment methods do you accept?",
-    "a5": "We accept cash and all major credit and debit cards (Visa, MasterCard, American Express, Discover). No insurance needed — we offer affordable, transparent self-pay pricing.",
+    "a5": "You can pay with cash or a debit or credit card. No health insurance needed: we tell you the price before your visit.",
     "q6": "Do you offer payment plans?",
     "a6": "Yes, we offer flexible payment plans to help you manage your healthcare costs. Talk to our receptionist about the options available for your particular situation.",
     "q7": "Where are you located in Houston?",
@@ -186,10 +186,10 @@
     "a9": "Wait times vary depending on daily demand, but we generally see patients within 15-30 minutes. We recommend arriving early to ensure faster service.",
     "q10": "Is parking available?",
     "a10": "Yes, we have ample free parking in front of the clinic. Our facilities are also accessible for people with disabilities, including ramps and adapted restrooms.",
-    "q11": "Where can I find a Hispanic clinic near me in Houston?",
-    "a11": "Clínica Hispana Cruz 4 is a Hispanic and Latino clinic at 10100 Beechnut St Ste 240, Houston, TX 77072, on the southwest side of Houston. We are open every day from 9:00 AM to 9:00 PM, no appointment needed.",
-    "q12": "Can this clinic be my primary care doctor?",
-    "a12": "Yes. Many families choose us as their primary care provider and medical center close to home: general medicine visits, chronic condition management and lab work in one place."
+    "q11": "Is there a Hispanic clinic near Alief and Sharpstown?",
+    "a11": "Yes: Clínica Hispana Cruz 4 is at 10100 Beechnut St, Suite 240, Houston, TX 77072, a few minutes from Alief, Sharpstown and Bellaire. We see walk-in patients from 9 in the morning to 9 at night, weekends included.",
+    "q12": "Can I make this my regular doctor's office?",
+    "a12": "Yes. You can bring your year-round general care to us: visits when you're sick, diabetes, blood pressure and cholesterol follow-up, and lab work in our own lab, all under one roof."
   },
   "location": {
     "title": "Our Hispanic Clinic Near You in Houston",
