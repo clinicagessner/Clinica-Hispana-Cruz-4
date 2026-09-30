@@ -4,30 +4,31 @@ Propiedad: `https://www.clinicahispanacruz4.com/` (prefijo de URL).
 Método: `../playbook/PROMPT.md` §12. Se pide **por lote y solo después de reescribir**; máximo 10 por día.
 Orden: reescribir → `dateModified` → reenviar sitemap → pedir indexación de esas URLs.
 
+**Regla de red (usuario, 2026-09-30): la indexación en GSC es lo ÚLTIMO, cuando esté terminado todo el SEO/GEO (B0-B4).**
 **Decisión del usuario (2026-09-29): reenviar el sitemap y pedir indexación AL FINAL**, cuando
 esté terminado todo el contenido (B3). No proponerlo antes. Las tandas se van acumulando aquí.
 
-**Estado 2026-09-30: B3 terminado. Tanda 1 pedida el 30/09; faltan las tandas 2-9 (80 URLs), 10 por día.**
+**Estado 2026-09-30: la tanda 1 se pidió antes de tiempo (quedaban B1/B2/B4) y NO cuenta. Se reempieza desde la tanda 1 cuando B1-B4 estén cerrados.**
 
 ## Estado conocido (API, 2026-09-29)
 
 59 de 94 indexadas · 25 descubiertas sin indexar · 4 rastreadas sin indexar · 6 desconocidas.
 Sitemap `sitemap.xml` enviado por última vez el 2026-06-21 (0 errores). Detalle en `seo-data/2026-09-27/index-status.json`.
 
-## Tanda 1 — B3 posts lote 1 + farmacia ✅ PEDIDA 30/09/2026 (IndexNow 2026-09-29)
+## Tanda 1 — B3 posts lote 1 + farmacia (pedida 30/09/2026 antes de tiempo: repetir)
 
 Sitemap `sitemap.xml` reenviado el 30/09/2026.
 
-- [x] https://www.clinicahispanacruz4.com/blog/urologo-houston-habla-espanol-salud-hombre
-- [x] https://www.clinicahispanacruz4.com/blog/atencion-medica-sin-seguro-houston
-- [x] https://www.clinicahispanacruz4.com/blog/vitamina-b12-beneficios-inyecciones-houston
-- [x] https://www.clinicahispanacruz4.com/blog/bienvenidos-clinica-hispana-cruz-4
-- [x] https://www.clinicahispanacruz4.com/services/farmacia
-- [x] https://www.clinicahispanacruz4.com/en/blog/urologo-houston-habla-espanol-salud-hombre
-- [x] https://www.clinicahispanacruz4.com/en/blog/atencion-medica-sin-seguro-houston
-- [x] https://www.clinicahispanacruz4.com/en/blog/vitamina-b12-beneficios-inyecciones-houston
-- [x] https://www.clinicahispanacruz4.com/en/blog/bienvenidos-clinica-hispana-cruz-4
-- [x] https://www.clinicahispanacruz4.com/en/services/farmacia
+- [ ] https://www.clinicahispanacruz4.com/blog/urologo-houston-habla-espanol-salud-hombre
+- [ ] https://www.clinicahispanacruz4.com/blog/atencion-medica-sin-seguro-houston
+- [ ] https://www.clinicahispanacruz4.com/blog/vitamina-b12-beneficios-inyecciones-houston
+- [ ] https://www.clinicahispanacruz4.com/blog/bienvenidos-clinica-hispana-cruz-4
+- [ ] https://www.clinicahispanacruz4.com/services/farmacia
+- [ ] https://www.clinicahispanacruz4.com/en/blog/urologo-houston-habla-espanol-salud-hombre
+- [ ] https://www.clinicahispanacruz4.com/en/blog/atencion-medica-sin-seguro-houston
+- [ ] https://www.clinicahispanacruz4.com/en/blog/vitamina-b12-beneficios-inyecciones-houston
+- [ ] https://www.clinicahispanacruz4.com/en/blog/bienvenidos-clinica-hispana-cruz-4
+- [ ] https://www.clinicahispanacruz4.com/en/services/farmacia
 
 ## Tanda 2 — B3 posts lote 2 (IndexNow enviado al publicar; GSC al final)
 
