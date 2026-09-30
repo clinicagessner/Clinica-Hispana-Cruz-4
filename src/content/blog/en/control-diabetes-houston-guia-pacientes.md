@@ -55,7 +55,7 @@ In Houston's Hispanic community, the risk of prediabetes is especially high due 
 - People with high blood pressure or elevated cholesterol
 - People with little or no physical activity
 
-If you have any of these risk factors, request a glucose test at our [clinical laboratory](/services/examenes-sangre). Early detection can change the course of your health.
+If you have any of these risk factors, request a glucose test at our [clinical laboratory](/en/services/examenes-sangre). Early detection can change the course of your health.
 
 ## Symptoms of Diabetes
 
@@ -79,7 +79,7 @@ Monitoring your glucose levels regularly is essential:
 - **Hemoglobin A1C:** less than 7%
 
 ### Regular Tests
-At Clínica Hispana Cruz 4 we perform all the tests needed to manage diabetes. See our [chronic conditions](/services/condiciones-cronicas) and [laboratory](/services/examenes-sangre) services:
+At Clínica Hispana Cruz 4 we perform all the tests needed to manage diabetes. See our [chronic conditions](/en/services/condiciones-cronicas) and [laboratory](/en/services/examenes-sangre) services:
 - Fasting glucose tests
 - Hemoglobin A1C (every 3 months)
 - Complete metabolic panel
@@ -199,11 +199,11 @@ Taking care of your mind is just as important as taking care of your blood sugar
 
 ## How We Can Help
 
-At **Clínica Hispana Cruz 4** we offer comprehensive care for the [management of chronic conditions like diabetes](/services/condiciones-cronicas):
+At **Clínica Hispana Cruz 4** we offer comprehensive care for the [management of chronic conditions like diabetes](/en/services/condiciones-cronicas):
 
 ### Diabetes Services
 - Medical consultations in Spanish
-- Glucose and A1C tests at our [laboratory](/services/examenes-sangre)
+- Glucose and A1C tests at our [laboratory](/en/services/examenes-sangre)
 - Medication adjustments
 - Nutrition education
 - Continuous monitoring

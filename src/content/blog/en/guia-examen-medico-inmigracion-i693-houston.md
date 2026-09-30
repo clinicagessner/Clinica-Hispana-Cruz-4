@@ -27,7 +27,7 @@ Form I-693, known as the "Report of Medical Examination and Vaccination Record,"
 
 ## Who Can Perform the I-693 Exam?
 
-Only physicians designated as **Civil Surgeons** by USCIS are authorized to perform this examination. At [Clínica Hispana Cruz 4](/services/examenes-inmigracion), we have certified Civil Surgeons who perform these exams every day in Houston.
+Only physicians designated as **Civil Surgeons** by USCIS are authorized to perform this examination. At [Clínica Hispana Cruz 4](/en/services/examenes-inmigracion), we have certified Civil Surgeons who perform these exams every day in Houston.
 
 ## What Does the Immigration Medical Exam Include?
 
@@ -42,7 +42,7 @@ Only physicians designated as **Civil Surgeons** by USCIS are authorized to perf
 - Tuberculosis test (TB skin test or IGRA blood test)
 - Additional tests as required by USCIS guidelines
 
-Our [clinical laboratory](/services/examenes-sangre) performs all of these tests on-site, so you will not need to go anywhere else to complete the lab requirements for the I-693.
+Our [clinical laboratory](/en/services/examenes-sangre) performs all of these tests on-site, so you will not need to go anywhere else to complete the lab requirements for the I-693.
 
 ### Required Vaccinations
 USCIS requires that all applicants be up to date with the vaccination schedule recommended by the Advisory Committee on Immunization Practices (ACIP). Below are the most commonly required vaccines:
@@ -150,7 +150,7 @@ If your form was rejected, contact us. We can help you understand why and schedu
 
 ## Schedule Your Exam Today
 
-Don't let the medical exam delay your immigration process. Contact us today to schedule your [I-693 immigration exam](/services/examenes-inmigracion).
+Don't let the medical exam delay your immigration process. Contact us today to schedule your [I-693 immigration exam](/en/services/examenes-inmigracion).
 
 **Clínica Hispana Cruz 4**
 - Phone: (281) 588-0033

@@ -107,7 +107,7 @@ Some clinics also offer sliding fee scales for patients without insurance.
 
 ## How Clinica Hispana Cruz 4 can help
 
-At **Clinica Hispana Cruz 4** we offer [gynecology services](/services/ginecologia) fully in Spanish. Our team is at **10100 Beechnut St Ste 240, Houston TX 77072**, open 7 days a week from 9 AM to 9 PM, walk-ins welcome.
+At **Clinica Hispana Cruz 4** we offer [gynecology services](/en/services/ginecologia) fully in Spanish. Our team is at **10100 Beechnut St Ste 240, Houston TX 77072**, open 7 days a week from 9 AM to 9 PM, walk-ins welcome.
 
 We provide:
 
@@ -116,9 +116,9 @@ We provide:
 - Basic prenatal care
 - Menstrual irregularity evaluation
 - Menopause consultation
-- [Family planning and birth control](/services/anticonceptivos)
+- [Family planning and birth control](/en/services/anticonceptivos)
 
-If you'd like a full overview of our women's health services, we put together a complete guide: [Women's Health in Houston: Gynecology Services in Spanish](/blog/salud-mujer-houston-servicios-ginecologia).
+If you'd like a full overview of our women's health services, we put together a complete guide: [Women's Health in Houston: Gynecology Services in Spanish](/en/blog/salud-mujer-houston-servicios-ginecologia).
 
 No insurance needed to be seen — we offer affordable self-pay pricing. Call **(281) 588-0033** to confirm availability.
 

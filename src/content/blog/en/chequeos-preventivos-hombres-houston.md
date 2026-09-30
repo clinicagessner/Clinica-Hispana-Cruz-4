@@ -32,14 +32,14 @@ An annual preventive checkup lets you:
 
 - Catch high blood pressure, diabetes and cholesterol **before** they cause damage
 - Know your baseline numbers so changes are spotted early
-- Check how your kidneys, liver and [thyroid](/services/tiroides) are working
+- Check how your kidneys, liver and [thyroid](/en/services/tiroides) are working
 - Adjust your habits with real medical guidance, not internet remedies
 
 Catching things early almost always means simpler treatment, fewer medications and a better outlook.
 
 ## What a preventive checkup includes at our clinic
 
-At [Clínica Hispana Cruz 4](/services/salud-hombre) the men's checkup is tailored to your age and history. The most common components are:
+At [Clínica Hispana Cruz 4](/en/services/salud-hombre) the men's checkup is tailored to your age and history. The most common components are:
 
 ### General physical exam
 
@@ -47,15 +47,15 @@ Blood pressure, weight and vital signs, plus a conversation in Spanish about you
 
 ### Lab work
 
-A [blood test](/services/examenes-sangre) covering glucose, a full cholesterol panel, and kidney and liver function. We have our own lab with same-day results, so you don't have to come back another day just to learn your numbers.
+A [blood test](/en/services/examenes-sangre) covering glucose, a full cholesterol panel, and kidney and liver function. We have our own lab with same-day results, so you don't have to come back another day just to learn your numbers.
 
 ### Electrocardiogram
 
-The [electrocardiogram](/services/electrocardiograma) checks your heart's rhythm and electrical activity in minutes. It's especially recommended after age 40 or if heart disease runs in your family.
+The [electrocardiogram](/en/services/electrocardiograma) checks your heart's rhythm and electrical activity in minutes. It's especially recommended after age 40 or if heart disease runs in your family.
 
 ### Prostate health and hormones
 
-When age or symptoms call for it, we add PSA and testosterone to your lab work. If you want to go deeper on this topic, we wrote a full guide: [Spanish-speaking urologist in Houston: men's health](/blog/urologo-houston-habla-espanol-salud-hombre).
+When age or symptoms call for it, we add PSA and testosterone to your lab work. If you want to go deeper on this topic, we wrote a full guide: [Spanish-speaking urologist in Houston: men's health](/en/blog/urologo-houston-habla-espanol-salud-hombre).
 
 ## Conditions a checkup catches early
 
@@ -63,9 +63,9 @@ When age or symptoms call for it, we add PSA and testosterone to your lab work. 
 - **Type 2 diabetes:** very common in the Hispanic community; caught early, it can be controlled and even reversed with lifestyle changes
 - **High cholesterol:** a leading risk factor for heart attacks in younger men
 - **Thyroid problems:** they cause fatigue, weight changes and mood swings
-- **Sexually transmitted infections:** many cause no symptoms; [STI testing](/services/enfermedades-transmision-sexual) is quick and confidential
+- **Sexually transmitted infections:** many cause no symptoms; [STI testing](/en/services/enfermedades-transmision-sexual) is quick and confidential
 
-If you already live with one of these conditions, ongoing [chronic condition care](/services/condiciones-cronicas) prevents complications and hospital stays.
+If you already live with one of these conditions, ongoing [chronic condition care](/en/services/condiciones-cronicas) prevents complications and hospital stays.
 
 ## Recommended screenings by age
 

@@ -205,7 +205,7 @@ People with diabetes in Houston need regular lab work to keep the condition unde
 - **Lipid panel:** Diabetics have a higher cardiovascular risk
 - **Urine microalbumin:** Detects early kidney damage
 
-Our [chronic conditions services](/services/condiciones-cronicas) include complete diabetes follow-up with regular lab work and nutritional guidance.
+Our [chronic conditions services](/en/services/condiciones-cronicas) include complete diabetes follow-up with regular lab work and nutritional guidance.
 
 ### Lab Tests During Pregnancy
 
@@ -224,7 +224,7 @@ Heart disease is the leading cause of death in Houston and across the United Sta
 - High-sensitivity C-reactive protein (inflammation marker)
 - Electrocardiogram if your doctor recommends it — also available at our clinic
 
-Visit our [clinical laboratory](/services/examenes-sangre) page to see all available tests with no appointment needed in Houston TX.
+Visit our [clinical laboratory](/en/services/examenes-sangre) page to see all available tests with no appointment needed in Houston TX.
 
 ## Schedule Your Lab Work
 
