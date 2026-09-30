@@ -132,46 +132,30 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   "examen-fisico-escolar": {
     "faqs": [
       {
-        "question": "¿Llenan el formulario de la escuela o el equipo?",
-        "answer": "Sí, trae el formulario de tu escuela o equipo deportivo y lo completamos durante la visita, firmado el mismo día."
+        "question": "¿Qué parte del formulario tengo que llenar antes de venir?",
+        "answer": "La sección de historia médica, que contestan los padres o el alumno: enfermedades previas, medicamentos, alergias y antecedentes familiares. El médico llena y firma la parte del examen."
       },
       {
-        "question": "¿Cuánto tarda el examen físico escolar?",
-        "answer": "La mayoría de los exámenes toman entre 15 y 30 minutos. Sales de la clínica con el formulario completado y firmado en la misma visita."
+        "question": "¿La prueba de tuberculosis se termina en una sola visita?",
+        "answer": "No. Es una prueba cutánea: se aplica hoy y hay que regresar entre 48 y 72 horas después para que se lea el resultado y se anote en el formulario."
       },
       {
-        "question": "¿Hacen también la prueba de tuberculosis o las vacunas que pide la escuela?",
-        "answer": "Sí. Si tu escuela pide prueba de tuberculosis, vacunas o el récord de vacunación, podemos completarlo todo en la misma visita, sin que tengas que regresar otro día."
-      },
-      {
-        "question": "¿Necesito cita previa?",
-        "answer": "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario."
-      },
-      {
-        "question": "¿Atienden a pacientes sin seguro?",
-        "answer": "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita."
+        "question": "¿Qué pasa si el médico encuentra algo durante el examen?",
+        "answer": "Se lo explica en ese momento. Algunos hallazgos, como un soplo o presión alta, pueden requerir una revisión adicional antes de autorizar el deporte; le decimos qué sigue y cómo hacerlo."
       }
     ],
     "faqsEn": [
       {
-        "question": "Do you fill out the school or team form?",
-        "answer": "Yes, bring your school or sports-team form and we complete it during the visit, signed the same day."
+        "question": "Which part of the form should I fill out before coming in?",
+        "answer": "The medical history section, answered by the parents or student: past illnesses, medications, allergies and family history. The doctor completes and signs the exam part."
       },
       {
-        "question": "How long does the school physical take?",
-        "answer": "Most exams take 15 to 30 minutes. You leave the clinic with the form completed and signed in the same visit."
+        "question": "Is the TB test done in a single visit?",
+        "answer": "No. It's a skin test: it's placed today and you come back 48 to 72 hours later so the result can be read and recorded on the form."
       },
       {
-        "question": "Do you also do the TB test or vaccines the school requires?",
-        "answer": "Yes. If your school requires a tuberculosis test, vaccines, or the immunization record, we can complete everything in the same visit — no second trip needed."
-      },
-      {
-        "question": "Do I need an appointment?",
-        "answer": "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time."
-      },
-      {
-        "question": "Do you accept patients without insurance?",
-        "answer": "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit."
+        "question": "What if the doctor finds something during the exam?",
+        "answer": "They explain it on the spot. Some findings, such as a murmur or high blood pressure, may need an extra check before sports clearance; we tell you what comes next and how to handle it."
       }
     ]
   },
