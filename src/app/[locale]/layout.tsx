@@ -8,10 +8,9 @@ import { TooltipProvider } from "@/components/ui/tooltip";
 import { ScrollToTop } from "@/components/layout/scroll-to-top";
 import { ScrollAnimations } from "@/components/animations/scroll-animations";
 import { MetaPixelSPATracker } from "@/components/tracking/meta-pixel";
-import { GoogleAdsTag } from "@/components/tracking/google-ads";
+import { GoogleTags } from "@/components/tracking/google-tags";
 import { SpeedInsights } from "@vercel/speed-insights/next";
 import { Analytics } from "@vercel/analytics/next";
-import { GoogleAnalytics } from "@next/third-parties/google";
 import Script from "next/script";
 import { SITE_CONFIG } from "@/lib/constants";
 import { getGooglePlaceData } from "@/lib/google-places";
@@ -185,10 +184,7 @@ export default async function LocaleLayout({ children, params }: Props) {
           </TooltipProvider>
         </NextIntlClientProvider>
       </body>
-      {process.env.NEXT_PUBLIC_GA_ID && (
-        <GoogleAnalytics gaId={process.env.NEXT_PUBLIC_GA_ID} />
-      )}
-      <GoogleAdsTag />
+      <GoogleTags />
       <Script
         src="https://cdn.callrail.com/companies/457895388/15a9b373fb1cf7740b87/12/swap.js"
         strategy="afterInteractive"

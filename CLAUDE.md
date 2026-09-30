@@ -77,7 +77,7 @@ Contact form pipeline:
 
 Meta Pixel loading has a specific, non-obvious shape: the base fbq script is injected as a **raw `<script>` tag** inside `<head>` in `[locale]/layout.tsx` (not via `next/script`) to guarantee it runs before hydration. `MetaPixelSPATracker` only fires client-side PageViews on route changes — it does **not** load the pixel. Don't "clean this up" by moving it to `next/script`.
 
-Google Ads tag in `src/components/tracking/google-ads.tsx` reads `NEXT_PUBLIC_GOOGLE_ADS_ID` from env (renders nothing if unset — do NOT hardcode the AW id). GA4 uses `@next/third-parties/google` and is conditional on `NEXT_PUBLIC_GA_ID`.
+GA4 and Google Ads share a single `gtag/js` in `src/components/tracking/google-tags.tsx` (`lazyOnload`), reading `NEXT_PUBLIC_GA_ID` and `NEXT_PUBLIC_GOOGLE_ADS_ID` from env (each is configured only if set — do NOT hardcode the G-/AW ids). Don't reintroduce `@next/third-parties`: it injected its own gtm preload and a second `gtag/js`, which hurt LCP.
 
 ### Environment variables
 
