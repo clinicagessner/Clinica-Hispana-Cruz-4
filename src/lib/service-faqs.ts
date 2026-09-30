@@ -792,30 +792,30 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   "drenaje-abscesos": {
     "faqs": [
       {
-        "question": "¿El drenaje de un absceso duele?",
-        "answer": "Se realiza con anestesia local para reducir las molestias y aliviar el dolor del absceso rápidamente."
+        "question": "¿Duele el drenaje?",
+        "answer": "Se siente el piquete de la anestesia; después, la zona queda dormida. Al salir, la mayoría de las personas nota alivio porque la presión del pus desaparece."
       },
       {
-        "question": "¿Necesito cita previa?",
-        "answer": "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario."
+        "question": "¿Siempre me van a dar antibiótico?",
+        "answer": "No siempre. En abscesos pequeños el drenaje suele bastar. El antibiótico se indica cuando hay fiebre, enrojecimiento extenso, diabetes u otros factores de riesgo."
       },
       {
-        "question": "¿Atienden a pacientes sin seguro?",
-        "answer": "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita."
+        "question": "¿Tengo que volver después del drenaje?",
+        "answer": "Muchas veces sí, a los dos o tres días, para retirar la gasa y revisar que la herida esté limpia y cerrando."
       }
     ],
     "faqsEn": [
       {
-        "question": "Does abscess drainage hurt?",
-        "answer": "It's done with local anesthesia to reduce discomfort and quickly relieve the abscess pain."
+        "question": "Does drainage hurt?",
+        "answer": "You feel the pinch of the anesthetic; after that the area is numb. On the way out most people feel relief because the pressure from the pus is gone."
       },
       {
-        "question": "Do I need an appointment?",
-        "answer": "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time."
+        "question": "Will I always get antibiotics?",
+        "answer": "Not always. For small abscesses drainage is often enough. Antibiotics are prescribed with fever, widespread redness, diabetes or other risk factors."
       },
       {
-        "question": "Do you accept patients without insurance?",
-        "answer": "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit."
+        "question": "Do I need to come back after drainage?",
+        "answer": "Often yes, in two or three days, to remove the gauze and check that the wound is clean and closing."
       }
     ]
   },
