@@ -176,7 +176,7 @@ export async function Footer() {
               </li>
               <li className="flex items-start gap-2.5 text-white/70 text-sm">
                 <Clock className="size-4 shrink-0 mt-0.5 text-yellow-accent" aria-hidden="true" />
-                <span>{CONTACT_INFO.hours}</span>
+                <span>{t("location.hours")}</span>
               </li>
             </ul>
           </div>
