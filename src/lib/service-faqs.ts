@@ -342,30 +342,30 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   "infecciones-urinarias": {
     "faqs": [
       {
-        "question": "¿Puedo recibir tratamiento el mismo día?",
-        "answer": "Sí, hacemos el examen de orina y, si hay infección, iniciamos el tratamiento el mismo día."
+        "question": "¿Salgo con el tratamiento el mismo día?",
+        "answer": "Sí. Hacemos el examen de orina durante la consulta y, si confirma la infección, el tratamiento empieza ese mismo día."
       },
       {
-        "question": "¿Necesito cita previa?",
-        "answer": "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario."
+        "question": "¿Puedo tomar el antibiótico que me sobró la otra vez?",
+        "answer": "No es buena idea. Puede no ser el adecuado para esta bacteria, y una dosis incompleta favorece que la infección regrese más resistente."
       },
       {
-        "question": "¿Atienden a pacientes sin seguro?",
-        "answer": "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita."
+        "question": "¿Por qué me mandan un cultivo de orina?",
+        "answer": "Cuando las infecciones se repiten, no mejoran con el primer tratamiento o hay embarazo, el cultivo identifica la bacteria exacta y el antibiótico que sí funciona contra ella."
       }
     ],
     "faqsEn": [
       {
-        "question": "Can I get treatment the same day?",
-        "answer": "Yes, we run the urine test and, if there's an infection, we start treatment the same day."
+        "question": "Will I leave with treatment the same day?",
+        "answer": "Yes. We test your urine during the visit and, if it confirms an infection, treatment starts that very day."
       },
       {
-        "question": "Do I need an appointment?",
-        "answer": "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time."
+        "question": "Can I take leftover antibiotics from last time?",
+        "answer": "Not a good idea. They may not be right for this bacteria, and an incomplete course helps the infection return more resistant."
       },
       {
-        "question": "Do you accept patients without insurance?",
-        "answer": "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit."
+        "question": "Why am I being sent for a urine culture?",
+        "answer": "When infections recur, don't improve with the first treatment or occur during pregnancy, the culture identifies the exact bacteria and the antibiotic that works against it."
       }
     ]
   },
