@@ -7,7 +7,7 @@ import { getBlogPosts, getFeaturedPost } from "@/lib/blog";
 import { Badge } from "@/components/ui/badge";
 import { Card, CardContent, CardHeader } from "@/components/ui/card";
 import { CalendarDots, Clock, ArrowRight } from "@phosphor-icons/react/dist/ssr";
-import { JsonLdCollectionPage, JsonLdBreadcrumb } from "@/components/seo/json-ld";
+import { JsonLdCollectionPage, JsonLdBreadcrumb, JsonLdMedicalClinicRef } from "@/components/seo/json-ld";
 
 type Props = {
   params: Promise<{ locale: string }>;
@@ -58,6 +58,7 @@ export default async function BlogPage({ params }: Props) {
 
   return (
     <>
+      <JsonLdMedicalClinicRef />
       <JsonLdCollectionPage
         name={t("metaTitle")}
         description={t("metaDescription")}

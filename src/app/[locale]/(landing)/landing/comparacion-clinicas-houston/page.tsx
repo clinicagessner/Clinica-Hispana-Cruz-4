@@ -1,4 +1,5 @@
 import { setRequestLocale } from "next-intl/server";
+import { JsonLdMedicalClinic } from "@/components/seo/json-ld";
 import type { Locale } from "@/i18n/config";
 import { LandingHero } from "@/components/landing/landing-hero";
 import { LandingDifferentiators } from "@/components/landing/landing-differentiators";
@@ -21,6 +22,7 @@ export default async function LandingComparacionClinicasHouston({ params }: Prop
 
   return (
     <>
+      <JsonLdMedicalClinic />
       <LandingHero locale={l} />
       <LandingDifferentiators locale={l} />
       <LandingComparison locale={l} />

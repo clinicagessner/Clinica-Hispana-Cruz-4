@@ -5,7 +5,7 @@ import { Link } from "@/i18n/routing";
 import { StarRating } from "@/components/sections/star-rating";
 import { PromotionsGrid } from "@/components/promotions/promotions-grid";
 import { ContactForm } from "@/components/forms/contact-form";
-import { JsonLdBreadcrumb, JsonLdFAQ } from "@/components/seo/json-ld";
+import { JsonLdBreadcrumb, JsonLdFAQ, JsonLdMedicalClinicRef } from "@/components/seo/json-ld";
 import { getGooglePlaceData } from "@/lib/google-places";
 import { SITE_CONFIG, GOOGLE_REVIEWS_DATA } from "@/lib/constants";
 
@@ -67,6 +67,7 @@ export default async function PromocionesPage({ params }: Props) {
 
   return (
     <>
+      <JsonLdMedicalClinicRef />
       <JsonLdBreadcrumb
         items={[
           {

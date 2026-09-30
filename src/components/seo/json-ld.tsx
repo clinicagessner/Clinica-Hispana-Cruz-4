@@ -91,6 +91,7 @@ export async function JsonLdMedicalClinic() {
           const localized = getLocalizedService(service, locale);
           return {
             "@type": "MedicalProcedure",
+            "@id": `${SITE_CONFIG.baseUrl}/services/${service.slug}#procedure`,
             name: localized.title,
             description: localized.description,
             url: `${SITE_CONFIG.baseUrl}${locale === "en" ? "/en" : ""}/services/${service.slug}`,
@@ -119,11 +120,12 @@ export async function JsonLdMedicalClinic() {
           { "@type": "LocationFeatureSpecification", name: "Estacionamiento gratuito en el lugar", value: true },
         ],
         publicAccess: true,
+        // Solo lo que ejerce el equipo médico general: sin urgencias ni
+        // ginecología como especialidad (no hay titulados, §9 del playbook).
         medicalSpecialty: [
           "https://schema.org/FamilyPractice",
-          "https://schema.org/EmergencyMedicine",
+          "https://schema.org/PrimaryCare",
           "https://schema.org/PreventiveMedicine",
-          "https://schema.org/Gynecologic",
           "https://schema.org/LaboratoryScience",
         ],
         review: reviewItems,
@@ -226,6 +228,7 @@ export function JsonLdMedicalProcedure({
   const schema = {
     "@context": "https://schema.org",
     "@type": "MedicalProcedure",
+    "@id": `${SITE_CONFIG.baseUrl}/services/${url.split("/services/")[1]}#procedure`,
     name,
     description,
     image: `${SITE_CONFIG.baseUrl}${image}`,
@@ -233,20 +236,6 @@ export function JsonLdMedicalProcedure({
     procedureType: `https://schema.org/${procedureType}`,
     ...(bodyLocation && { bodyLocation }),
     howPerformed: description,
-    provider: {
-      "@type": "MedicalClinic",
-      "@id": `${SITE_CONFIG.baseUrl}/#clinic`,
-      name: SITE_CONFIG.name,
-      telephone: CONTACT_INFO.phone,
-      address: {
-        "@type": "PostalAddress",
-        streetAddress: CONTACT_INFO.address,
-        addressLocality: CONTACT_INFO.city,
-        addressRegion: CONTACT_INFO.state,
-        postalCode: CONTACT_INFO.zip,
-        addressCountry: "US",
-      },
-    },
   };
 
   return (
@@ -271,8 +260,35 @@ export function JsonLdCollectionPage({ name, description, url }: { name: string;
       "@id": `${SITE_CONFIG.baseUrl}/#clinic`,
     },
     provider: {
-      "@type": "MedicalClinic",
       "@id": `${SITE_CONFIG.baseUrl}/#clinic`,
+    },
+  };
+
+  return (
+    <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+    />
+  );
+}
+
+// Nodo ligero con el mismo @id que el completo de la home. Va en cada página
+// que no es la home ni la landing de reseñas; nunca en el layout (§7 B0.14).
+export function JsonLdMedicalClinicRef() {
+  const schema = {
+    "@context": "https://schema.org",
+    "@type": "MedicalClinic",
+    "@id": `${SITE_CONFIG.baseUrl}/#clinic`,
+    name: SITE_CONFIG.name,
+    url: SITE_CONFIG.baseUrl,
+    telephone: CONTACT_INFO.phone,
+    address: {
+      "@type": "PostalAddress",
+      streetAddress: CONTACT_INFO.address,
+      addressLocality: CONTACT_INFO.city,
+      addressRegion: CONTACT_INFO.state,
+      postalCode: CONTACT_INFO.zip,
+      addressCountry: "US",
     },
   };
 

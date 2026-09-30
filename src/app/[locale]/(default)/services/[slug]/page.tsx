@@ -37,7 +37,7 @@ import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/
 import { SERVICES, SITE_CONFIG, CONTACT_INFO } from "@/lib/constants";
 import { getLocalizedService } from "@/lib/utils";
 import { getServiceFAQs } from "@/lib/service-faqs";
-import { JsonLdBreadcrumb, JsonLdMedicalProcedure, JsonLdFAQ } from "@/components/seo/json-ld";
+import { JsonLdBreadcrumb, JsonLdMedicalProcedure, JsonLdFAQ, JsonLdMedicalClinicRef } from "@/components/seo/json-ld";
 
 const iconMap: Record<string, React.ElementType> = {
   Stethoscope,
@@ -149,6 +149,7 @@ export default async function ServicePage({ params }: Props) {
 
   return (
     <>
+      <JsonLdMedicalClinicRef />
       <main className="min-h-screen bg-background">
         {/* Hero Section */}
         <section className="relative pt-28 pb-12 md:pt-32 md:pb-16 overflow-hidden">

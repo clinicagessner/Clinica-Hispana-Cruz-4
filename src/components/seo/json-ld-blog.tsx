@@ -1,4 +1,4 @@
-import { SITE_CONFIG, CONTACT_INFO } from "@/lib/constants";
+import { SITE_CONFIG } from "@/lib/constants";
 import type { BlogPost } from "@/types";
 
 type Props = {
@@ -7,7 +7,8 @@ type Props = {
 };
 
 export function JsonLdBlogPosting({ post, locale }: Props) {
-  const url = `${SITE_CONFIG.baseUrl}/${locale}/blog/${post.slug}`;
+  // Español sin prefijo: /es/... responde 307.
+  const url = `${SITE_CONFIG.baseUrl}${locale === "es" ? "" : "/en"}/blog/${post.slug}`;
 
   const blogPostingSchema = {
     "@context": "https://schema.org",
@@ -34,26 +35,12 @@ export function JsonLdBlogPosting({ post, locale }: Props) {
         "@type": "Person",
         name: post.author,
         worksFor: {
-          "@type": "MedicalClinic",
           "@id": `${SITE_CONFIG.baseUrl}/#clinic`,
         },
       },
     ],
     publisher: {
-      "@type": "MedicalClinic",
-      name: SITE_CONFIG.name,
-      logo: {
-        "@type": "ImageObject",
-        url: `${SITE_CONFIG.baseUrl}${SITE_CONFIG.logoUrl}`,
-      },
-      address: {
-        "@type": "PostalAddress",
-        streetAddress: CONTACT_INFO.address,
-        addressLocality: CONTACT_INFO.city,
-        addressRegion: CONTACT_INFO.state,
-        postalCode: CONTACT_INFO.zip,
-        addressCountry: "US",
-      },
+      "@id": `${SITE_CONFIG.baseUrl}/#clinic`,
     },
     inLanguage: locale === "es" ? "es-MX" : "en-US",
     wordCount: post.content.split(/\s+/).length,

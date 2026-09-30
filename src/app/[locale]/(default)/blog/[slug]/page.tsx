@@ -3,6 +3,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { notFound } from "next/navigation";
 import { getTranslations, setRequestLocale } from "next-intl/server";
+import { JsonLdMedicalClinicRef } from "@/components/seo/json-ld";
 import { SITE_CONFIG, CONTACT_INFO } from "@/lib/constants";
 import { getBlogPosts, getBlogPost, getRelatedPosts } from "@/lib/blog";
 import { Badge } from "@/components/ui/badge";
@@ -97,6 +98,7 @@ export default async function BlogPostPage({ params }: Props) {
 
   return (
     <>
+      <JsonLdMedicalClinicRef />
       <JsonLdBlogPosting post={post} locale={locale} />
 
       <article>

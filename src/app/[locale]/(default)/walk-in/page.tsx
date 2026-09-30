@@ -3,7 +3,7 @@ import Link from "next/link";
 import { setRequestLocale } from "next-intl/server";
 import { Phone, MapPin, Clock, CheckCircle, IdentificationCard, FirstAidKit, ArrowRight, Question } from "@phosphor-icons/react/dist/ssr";
 import { SITE_CONFIG, CONTACT_INFO } from "@/lib/constants";
-import { JsonLdBreadcrumb, JsonLdFAQ } from "@/components/seo/json-ld";
+import { JsonLdBreadcrumb, JsonLdFAQ, JsonLdMedicalClinicRef } from "@/components/seo/json-ld";
 
 type Props = {
   params: Promise<{ locale: string }>;
@@ -229,6 +229,7 @@ export default async function WalkInPage({ params }: Props) {
 
   return (
     <>
+      <JsonLdMedicalClinicRef />
       <main className="min-h-screen">
         {/* Hero */}
         <section className="relative pt-28 pb-12 md:pt-32 md:pb-16 bg-linear-to-br from-blue-deep via-blue-dark to-blue-deep text-white overflow-hidden">

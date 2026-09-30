@@ -2,7 +2,6 @@ import { setRequestLocale } from "next-intl/server";
 import { Header } from "@/components/layout/header";
 import { Footer } from "@/components/layout/footer";
 import { FloatingButtons } from "@/components/layout/floating-buttons";
-import { JsonLdMedicalClinic } from "@/components/seo/json-ld";
 
 type Props = {
   children: React.ReactNode;
@@ -21,7 +20,6 @@ export default async function DefaultGroupLayout({ children, params }: Props) {
       </main>
       <Footer />
       <FloatingButtons />
-      <JsonLdMedicalClinic />
     </>
   );
 }
