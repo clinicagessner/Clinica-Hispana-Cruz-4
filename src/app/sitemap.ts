@@ -6,20 +6,32 @@ import { locales } from "@/i18n/config";
 type SitemapEntry = {
   url: string;
   lastModified: Date;
-  changeFrequency: "always" | "hourly" | "daily" | "weekly" | "monthly" | "yearly" | "never";
-  priority: number;
-  alternates?: {
-    languages: Record<string, string>;
-  };
+  alternates?: { languages: Record<string, string> };
+};
+
+// Fecha de la última edición **de contenido** de cada página, sacada del
+// historial de git. Se actualiza en el mismo commit que cambia el contenido.
+// Un `lastmod` con la fecha del build miente en cada despliegue y Google deja
+// de fiarse de él justo cuando más falta hace, al reescribir el contenido.
+const PAGE_DATES: Record<string, string> = {
+  "": "2026-09-02", // promociones de la home
+  "/services": "2026-08-25",
+  "/promociones": "2026-09-02",
+  "/walk-in": "2026-07-11",
+  "/blog": "2026-08-25",
+  "/privacy": "2026-07-11",
+};
+
+// Última edición de contenido del catálogo de servicios; las excepciones van
+// en SERVICE_DATES con su propia fecha.
+const SERVICES_LAST_REVIEWED = "2026-08-25";
+const SERVICE_DATES: Record<string, string> = {
+  farmacia: "2026-09-29", // entrega de lo indicado en la consulta (§9)
 };
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = SITE_CONFIG.baseUrl;
-  // Derived from build/deploy time so static + service routes always advertise a
-  // fresh lastmod on each deploy (avoids a hardcoded date drifting stale).
-  const siteLastUpdated = new Date();
 
-  // Helper to create alternates for hreflang
   const createAlternates = (path: string) => ({
     languages: {
       es: `${baseUrl}${path}`,
@@ -28,47 +40,27 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
   });
 
-  // Static pages
-  const staticPages = [
-    { path: "", priority: 1.0, changeFrequency: "daily" as const },
-    { path: "/services", priority: 0.9, changeFrequency: "weekly" as const },
-    { path: "/promociones", priority: 0.85, changeFrequency: "weekly" as const },
-    { path: "/walk-in", priority: 0.85, changeFrequency: "weekly" as const },
-    { path: "/blog", priority: 0.8, changeFrequency: "daily" as const },
-    { path: "/privacy", priority: 0.3, changeFrequency: "monthly" as const },
-  ];
-
-  const staticRoutes: SitemapEntry[] = staticPages.flatMap((page) =>
+  // Una <url> por idioma, cada una con sus alternates recíprocos.
+  const entry = (path: string, lastModified: Date): SitemapEntry[] =>
     locales.map((locale) => ({
-      url: `${baseUrl}${locale === "es" ? "" : `/${locale}`}${page.path}`,
-      lastModified: siteLastUpdated,
-      changeFrequency: page.changeFrequency,
-      priority: page.priority,
-      alternates: createAlternates(page.path),
-    }))
+      url: `${baseUrl}${locale === "es" ? "" : `/${locale}`}${path}`,
+      lastModified,
+      alternates: createAlternates(path),
+    }));
+
+  const staticRoutes = Object.entries(PAGE_DATES).flatMap(([path, date]) =>
+    entry(path, new Date(date))
   );
 
-  // Service pages
-  const serviceRoutes: SitemapEntry[] = SERVICES.flatMap((service) =>
-    locales.map((locale) => ({
-      url: `${baseUrl}${locale === "es" ? "" : `/${locale}`}/services/${service.slug}`,
-      lastModified: siteLastUpdated,
-      changeFrequency: "monthly" as const,
-      priority: 0.7,
-      alternates: createAlternates(`/services/${service.slug}`),
-    }))
+  const serviceRoutes = SERVICES.flatMap((service) =>
+    entry(
+      `/services/${service.slug}`,
+      new Date(SERVICE_DATES[service.slug] ?? SERVICES_LAST_REVIEWED)
+    )
   );
 
-  // Blog posts
-  const blogPosts = getBlogPosts("es");
-  const blogRoutes: SitemapEntry[] = blogPosts.flatMap((post) =>
-    locales.map((locale) => ({
-      url: `${baseUrl}${locale === "es" ? "" : `/${locale}`}/blog/${post.slug}`,
-      lastModified: new Date(post.date),
-      changeFrequency: "monthly" as const,
-      priority: 0.6,
-      alternates: createAlternates(`/blog/${post.slug}`),
-    }))
+  const blogRoutes = getBlogPosts("es").flatMap((post) =>
+    entry(`/blog/${post.slug}`, new Date(post.dateModified ?? post.date))
   );
 
   return [...staticRoutes, ...serviceRoutes, ...blogRoutes];
