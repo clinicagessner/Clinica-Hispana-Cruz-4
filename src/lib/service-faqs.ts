@@ -732,30 +732,30 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   "curacion-heridas": {
     "faqs": [
       {
-        "question": "¿Hacen cambios de vendaje y seguimiento?",
-        "answer": "Sí, limpiamos, curamos y cambiamos los vendajes, y damos seguimiento hasta que la herida cicatrice."
+        "question": "¿Cada cuánto tengo que venir a curación?",
+        "answer": "Depende de la herida. Algunas necesitan revisión cada pocos días y otras una vez por semana. Le damos la fecha de la siguiente visita al terminar cada curación."
       },
       {
-        "question": "¿Necesito cita previa?",
-        "answer": "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario."
+        "question": "¿Puedo bañarme con la herida?",
+        "answer": "Casi siempre sí, protegiendo el vendaje o cambiándolo después según le indiquemos. Evite tinas, albercas y ríos hasta que cierre."
       },
       {
-        "question": "¿Atienden a pacientes sin seguro?",
-        "answer": "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita."
+        "question": "Vivo con diabetes y tengo una llaga en el pie sin dolor. ¿Es grave?",
+        "answer": "Sí. En la diabetes una herida puede avanzar sin dolor. Consulte pronto aunque parezca pequeña."
       }
     ],
     "faqsEn": [
       {
-        "question": "Do you do dressing changes and follow-up?",
-        "answer": "Yes, we clean, treat and change the dressings, and follow up until the wound heals."
+        "question": "How often do I need to come in for wound care?",
+        "answer": "It depends on the wound. Some need a check every few days and others once a week. We give you the next date at the end of each visit."
       },
       {
-        "question": "Do I need an appointment?",
-        "answer": "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time."
+        "question": "Can I shower with the wound?",
+        "answer": "Usually yes, protecting the dressing or changing it afterward as we instruct. Avoid tubs, pools and rivers until it closes."
       },
       {
-        "question": "Do you accept patients without insurance?",
-        "answer": "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit."
+        "question": "I have diabetes and a foot wound that doesn't hurt. Should I worry?",
+        "answer": "Yes. With diabetes a wound can progress without pain. Get seen promptly even if it looks small."
       }
     ]
   },
