@@ -313,15 +313,15 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
     "faqs": [
       {
         "question": "¿En cuánto tiempo entregan los resultados?",
-        "answer": "Los resultados salen rápido y te avisamos en cuanto están listos; el equipo médico te los explica en español."
+        "answer": "Los resultados salen rápido y le avisamos en cuanto están listos; el equipo médico se los explica en español."
       },
       {
-        "question": "¿Necesito cita previa?",
-        "answer": "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario."
+        "question": "¿Puedo hacerme análisis sin que un médico me los pida?",
+        "answer": "Venga a consulta y el médico decide con usted qué estudios tienen sentido según su edad, síntomas y antecedentes. Así no paga por análisis que no necesita."
       },
       {
-        "question": "¿Atienden a pacientes sin seguro?",
-        "answer": "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita."
+        "question": "¿Qué hago si me mareo cuando me sacan sangre?",
+        "answer": "Avísenos al llegar. Tomamos la muestra con usted acostado y le damos unos minutos para reponerse antes de levantarse."
       }
     ],
     "faqsEn": [
@@ -330,12 +330,12 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
         "answer": "Results come back quickly and we let you know as soon as they're ready; the medical team explains them in Spanish."
       },
       {
-        "question": "Do I need an appointment?",
-        "answer": "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time."
+        "question": "Can I get lab work without a doctor ordering it?",
+        "answer": "Come in for a visit and the doctor decides with you which tests make sense for your age, symptoms and history. You end up paying only for studies that answer a real question."
       },
       {
-        "question": "Do you accept patients without insurance?",
-        "answer": "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit."
+        "question": "What if I get dizzy when my blood is drawn?",
+        "answer": "Tell us when you arrive. We draw the sample with you lying down and give you a few minutes to recover before getting up."
       }
     ]
   },
