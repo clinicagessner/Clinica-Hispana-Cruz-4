@@ -183,7 +183,7 @@ export async function Hero() {
             </span>
             <span className="inline-flex items-center justify-center gap-2 text-sm text-white/90">
               <Clock className="size-4 shrink-0 text-yellow-accent" aria-hidden="true" />
-              <span className="font-medium">{CONTACT_INFO.hoursWeekday}</span>
+              <span className="font-medium">{t("hours")}</span>
             </span>
           </div>
         </div>
