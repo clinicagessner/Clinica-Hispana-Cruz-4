@@ -102,30 +102,30 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   "enfermedades-respiratorias": {
     "faqs": [
       {
-        "question": "¿Hacen prueba de flu y de COVID el mismo día?",
-        "answer": "Sí, hacemos pruebas rápidas de influenza y COVID y te damos el resultado y el tratamiento el mismo día."
+        "question": "¿Hacen la prueba de flu y de COVID en la misma visita?",
+        "answer": "Sí. Las pruebas rápidas se hacen durante la consulta y el diagnóstico sale ese mismo día, junto con el tratamiento que corresponda."
       },
       {
-        "question": "¿Necesito cita previa?",
-        "answer": "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario."
+        "question": "¿Cuándo debo hacerme la prueba?",
+        "answer": "Lo antes posible después de que empiecen los síntomas. En la influenza, el tratamiento antiviral rinde más si se empieza en las primeras 48 horas."
       },
       {
-        "question": "¿Atienden a pacientes sin seguro?",
-        "answer": "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita."
+        "question": "¿Cuándo puedo volver al trabajo?",
+        "answer": "Cuando pase un día completo sin fiebre, sin medicamento para bajarla, y los síntomas vayan a menos. Si su trabajo pide constancia, pídala en la consulta."
       }
     ],
     "faqsEn": [
       {
-        "question": "Do you test for flu and COVID the same day?",
-        "answer": "Yes, we run rapid flu and COVID tests and give you the result and treatment the same day."
+        "question": "Can I get flu and COVID tests at the same visit?",
+        "answer": "Yes. Rapid tests are done during the visit and you get a diagnosis that same day, along with the appropriate treatment."
       },
       {
-        "question": "Do I need an appointment?",
-        "answer": "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time."
+        "question": "When should I get tested?",
+        "answer": "As soon as possible after symptoms start. For flu, antiviral treatment works best when started within the first 48 hours."
       },
       {
-        "question": "Do you accept patients without insurance?",
-        "answer": "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit."
+        "question": "When can I go back to work?",
+        "answer": "Once a full day passes with no fever and no fever-reducing medicine, and your symptoms are easing. If your job needs a note, ask for it at the visit."
       }
     ]
   },
