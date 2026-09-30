@@ -171,6 +171,7 @@ export default async function ServicePage({ params }: Props) {
               alt={`${service.title} - Servicio médico Clínica Hispana Cruz 4 Houston TX`}
               fill
               priority
+              fetchPriority="high"
               className="object-cover"
               sizes="100vw"
             />
@@ -442,10 +443,10 @@ function ServiceContent({ content }: { content: string }) {
 
           return (
             <div key={i}>
-              <h3 className="text-lg md:text-xl font-heading font-bold text-slate-dark mb-3 flex items-center gap-2">
+              <h2 className="text-lg md:text-xl font-heading font-bold text-slate-dark mb-3 flex items-center gap-2">
                 <span className="size-1.5 rounded-full bg-blue-primary shrink-0" />
                 {heading}
-              </h3>
+              </h2>
               {listItems.length > 0 && (
                 <ul className="grid sm:grid-cols-2 gap-x-6 gap-y-2 ml-4">
                   {listItems.map((item, j) => (
