@@ -49,9 +49,12 @@ function AccordionContent({
   ...props
 }: React.ComponentProps<typeof AccordionPrimitive.Content>) {
   return (
+    // forceMount deja la respuesta en el HTML del servidor para los bots de IA
+    // y Google; `hidden` en cerrado mantiene el comportamiento visual.
     <AccordionPrimitive.Content
       data-slot="accordion-content"
-      className="overflow-hidden text-sm data-[state=closed]:animate-accordion-up data-[state=open]:animate-accordion-down"
+      forceMount
+      className="overflow-hidden text-sm data-[state=closed]:hidden data-[state=open]:animate-accordion-down"
       {...props}
     >
       <div className={cn("pb-4 pt-0", className)}>{children}</div>
