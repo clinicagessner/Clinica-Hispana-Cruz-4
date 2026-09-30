@@ -162,30 +162,30 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   "ginecologia": {
     "faqs": [
       {
-        "question": "¿Necesito cita para el papanicolaou?",
-        "answer": "No es obligatorio, atendemos sin cita; pero puedes llamarnos para reservar un horario cómodo."
+        "question": "¿Puedo hacerme el Papanicolaou si estoy en mis días?",
+        "answer": "Es mejor esperar a que termine la regla, porque la sangre dificulta leer la muestra. Si tiene síntomas que no pueden esperar, venga igual y lo valoramos."
       },
       {
-        "question": "¿Necesito cita previa?",
-        "answer": "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario."
+        "question": "¿Qué hago si tengo flujo con mal olor o comezón?",
+        "answer": "Consulte sin automedicarse: los óvulos de farmacia pueden ocultar la causa. Con un cultivo se identifica el tipo de infección y se indica el tratamiento que sí la resuelve."
       },
       {
-        "question": "¿Atienden a pacientes sin seguro?",
-        "answer": "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita."
+        "question": "¿También hacen pruebas de infecciones de transmisión sexual?",
+        "answer": "Sí. Si tuvo una pareja nueva, nota llagas o flujo diferente, o simplemente quiere salir de dudas, las pruebas se piden en la misma consulta y los resultados se manejan con total confidencialidad."
       }
     ],
     "faqsEn": [
       {
-        "question": "Do I need an appointment for a Pap smear?",
-        "answer": "It's not required, we welcome walk-ins; but you can call us to reserve a convenient time."
+        "question": "Is a Pap smear possible while I'm menstruating?",
+        "answer": "It's better to wait until your period ends, since blood makes the sample harder to read. If your symptoms can't wait, come in anyway and we'll assess you."
       },
       {
-        "question": "Do I need an appointment?",
-        "answer": "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time."
+        "question": "What should I do about discharge with an odor or itching?",
+        "answer": "Get checked instead of self-treating: over-the-counter suppositories can hide the cause. A culture identifies the type of infection so you get a treatment that actually clears it."
       },
       {
-        "question": "Do you accept patients without insurance?",
-        "answer": "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit."
+        "question": "Do you also test for sexually transmitted infections?",
+        "answer": "Yes. If you have a new partner, notice sores or unusual discharge, or just want peace of mind, testing is ordered at the same visit and results are handled in full confidence."
       }
     ]
   },
