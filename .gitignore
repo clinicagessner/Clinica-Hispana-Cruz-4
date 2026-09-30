@@ -44,3 +44,6 @@ DATOS-CLINICA.md
 *.tsbuildinfo
 next-env.d.ts
 .seo-audit/
+
+# datos crudos de Search Console (toolkit/gsc-fetch.mjs)
+seo-data/
