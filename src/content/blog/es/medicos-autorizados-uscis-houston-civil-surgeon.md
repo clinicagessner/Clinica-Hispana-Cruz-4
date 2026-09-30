@@ -1,14 +1,14 @@
 ---
 slug: "medicos-autorizados-uscis-houston-civil-surgeon"
-title: "Médicos Autorizados por USCIS en Houston: Cómo Verificar"
-description: "Cómo verificar si un médico es Civil Surgeon autorizado por USCIS en Houston para hacer el examen I-693 de Green Card. Lista oficial, requisitos y qué evitar."
+title: "Médicos Autorizados por USCIS en Houston: Cómo Comprobarlo"
+description: "Cómo saber si un médico en Houston es Civil Surgeon autorizado por USCIS para el examen I-693, qué incluye el examen, qué llevar y errores que retrasan su caso."
 date: "2026-05-31"
-dateModified: "2026-05-31"
+dateModified: "2026-09-29"
 author: "Clínica Hispana Cruz 4"
 image: "/images/services/I-693.webp"
 featured: false
 category: "Inmigración"
-readTime: 7
+readTime: 4
 keywords:
   - "médicos autorizados por USCIS"
   - "médicos autorizados USCIS Houston"
@@ -18,129 +18,55 @@ keywords:
   - "clínicas autorizadas para examen médico de residencia"
 ---
 
-# Médicos Autorizados por USCIS en Houston: Cómo Verificar
+# Médicos Autorizados por USCIS en Houston: Cómo Comprobarlo
 
-Si está aplicando a la residencia permanente (Green Card) en Estados Unidos, el examen médico de inmigración —conocido formalmente como **Formulario I-693**— solo puede ser realizado por un médico autorizado por USCIS. Estos médicos se llaman **Civil Surgeons** y son los únicos cuyo formulario es aceptado oficialmente.
+Cuando alguien pide la residencia permanente desde dentro de Estados Unidos, tarde o temprano le piden el **formulario I-693**, el informe del examen médico de inmigración. Ese papel solo vale si lo firma un médico designado por USCIS, al que se llama **Civil Surgeon**. Un doctor puede ser excelente y aun así no tener esa designación; si firma él, el formulario no sirve.
 
-Si elige un médico que no está en la lista oficial de USCIS, su solicitud será rechazada y tendrá que repetir todo el examen, perdiendo tiempo y dinero. En esta guía le explicamos exactamente cómo verificar si un médico en Houston está autorizado y qué hacer si tiene dudas.
+## Comprobar la designación en dos minutos
 
-## ¿Qué es un Civil Surgeon?
+USCIS mantiene un buscador público: [my.uscis.gov/findadoctor](https://my.uscis.gov/findadoctor).
 
-Un Civil Surgeon es un médico que ha sido designado por **U.S. Citizenship and Immigration Services (USCIS)** para realizar exámenes médicos de inmigración dentro de Estados Unidos. La designación no es automática: el médico debe cumplir requisitos específicos de USCIS, mantener actualizada su certificación, y ser auditado periódicamente.
+1. Escriba el código postal de su casa o del trabajo (por ejemplo, 77072 para el área de Alief y Sharpstown).
+2. Revise el nombre del médico y la dirección exacta del consultorio.
+3. Si una clínica le dice que es "autorizada", pídale el nombre del médico que firmará y búsquelo usted.
 
-Solo un Civil Surgeon puede:
+La designación es personal: pertenece al médico, no al edificio. Por eso conviene confirmar quién le va a atender.
 
-- Llenar y firmar el formulario I-693
-- Aplicar las vacunas requeridas para inmigración
-- Certificar las pruebas médicas (tuberculosis, sífilis, gonorrea, etc.)
-- Sellar el sobre oficial que USCIS requiere intacto
+## Qué revisa el examen I-693
 
-Un médico regular, incluso si es excelente profesional, **no puede** completar este formulario si no tiene la designación oficial.
+El contenido lo fijan las [Instrucciones Técnicas de los CDC para Civil Surgeons](https://www.cdc.gov/immigrant-refugee-health/hcp/civil-surgeons/index.html), así que es igual en cualquier consultorio del país:
 
-## Por qué importa elegir un médico autorizado
+- **Historial y examen físico**, incluida la salud mental y el consumo de sustancias.
+- **Tuberculosis:** normalmente con un análisis de sangre a partir de los 2 años.
+- **Sífilis y gonorrea**, con pruebas de sangre y orina en los rangos de edad que marcan los CDC.
+- **Vacunas:** el médico compara su cartilla con la lista que corresponde a su edad y anota cuáles faltan.
 
-Las consecuencias de elegir un médico no autorizado son serias:
+Las pruebas de laboratorio toman unos días. El formulario se entrega completo cuando están todos los resultados.
 
-- **Rechazo automático del I-693:** USCIS devuelve el formulario sin revisarlo.
-- **Retrasos en su caso:** puede perder meses esperando una nueva cita y resultados.
-- **Doble gasto:** tendrá que pagar el examen completo otra vez.
-- **Riesgo en su entrevista:** un I-693 vencido o inválido puede afectar su credibilidad ante el oficial.
+## Qué llevar el día del examen
 
-Por eso es indispensable verificar la autorización antes de agendar.
+- Pasaporte u otra identificación con foto.
+- Su cartilla o comprobantes de vacunas, **incluidos los de su país**, aunque estén en español. Cada vacuna documentada es una que no hay que repetir.
+- Lista de medicamentos y, si tiene alguna condición crónica, reportes médicos recientes.
+- Anteojos o lentes de contacto si los usa.
+- Si ya le hicieron una prueba de tuberculosis positiva antes, el reporte o la radiografía.
 
-## Cómo verificar si un médico está autorizado por USCIS
+## Errores que retrasan una Green Card
 
-USCIS mantiene una herramienta pública y gratuita para buscar Civil Surgeons en cualquier ciudad de Estados Unidos. El proceso toma menos de 2 minutos:
+- **Hacerse el examen demasiado pronto.** USCIS fija cuánto tiempo puede pasar entre la firma del médico y la presentación de su solicitud, y esa regla ha cambiado en los últimos años. Antes de pedir su turno, lea la regla actual en [uscis.gov/i-693](https://www.uscis.gov/i-693).
+- **Abrir el sobre.** Si el médico se lo entrega sellado, así debe llegar a USCIS; abierto, lo rechazan.
+- **Datos que no coinciden.** Nombre y fecha de nacimiento deben estar escritos igual que en el resto de su expediente.
+- **Llegar sin comprobantes de vacunas** y terminar repitiendo dosis que ya tenía.
 
-### Paso 1: Acceda a la herramienta oficial
+## El examen en Clínica Hispana Cruz 4
 
-Vaya a la página oficial de USCIS y busque "Find a Doctor". La URL es **uscis.gov/tools/find-a-doctor**. Es la única fuente oficial. No confíe en listas de terceros que pueden estar desactualizadas.
+Nuestra clínica cuenta con médico designado por USCIS para el [examen de inmigración I-693](/services/examenes-inmigracion). Lo que cambia para usted:
 
-### Paso 2: Ingrese su código postal
+- Le explicamos en español cada parte del formulario y qué significa cada resultado.
+- Las muestras se toman en nuestro [laboratorio](/services/examenes-sangre), en la misma visita.
+- Revisamos sus vacunas y le decimos con claridad cuáles faltan antes de firmar.
+- Recibimos pacientes toda la semana, incluso sábado y domingo, en la Suite 240 del 10100 de Beechnut St. Puede llegar sin cita o llamar al (281) 588-0033 para preguntar el precio y los requisitos de su caso.
 
-Escriba su ZIP code (por ejemplo, 77072 para Sharpstown/Alief, o 77027 para Galleria) y elija el radio de búsqueda (5, 10, 25 millas, etc.).
+Si su abogado o su preparador de formularios le dio instrucciones específicas, tráigalas: las revisamos junto con usted.
 
-### Paso 3: Revise los resultados
-
-La página le mostrará una lista de Civil Surgeons activos en su área. Cada entrada incluye:
-
-- Nombre del médico o clínica
-- Dirección y teléfono
-- Idiomas disponibles
-- Fecha en que fue designado por USCIS
-
-Si el nombre de su médico **aparece en esta lista**, está autorizado. Si **no aparece**, no haga el examen con él.
-
-### Paso 4: Confirme directamente con la clínica
-
-Una vez que identifique varios Civil Surgeons cerca de usted, llame a la clínica y pregunte directamente:
-
-- "¿El médico que va a hacer mi examen es Civil Surgeon designado por USCIS?"
-- "¿Pueden completar el formulario I-693 el mismo día?"
-- "¿Tienen las vacunas requeridas disponibles?"
-- "¿Cuál es el costo total incluyendo laboratorio y vacunas?"
-
-Una clínica seria responderá estas preguntas sin dudar. Si evitan dar información o no saben qué es un Civil Surgeon, busque otra opción.
-
-## Qué pasa si su médico actual no está autorizado
-
-Si ya tiene un médico de cabecera pero no es Civil Surgeon, **no necesita cambiar de doctor para su atención regular**. Simplemente, para el examen de inmigración, vaya con un Civil Surgeon una sola vez. Su médico habitual puede seguir atendiéndolo después.
-
-Lo importante es que el examen I-693 lo haga un médico autorizado.
-
-## Qué llevar a su cita con el Civil Surgeon
-
-Para que el examen sea más eficiente:
-
-- Identificación oficial con foto (pasaporte, ID estatal o licencia de conducir)
-- Récord de vacunas previas (si tiene)
-- Lista de medicamentos que toma actualmente
-- Resultados médicos recientes si los tiene
-- Formulario I-693 en blanco (la clínica también puede proporcionarlo)
-
-## Áreas de Houston donde encontrar Civil Surgeons
-
-Houston tiene Civil Surgeons en varias zonas, pero la disponibilidad varía:
-
-- **Sharpstown / Alief / 77072:** zona con alta presencia de clínicas hispanas autorizadas.
-- **Galleria / 77027:** opciones más caras, menos enfocadas en comunidad hispana.
-- **Spring Branch / 77055:** opciones intermedias.
-- **Pasadena / 77504:** algunas opciones bilingües.
-- **Katy / 77450:** menos opciones, considerar viajar.
-
-Para la comunidad hispana de Houston, las zonas con más Civil Surgeons que hablan español están en el suroeste (Sharpstown, Bellaire, Westchase, Alief) y noroeste (Spring Branch).
-
-## Cómo Clínica Hispana Cruz 4 puede ayudarle
-
-En **Clínica Hispana Cruz 4** contamos con Civil Surgeon designado por USCIS para realizar el examen I-693 de Green Card. Estamos en **10100 Beechnut St Ste 240, Houston TX 77072**, abiertos los 7 días de la semana de 9 AM a 9 PM.
-
-Beneficios de hacer su examen con nosotros:
-
-- Atención 100% en español
-- Formulario I-693 completo el mismo día en la mayoría de los casos
-- Vacunas requeridas por USCIS disponibles en la clínica
-- Precios competitivos y transparentes
-- Sin cita previa para la primera consulta
-
-Llame al **(281) 588-0033** para confirmar disponibilidad y precios actualizados.
-
-## Preguntas frecuentes
-
-**¿Cuánto cuesta el examen I-693 en Houston?**
-El costo varía por clínica y depende de qué vacunas necesite. En Cruz 4 ofrecemos precios competitivos; llame para precio actual.
-
-**¿Cuánto tiempo es válido el I-693 firmado?**
-El formulario es válido por 2 años desde la fecha del examen, o 4 años si fue completado antes de presentar el I-485.
-
-**¿Puedo hacer el examen si estoy embarazada?**
-Sí. El examen se puede realizar durante el embarazo. Algunas vacunas pueden posponerse según la indicación del médico.
-
-**¿Cuánto tiempo toma todo el proceso?**
-En la mayoría de los casos, completamos el examen completo y el formulario I-693 en una sola visita. Los resultados de laboratorio están listos el mismo día.
-
-**¿USCIS acepta formularios de cualquier idioma?**
-El formulario I-693 debe completarse en inglés. Pero la consulta y explicación pueden ser en español; el Civil Surgeon es quien firma y certifica.
-
----
-
-¿Necesita verificar si su próximo médico está autorizado? Use la herramienta oficial de USCIS antes de agendar. Y si quiere hacer su examen con Civil Surgeon hispano en Houston, llámenos al (281) 588-0033.
+*Esta guía es informativa y no sustituye la asesoría legal de inmigración.*
