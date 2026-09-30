@@ -127,6 +127,21 @@ export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
 }
 
+// Espacios de nombres que leen los componentes "use client" con useTranslations.
+// Si un componente de cliente nuevo usa otro, hay que añadirlo aquí.
+const CLIENT_NAMESPACES = [
+  "services",
+  "promotions",
+  "hero",
+  "nav",
+  "location",
+  "contact",
+  "cta",
+  "accessibility",
+  "common",
+  "errorPage",
+] as const;
+
 export default async function LocaleLayout({ children, params }: Props) {
   const { locale } = await params;
 
@@ -141,6 +156,12 @@ export default async function LocaleLayout({ children, params }: Props) {
     getMessages(),
     getTranslations({ locale, namespace: "accessibility" }),
   ]);
+
+  // Solo los grupos de textos que usan los componentes de cliente. Pasar todos
+  // los mensajes metía ~17 KB por idioma en el payload de cada página.
+  const clientMessages = Object.fromEntries(
+    CLIENT_NAMESPACES.filter((ns) => ns in messages).map((ns) => [ns, messages[ns]])
+  );
 
   return (
     <html
@@ -168,7 +189,7 @@ export default async function LocaleLayout({ children, params }: Props) {
       </head>
       <body className="antialiased min-h-screen flex flex-col" suppressHydrationWarning>
         <MetaPixelSPATracker />
-        <NextIntlClientProvider messages={messages}>
+        <NextIntlClientProvider messages={clientMessages}>
           <TooltipProvider>
             <a
               href="#main-content"
@@ -187,7 +208,7 @@ export default async function LocaleLayout({ children, params }: Props) {
       <GoogleTags />
       <Script
         src="https://cdn.callrail.com/companies/457895388/15a9b373fb1cf7740b87/12/swap.js"
-        strategy="afterInteractive"
+        strategy="lazyOnload"
       />
     </html>
   );
