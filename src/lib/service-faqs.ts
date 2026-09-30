@@ -853,29 +853,29 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
     "faqs": [
       {
         "question": "¿Qué medicamentos puedo recoger en la farmacia de la clínica?",
-        "answer": "Los que te indique el equipo médico en tu consulta aquí, más productos de venta libre. Las recetas de otros consultorios no se surten en la clínica."
+        "answer": "Los que le indique el equipo médico en su consulta aquí, más productos de venta libre para malestares comunes."
       },
       {
-        "question": "¿Necesito cita previa?",
-        "answer": "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario."
+        "question": "¿Tienen opciones genéricas?",
+        "answer": "Cuando existe una versión genérica del medicamento indicado, se la ofrecemos. Suele costar menos y funciona igual."
       },
       {
-        "question": "¿Atienden a pacientes sin seguro?",
-        "answer": "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita."
+        "question": "¿Me explican cómo tomar el medicamento?",
+        "answer": "Sí. Al entregárselo le decimos en español la dosis, el horario, cuántos días tomarlo y qué efectos son normales."
       }
     ],
     "faqsEn": [
       {
         "question": "Which medications can I pick up at the clinic pharmacy?",
-        "answer": "The ones our medical team prescribes during your visit here, plus over-the-counter products. Prescriptions from other offices are not filled at the clinic."
+        "answer": "The ones our medical team prescribes during your visit here, plus over-the-counter products for common complaints."
       },
       {
-        "question": "Do I need an appointment?",
-        "answer": "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time."
+        "question": "Do you have generic options?",
+        "answer": "When a generic version of the prescribed medication exists, we offer it. It usually costs less and works the same."
       },
       {
-        "question": "Do you accept patients without insurance?",
-        "answer": "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit."
+        "question": "Will someone explain how to take my medication?",
+        "answer": "Yes. When we hand it to you, we go over the dose, timing, how many days to take it and which effects are normal, in Spanish."
       }
     ]
   }

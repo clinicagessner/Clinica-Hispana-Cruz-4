@@ -48,7 +48,7 @@ const SERVICE_DATES: Record<string, string> = {
   "alergias": "2026-09-30", // B3: texto propio
   "tiroides": "2026-09-30", // B3: texto propio
   "examen-fisico-escolar": "2026-09-30", // B3: texto propio
-  farmacia: "2026-09-29", // entrega de lo indicado en la consulta (§9)
+  farmacia: "2026-09-30", // B3: texto propio (entrega de lo indicado en consulta, §9)
 };
 
 export default function sitemap(): MetadataRoute.Sitemap {
