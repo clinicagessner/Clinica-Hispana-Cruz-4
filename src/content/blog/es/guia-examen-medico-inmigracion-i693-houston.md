@@ -1,14 +1,14 @@
 ---
 slug: "guia-examen-medico-inmigracion-i693-houston"
-title: "Guía Completa: Examen Médico de Inmigración I-693 en Houston"
-description: "Todo lo que necesita saber sobre el examen médico I-693 para Green Card en Houston TX. Requisitos, vacunas, costos y qué esperar con Civil Surgeons certificados."
+title: "Examen Médico de Inmigración I-693 en Houston: Paso a Paso"
+description: "El examen I-693 de principio a fin: qué pasa en cada visita, qué ocurre si la prueba de tuberculosis sale positiva o faltan vacunas, y cuándo se entrega el sobre."
 date: "2026-03-18"
-dateModified: "2026-03-21"
+dateModified: "2026-09-30"
 author: "Clínica Hispana Cruz 4"
 image: "/images/services/immigration.webp"
 featured: false
 category: "Inmigración"
-readTime: 8
+readTime: 4
 keywords:
   - "examen I-693 Houston"
   - "civil surgeon Houston"
@@ -17,144 +17,49 @@ keywords:
   - "USCIS medical exam Houston"
 ---
 
-# Guía Completa: Examen Médico de Inmigración I-693 en Houston
+# Examen Médico de Inmigración I-693 en Houston: Paso a Paso
 
-Si está en proceso de obtener su Green Card o ajuste de estatus migratorio, necesitará completar el **Formulario I-693**, el examen médico oficial requerido por USCIS. En esta guía le explicamos todo lo que necesita saber para completar este proceso en Houston, TX.
+El examen médico es uno de los requisitos que más dudas genera al tramitar la residencia. No porque sea difícil, sino porque nadie explica bien el orden de las cosas. Aquí va el recorrido completo, desde antes de la primera visita hasta el momento en que el sobre llega a USCIS. Si todavía no sabe cómo confirmar que un médico está autorizado, empiece por nuestra guía sobre [médicos autorizados por USCIS](/blog/medicos-autorizados-uscis-houston-civil-surgeon).
 
-## ¿Qué es el Formulario I-693?
+## Paso 1: antes de la primera visita
 
-El Formulario I-693, conocido como "Report of Medical Examination and Vaccination Record", es un documento médico oficial que certifica que usted no tiene condiciones de salud que le impidan inmigrar a Estados Unidos.
+**Calcule el momento.** USCIS pone un límite al tiempo que puede pasar entre la firma del médico y la presentación de su solicitud de ajuste de estatus. Revise la regla vigente en [uscis.gov/i-693](https://www.uscis.gov/i-693) o pregúntele a su abogado antes de reservar.
 
-## ¿Quién Puede Realizar el Examen I-693?
+**Reúna sus vacunas.** Busque cartillas de su infancia, comprobantes de su país y registros de farmacias. En Texas, si le vacunaron aquí, puede pedir su historial al registro estatal [ImmTrac2](https://www.dshs.texas.gov/immunization-unit/immtrac2-texas-immunization-registry).
 
-Solo médicos autorizados como **Civil Surgeons** por USCIS pueden realizar este examen. En [Clínica Hispana Cruz 4](/services/examenes-inmigracion), contamos con Civil Surgeons certificados que realizan estos exámenes diariamente en Houston.
+**Descargue el formulario.** Llene en casa la parte que le corresponde al solicitante, pero **no la firme**: se firma delante del médico.
 
-## ¿Qué Incluye el Examen Médico de Inmigración?
+## Paso 2: la primera visita
 
-### Examen Físico Completo
-- Revisión de historial médico
-- Examen de visión y audición
-- Evaluación de salud mental
-- Examen físico general
+En esta consulta el médico:
 
-### Pruebas de Laboratorio
-- Análisis de sangre para sífilis
-- Prueba de tuberculosis (TB)
-- Otras pruebas según sea necesario
+1. Revisa su historial médico y le hace un examen físico completo, que incluye vista, oído, piel, corazón, pulmones y salud mental.
+2. Compara sus comprobantes con las vacunas que exigen los [CDC](https://www.cdc.gov/immigrant-refugee-health/hcp/civil-surgeons/index.html) para su edad.
+3. Ordena los análisis: tuberculosis con una muestra de sangre a partir de los 2 años, y las pruebas de sífilis y gonorrea que correspondan según su edad.
 
-Nuestro [laboratorio clínico](/services/examenes-sangre) realiza todos estos análisis en el mismo lugar, por lo que no necesitará ir a otro sitio para completar los requisitos de laboratorio del I-693.
+Traiga identificación con foto y, si toma medicamentos, la lista.
 
-### Vacunas Requeridas
-USCIS requiere que los solicitantes estén al día con el esquema de vacunación recomendado por el Advisory Committee on Immunization Practices (ACIP). A continuación se detallan las vacunas más comunes exigidas:
+## Paso 3: los resultados
 
-- **Hepatitis A**: Serie de 2 dosis; protege contra infección hepática viral
-- **Hepatitis B**: Serie de 3 dosis; obligatoria para todos los solicitantes
-- **Influenza (gripe)**: Una dosis anual; requerida durante la temporada de influenza
-- **Sarampión, paperas y rubéola (MMR)**: 2 dosis; especialmente importante para nacidos antes de 1957
-- **Tétanos, difteria y tos ferina (Tdap/Td)**: Refuerzo cada 10 años
-- **Varicela**: 2 dosis si no tuvo la enfermedad de niño
-- **Meningococo**: Para ciertos grupos de edad
-- **Neumococo**: Para adultos mayores o con condiciones crónicas
-- **COVID-19**: Esquema completo según las pautas vigentes de USCIS
-- **HPV (Virus del Papiloma Humano)**: Para solicitantes de 11 a 26 años
+Casi siempre todo sale normal y se pasa directo al paso 5. Pero conviene saber qué ocurre si no:
 
-Si ya tiene algunas vacunas, traiga su cartilla de vacunación o registros médicos. El Civil Surgeon determinará qué vacunas faltan y solo se aplicarán las que realmente necesite.
+- **Tuberculosis positiva en sangre.** No significa que esté enfermo; muchas personas nacidas en Latinoamérica tienen una infección latente de hace años. Lo que sigue es una **placa del pecho** para revisar los pulmones. Si la placa es normal, el caso sigue adelante. Si hay dudas, el médico le refiere al departamento de salud para una evaluación más completa.
+- **Sífilis o gonorrea positivas.** Hay que completar el tratamiento con antibióticos antes de que el médico firme, y queda documentado en el formulario. Una vez tratadas, no son un obstáculo para la residencia.
 
-## ¿Cuánto Cuesta el Examen I-693 en Houston?
+## Paso 4: las vacunas que falten
 
-Los costos varían según la clínica. En Clínica Hispana Cruz 4 ofrecemos precios competitivos que incluyen:
-- Examen médico completo
-- Formulario I-693 completado
-- Asesoría en español
+El médico le dirá con precisión cuáles le faltan. Algunas se pueden aplicar en la clínica y otras en una farmacia o en su centro de salud; lo importante es traer el comprobante. Hay situaciones en las que una vacuna no se exige, por ejemplo si no corresponde a su edad o hay una contraindicación médica. El médico lo anota en el formulario.
 
-Las vacunas se cobran por separado según las que necesite.
+## Paso 5: la firma y el sobre
 
-## ¿Qué Documentos Necesito Traer?
+Con todos los resultados y vacunas listos, usted firma el formulario delante del médico, él lo firma y lo cierra en un sobre sellado. **No lo abra.** Guarde una copia si se la entregan por separado.
 
-1. **Identificación con foto** (pasaporte, ID de su país)
-2. **Registro de vacunas** (si lo tiene)
-3. **Historial médico** (si tiene condiciones crónicas)
-4. **Formularios de USCIS** relacionados con su caso
+## Paso 6: presentarlo
 
-## ¿Cuánto Tiempo Toma el Proceso?
+El sobre se envía junto con su solicitud de residencia, o después si USCIS se lo pide. Siga las instrucciones de su abogado o de la carta de USCIS.
 
-En nuestra clínica en Houston, el examen típicamente se completa en **1-2 horas**. Si necesita vacunas adicionales, puede requerir una segunda visita para completar la serie.
+## En Clínica Hispana Cruz 4
 
-El formulario I-693 tiene una **validez de 2 años** desde la fecha del examen, o 4 años si las vacunas fueron aplicadas en ese período.
+Hacemos el [examen de inmigración I-693](/services/examenes-inmigracion) con médico designado por USCIS, explicando cada paso en español. Las muestras se toman en nuestro [laboratorio](/services/examenes-sangre) el mismo día de la consulta y le avisamos cuando los resultados estén listos. Puede venir cualquier día de la semana, sin reservar, a la Suite 240 del 10100 de Beechnut St. Pregunte el costo al (281) 588-0033.
 
-## Errores Comunes que Debe Evitar
-
-Muchos solicitantes cometen errores que retrasan su proceso migratorio o invalidan su formulario I-693. Estos son los más frecuentes:
-
-### 1. No traer registros de vacunación
-Si no lleva prueba de vacunas previas, el Civil Surgeon estará obligado a repetirlas, lo que aumenta el costo y el número de visitas. Busque su cartilla antes de la cita.
-
-### 2. Elegir un médico no autorizado por USCIS
-Solo los **Civil Surgeons designados** pueden firmar el I-693. Si otro médico realiza el examen, USCIS lo rechazará. Verifique siempre que la clínica esté en la lista oficial de USCIS.
-
-### 3. Abrir el sobre sellado
-Una vez que el Civil Surgeon sella el sobre con el formulario, usted **no debe abrirlo**. Si el sobre llega abierto o dañado, USCIS lo rechazará y deberá repetir el examen.
-
-### 4. Presentar el formulario después de su vencimiento
-El I-693 es válido por 2 años desde la fecha de la firma del Civil Surgeon, y por 4 años si las vacunas fueron administradas durante ese tiempo. Calcule bien sus tiempos para no tener que repetir el proceso.
-
-### 5. No declarar condiciones médicas previas
-Ocultar condiciones de salud puede resultar en complicaciones más graves durante el proceso. Los problemas de salud no necesariamente impiden la inmigración; existen waivers (dispensas) para muchas condiciones.
-
-### 6. Esperar hasta el último momento
-En Houston, las clínicas con Civil Surgeons pueden tener tiempos de espera, especialmente durante periodos de alta demanda. Reserve su cita con al menos 2-3 semanas de anticipación antes de su entrevista con USCIS.
-
-## ¿Qué Pasa si mi I-693 es Rechazado?
-
-Si USCIS rechaza su formulario I-693, no entre en pánico. Existen varias razones comunes y soluciones para cada una:
-
-### El formulario está incompleto o tiene errores
-USCIS puede devolver el formulario si hay secciones vacías, firmas que faltan o información incorrecta. En este caso, deberá regresar al Civil Surgeon para que corrija o complete el documento. En Clínica Hispana Cruz 4 revisamos el formulario cuidadosamente antes de sellarlo.
-
-### El sobre llegó abierto o dañado
-Deberá repetir el examen médico completo. Asegúrese de guardar el sobre en un lugar seguro y no abrirlo bajo ninguna circunstancia.
-
-### El formulario está vencido
-Si presentó el I-693 después de su fecha de vencimiento, necesitará un nuevo examen. Guarde la fecha de firma del formulario y calcule los plazos con su abogado de inmigración.
-
-### Condición médica que requiere evaluación adicional
-En algunos casos, USCIS puede solicitar evaluaciones adicionales por un especialista. El Civil Surgeon le orientará sobre los pasos a seguir, y en muchos casos es posible solicitar un waiver médico ante USCIS.
-
-Si su formulario fue rechazado, contáctenos. Podemos ayudarle a entender el motivo y programar un nuevo examen o corregir el problema lo antes posible.
-
-## Consejos para su Cita
-
-### Antes de la Cita
-- Traiga todos sus documentos de vacunación
-- Liste todos los medicamentos que toma
-- Prepare información sobre su historial médico
-
-### Durante el Examen
-- Sea honesto sobre su historial de salud
-- Haga preguntas si no entiende algo
-- Nuestro personal habla español
-
-### Después del Examen
-- Guarde una copia del formulario
-- No abra el sobre sellado
-- Presente el formulario junto con su solicitud
-
-## ¿Por Qué Elegir Clínica Hispana Cruz 4?
-
-- **Civil Surgeons certificados** con experiencia
-- **Atención 100% en español**
-- **Resultados el mismo día** en la mayoría de casos
-- **Precios competitivos** y transparentes
-- **Ubicación conveniente** en Houston TX
-- **Sin cita previa** disponible
-
-## Programe su Examen Hoy
-
-No deje que el examen médico retrase su proceso migratorio. Contáctenos hoy para programar su [examen de inmigración I-693](/services/examenes-inmigracion).
-
-**Clínica Hispana Cruz 4**
-- Teléfono: (281) 588-0033
-- Dirección: 10100 Beechnut St Ste 240, Houston, TX 77072
-- Horario: Lunes a Domingo 9AM-9PM
-
-*Este artículo es solo informativo y no constituye asesoría legal. Consulte con un abogado de inmigración para preguntas sobre su caso específico.*
+*Guía informativa; no es asesoría legal de inmigración.*
