@@ -612,30 +612,30 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   "examenes-inmigracion": {
     "faqs": [
       {
-        "question": "¿El médico está autorizado por USCIS?",
-        "answer": "Sí, el examen lo realiza un médico autorizado (civil surgeon) y te entregamos el Formulario I-693 sellado."
+        "question": "¿Cuántas visitas necesito para el I-693?",
+        "answer": "Por lo general dos: una para el examen y las muestras, y otra para firmar y recoger el sobre cuando estén los resultados. Si falta alguna vacuna o una prueba sale positiva, puede hacer falta un paso más."
       },
       {
-        "question": "¿Necesito cita previa?",
-        "answer": "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario."
+        "question": "¿Me sirven las vacunas que me pusieron en mi país?",
+        "answer": "Sí, si tienen fecha y el nombre de la vacuna. Tráigalas aunque estén en español o en una cartilla vieja; el médico las revisa y las anota en el formulario."
       },
       {
-        "question": "¿Atienden a pacientes sin seguro?",
-        "answer": "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita."
+        "question": "¿Y si mi prueba de tuberculosis da positivo?",
+        "answer": "Se pide una radiografía de tórax. Si sale normal, el trámite continúa. Si hay dudas, el médico le refiere al departamento de salud para completar la evaluación."
       }
     ],
     "faqsEn": [
       {
-        "question": "Is the doctor authorized by USCIS?",
-        "answer": "Yes, the exam is performed by an authorized civil surgeon and we give you the sealed Form I-693."
+        "question": "How many trips to the clinic does the I-693 need?",
+        "answer": "Usually two: one for the exam and samples, and one to sign and pick up the envelope once results are in. A missing vaccine or a positive test can add a step."
       },
       {
-        "question": "Do I need an appointment?",
-        "answer": "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time."
+        "question": "Do vaccines from my home country count?",
+        "answer": "Yes, as long as they show the date and the vaccine name. Bring them even if they're in Spanish or on an old card; the doctor reviews them and records them on the form."
       },
       {
-        "question": "Do you accept patients without insurance?",
-        "answer": "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit."
+        "question": "What if my TB test comes back positive?",
+        "answer": "A chest X-ray is ordered. If it's clear, the process continues. If there's any doubt, the doctor refers you to the health department to finish the evaluation."
       }
     ]
   },
