@@ -35,6 +35,7 @@ import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
 import { SERVICES, SITE_CONFIG, CONTACT_INFO } from "@/lib/constants";
+import { seoDescription } from "@/lib/seo";
 import { getLocalizedService } from "@/lib/utils";
 import { getServiceFAQs } from "@/lib/service-faqs";
 import { JsonLdBreadcrumb, JsonLdMedicalProcedure, JsonLdFAQ, JsonLdMedicalClinicRef } from "@/components/seo/json-ld";
@@ -93,7 +94,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
   return {
     title: service.title,
-    description: service.description,
+    description: seoDescription(service.description),
     keywords: service.keywords,
     alternates: {
       canonical: `${SITE_CONFIG.baseUrl}${localePath}/services/${slug}`,
@@ -105,7 +106,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     },
     openGraph: {
       title: `${service.title} | ${SITE_CONFIG.name}`,
-      description: service.description,
+      description: seoDescription(service.description),
       url: `${SITE_CONFIG.baseUrl}${localePath}/services/${slug}`,
       images: [
         {

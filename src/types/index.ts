@@ -64,6 +64,8 @@ export interface GoogleReview {
 export interface BlogPost {
   slug: string;
   title: string;
+  /** Título del <title> si el H1 pasa de 60 caracteres. */
+  metaTitle?: string;
   titleEn?: string;
   description: string;
   descriptionEn?: string;

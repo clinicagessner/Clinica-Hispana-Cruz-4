@@ -1,6 +1,7 @@
 ---
 slug: "vitamina-b12-beneficios-inyecciones-houston"
 title: "Vitamina B12: Beneficios, Síntomas de Deficiencia e Inyecciones"
+metaTitle: "Vitamina B12: Beneficios, Deficiencia e Inyecciones"
 description: "Para qué sirve la vitamina B12, síntomas de deficiencia y cuándo conviene la inyección. Prueba de B12 e inyecciones en español en Houston, sin cita y sin seguro."
 date: "2026-08-18"
 dateModified: "2026-08-18"

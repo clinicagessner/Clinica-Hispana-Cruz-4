@@ -16,6 +16,7 @@ function readBlogFile(slug: string, locale: string): BlogPost | null {
   return {
     slug: data.slug || slug,
     title: data.title || "",
+    metaTitle: data.metaTitle,
     description: data.description || "",
     date: data.date || "",
     dateModified: data.dateModified,

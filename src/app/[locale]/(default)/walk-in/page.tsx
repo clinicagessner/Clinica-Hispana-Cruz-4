@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { setRequestLocale } from "next-intl/server";
 import { Phone, MapPin, Clock, CheckCircle, IdentificationCard, FirstAidKit, ArrowRight, Question } from "@phosphor-icons/react/dist/ssr";
+import { DEFAULT_OG_IMAGE } from "@/lib/seo";
 import { SITE_CONFIG, CONTACT_INFO } from "@/lib/constants";
 import { JsonLdBreadcrumb, JsonLdFAQ, JsonLdMedicalClinicRef } from "@/components/seo/json-ld";
 
@@ -212,6 +213,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       description: c.description,
       url: `${SITE_CONFIG.baseUrl}${localePath}/walk-in`,
       type: "website",
+      images: [DEFAULT_OG_IMAGE],
     },
     robots: { index: true, follow: true },
   };

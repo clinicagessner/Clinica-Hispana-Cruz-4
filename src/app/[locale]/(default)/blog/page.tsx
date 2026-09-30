@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import Image from "next/image";
 import { getTranslations, setRequestLocale } from "next-intl/server";
+import { DEFAULT_OG_IMAGE, seoDescription } from "@/lib/seo";
 import { SITE_CONFIG } from "@/lib/constants";
 import { getBlogPosts, getFeaturedPost } from "@/lib/blog";
 import { Badge } from "@/components/ui/badge";
@@ -21,7 +22,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
   return {
     title: t("metaTitle"),
-    description: t("metaDescription"),
+    description: seoDescription(t("metaDescription")),
     alternates: {
       canonical: `${SITE_CONFIG.baseUrl}${localePath}/blog`,
       languages: {
@@ -32,9 +33,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     },
     openGraph: {
       title: t("metaTitle"),
-      description: t("metaDescription"),
+      description: seoDescription(t("metaDescription")),
       type: "website",
       url: `${SITE_CONFIG.baseUrl}${localePath}/blog`,
+      images: [DEFAULT_OG_IMAGE],
     },
   };
 }

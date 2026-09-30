@@ -3,6 +3,7 @@ import Link from "next/link";
 import { setRequestLocale } from "next-intl/server";
 import { JsonLdMedicalClinicRef } from "@/components/seo/json-ld";
 import { Phone, MapPin, Envelope, ArrowLeft } from "@phosphor-icons/react/dist/ssr";
+import { DEFAULT_OG_IMAGE } from "@/lib/seo";
 import { SITE_CONFIG, CONTACT_INFO } from "@/lib/constants";
 
 type MetadataProps = {
@@ -35,6 +36,7 @@ export async function generateMetadata({ params }: MetadataProps): Promise<Metad
       description,
       url: `${SITE_CONFIG.baseUrl}${localePath}/privacy`,
       type: "website",
+      images: [DEFAULT_OG_IMAGE],
     },
     robots: {
       index: true,

@@ -4,6 +4,7 @@ import Image from "next/image";
 import { notFound } from "next/navigation";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { JsonLdMedicalClinicRef } from "@/components/seo/json-ld";
+import { seoDescription } from "@/lib/seo";
 import { SITE_CONFIG, CONTACT_INFO } from "@/lib/constants";
 import { getBlogPosts, getBlogPost, getRelatedPosts } from "@/lib/blog";
 import { Badge } from "@/components/ui/badge";
@@ -38,9 +39,12 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
   const localePath = locale === "en" ? "/en" : "";
 
+  const metaTitle = post.metaTitle ?? post.title;
+  const description = seoDescription(post.description);
+
   return {
-    title: post.title,
-    description: post.description,
+    title: metaTitle,
+    description,
     alternates: {
       canonical: `${SITE_CONFIG.baseUrl}${localePath}/blog/${slug}`,
       languages: {
@@ -50,8 +54,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       },
     },
     openGraph: {
-      title: post.title,
-      description: post.description,
+      title: metaTitle,
+      description,
       type: "article",
       publishedTime: post.date,
       authors: [post.author],
@@ -69,8 +73,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     },
     twitter: {
       card: "summary_large_image",
-      title: post.title,
-      description: post.description,
+      title: metaTitle,
+      description,
       images: post.image ? [post.image] : undefined,
     },
   };

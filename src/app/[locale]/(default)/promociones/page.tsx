@@ -7,6 +7,7 @@ import { PromotionsGrid } from "@/components/promotions/promotions-grid";
 import { ContactForm } from "@/components/forms/contact-form";
 import { JsonLdBreadcrumb, JsonLdFAQ, JsonLdMedicalClinicRef } from "@/components/seo/json-ld";
 import { getGooglePlaceData } from "@/lib/google-places";
+import { seoDescription } from "@/lib/seo";
 import { SITE_CONFIG, GOOGLE_REVIEWS_DATA } from "@/lib/constants";
 
 type Props = {
@@ -20,7 +21,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
   return {
     title: t("metaTitle"),
-    description: t("metaDescription"),
+    description: seoDescription(t("metaDescription")),
     alternates: {
       canonical: `${SITE_CONFIG.baseUrl}${localePath}/promociones`,
       languages: {
