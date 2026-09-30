@@ -762,30 +762,30 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   "cirugias-menores": {
     "faqs": [
       {
-        "question": "¿Qué cirugías menores realizan?",
-        "answer": "Realizamos extracción de lunares, quistes y lipomas, entre otros procedimientos ambulatorios con anestesia local."
+        "question": "¿Qué tipo de cirugías menores hacen?",
+        "answer": "Retiro de lunares, verrugas, quistes sebáceos, lipomas y otras lesiones pequeñas de la piel, con anestesia local y sin hospitalización."
       },
       {
-        "question": "¿Necesito cita previa?",
-        "answer": "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario."
+        "question": "¿Tengo que dejar mis medicamentos antes del procedimiento?",
+        "answer": "No los suspenda por su cuenta. Díganos cuáles toma, sobre todo anticoagulantes o aspirina, y el médico le indica qué hacer."
       },
       {
-        "question": "¿Atienden a pacientes sin seguro?",
-        "answer": "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita."
+        "question": "¿Queda cicatriz?",
+        "answer": "Queda una cicatriz pequeña, que suele aclararse con los meses. El médico le explica antes cómo será según el tamaño y la zona."
       }
     ],
     "faqsEn": [
       {
-        "question": "What minor surgeries do you perform?",
-        "answer": "We perform removal of moles, cysts and lipomas, among other outpatient procedures with local anesthesia."
+        "question": "What kinds of minor surgery do you do?",
+        "answer": "Removal of moles, warts, sebaceous cysts, lipomas and other small skin lesions, under local anesthesia and without a hospital stay."
       },
       {
-        "question": "Do I need an appointment?",
-        "answer": "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time."
+        "question": "Should I stop my medications before the procedure?",
+        "answer": "Don't stop them on your own. Tell us what you take, especially blood thinners or aspirin, and the doctor will tell you what to do."
       },
       {
-        "question": "Do you accept patients without insurance?",
-        "answer": "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit."
+        "question": "Will there be a scar?",
+        "answer": "A small scar remains that usually fades over the months. The doctor explains beforehand what to expect based on the size and location."
       }
     ]
   },
