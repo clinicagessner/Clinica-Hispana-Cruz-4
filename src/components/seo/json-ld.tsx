@@ -299,3 +299,43 @@ export function JsonLdMedicalClinicRef() {
     />
   );
 }
+
+// MedicalWebPage de un servicio (§12 B2): revisor = la clínica, sin médico
+// nombrado (§9). mainEntity apunta al MedicalProcedure con @id estable.
+export function JsonLdMedicalWebPage({
+  url,
+  slug,
+  name,
+  description,
+  lastReviewed,
+  locale,
+}: {
+  url: string;
+  slug: string;
+  name: string;
+  description: string;
+  lastReviewed: string;
+  locale: string;
+}) {
+  const schema = {
+    "@context": "https://schema.org",
+    "@type": "MedicalWebPage",
+    "@id": `${url}#webpage`,
+    url,
+    name,
+    description,
+    inLanguage: locale === "es" ? "es-MX" : "en-US",
+    lastReviewed,
+    reviewedBy: { "@id": `${SITE_CONFIG.baseUrl}/#clinic` },
+    about: { "@id": `${SITE_CONFIG.baseUrl}/#clinic` },
+    isPartOf: { "@id": `${SITE_CONFIG.baseUrl}/#website` },
+    mainEntity: { "@id": `${SITE_CONFIG.baseUrl}/services/${slug}#procedure` },
+  };
+
+  return (
+    <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+    />
+  );
+}

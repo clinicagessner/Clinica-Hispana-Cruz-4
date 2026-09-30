@@ -42,6 +42,9 @@ export function JsonLdBlogPosting({ post, locale }: Props) {
     publisher: {
       "@id": `${SITE_CONFIG.baseUrl}/#clinic`,
     },
+    // Sin médico nombrado, el revisor es la clínica (§9 del playbook).
+    reviewedBy: { "@id": `${SITE_CONFIG.baseUrl}/#clinic` },
+    lastReviewed: post.dateModified || post.date,
     inLanguage: locale === "es" ? "es-MX" : "en-US",
     wordCount: post.content.split(/\s+/).length,
     articleSection: post.category || "Salud",

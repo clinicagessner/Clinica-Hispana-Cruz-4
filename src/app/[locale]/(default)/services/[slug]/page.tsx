@@ -36,9 +36,11 @@ import { Badge } from "@/components/ui/badge";
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
 import { SERVICES, SITE_CONFIG, CONTACT_INFO } from "@/lib/constants";
 import { seoDescription } from "@/lib/seo";
+import { serviceLastReviewed } from "@/lib/content-dates";
+import { MedicalReview } from "@/components/seo/medical-review";
 import { getLocalizedService } from "@/lib/utils";
 import { getServiceFAQs } from "@/lib/service-faqs";
-import { JsonLdBreadcrumb, JsonLdMedicalProcedure, JsonLdFAQ, JsonLdMedicalClinicRef } from "@/components/seo/json-ld";
+import { JsonLdBreadcrumb, JsonLdMedicalProcedure, JsonLdFAQ, JsonLdMedicalWebPage, JsonLdMedicalClinicRef } from "@/components/seo/json-ld";
 
 const iconMap: Record<string, React.ElementType> = {
   Stethoscope,
@@ -146,6 +148,9 @@ export default async function ServicePage({ params }: Props) {
     { length: Math.min(3, sameCategory.length - 1) },
     (_, i) => sameCategory[(position + i + 1) % sameCategory.length]
   ).map((s) => getLocalizedService(s, locale));
+
+  const lastReviewed = serviceLastReviewed(rawService.slug);
+  const tReview = await getTranslations({ locale, namespace: "medicalReview" });
 
   const localePath = locale === "en" ? "/en" : "";
   const breadcrumbs = [
@@ -324,6 +329,24 @@ export default async function ServicePage({ params }: Props) {
           </section>
         )}
 
+        {/* Revisión médica (§12 B2) */}
+        <section className="pb-4">
+          <div className="container mx-auto px-4">
+            <div className="max-w-4xl mx-auto">
+              <MedicalReview
+                reviewed={lastReviewed}
+                locale={locale}
+                labels={{
+                  heading: tReview("heading"),
+                  reviewedBy: tReview("reviewedBy"),
+                  published: tReview("published"),
+                  lastReviewed: tReview("lastReviewed"),
+                }}
+              />
+            </div>
+          </div>
+        </section>
+
         {/* Related Services */}
         {relatedServices.length > 0 && (
           <section className="py-12 md:py-16 bg-slate-light">
@@ -380,6 +403,14 @@ export default async function ServicePage({ params }: Props) {
       </main>
 
       <JsonLdBreadcrumb items={breadcrumbs} />
+      <JsonLdMedicalWebPage
+        url={`${SITE_CONFIG.baseUrl}${localePath}/services/${service.slug}`}
+        slug={rawService.slug}
+        name={service.title}
+        description={service.description}
+        lastReviewed={lastReviewed}
+        locale={locale}
+      />
       <JsonLdMedicalProcedure
         name={service.title}
         description={service.description}

@@ -165,6 +165,12 @@
     "body": "Clínica Hispana Cruz 4 es una clínica de medicina general en el suroeste de Houston, en 10100 Beechnut St, Suite 240, Houston, TX 77072, abierta desde enero de 2020. Recibe pacientes sin cita los siete días, de 9 de la mañana a 9 de la noche; la atención es en español o en inglés, sin necesidad de seguro y con el precio claro antes de la consulta. El equipo médico atiende enfermedades comunes, el <chronic>control de diabetes, presión alta y colesterol</chronic>, la <women>salud de la mujer</women> y la <men>del hombre</men>, y realiza <school>exámenes físicos escolares</school>, el <dot>examen DOT</dot> y el <immigration>examen de inmigración I-693</immigration> con médico autorizado por USCIS.",
     "body2": "En la misma clínica hay <lab>laboratorio</lab>, <ultrasound>ultrasonido</ultrasound> y <ekg>electrocardiograma</ekg>, y la <pharmacy>farmacia</pharmacy> entrega los medicamentos indicados en la consulta. Recibimos a familias de Alief, Sharpstown, Gulfton, Westchase, Mission Bend y Bellaire. Teléfono (281) 588-0033 · WhatsApp (281) 741-2157. Más sobre nosotros en nuestra <welcome>presentación</welcome>."
   },
+  "medicalReview": {
+    "heading": "Revisión médica",
+    "reviewedBy": "Contenido revisado por el equipo médico de {name}. No sustituye una consulta.",
+    "published": "Publicado el",
+    "lastReviewed": "Última revisión:"
+  },
   "faq": {
     "title": "Preguntas Frecuentes",
     "subtitle": "Resuelve tus dudas sobre horarios, precios y servicios de nuestra clínica hispana en Houston",

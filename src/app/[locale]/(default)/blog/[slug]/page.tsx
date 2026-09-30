@@ -5,6 +5,7 @@ import { notFound } from "next/navigation";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { JsonLdMedicalClinicRef } from "@/components/seo/json-ld";
 import { seoDescription } from "@/lib/seo";
+import { MedicalReview } from "@/components/seo/medical-review";
 import { SITE_CONFIG, CONTACT_INFO } from "@/lib/constants";
 import { getBlogPosts, getBlogPost, getRelatedPosts } from "@/lib/blog";
 import { Badge } from "@/components/ui/badge";
@@ -99,6 +100,7 @@ export default async function BlogPostPage({ params }: Props) {
   }
 
   const relatedPosts = getRelatedPosts(slug, locale, 2);
+  const tReview = await getTranslations({ locale, namespace: "medicalReview" });
 
   return (
     <>
@@ -191,6 +193,21 @@ export default async function BlogPostPage({ params }: Props) {
                 {t("callNow")} {CONTACT_INFO.phoneFormatted}
               </a>
             </div>
+          </div>
+
+          {/* Revisión médica (§12 B2) */}
+          <div className="max-w-4xl mx-auto mt-12">
+            <MedicalReview
+              published={post.date}
+              reviewed={post.dateModified || post.date}
+              locale={locale}
+              labels={{
+                heading: tReview("heading"),
+                reviewedBy: tReview("reviewedBy"),
+                published: tReview("published"),
+                lastReviewed: tReview("lastReviewed"),
+              }}
+            />
           </div>
 
           {/* Related Posts */}
