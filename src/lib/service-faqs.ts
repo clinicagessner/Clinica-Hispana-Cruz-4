@@ -492,30 +492,30 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   "examen-alcohol-drogas": {
     "faqs": [
       {
-        "question": "¿Entregan documentación para el trabajo?",
-        "answer": "Sí, te entregamos la documentación del resultado para tu empleador o trámite."
+        "question": "¿Qué pasa si tomo un medicamento con receta?",
+        "answer": "Dígalo antes de la prueba y traiga la lista. Algunos medicamentos legales pueden dar positivo en la detección inicial, y ese dato ayuda a interpretar el resultado correctamente."
       },
       {
-        "question": "¿Necesito cita previa?",
-        "answer": "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario."
+        "question": "¿Quién recibe el resultado de mi prueba?",
+        "answer": "Usted, y la persona o empresa que usted autorice por escrito. No se comparte con nadie más."
       },
       {
-        "question": "¿Atienden a pacientes sin seguro?",
-        "answer": "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita."
+        "question": "¿Puedo tomar mucha agua antes de la prueba?",
+        "answer": "Tome agua como siempre. Una muestra demasiado diluida puede considerarse inválida y obligarle a repetir la prueba."
       }
     ],
     "faqsEn": [
       {
-        "question": "Do you provide documentation for work?",
-        "answer": "Yes, we give you documentation of the result for your employer or paperwork."
+        "question": "What if I take a prescription medication?",
+        "answer": "Mention it before the test and bring the list. Some legal medications can trigger a positive on the initial screen, and that information helps read the result correctly."
       },
       {
-        "question": "Do I need an appointment?",
-        "answer": "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time."
+        "question": "Who gets my test result?",
+        "answer": "You, plus any person or company you authorize in writing. It isn't shared with anyone else."
       },
       {
-        "question": "Do you accept patients without insurance?",
-        "answer": "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit."
+        "question": "Can I drink a lot of water before the test?",
+        "answer": "Drink as you normally would. An overly diluted sample can be ruled invalid and you may have to repeat the test."
       }
     ]
   },
