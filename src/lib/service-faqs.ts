@@ -582,30 +582,30 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   "examen-dot": {
     "faqs": [
       {
-        "question": "¿Me entregan el certificado DOT el mismo día?",
-        "answer": "Sí, al terminar el examen físico DOT te entregamos tu certificado el mismo día."
+        "question": "¿El certificado DOT me lo dan al terminar?",
+        "answer": "Sí. Si el examen sale en orden, se lleva el certificado al terminar la visita."
       },
       {
-        "question": "¿Necesito cita previa?",
-        "answer": "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario."
+        "question": "¿Por qué me dieron un certificado de solo un año?",
+        "answer": "Porque hay algo que el examinador quiere volver a revisar pronto, casi siempre la presión arterial o la diabetes. Si la mantiene controlada, en la siguiente revisión puede obtener el certificado por más tiempo."
       },
       {
-        "question": "¿Atienden a pacientes sin seguro?",
-        "answer": "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita."
+        "question": "¿La prueba de drogas forma parte del examen DOT?",
+        "answer": "No. La muestra de orina del DOT sirve para detectar proteína, sangre o azúcar. La prueba de drogas es aparte y la pide el empleador; también la hacemos si se la solicitan."
       }
     ],
     "faqsEn": [
       {
-        "question": "Do I get the DOT certificate the same day?",
-        "answer": "Yes, after the DOT physical we give you your certificate the same day."
+        "question": "Do I get my DOT certificate the same day?",
+        "answer": "Yes. If the exam checks out, you leave with the certificate at the end of the visit."
       },
       {
-        "question": "Do I need an appointment?",
-        "answer": "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time."
+        "question": "Why did I only get a one-year card?",
+        "answer": "Because there's something the examiner wants to recheck soon, usually blood pressure or diabetes. Keep it under control and you may get a longer certificate at the next exam."
       },
       {
-        "question": "Do you accept patients without insurance?",
-        "answer": "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit."
+        "question": "Is drug testing part of the DOT physical?",
+        "answer": "No. The urine test in the DOT physical looks for protein, blood and sugar. The drug test is separate and ordered by the employer; we also do it if you're asked for one."
       }
     ]
   },
