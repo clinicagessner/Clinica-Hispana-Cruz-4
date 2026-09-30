@@ -522,30 +522,30 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   "electrocardiograma": {
     "faqs": [
       {
-        "question": "¿El electrocardiograma duele?",
-        "answer": "No, es un estudio rápido y sin dolor; solo se colocan electrodos en la piel por unos minutos."
+        "question": "¿Cuánto dura el electrocardiograma?",
+        "answer": "La toma del trazo dura menos de un minuto; con la preparación, todo el estudio suele tomar unos diez minutos."
       },
       {
-        "question": "¿Necesito cita previa?",
-        "answer": "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario."
+        "question": "¿Un electrocardiograma normal descarta cualquier problema del corazón?",
+        "answer": "No siempre. Muestra el ritmo y la actividad en ese momento. Si los síntomas van y vienen, el médico puede indicar estudios adicionales aunque el EKG salga normal."
       },
       {
-        "question": "¿Atienden a pacientes sin seguro?",
-        "answer": "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita."
+        "question": "¿Tengo que dejar de tomar mis medicamentos antes del EKG?",
+        "answer": "No. Tome sus medicamentos como siempre y traiga la lista, porque algunos influyen en el trazo y el médico lo tiene en cuenta al leerlo."
       }
     ],
     "faqsEn": [
       {
-        "question": "Does the EKG hurt?",
-        "answer": "No, it's a fast, painless test; electrodes are simply placed on the skin for a few minutes."
+        "question": "How long does an EKG take?",
+        "answer": "Recording the tracing takes under a minute; with setup, the whole test usually takes about ten minutes."
       },
       {
-        "question": "Do I need an appointment?",
-        "answer": "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time."
+        "question": "Does a normal EKG rule out every heart problem?",
+        "answer": "Not always. It shows rhythm and activity at that moment. If symptoms come and go, the doctor may order more tests even with a normal EKG."
       },
       {
-        "question": "Do you accept patients without insurance?",
-        "answer": "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit."
+        "question": "Should I stop my medications before the EKG?",
+        "answer": "No. Take your medications as usual and bring the list, since some affect the tracing and the doctor factors that in."
       }
     ]
   },
