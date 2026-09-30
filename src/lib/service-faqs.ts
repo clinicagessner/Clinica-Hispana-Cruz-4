@@ -12,30 +12,30 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   "condiciones-cronicas": {
     "faqs": [
       {
-        "question": "¿Cada cuánto debo hacerme exámenes de control?",
-        "answer": "Depende de tu condición; por lo general cada 3 a 6 meses para diabetes, presión o colesterol. Te damos un plan de seguimiento personalizado."
+        "question": "¿Cada cuánto tengo que venir a control?",
+        "answer": "Mientras sus números no estén en meta, cada uno a tres meses. Cuando la diabetes, la presión o el colesterol se estabilizan, las visitas se espacian a cada tres o seis meses."
       },
       {
-        "question": "¿Necesito cita previa?",
-        "answer": "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario."
+        "question": "¿Puedo dejar el medicamento si ya me siento bien?",
+        "answer": "No lo suspenda por su cuenta. Sentirse bien suele ser señal de que el medicamento funciona. Si quiere reducirlo, háblelo en la consulta y lo ajustamos con sus resultados."
       },
       {
-        "question": "¿Atienden a pacientes sin seguro?",
-        "answer": "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita."
+        "question": "¿Tengo que venir en ayunas a mis análisis de control?",
+        "answer": "Para la glucosa en ayunas y a veces los triglicéridos, sí: de 8 a 12 horas, solo agua. La A1C no requiere ayuno. Le decimos qué aplica en su caso al pedir los estudios."
       }
     ],
     "faqsEn": [
       {
-        "question": "How often should I get control labs?",
-        "answer": "It depends on your condition; usually every 3 to 6 months for diabetes, blood pressure or cholesterol. We give you a personalized follow-up plan."
+        "question": "How frequently will I be seen for follow-up?",
+        "answer": "Until your numbers reach the goal, every one to three months. Once diabetes, blood pressure or cholesterol are stable, visits are spaced to every three to six months."
       },
       {
-        "question": "Do I need an appointment?",
-        "answer": "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time."
+        "question": "Can I stop my medication once I feel better?",
+        "answer": "Don't stop on your own. Feeling well usually means the medication is working. If you'd like to cut back, bring it up at your visit and we'll adjust it based on your results."
       },
       {
-        "question": "Do you accept patients without insurance?",
-        "answer": "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit."
+        "question": "Should I skip breakfast before my control labs?",
+        "answer": "For fasting glucose and sometimes triglycerides, yes: 8 to 12 hours, water only. A1C doesn't require fasting. We tell you what applies when we order the tests."
       }
     ]
   },
