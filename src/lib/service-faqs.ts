@@ -252,30 +252,30 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   "extraccion-implantes": {
     "faqs": [
       {
-        "question": "¿Duele la extracción del implante?",
-        "answer": "Se realiza con anestesia local, por lo que las molestias son mínimas. El procedimiento toma pocos minutos."
+        "question": "¿Duele quitarse el implante?",
+        "answer": "La única molestia real es el pinchazo del anestésico. Durante el retiro puede notar presión, pero no dolor."
       },
       {
-        "question": "¿Necesito cita previa?",
-        "answer": "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario."
+        "question": "¿Queda cicatriz?",
+        "answer": "Una marca muy pequeña, de pocos milímetros, que con el tiempo suele aclararse."
       },
       {
-        "question": "¿Atienden a pacientes sin seguro?",
-        "answer": "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita."
+        "question": "Ya no siento el implante en el brazo, ¿me lo pueden quitar?",
+        "answer": "Primero hay que localizarlo. Si no se palpa, puede necesitarse un ultrasonido u otro estudio antes de retirarlo con seguridad."
       }
     ],
     "faqsEn": [
       {
         "question": "Does implant removal hurt?",
-        "answer": "It's done with local anesthesia, so discomfort is minimal. The procedure takes just a few minutes."
+        "answer": "You only feel the pinch of the local anesthetic. During removal you may feel pressure, but not pain."
       },
       {
-        "question": "Do I need an appointment?",
-        "answer": "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time."
+        "question": "Will it leave a scar?",
+        "answer": "A tiny mark of a few millimeters, which usually fades over time."
       },
       {
-        "question": "Do you accept patients without insurance?",
-        "answer": "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit."
+        "question": "I can't feel the implant in my arm anymore. Can you still remove it?",
+        "answer": "It has to be located first. If it can't be felt, an ultrasound or other study may be needed before removing it safely."
       }
     ]
   },
