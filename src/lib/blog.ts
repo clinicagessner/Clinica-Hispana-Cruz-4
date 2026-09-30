@@ -60,7 +60,14 @@ export function getFeaturedPost(locale: string = "es"): BlogPost | null {
   return posts[0] ?? null;
 }
 
+// Rotación circular por fecha: cada post enlaza a los siguientes, así todos
+// reciben enlaces. Con slice(0, limit) solo los más recientes los recibían.
 export function getRelatedPosts(slug: string, locale: string = "es", limit: number = 3): BlogPost[] {
   const posts = getBlogPosts(locale);
-  return posts.filter((p) => p.slug !== slug).slice(0, limit);
+  const position = posts.findIndex((p) => p.slug === slug);
+  if (position === -1) return posts.slice(0, limit);
+  return Array.from(
+    { length: Math.min(limit, posts.length - 1) },
+    (_, i) => posts[(position + i + 1) % posts.length]
+  );
 }
