@@ -2,6 +2,7 @@ import type { MetadataRoute } from "next";
 import { SERVICES, SITE_CONFIG } from "@/lib/constants";
 import { getBlogPosts } from "@/lib/blog";
 import { locales } from "@/i18n/config";
+import { serviceLastReviewed } from "@/lib/content-dates";
 
 type SitemapEntry = {
   url: string;
@@ -22,40 +23,6 @@ const PAGE_DATES: Record<string, string> = {
   "/privacy": "2026-07-11",
 };
 
-// Última edición de contenido del catálogo de servicios; las excepciones van
-// en SERVICE_DATES con su propia fecha.
-const SERVICES_LAST_REVIEWED = "2026-08-25";
-const SERVICE_DATES: Record<string, string> = {
-  "sueros-vitaminados": "2026-09-30", // B3: texto propio
-  "unas-encarnadas": "2026-09-30", // B3: texto propio
-  "drenaje-abscesos": "2026-09-30", // B3: texto propio
-  "cirugias-menores": "2026-09-30", // B3: texto propio
-  "curacion-heridas": "2026-09-30", // B3: texto propio
-  "suturas-heridas": "2026-09-30", // B3: texto propio
-  "enfermedades-respiratorias": "2026-09-30", // B3: texto propio
-  "salud-hombre": "2026-09-30", // B3: texto propio
-  "extraccion-implantes": "2026-09-30", // B3: texto propio
-  "anticonceptivos": "2026-09-30", // B3: texto propio
-  "prueba-embarazo": "2026-09-30", // B3: texto propio
-  "enfermedades-transmision-sexual": "2026-09-30", // B3: texto propio
-  "prueba-tuberculosis": "2026-09-30", // B3: texto propio
-  "prueba-strep": "2026-09-30", // B3: texto propio
-  "infecciones-urinarias": "2026-09-30", // B3: texto propio
-  "examenes-sangre": "2026-09-30", // B3: texto propio
-  "ultrasonido": "2026-09-30", // B3: texto propio
-  "condiciones-cronicas": "2026-09-30", // B3: texto propio (Ads, aprobado)
-  "ginecologia": "2026-09-30", // B3: texto propio (Ads, aprobado)
-  "electrocardiograma": "2026-09-30", // B3: texto propio
-  "vacunas": "2026-09-30", // B3: texto propio
-  "examen-alcohol-drogas": "2026-09-30", // B3: texto propio
-  "examen-heces": "2026-09-30", // B3: texto propio
-  "examen-dot": "2026-09-30", // B3: texto propio
-  "examenes-inmigracion": "2026-09-30", // B3: texto propio
-  "alergias": "2026-09-30", // B3: texto propio
-  "tiroides": "2026-09-30", // B3: texto propio
-  "examen-fisico-escolar": "2026-09-30", // B3: texto propio
-  farmacia: "2026-09-30", // B3: texto propio (entrega de lo indicado en consulta, §9)
-};
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = SITE_CONFIG.baseUrl;
@@ -83,7 +50,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const serviceRoutes = SERVICES.flatMap((service) =>
     entry(
       `/services/${service.slug}`,
-      new Date(SERVICE_DATES[service.slug] ?? SERVICES_LAST_REVIEWED)
+      new Date(serviceLastReviewed(service.slug))
     )
   );
 
