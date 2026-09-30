@@ -125,7 +125,7 @@ export function Promotions() {
       <div className="container relative z-10 mx-auto px-4">
         {/* Header */}
         <div className="max-w-2xl mx-auto text-center mb-10 md:mb-12">
-          <span className="inline-flex items-center gap-1.5 rounded-full bg-red-accent/10 px-4 py-1.5 text-xs font-semibold uppercase tracking-wider text-red-accent">
+          <span className="inline-flex items-center gap-1.5 rounded-full bg-red-accent/10 px-4 py-1.5 text-xs font-semibold uppercase tracking-wider text-red-ink">
             <Sparkles className="size-3.5" aria-hidden="true" />
             {t("eyebrow")}
           </span>
@@ -202,21 +202,26 @@ export function Promotions() {
 
         {/* Dots */}
         {snaps.length > 1 && (
-          <div className="mt-7 flex items-center justify-center gap-2">
+          <div className="mt-7 flex flex-wrap items-center justify-center">
             {snaps.map((_, i) => (
+              // Área táctil de 24 px (WCAG 2.5.8); el punto visible va dentro.
               <button
                 key={i}
                 type="button"
                 onClick={() => api?.scrollTo(i)}
                 aria-label={`${t("goToSlide")} ${i + 1}`}
                 aria-current={selected === i}
-                className={cn(
-                  "h-2 cursor-pointer rounded-full transition-all",
-                  selected === i
-                    ? "w-6 bg-red-accent"
-                    : "w-2 bg-blue-dark/20 hover:bg-blue-dark/40"
-                )}
-              />
+                className="group flex h-6 min-w-6 cursor-pointer items-center justify-center"
+              >
+                <span
+                  className={cn(
+                    "h-2 rounded-full transition-all",
+                    selected === i
+                      ? "w-6 bg-red-accent"
+                      : "w-2 bg-blue-dark/20 group-hover:bg-blue-dark/40"
+                  )}
+                />
+              </button>
             ))}
           </div>
         )}
