@@ -35,3 +35,18 @@ Antes de pedirlas: **Sitemaps → reenviar `sitemap.xml`**.
 - [ ] https://www.clinicahispanacruz4.com/en/blog/ginecologos-hispanos-houston-hablan-espanol
 - [ ] https://www.clinicahispanacruz4.com/blog/examen-dot-cdl-camioneros-houston
 - [ ] https://www.clinicahispanacruz4.com/en/blog/examen-dot-cdl-camioneros-houston
+
+## Tanda 3 — B3 posts lote 3 + chequeos del hombre (IndexNow al publicar; GSC al final)
+
+La tanda 1 ya incluye el post del urólogo; se vuelve a enviar solo por IndexNow.
+
+- [ ] https://www.clinicahispanacruz4.com/blog/salud-mujer-houston-servicios-ginecologia
+- [ ] https://www.clinicahispanacruz4.com/en/blog/salud-mujer-houston-servicios-ginecologia
+- [ ] https://www.clinicahispanacruz4.com/blog/guia-examen-medico-inmigracion-i693-houston
+- [ ] https://www.clinicahispanacruz4.com/en/blog/guia-examen-medico-inmigracion-i693-houston
+- [ ] https://www.clinicahispanacruz4.com/blog/control-diabetes-houston-guia-pacientes
+- [ ] https://www.clinicahispanacruz4.com/en/blog/control-diabetes-houston-guia-pacientes
+- [ ] https://www.clinicahispanacruz4.com/blog/laboratorio-clinico-houston-analisis-sangre
+- [ ] https://www.clinicahispanacruz4.com/en/blog/laboratorio-clinico-houston-analisis-sangre
+- [ ] https://www.clinicahispanacruz4.com/blog/chequeos-preventivos-hombres-houston
+- [ ] https://www.clinicahispanacruz4.com/en/blog/chequeos-preventivos-hombres-houston
