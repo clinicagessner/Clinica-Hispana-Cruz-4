@@ -372,30 +372,30 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   "examen-heces": {
     "faqs": [
       {
-        "question": "¿Cómo se toma la muestra de heces?",
-        "answer": "Te entregamos un recipiente e instrucciones claras para recolectar la muestra en casa y traerla a la clínica."
+        "question": "¿Debo dejar de comer antes de recoger la muestra?",
+        "answer": "No. Puede comer normalmente. Lo que sí conviene es avisar si toma antidiarreicos, antibióticos o suplementos de hierro, porque pueden cambiar el resultado."
       },
       {
-        "question": "¿Necesito cita previa?",
-        "answer": "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario."
+        "question": "¿Cuánto tiempo puedo guardar la muestra antes de traerla?",
+        "answer": "Lo ideal es traerla lo antes posible. Si no puede venir enseguida, pregunte al recoger el frasco cómo conservarla; depende del estudio que se pidió."
       },
       {
-        "question": "¿Atienden a pacientes sin seguro?",
-        "answer": "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita."
+        "question": "¿Para qué sirven varias muestras en días distintos?",
+        "answer": "Ciertos parásitos no aparecen en todas las evacuaciones. Con varias muestras separadas es menos probable que pasen desapercibidos."
       }
     ],
     "faqsEn": [
       {
-        "question": "How is the stool sample collected?",
-        "answer": "We give you a container and clear instructions to collect the sample at home and bring it to the clinic."
+        "question": "Do I need to fast for a stool test?",
+        "answer": "No. You can eat normally. Do let us know if you take anti-diarrheals, antibiotics or iron supplements, since they can change the result."
       },
       {
-        "question": "Do I need an appointment?",
-        "answer": "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time."
+        "question": "How long can I keep the sample before bringing it in?",
+        "answer": "Ideally, bring it as soon as possible. If you can't come right away, ask when you pick up the container how to store it; it depends on the test ordered."
       },
       {
-        "question": "Do you accept patients without insurance?",
-        "answer": "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit."
+        "question": "Why am I asked for more than one sample?",
+        "answer": "Some parasites are shed on and off. Collecting samples on different days raises the chance of finding them if they're there."
       }
     ]
   },
