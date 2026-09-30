@@ -63,3 +63,18 @@ La tanda 1 ya incluye el post del urólogo; se vuelve a enviar solo por IndexNow
 - [ ] https://www.clinicahispanacruz4.com/en/services/examenes-inmigracion
 - [ ] https://www.clinicahispanacruz4.com/services/examen-dot
 - [ ] https://www.clinicahispanacruz4.com/en/services/examen-dot
+
+## Tanda 5 — B3 servicios lote 2 (IndexNow al publicar; GSC al final)
+
+- [ ] https://www.clinicahispanacruz4.com/services/ginecologia
+- [ ] https://www.clinicahispanacruz4.com/en/services/ginecologia
+- [ ] https://www.clinicahispanacruz4.com/services/condiciones-cronicas
+- [ ] https://www.clinicahispanacruz4.com/en/services/condiciones-cronicas
+- [ ] https://www.clinicahispanacruz4.com/services/examen-heces
+- [ ] https://www.clinicahispanacruz4.com/en/services/examen-heces
+- [ ] https://www.clinicahispanacruz4.com/services/examen-alcohol-drogas
+- [ ] https://www.clinicahispanacruz4.com/en/services/examen-alcohol-drogas
+- [ ] https://www.clinicahispanacruz4.com/services/vacunas
+- [ ] https://www.clinicahispanacruz4.com/en/services/vacunas
+- [ ] https://www.clinicahispanacruz4.com/services/electrocardiograma
+- [ ] https://www.clinicahispanacruz4.com/en/services/electrocardiograma
