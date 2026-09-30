@@ -42,30 +42,30 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   "tiroides": {
     "faqs": [
       {
-        "question": "¿Qué prueba se usa para revisar la tiroides?",
-        "answer": "Usamos principalmente la TSH y, si es necesario, T3 y T4 para evaluar cómo funciona tu tiroides."
+        "question": "¿Tengo que ir en ayunas para el análisis de tiroides?",
+        "answer": "Para la TSH normalmente no. Si toma biotina, un suplemento común para el cabello, suspéndala dos días antes porque altera el resultado. Si ya toma pastilla para la tiroides, pregunte si debe tomarla antes o después de la muestra."
       },
       {
-        "question": "¿Necesito cita previa?",
-        "answer": "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario."
+        "question": "Ya tomo levotiroxina, ¿cada cuánto debo revisarme?",
+        "answer": "Seis a ocho semanas después de cualquier cambio de dosis y, una vez estable, una vez al año o antes si vuelven los síntomas."
       },
       {
-        "question": "¿Atienden a pacientes sin seguro?",
-        "answer": "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita."
+        "question": "¿La tiroides lenta explica que haya subido mucho de peso?",
+        "answer": "Suele sumar solo unos kilos, en buena parte por retención de líquido. Un aumento grande casi siempre tiene otras causas, que el médico revisa en la misma consulta."
       }
     ],
     "faqsEn": [
       {
-        "question": "What test is used to check the thyroid?",
-        "answer": "We mainly use TSH and, if needed, T3 and T4 to evaluate how your thyroid is working."
+        "question": "Is fasting required for thyroid blood work?",
+        "answer": "Usually not for TSH. If you take biotin, a common hair supplement, stop it two days before because it skews the result. If you already take thyroid medication, ask whether to take it before or after the draw."
       },
       {
-        "question": "Do I need an appointment?",
-        "answer": "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time."
+        "question": "I already take levothyroxine. How often should I be checked?",
+        "answer": "Six to eight weeks after any dose change and, once stable, once a year or sooner if symptoms return."
       },
       {
-        "question": "Do you accept patients without insurance?",
-        "answer": "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit."
+        "question": "Can a slow thyroid explain a lot of weight gain?",
+        "answer": "It usually adds only a few pounds, largely from fluid retention. A big gain almost always has other causes, which the doctor looks into at the same visit."
       }
     ]
   },
