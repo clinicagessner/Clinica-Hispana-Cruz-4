@@ -50,3 +50,16 @@ La tanda 1 ya incluye el post del urólogo; se vuelve a enviar solo por IndexNow
 - [ ] https://www.clinicahispanacruz4.com/en/blog/laboratorio-clinico-houston-analisis-sangre
 - [ ] https://www.clinicahispanacruz4.com/blog/chequeos-preventivos-hombres-houston
 - [ ] https://www.clinicahispanacruz4.com/en/blog/chequeos-preventivos-hombres-houston
+
+## Tanda 4 — B3 servicios lote 1 (IndexNow al publicar; GSC al final)
+
+- [ ] https://www.clinicahispanacruz4.com/services/examen-fisico-escolar
+- [ ] https://www.clinicahispanacruz4.com/en/services/examen-fisico-escolar
+- [ ] https://www.clinicahispanacruz4.com/services/tiroides
+- [ ] https://www.clinicahispanacruz4.com/en/services/tiroides
+- [ ] https://www.clinicahispanacruz4.com/services/alergias
+- [ ] https://www.clinicahispanacruz4.com/en/services/alergias
+- [ ] https://www.clinicahispanacruz4.com/services/examenes-inmigracion
+- [ ] https://www.clinicahispanacruz4.com/en/services/examenes-inmigracion
+- [ ] https://www.clinicahispanacruz4.com/services/examen-dot
+- [ ] https://www.clinicahispanacruz4.com/en/services/examen-dot
