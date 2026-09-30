@@ -222,30 +222,30 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   "anticonceptivos": {
     "faqs": [
       {
-        "question": "¿Qué métodos anticonceptivos ofrecen?",
-        "answer": "Ofrecemos orientación, pastillas anticonceptivas e inyección, y te ayudamos a elegir el método adecuado para ti."
+        "question": "¿Cuándo empiezan a proteger las pastillas?",
+        "answer": "Depende del día del ciclo en que empiece. El médico le indica si necesita usar condón como respaldo durante los primeros siete días."
       },
       {
-        "question": "¿Necesito cita previa?",
-        "answer": "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario."
+        "question": "¿La inyección engorda?",
+        "answer": "Algunas personas suben un poco de peso con la inyección trimestral, pero no a todas les pasa. Si le preocupa, lo revisamos en el control y valoramos otra opción."
       },
       {
-        "question": "¿Atienden a pacientes sin seguro?",
-        "answer": "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita."
+        "question": "Si dejo el método, ¿cuánto tardo en poder embarazarme?",
+        "answer": "Con las pastillas, la fertilidad suele volver en pocas semanas. Con la inyección puede tardar varios meses más, así que conviene tenerlo en cuenta si planea un embarazo."
       }
     ],
     "faqsEn": [
       {
-        "question": "What contraceptive methods do you offer?",
-        "answer": "We offer guidance, birth control pills and the injection, and help you choose the right method for you."
+        "question": "When do the pills start protecting me?",
+        "answer": "It depends on which day of your cycle you start. The doctor tells you whether you need condoms as backup for the first seven days."
       },
       {
-        "question": "Do I need an appointment?",
-        "answer": "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time."
+        "question": "Does the shot cause weight gain?",
+        "answer": "Some people gain a little weight on the three-month shot, but not everyone does. If it worries you, we review it at follow-up and consider another option."
       },
       {
-        "question": "Do you accept patients without insurance?",
-        "answer": "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit."
+        "question": "If I stop, how long until I can get pregnant?",
+        "answer": "With pills, fertility usually returns within a few weeks. With the shot it can take several months longer, so keep that in mind if you're planning a pregnancy."
       }
     ]
   },
