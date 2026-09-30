@@ -108,3 +108,18 @@ Farmacia ya está en la tanda 1 (se reescribió de nuevo el 30-sep; se reenvía 
 - [ ] https://www.clinicahispanacruz4.com/en/services/salud-hombre
 - [ ] https://www.clinicahispanacruz4.com/services/enfermedades-respiratorias
 - [ ] https://www.clinicahispanacruz4.com/en/services/enfermedades-respiratorias
+
+## Tanda 8 — B3 servicios lote 5 + sueros vitaminados (IndexNow al publicar; GSC al final)
+
+- [ ] https://www.clinicahispanacruz4.com/services/suturas-heridas
+- [ ] https://www.clinicahispanacruz4.com/en/services/suturas-heridas
+- [ ] https://www.clinicahispanacruz4.com/services/curacion-heridas
+- [ ] https://www.clinicahispanacruz4.com/en/services/curacion-heridas
+- [ ] https://www.clinicahispanacruz4.com/services/cirugias-menores
+- [ ] https://www.clinicahispanacruz4.com/en/services/cirugias-menores
+- [ ] https://www.clinicahispanacruz4.com/services/drenaje-abscesos
+- [ ] https://www.clinicahispanacruz4.com/en/services/drenaje-abscesos
+- [ ] https://www.clinicahispanacruz4.com/services/unas-encarnadas
+- [ ] https://www.clinicahispanacruz4.com/en/services/unas-encarnadas
+- [ ] https://www.clinicahispanacruz4.com/services/sueros-vitaminados
+- [ ] https://www.clinicahispanacruz4.com/en/services/sueros-vitaminados
