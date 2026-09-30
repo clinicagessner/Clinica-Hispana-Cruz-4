@@ -672,30 +672,30 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   "sueros-vitaminados": {
     "faqs": [
       {
-        "question": "¿Quién aplica el suero vitaminado?",
-        "answer": "Lo aplica y supervisa personal médico, tras una breve evaluación para elegir el suero adecuado para ti."
+        "question": "¿Cualquier persona puede recibir un suero?",
+        "answer": "No. Si tiene enfermedad del riñón o del corazón, presión alta sin control, embarazo o alergias, el personal médico puede desaconsejarlo. Por eso siempre hay una evaluación antes."
       },
       {
-        "question": "¿Necesito cita previa?",
-        "answer": "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario."
+        "question": "¿Cuánto tarda la aplicación?",
+        "answer": "Depende del tipo de suero y del volumen. Se lo indicamos antes de empezar para que organice su tiempo."
       },
       {
-        "question": "¿Atienden a pacientes sin seguro?",
-        "answer": "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita."
+        "question": "Me siento cansado siempre, ¿un suero lo resuelve?",
+        "answer": "El cansancio constante casi siempre tiene una causa, como anemia, tiroides o azúcar alta. Vale más encontrarla con una consulta y análisis que tratar solo el síntoma."
       }
     ],
     "faqsEn": [
       {
-        "question": "Who administers the vitamin IV?",
-        "answer": "It's administered and monitored by medical staff, after a brief evaluation to choose the right drip for you."
+        "question": "Can anyone get an IV?",
+        "answer": "No. With kidney or heart disease, uncontrolled high blood pressure, pregnancy or allergies, the medical staff may advise against it. That's why there's always an evaluation first."
       },
       {
-        "question": "Do I need an appointment?",
-        "answer": "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time."
+        "question": "How long does the infusion take?",
+        "answer": "It depends on the type and volume. We tell you before starting so you can plan your time."
       },
       {
-        "question": "Do you accept patients without insurance?",
-        "answer": "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit."
+        "question": "I'm always tired. Will an IV fix it?",
+        "answer": "Constant fatigue almost always has a cause, such as anemia, thyroid or high blood sugar. Finding it with a visit and lab work beats treating only the symptom."
       }
     ]
   },
