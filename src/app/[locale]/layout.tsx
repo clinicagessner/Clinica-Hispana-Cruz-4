@@ -151,7 +151,7 @@ export default async function LocaleLayout({ children, params }: Props) {
     >
       <head>
         <link rel="manifest" href="/manifest.json" />
-        <meta name="theme-color" content="#d8232a" />
+        <meta name="theme-color" content="#c21f26" />
         <link rel="preconnect" href="https://maps.googleapis.com" />
         <link rel="preconnect" href="https://lh3.googleusercontent.com" />
         <link rel="preconnect" href="https://cdn.callrail.com" />

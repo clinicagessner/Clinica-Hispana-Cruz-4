@@ -74,7 +74,7 @@ export function Services() {
       <div className="container mx-auto px-4">
         {/* Header */}
         <div className="max-w-2xl mx-auto text-center mb-10 md:mb-12">
-          <span className="inline-flex items-center gap-1.5 rounded-full bg-blue-primary/10 px-4 py-1.5 text-xs font-semibold uppercase tracking-wider text-blue-primary">
+          <span className="inline-flex items-center gap-1.5 rounded-full bg-blue-primary/10 px-4 py-1.5 text-xs font-semibold uppercase tracking-wider text-red-ink">
             <Sparkles className="size-3.5" aria-hidden="true" />
             {t("bentoEyebrow")}
           </span>

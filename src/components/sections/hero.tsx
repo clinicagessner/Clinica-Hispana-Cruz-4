@@ -106,7 +106,7 @@ export async function Hero() {
             <Button
               asChild
               size="lg"
-              className="bg-whatsapp hover:bg-whatsapp-dark text-white text-sm md:text-base px-6 py-5 gap-2 shadow-lg shadow-whatsapp/30"
+              className="bg-whatsapp hover:bg-whatsapp-dark text-blue-deep hover:text-white text-sm md:text-base px-6 py-5 gap-2 shadow-lg shadow-whatsapp/30"
             >
               <a
                 href={whatsappHref}

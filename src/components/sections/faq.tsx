@@ -24,7 +24,7 @@ export async function FAQ() {
         <div className="grid gap-10 lg:grid-cols-3 lg:gap-14">
           {/* ── Left column: header + CTA (sticky on desktop) ── */}
           <div className="animate-on-scroll fade-up lg:col-span-1 lg:sticky lg:top-28 lg:self-start">
-            <span className="inline-flex items-center gap-1.5 rounded-full bg-blue-primary/10 px-4 py-1.5 text-xs font-semibold uppercase tracking-wider text-blue-primary">
+            <span className="inline-flex items-center gap-1.5 rounded-full bg-blue-primary/10 px-4 py-1.5 text-xs font-semibold uppercase tracking-wider text-red-ink">
               <Sparkles className="size-3.5" aria-hidden="true" />
               {t("faq.eyebrow")}
             </span>

@@ -8,7 +8,7 @@
   /* ==========================================================
      CLÍNICA HISPANA CRUZ 4 - Paleta oficial (basada en el logo
      y en el interior real de la clínica: charcoal + mármol)
-     - #d8232a (rojo de marca — acciones y acentos)
+     - #c21f26 (rojo de marca — acciones y acentos)
      - #2e2226 (tinta/charcoal del logo y del interior)
      - #eaa733 (dorado latón — acento cálido secundario)
      - #faf7f3 / #f7efe7 (porcelana y arena cálida — fondos)
@@ -23,7 +23,7 @@
      ========================================================== */
 
   /* MARCA (rojo) — token "blue-*" */
-  --blue-primary: #d8232a;
+  --blue-primary: #c21f26; /* 4.5:1+ sobre los fondos crema (WCAG AA) */
   --blue-dark: #2e2226;
   --blue-deep: #1d1517;
   --blue-medium: #e0202e;
@@ -36,7 +36,7 @@
   --cyan-warm: #faf7f3;
 
   /* ROJO - Acento (alineado a la marca) */
-  --red-accent: #d8232a;
+  --red-accent: #c21f26;
   --red-accent-dark: #b01b22;
   --red-accent-light: #fbd0d2;
   --red-accent-bg: #fef2f2;
@@ -50,12 +50,14 @@
   /* SLATE - Neutros cálidos (alineados a la tinta de marca) */
   --slate-dark: #2b2426;
   --slate-primary: #574f4e;
-  --slate-muted: #766c6a;
+  --slate-muted: #6f6563; /* 4.5:1+ sobre --cyan-bg */
   --slate-light: #f3eee9;
 
   /* WhatsApp (color oficial de la marca) */
   --whatsapp: #25d366;
   --whatsapp-dark: #1da851;
+  /* Texto rojo sobre las etiquetas con fondo rojo translúcido (4.5:1+). */
+  --red-ink: #a3191f;
 
   /* Estados */
   --error: #dc2626;
@@ -73,32 +75,32 @@
   --card-foreground: #221c1d;
   --popover: #ffffff;
   --popover-foreground: #221c1d;
-  --primary: #d8232a;
+  --primary: #c21f26;
   --primary-foreground: #ffffff;
   --secondary: #2e2226;
   --secondary-foreground: #ffffff;
   --muted: #f7efe7;
   --muted-foreground: #6f6462;
   --accent: #fbe2e3;
-  --accent-foreground: #d8232a;
+  --accent-foreground: #c21f26;
   --destructive: #dc2626;
   --destructive-foreground: #ffffff;
   --border: #e8e0d7;
   --input: #e8e0d7;
-  --ring: #d8232a;
+  --ring: #c21f26;
 
   /* Sidebar */
   --sidebar: #ffffff;
   --sidebar-foreground: #221c1d;
-  --sidebar-primary: #d8232a;
+  --sidebar-primary: #c21f26;
   --sidebar-primary-foreground: #ffffff;
   --sidebar-accent: #fbe2e3;
-  --sidebar-accent-foreground: #d8232a;
+  --sidebar-accent-foreground: #c21f26;
   --sidebar-border: #e8e0d7;
-  --sidebar-ring: #d8232a;
+  --sidebar-ring: #c21f26;
 
   /* Charts */
-  --chart-1: #d8232a;
+  --chart-1: #c21f26;
   --chart-2: #2e2226;
   --chart-3: #eaa733;
   --chart-4: #ef4e57;
@@ -208,6 +210,7 @@
   /* WhatsApp */
   --color-whatsapp: var(--whatsapp);
   --color-whatsapp-dark: var(--whatsapp-dark);
+  --color-red-ink: var(--red-ink);
 
   /* Estados */
   --color-error: var(--error);

@@ -41,7 +41,7 @@ export async function AboutClinic() {
     <section id="about" className="py-14 md:py-20 bg-cyan-warm">
       <div className="container mx-auto px-4">
         <div className="mx-auto max-w-3xl">
-          <span className="inline-flex items-center gap-1.5 rounded-full bg-blue-primary/10 px-4 py-1.5 text-xs font-semibold uppercase tracking-wider text-blue-primary">
+          <span className="inline-flex items-center gap-1.5 rounded-full bg-blue-primary/10 px-4 py-1.5 text-xs font-semibold uppercase tracking-wider text-red-ink">
             <MapPin className="size-3.5" aria-hidden="true" />
             {t("eyebrow")}
           </span>

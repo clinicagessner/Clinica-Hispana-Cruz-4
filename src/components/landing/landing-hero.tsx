@@ -25,7 +25,7 @@ export function LandingHero({ locale }: { locale: Locale }) {
       <div className="container relative z-10 mx-auto px-4">
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-12 items-center">
           <div className="lg:col-span-6 order-2 lg:order-1">
-            <div className="inline-flex items-center gap-2 bg-blue-primary/10 text-blue-primary rounded-full px-4 py-1.5 mb-4">
+            <div className="inline-flex items-center gap-2 bg-blue-primary/10 text-red-ink rounded-full px-4 py-1.5 mb-4">
               <Clock className="size-4" aria-hidden="true" />
               <span className="text-xs md:text-sm font-semibold">{c.badge}</span>
             </div>
