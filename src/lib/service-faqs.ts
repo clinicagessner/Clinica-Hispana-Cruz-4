@@ -552,30 +552,30 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   "ultrasonido": {
     "faqs": [
       {
-        "question": "¿El ultrasonido tiene radiación?",
-        "answer": "No, el ultrasonido no usa radiación, por lo que es seguro incluso durante el embarazo."
+        "question": "¿Puedo comer antes de un ultrasonido abdominal?",
+        "answer": "Mejor no. Se recomiendan seis a ocho horas de ayuno para que la vesícula se vea bien y haya menos gas. Puede tomar sus medicamentos con un poco de agua."
       },
       {
-        "question": "¿Necesito cita previa?",
-        "answer": "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario."
+        "question": "¿Por qué me piden llegar con la vejiga llena?",
+        "answer": "En el ultrasonido pélvico, la vejiga llena funciona como una ventana que deja ver el útero y los ovarios con claridad. Si llega vacía, puede que haya que esperar a que se llene."
       },
       {
-        "question": "¿Atienden a pacientes sin seguro?",
-        "answer": "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita."
+        "question": "¿Me dan las imágenes o un reporte?",
+        "answer": "Sí. El médico le explica el resultado y le entregamos el reporte para su expediente o para llevarlo al especialista si hace falta."
       }
     ],
     "faqsEn": [
       {
-        "question": "Does ultrasound use radiation?",
-        "answer": "No, ultrasound uses no radiation, so it's safe even during pregnancy."
+        "question": "Can I eat before an abdominal ultrasound?",
+        "answer": "Better not. Six to eight hours of fasting are recommended so the gallbladder shows clearly and there's less gas. You can take your medications with a little water."
       },
       {
-        "question": "Do I need an appointment?",
-        "answer": "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time."
+        "question": "Why do I need to arrive with a full bladder?",
+        "answer": "In a pelvic scan, a full bladder acts as a window that shows the uterus and ovaries clearly. If you arrive with it empty, you may need to wait until it fills."
       },
       {
-        "question": "Do you accept patients without insurance?",
-        "answer": "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit."
+        "question": "Will I get the images or a report?",
+        "answer": "Yes. The doctor explains the result and we give you the report for your records or to take to a specialist if needed."
       }
     ]
   },
