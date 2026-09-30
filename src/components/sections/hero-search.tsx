@@ -47,6 +47,7 @@ export function HeroSearch() {
         />
         <button
           type="submit"
+          aria-label={t("searchButton")}
           className="shrink-0 inline-flex items-center gap-2 rounded-full bg-blue-primary hover:bg-blue-dark text-white text-sm font-semibold px-5 py-2.5 transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-offset-2 focus-visible:ring-offset-blue-primary"
         >
           <Search className="size-4 sm:hidden" aria-hidden="true" />
