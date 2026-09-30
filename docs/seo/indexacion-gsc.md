@@ -8,7 +8,7 @@ Orden: reescribir → `dateModified` → reenviar sitemap → pedir indexación 
 **Decisión del usuario (2026-09-29): reenviar el sitemap y pedir indexación AL FINAL**, cuando
 esté terminado todo el contenido (B3). No proponerlo antes. Las tandas se van acumulando aquí.
 
-**Estado 2026-09-30: la tanda 1 se pidió antes de tiempo (quedaban B1/B2/B4) y NO cuenta. Se reempieza desde la tanda 1 cuando B1-B4 estén cerrados.**
+**Estado 2026-09-30 (tarde): B0-B4 cerrados y verificados en producción. Empezar por la tanda 1** (la pedida esa mañana no cuenta). IndexNow enviado con las 94 URLs del sitemap.
 
 ## Estado conocido (API, 2026-09-29)
 
