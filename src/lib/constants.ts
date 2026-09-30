@@ -425,13 +425,13 @@ export const SERVICES: Service[] = [
   {
     "id": "salud-hombre",
     "slug": "salud-hombre",
-    "title": "Exámenes del Hombre: PSA y Testosterona",
-    "titleEn": "Men's Health Exams: PSA & Testosterone",
+    "title": "Exámenes del Hombre: PSA y Chequeo de Próstata",
+    "titleEn": "Men's Health Exams: PSA & Prostate Checkup",
     "shortTitle": "Salud del Hombre",
-    "description": "Exámenes del hombre en Houston, TX: PSA y testosterona. Laboratorio y atención en español, con precios accesibles.",
-    "descriptionEn": "Men's health exams in Houston, TX: PSA and testosterone. Lab work and care in Spanish, with affordable pricing.",
-    "longDescription": "La salud del hombre muchas veces se posterga. En Clínica Hispana Cruz 4 facilitamos los exámenes que ayudan a detectar a tiempo cambios importantes, con resultados explicados en español.\n\n**¿Qué incluye?**\n- Examen de antígeno prostático (PSA)\n- Medición del nivel de testosterona\n- Chequeo general y de signos vitales\n- Evaluación de síntomas urinarios o de energía\n- Referencia a especialista si se requiere\n\n**Por qué es importante**\nEl PSA ayuda a vigilar la salud de la próstata y la testosterona influye en la energía, el ánimo y la salud general. Un control sencillo te da tranquilidad.\n\n**¿Por qué elegir Clínica Hispana Cruz 4?**\nSomos una clínica hispana y latina que te atiende 100% en español, sin cita previa y con precios accesibles, sin necesidad de seguro médico. Encuéntranos como tu centro médico cerca de ti en 10100 Beechnut St Ste 240, Houston, TX 77072, con horario de lunes a domingo de 9 AM a 9 PM. Nuestro equipo trata a cada paciente con respeto, tiempo y explicaciones claras.\n\n**Formas de pago**\nNo necesitas seguro médico. Manejamos precios accesibles y transparentes, y aceptamos efectivo y tarjetas. Pregúntanos por el costo de tu servicio antes de tu visita.\n\n**Áreas que servimos**\nAtendemos a pacientes de Houston, TX y todo el suroeste de la ciudad: Alief, Sharpstown, Mission Bend, Westchase, Gulfton, Bellaire y comunidades cercanas.",
-    "longDescriptionEn": "Men's health is often postponed. At Clínica Hispana Cruz 4 we make it easy to get the exams that help catch important changes early, with results explained in Spanish.\n\n**What's included?**\n- Prostate antigen (PSA) test\n- Testosterone level measurement\n- General checkup and vital signs\n- Evaluation of urinary or energy symptoms\n- Referral to a specialist if needed\n\n**Why it matters**\nPSA helps monitor prostate health, and testosterone influences energy, mood and overall health. A simple check gives you peace of mind.\n\n**Why choose Clínica Hispana Cruz 4?**\nWe are a Hispanic and Latino clinic that cares for you 100% in Spanish, with no appointment needed and affordable pricing, no insurance required. Find your medical center near you at 10100 Beechnut St Ste 240, Houston, TX 77072, open Monday through Sunday from 9 AM to 9 PM. Our team treats every patient with respect, time and clear explanations.\n\n**Payment**\nYou don't need health insurance. We offer affordable, transparent pricing and accept cash and cards. Ask us about the cost of your service before your visit.\n\n**Areas we serve**\nWe care for patients across Houston, TX and the entire southwest side of the city: Alief, Sharpstown, Mission Bend, Westchase, Gulfton, Bellaire and nearby communities.",
+    "description": "Exámenes del hombre en Houston, TX: PSA, chequeo de próstata y laboratorio. Atención en español, sin cita y con precios accesibles.",
+    "descriptionEn": "Men's health exams in Houston, TX: PSA, prostate checkup and lab work. Care in Spanish, walk-in and affordable.",
+    "longDescription": "Es común que un hombre aguante molestias durante meses y solo consulte cuando ya le impiden trabajar. El problema es que las condiciones que más les afectan, como la presión alta, la diabetes o los cambios de la próstata, avanzan sin avisar. En Clínica Hispana Cruz 4 nuestro equipo de medicina general hace los exámenes del hombre en español, sin cita y con el precio claro antes de empezar.\n\n**Próstata y PSA**\nPara conocer su nivel de PSA basta un piquete en el brazo, igual que en cualquier análisis de rutina. Un valor alto no significa cáncer: también sube con el crecimiento normal de la próstata con la edad o con una infección. El panel federal de prevención (USPSTF) aconseja que, de los 55 a los 69 años, la decisión de hacerse el PSA se tome hablando con el médico sobre beneficios y riesgos; si hay antecedentes familiares, la conversación empieza antes.\n\n**Síntomas urinarios que conviene revisar**\n- Despertarse más de una vez cada noche por ganas de ir al baño\n- Chorro débil o que se corta\n- Sensación de no vaciar la vejiga\n- Ardor o sangre en la orina\n\n**Energía, ánimo y hormonas**\nEl cansancio constante, la falta de deseo sexual o el aumento de la barriga tienen varias causas posibles: sueño, azúcar, tiroides o un nivel bajo de testosterona. Cuando los síntomas lo justifican, el médico indica los análisis hormonales adecuados, que se toman temprano por la mañana.\n\n**Lo que no debe faltar en el chequeo**\nPresión arterial, glucosa, colesterol y peso. Son los números que más predicen un infarto o una complicación en los próximos años, y se revisan en la misma visita en nuestro laboratorio.\n\n**Atención completa**\nLa mayoría de los hallazgos se atienden aquí. Cuando un resultado pide estudios más especializados, la referencia al urólogo es parte del servicio: le orientamos y le entregamos sus resultados para que llegue con todo listo.",
+    "longDescriptionEn": "Many men only see a doctor when something keeps them from working. The problem is that the conditions that affect them most, such as high blood pressure, diabetes or prostate changes, progress without warning. At Clínica Hispana Cruz 4 our general medicine team does men's health exams in Spanish, walk-in, with a clear price before we start.\n\n**Prostate and PSA**\nPSA, short for prostate-specific antigen, is measured in a routine blood draw. A high value doesn't mean cancer: it also rises with normal prostate growth as men age or with an infection. According to the U.S. Preventive Services Task Force, between ages 55 and 69 the decision to get a PSA test is made by talking with the doctor about benefits and risks; with a family history, that conversation starts earlier.\n\n**Urinary symptoms worth checking**\n- Waking up more than once a night needing the bathroom\n- A weak or stop-and-start stream\n- Feeling that the bladder doesn't empty\n- Burning or blood in the urine\n\n**Energy, mood and hormones**\nConstant fatigue, low sex drive or a growing belly have several possible causes: sleep, blood sugar, thyroid or low testosterone. When symptoms warrant it, the doctor orders the right hormone tests, which are drawn early in the morning.\n\n**What every checkup should include**\nBlood pressure, glucose, cholesterol and weight. These numbers best predict a heart attack or complications in coming years, and they're checked at the same visit in our lab.\n\n**Complete care**\nMost findings are handled here. When a result calls for more specialized testing, the referral to a urologist is part of the service: we guide you and hand over your results so you arrive fully prepared.",
     "icon": "Activity",
     "image": "/images/services/salud-hombre.webp",
     "category": "medicina-general",
@@ -439,24 +439,24 @@ export const SERVICES: Service[] = [
       "examen del hombre houston",
       "prueba psa houston",
       "examen de prostata houston",
-      "examen de testosterona houston"
+      "chequeo del hombre houston"
     ],
     "keywordsEn": [
-      "mens health houston",
+      "men's health exam houston",
       "psa test houston",
       "prostate exam houston",
-      "testosterone test houston"
+      "men's checkup houston"
     ],
     "features": [
       "Antígeno prostático (PSA)",
-      "Nivel de testosterona",
-      "Chequeo general del hombre",
+      "Chequeo de próstata y síntomas urinarios",
+      "Análisis hormonales según síntomas",
       "Resultados explicados en español"
     ],
     "featuresEn": [
-      "Prostate antigen (PSA)",
-      "Testosterone level",
-      "General men's checkup",
+      "Prostate-specific antigen (PSA)",
+      "Prostate and urinary symptom checkup",
+      "Hormone tests based on symptoms",
       "Results explained in Spanish"
     ],
     "highlighted": true,

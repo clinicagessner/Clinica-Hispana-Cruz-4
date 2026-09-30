@@ -282,30 +282,30 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   "salud-hombre": {
     "faqs": [
       {
-        "question": "¿Qué incluye el examen del hombre?",
-        "answer": "Incluye antígeno prostático (PSA), nivel de testosterona y un chequeo general, con resultados explicados en español."
+        "question": "¿A qué edad debo empezar a hacerme el PSA?",
+        "answer": "Por lo general la conversación empieza a los 55 años, o antes si su padre o un hermano tuvieron cáncer de próstata. El médico le ayuda a decidir si le conviene."
       },
       {
-        "question": "¿Necesito cita previa?",
-        "answer": "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario."
+        "question": "¿Un PSA alto quiere decir que tengo cáncer?",
+        "answer": "No. También sube cuando la próstata crece con la edad o hay una infección. Se interpreta junto con sus síntomas y, si hace falta, se repite o se completa con otros estudios."
       },
       {
-        "question": "¿Atienden a pacientes sin seguro?",
-        "answer": "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita."
+        "question": "¿Por qué el análisis hormonal se hace temprano?",
+        "answer": "Porque los niveles de algunas hormonas masculinas son más altos por la mañana. Tomar la muestra temprano da un resultado más fiel."
       }
     ],
     "faqsEn": [
       {
-        "question": "What does the men's exam include?",
-        "answer": "It includes prostate antigen (PSA), testosterone level and a general checkup, with results explained in Spanish."
+        "question": "When does PSA screening usually begin?",
+        "answer": "The conversation usually starts at 55, or earlier if your father or a brother had prostate cancer. The doctor helps you decide whether it's right for you."
       },
       {
-        "question": "Do I need an appointment?",
-        "answer": "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time."
+        "question": "Does a high PSA mean I have cancer?",
+        "answer": "No. It also rises when the prostate grows with age or there's an infection. It's read alongside your symptoms and, if needed, repeated or followed by other tests."
       },
       {
-        "question": "Do you accept patients without insurance?",
-        "answer": "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit."
+        "question": "Why is the hormone test done early in the day?",
+        "answer": "Because some male hormone levels are highest in the morning. Drawing the sample early gives a more accurate result."
       }
     ]
   },
