@@ -26,3 +26,12 @@ Antes de pedirlas: **Sitemaps → reenviar `sitemap.xml`**.
 - [ ] https://www.clinicahispanacruz4.com/en/blog/vitamina-b12-beneficios-inyecciones-houston
 - [ ] https://www.clinicahispanacruz4.com/en/blog/bienvenidos-clinica-hispana-cruz-4
 - [ ] https://www.clinicahispanacruz4.com/en/services/farmacia
+
+## Tanda 2 — B3 posts lote 2 (IndexNow enviado al publicar; GSC al final)
+
+- [ ] https://www.clinicahispanacruz4.com/blog/medicos-autorizados-uscis-houston-civil-surgeon
+- [ ] https://www.clinicahispanacruz4.com/en/blog/medicos-autorizados-uscis-houston-civil-surgeon
+- [ ] https://www.clinicahispanacruz4.com/blog/ginecologos-hispanos-houston-hablan-espanol
+- [ ] https://www.clinicahispanacruz4.com/en/blog/ginecologos-hispanos-houston-hablan-espanol
+- [ ] https://www.clinicahispanacruz4.com/blog/examen-dot-cdl-camioneros-houston
+- [ ] https://www.clinicahispanacruz4.com/en/blog/examen-dot-cdl-camioneros-houston
