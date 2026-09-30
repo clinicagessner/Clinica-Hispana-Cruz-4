@@ -463,29 +463,29 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
     "faqs": [
       {
         "question": "¿Las pruebas son confidenciales?",
-        "answer": "Sí, todas las pruebas de STD son completamente confidenciales y se realizan con respeto y sin juicios."
+        "answer": "Sí. Los resultados son información médica privada y solo se comparten con usted."
       },
       {
-        "question": "¿Necesito cita previa?",
-        "answer": "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario."
+        "question": "¿Cuánto tiempo después de una relación de riesgo debo hacerme la prueba?",
+        "answer": "Depende de la infección. Algunas se detectan a las una o dos semanas y otras, como el VIH o la sífilis, pueden necesitar más tiempo o repetirse. El médico le dice cuándo es el mejor momento según su caso."
       },
       {
-        "question": "¿Atienden a pacientes sin seguro?",
-        "answer": "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita."
+        "question": "¿Mi pareja también tiene que tratarse?",
+        "answer": "Sí, cuando la infección se transmite entre ambos. Si solo se trata una persona, la infección puede volver a pasar de uno a otro."
       }
     ],
     "faqsEn": [
       {
-        "question": "Is the testing confidential?",
-        "answer": "Yes, all STD testing is completely confidential and done with respect and without judgment."
+        "question": "Is testing confidential?",
+        "answer": "Yes. Results are private medical information and are shared only with you."
       },
       {
-        "question": "Do I need an appointment?",
-        "answer": "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time."
+        "question": "How long after a risky encounter should I get tested?",
+        "answer": "It depends on the infection. Some show up after one or two weeks, while others, like HIV or syphilis, may need more time or a repeat test. The doctor tells you the best timing for your case."
       },
       {
-        "question": "Do you accept patients without insurance?",
-        "answer": "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit."
+        "question": "Does my partner need treatment too?",
+        "answer": "Yes, when the infection passes between you. If only one person is treated, it can go back and forth again."
       }
     ]
   },
