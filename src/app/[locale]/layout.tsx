@@ -15,6 +15,7 @@ import Script from "next/script";
 import { SITE_CONFIG } from "@/lib/constants";
 import { getGooglePlaceData } from "@/lib/google-places";
 import "../globals.css";
+import { ConversionEvents } from "@/components/tracking/conversion-events";
 
 const spaceGrotesk = Space_Grotesk({
   subsets: ["latin"],
@@ -204,6 +205,7 @@ export default async function LocaleLayout({ children, params }: Props) {
             <Analytics />
           </TooltipProvider>
         </NextIntlClientProvider>
+        <ConversionEvents />
       </body>
       <GoogleTags />
       <Script
