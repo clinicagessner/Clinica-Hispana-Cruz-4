@@ -67,4 +67,4 @@ Hacemos el [examen físico DOT](/services/examen-dot) con explicaciones en espa�
 - Si todo está en orden, **se lleva el certificado el mismo día**.
 - Si la presión o el azúcar salen fuera de rango, le explicamos qué hacer y podemos darle seguimiento en nuestro [control de condiciones crónicas](/services/condiciones-cronicas) para que llegue en mejores números a la siguiente revisión.
 
-Estamos en 10100 Beechnut St, Suite 240, con estacionamiento en el lugar. Pregunte el precio al (281) 588-0033 o por WhatsApp al (281) 741-2157.
+Estamos en 10100 Beechnut St, Suite 240, con estacionamiento gratuito en el lugar. Pregunte el precio al (281) 588-0033 o por WhatsApp al (281) 741-2157.

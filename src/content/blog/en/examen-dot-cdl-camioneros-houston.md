@@ -67,4 +67,4 @@ We perform the [DOT physical](/en/services/examen-dot) with every step explained
 - If everything checks out, **you leave with the certificate the same day**.
 - If blood pressure or sugar comes back out of range, we explain what to do and can follow up through our [chronic care program](/en/services/condiciones-cronicas) so your numbers are better at the next exam.
 
-Find us at 10100 Beechnut St, Suite 240, with on-site parking. Ask for the price at (281) 588-0033 or on WhatsApp at (281) 741-2157.
+Find us at 10100 Beechnut St, Suite 240, with free on-site parking. Ask for the price at (281) 588-0033 or on WhatsApp at (281) 741-2157.
