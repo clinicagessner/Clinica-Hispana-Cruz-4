@@ -1,133 +1,133 @@
 # Indexación en Google Search Console — Clínica Hispana Cruz 4
 
+**Este archivo es la fuente de verdad del progreso.** Al pedir una tanda, marcar sus casillas y
+poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día por propiedad.
+
 Propiedad: `https://www.clinicahispanacruz4.com/` (prefijo de URL).
-Método: `../playbook/PROMPT.md` §12. Se pide **por lote y solo después de reescribir**; máximo 10 por día.
-Orden: reescribir → `dateModified` → reenviar sitemap → pedir indexación de esas URLs.
+
+<!-- tandas:auto -->
+**Estado (actualizado 2026-10-04; URL Inspection API, datos de hoy 2026-10-04):** 57 de 92 URLs del sitemap indexadas · 35 sin indexar (18 descubierta sin indexar · 13 desconocida · 4 rastreada sin indexar).
+
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 82 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
+Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
+<!-- /tandas:auto -->
+
+## Tanda 1
+
+- [ ] https://www.clinicahispanacruz4.com/blog  — cambiada 2026-09-30 · rastreada 2026-09-20 · indexada · 376 impr.
+- [ ] https://www.clinicahispanacruz4.com/promociones  — cambiada 2026-09-30 · rastreada 2026-09-23 · indexada · 308 impr.
+- [ ] https://www.clinicahispanacruz4.com/walk-in  — cambiada 2026-09-30 · rastreada 2026-08-14 · indexada · 297 impr.
+- [ ] https://www.clinicahispanacruz4.com/services/examen-fisico-escolar  — cambiada 2026-09-30 · rastreada 2026-08-21 · indexada · 232 impr.
+- [ ] https://www.clinicahispanacruz4.com/services/tiroides  — cambiada 2026-09-30 · rastreada 2026-08-21 · indexada · 229 impr.
+- [ ] https://www.clinicahispanacruz4.com/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-09-30 · rastreada 2026-09-10 · indexada · 212 impr.
+- [ ] https://www.clinicahispanacruz4.com/blog/chequeos-preventivos-hombres-houston  — cambiada 2026-09-30 · rastreada 2026-07-19 · indexada · 100 impr.
+- [ ] https://www.clinicahispanacruz4.com/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-09-30 · rastreada 2026-06-21 · indexada · 96 impr.
+- [ ] https://www.clinicahispanacruz4.com/services  — cambiada 2026-09-30 · rastreada 2026-08-16 · indexada · 63 impr.
+- [ ] https://www.clinicahispanacruz4.com/services/alergias  — cambiada 2026-09-30 · rastreada 2026-08-16 · indexada · 48 impr.
+
+## Tanda 2
+
+- [ ] https://www.clinicahispanacruz4.com/services/ginecologia  — cambiada 2026-09-30 · rastreada 2026-08-23 · indexada · 34 impr.
+- [ ] https://www.clinicahispanacruz4.com/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-10-04 · rastreada 2026-07-19 · indexada · 29 impr.
+- [ ] https://www.clinicahispanacruz4.com/services/examen-heces  — cambiada 2026-09-30 · rastreada 2026-09-01 · indexada · 24 impr.
+- [ ] https://www.clinicahispanacruz4.com/services/examen-alcohol-drogas  — cambiada 2026-09-30 · rastreada 2026-09-12 · indexada · 18 impr.
+- [ ] https://www.clinicahispanacruz4.com/services/condiciones-cronicas  — cambiada 2026-09-30 · rastreada 2026-08-16 · indexada · 16 impr.
+- [ ] https://www.clinicahispanacruz4.com/services/enfermedades-transmision-sexual  — cambiada 2026-09-30 · rastreada 2026-06-21 · indexada · 9 impr.
+- [ ] https://www.clinicahispanacruz4.com/services/examenes-sangre  — cambiada 2026-09-30 · rastreada 2026-06-21 · indexada · 9 impr.
+- [ ] https://www.clinicahispanacruz4.com/services/prueba-strep  — cambiada 2026-09-30 · rastreada 2026-08-25 · indexada · 7 impr.
+- [ ] https://www.clinicahispanacruz4.com/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-09-30 · rastreada 2026-08-23 · indexada · 6 impr.
+- [ ] https://www.clinicahispanacruz4.com/services/drenaje-abscesos  — cambiada 2026-09-30 · rastreada 2026-06-21 · indexada · 5 impr.
+
+## Tanda 3
+
+- [ ] https://www.clinicahispanacruz4.com/services/extraccion-implantes  — cambiada 2026-09-30 · rastreada 2026-07-01 · indexada · 5 impr.
+- [ ] https://www.clinicahispanacruz4.com/services/ultrasonido  — cambiada 2026-09-30 · rastreada 2026-07-18 · indexada · 4 impr.
+- [ ] https://www.clinicahispanacruz4.com/services/prueba-tuberculosis  — cambiada 2026-09-30 · rastreada 2026-09-21 · indexada · 3 impr.
+- [ ] https://www.clinicahispanacruz4.com/services/unas-encarnadas  — cambiada 2026-09-30 · rastreada 2026-07-28 · indexada · 2 impr.
+- [ ] https://www.clinicahispanacruz4.com/services/cirugias-menores  — cambiada 2026-09-30 · rastreada 2026-06-21 · indexada · 1 impr.
+- [ ] https://www.clinicahispanacruz4.com/services/suturas-heridas  — cambiada 2026-09-30 · rastreada 2026-07-29 · indexada · 1 impr.
+- [ ] https://www.clinicahispanacruz4.com/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-09-30 · desconocida · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-09-30 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-09-30 · desconocida · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/services/anticonceptivos  — cambiada 2026-09-30 · descubierta sin indexar · 0 impr.
+
+## Tanda 4
+
+- [ ] https://www.clinicahispanacruz4.com/services/curacion-heridas  — cambiada 2026-09-30 · desconocida · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/services/electrocardiograma  — cambiada 2026-09-30 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/services/enfermedades-respiratorias  — cambiada 2026-09-30 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/services/examen-dot  — cambiada 2026-09-30 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/services/examenes-inmigracion  — cambiada 2026-09-30 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/services/farmacia  — cambiada 2026-09-30 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/services/infecciones-urinarias  — cambiada 2026-09-30 · desconocida · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/services/prueba-embarazo  — cambiada 2026-09-30 · desconocida · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/services/salud-hombre  — cambiada 2026-09-30 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/services/sueros-vitaminados  — cambiada 2026-09-30 · descubierta sin indexar · 0 impr.
+
+## Tanda 5
+
+- [ ] https://www.clinicahispanacruz4.com/services/vacunas  — cambiada 2026-09-30 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/en/walk-in  — cambiada 2026-09-30 · rastreada 2026-08-19 · indexada · 191 impr.
+- [ ] https://www.clinicahispanacruz4.com/en/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-09-30 · rastreada 2026-06-23 · rastreada sin indexar · 108 impr.
+- [ ] https://www.clinicahispanacruz4.com/en/services/examenes-inmigracion  — cambiada 2026-09-30 · rastreada 2026-07-19 · indexada · 34 impr.
+- [ ] https://www.clinicahispanacruz4.com/en/services  — cambiada 2026-09-30 · rastreada 2026-09-27 · rastreada sin indexar · 23 impr.
+- [ ] https://www.clinicahispanacruz4.com/en/services/examen-dot  — cambiada 2026-09-30 · rastreada 2026-09-27 · indexada · 18 impr.
+- [ ] https://www.clinicahispanacruz4.com/en/services/examen-fisico-escolar  — cambiada 2026-09-30 · rastreada 2026-08-23 · indexada · 16 impr.
+- [ ] https://www.clinicahispanacruz4.com/en/services/vacunas  — cambiada 2026-09-30 · rastreada 2026-07-20 · indexada · 15 impr.
+- [ ] https://www.clinicahispanacruz4.com/en/services/electrocardiograma  — cambiada 2026-09-30 · rastreada 2026-07-31 · indexada · 11 impr.
+- [ ] https://www.clinicahispanacruz4.com/en/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-09-30 · rastreada 2026-08-24 · indexada · 9 impr.
+
+## Tanda 6
+
+- [ ] https://www.clinicahispanacruz4.com/en/services/farmacia  — cambiada 2026-09-30 · rastreada 2026-07-20 · indexada · 8 impr.
+- [ ] https://www.clinicahispanacruz4.com/en/services/condiciones-cronicas  — cambiada 2026-09-30 · rastreada 2026-06-21 · indexada · 7 impr.
+- [ ] https://www.clinicahispanacruz4.com/en/services/infecciones-urinarias  — cambiada 2026-09-30 · rastreada 2026-09-11 · indexada · 7 impr.
+- [ ] https://www.clinicahispanacruz4.com/en/services/curacion-heridas  — cambiada 2026-09-30 · rastreada 2026-09-11 · indexada · 6 impr.
+- [ ] https://www.clinicahispanacruz4.com/en/services/ginecologia  — cambiada 2026-09-30 · rastreada 2026-06-21 · indexada · 5 impr.
+- [ ] https://www.clinicahispanacruz4.com/en/services/cirugias-menores  — cambiada 2026-09-30 · rastreada 2026-08-22 · indexada · 4 impr.
+- [ ] https://www.clinicahispanacruz4.com/en/blog  — cambiada 2026-09-30 · rastreada 2026-07-20 · indexada · 3 impr.
+- [ ] https://www.clinicahispanacruz4.com/en/services/extraccion-implantes  — cambiada 2026-09-30 · rastreada 2026-07-31 · indexada · 3 impr.
+- [ ] https://www.clinicahispanacruz4.com/en/blog/chequeos-preventivos-hombres-houston  — cambiada 2026-09-30 · rastreada 2026-09-15 · indexada · 2 impr.
+- [ ] https://www.clinicahispanacruz4.com/en/services/examen-heces  — cambiada 2026-09-30 · rastreada 2026-06-22 · indexada · 2 impr.
+
+## Tanda 7
+
+- [ ] https://www.clinicahispanacruz4.com/en/services/prueba-tuberculosis  — cambiada 2026-09-30 · rastreada 2026-06-21 · indexada · 2 impr.
+- [ ] https://www.clinicahispanacruz4.com/en/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-10-04 · rastreada 2026-07-18 · rastreada sin indexar · 1 impr.
+- [ ] https://www.clinicahispanacruz4.com/en/services/examen-alcohol-drogas  — cambiada 2026-09-30 · rastreada 2026-07-31 · indexada · 1 impr.
+- [ ] https://www.clinicahispanacruz4.com/en/services/tiroides  — cambiada 2026-09-30 · rastreada 2026-06-22 · indexada · 1 impr.
+- [ ] https://www.clinicahispanacruz4.com/en/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-09-30 · desconocida · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/en/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-09-30 · desconocida · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/en/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-09-30 · desconocida · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-09-30 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/en/promociones  — cambiada 2026-09-30 · desconocida · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/en/services/alergias  — cambiada 2026-09-30 · descubierta sin indexar · 0 impr.
+
+## Tanda 8
+
+- [ ] https://www.clinicahispanacruz4.com/en/services/anticonceptivos  — cambiada 2026-09-30 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/en/services/drenaje-abscesos  — cambiada 2026-09-30 · rastreada 2026-07-19 · rastreada sin indexar · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/en/services/enfermedades-respiratorias  — cambiada 2026-09-30 · rastreada 2026-06-21 · indexada · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-09-30 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/en/services/examenes-sangre  — cambiada 2026-09-30 · desconocida · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/en/services/prueba-embarazo  — cambiada 2026-09-30 · desconocida · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/en/services/prueba-strep  — cambiada 2026-09-30 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/en/services/salud-hombre  — cambiada 2026-09-30 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/en/services/sueros-vitaminados  — cambiada 2026-09-30 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/en/services/suturas-heridas  — cambiada 2026-09-30 · desconocida · 0 impr.
+
+## Tanda 9
+
+- [ ] https://www.clinicahispanacruz4.com/en/services/ultrasonido  — cambiada 2026-09-30 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/en/services/unas-encarnadas  — cambiada 2026-09-30 · desconocida · 0 impr.
+
+## Notas anteriores (texto previo del archivo, sin actualizar)
 
 **Regla de red (usuario, 2026-09-30): la indexación en GSC es lo ÚLTIMO, cuando esté terminado todo el SEO/GEO (B0-B4).**
 **Decisión del usuario (2026-09-29): reenviar el sitemap y pedir indexación AL FINAL**, cuando
 esté terminado todo el contenido (B3). No proponerlo antes. Las tandas se van acumulando aquí.
 
-**Estado 2026-09-30 (tarde): B0-B4 cerrados y verificados en producción. Empezar por la tanda 1** (la pedida esa mañana no cuenta). IndexNow enviado con las 94 URLs del sitemap.
-
 ## Estado conocido (API, 2026-09-29)
 
 59 de 94 indexadas · 25 descubiertas sin indexar · 4 rastreadas sin indexar · 6 desconocidas.
 Sitemap `sitemap.xml` enviado por última vez el 2026-06-21 (0 errores). Detalle en `seo-data/2026-09-27/index-status.json`.
-
-## Tanda 1 — B3 posts lote 1 + farmacia (pedida 30/09/2026 antes de tiempo: repetir)
-
-Sitemap `sitemap.xml` reenviado el 30/09/2026.
-
-- [ ] https://www.clinicahispanacruz4.com/blog/urologo-houston-habla-espanol-salud-hombre
-- [ ] https://www.clinicahispanacruz4.com/blog/atencion-medica-sin-seguro-houston
-- [ ] https://www.clinicahispanacruz4.com/blog/vitamina-b12-beneficios-inyecciones-houston
-- [ ] https://www.clinicahispanacruz4.com/blog/bienvenidos-clinica-hispana-cruz-4
-- [ ] https://www.clinicahispanacruz4.com/services/farmacia
-- [ ] https://www.clinicahispanacruz4.com/en/blog/urologo-houston-habla-espanol-salud-hombre
-- [ ] https://www.clinicahispanacruz4.com/en/blog/atencion-medica-sin-seguro-houston
-- [ ] https://www.clinicahispanacruz4.com/en/blog/vitamina-b12-beneficios-inyecciones-houston
-- [ ] https://www.clinicahispanacruz4.com/en/blog/bienvenidos-clinica-hispana-cruz-4
-- [ ] https://www.clinicahispanacruz4.com/en/services/farmacia
-
-## Tanda 2 — B3 posts lote 2 (IndexNow enviado al publicar; GSC al final)
-
-- [ ] https://www.clinicahispanacruz4.com/blog/medicos-autorizados-uscis-houston-civil-surgeon
-- [ ] https://www.clinicahispanacruz4.com/en/blog/medicos-autorizados-uscis-houston-civil-surgeon
-- [ ] https://www.clinicahispanacruz4.com/blog/ginecologos-hispanos-houston-hablan-espanol
-- [ ] https://www.clinicahispanacruz4.com/en/blog/ginecologos-hispanos-houston-hablan-espanol
-- [ ] https://www.clinicahispanacruz4.com/blog/examen-dot-cdl-camioneros-houston
-- [ ] https://www.clinicahispanacruz4.com/en/blog/examen-dot-cdl-camioneros-houston
-
-## Tanda 3 — B3 posts lote 3 + chequeos del hombre (IndexNow al publicar; GSC al final)
-
-La tanda 1 ya incluye el post del urólogo; se vuelve a enviar solo por IndexNow.
-
-- [ ] https://www.clinicahispanacruz4.com/blog/salud-mujer-houston-servicios-ginecologia
-- [ ] https://www.clinicahispanacruz4.com/en/blog/salud-mujer-houston-servicios-ginecologia
-- [ ] https://www.clinicahispanacruz4.com/blog/guia-examen-medico-inmigracion-i693-houston
-- [ ] https://www.clinicahispanacruz4.com/en/blog/guia-examen-medico-inmigracion-i693-houston
-- [ ] https://www.clinicahispanacruz4.com/blog/control-diabetes-houston-guia-pacientes
-- [ ] https://www.clinicahispanacruz4.com/en/blog/control-diabetes-houston-guia-pacientes
-- [ ] https://www.clinicahispanacruz4.com/blog/laboratorio-clinico-houston-analisis-sangre
-- [ ] https://www.clinicahispanacruz4.com/en/blog/laboratorio-clinico-houston-analisis-sangre
-- [ ] https://www.clinicahispanacruz4.com/blog/chequeos-preventivos-hombres-houston
-- [ ] https://www.clinicahispanacruz4.com/en/blog/chequeos-preventivos-hombres-houston
-
-## Tanda 4 — B3 servicios lote 1 (IndexNow al publicar; GSC al final)
-
-- [ ] https://www.clinicahispanacruz4.com/services/examen-fisico-escolar
-- [ ] https://www.clinicahispanacruz4.com/en/services/examen-fisico-escolar
-- [ ] https://www.clinicahispanacruz4.com/services/tiroides
-- [ ] https://www.clinicahispanacruz4.com/en/services/tiroides
-- [ ] https://www.clinicahispanacruz4.com/services/alergias
-- [ ] https://www.clinicahispanacruz4.com/en/services/alergias
-- [ ] https://www.clinicahispanacruz4.com/services/examenes-inmigracion
-- [ ] https://www.clinicahispanacruz4.com/en/services/examenes-inmigracion
-- [ ] https://www.clinicahispanacruz4.com/services/examen-dot
-- [ ] https://www.clinicahispanacruz4.com/en/services/examen-dot
-
-## Tanda 5 — B3 servicios lote 2 (IndexNow al publicar; GSC al final)
-
-- [ ] https://www.clinicahispanacruz4.com/services/ginecologia
-- [ ] https://www.clinicahispanacruz4.com/en/services/ginecologia
-- [ ] https://www.clinicahispanacruz4.com/services/condiciones-cronicas
-- [ ] https://www.clinicahispanacruz4.com/en/services/condiciones-cronicas
-- [ ] https://www.clinicahispanacruz4.com/services/examen-heces
-- [ ] https://www.clinicahispanacruz4.com/en/services/examen-heces
-- [ ] https://www.clinicahispanacruz4.com/services/examen-alcohol-drogas
-- [ ] https://www.clinicahispanacruz4.com/en/services/examen-alcohol-drogas
-- [ ] https://www.clinicahispanacruz4.com/services/vacunas
-- [ ] https://www.clinicahispanacruz4.com/en/services/vacunas
-- [ ] https://www.clinicahispanacruz4.com/services/electrocardiograma
-- [ ] https://www.clinicahispanacruz4.com/en/services/electrocardiograma
-
-## Tanda 6 — B3 servicios lote 3 (IndexNow al publicar; GSC al final)
-
-- [ ] https://www.clinicahispanacruz4.com/services/ultrasonido
-- [ ] https://www.clinicahispanacruz4.com/en/services/ultrasonido
-- [ ] https://www.clinicahispanacruz4.com/services/examenes-sangre
-- [ ] https://www.clinicahispanacruz4.com/en/services/examenes-sangre
-- [ ] https://www.clinicahispanacruz4.com/services/infecciones-urinarias
-- [ ] https://www.clinicahispanacruz4.com/en/services/infecciones-urinarias
-- [ ] https://www.clinicahispanacruz4.com/services/prueba-strep
-- [ ] https://www.clinicahispanacruz4.com/en/services/prueba-strep
-- [ ] https://www.clinicahispanacruz4.com/services/prueba-tuberculosis
-- [ ] https://www.clinicahispanacruz4.com/en/services/prueba-tuberculosis
-- [ ] https://www.clinicahispanacruz4.com/services/enfermedades-transmision-sexual
-- [ ] https://www.clinicahispanacruz4.com/en/services/enfermedades-transmision-sexual
-
-## Tanda 7 — B3 servicios lote 4 (IndexNow al publicar; GSC al final)
-
-Farmacia ya está en la tanda 1 (se reescribió de nuevo el 30-sep; se reenvía solo por IndexNow).
-
-- [ ] https://www.clinicahispanacruz4.com/services/prueba-embarazo
-- [ ] https://www.clinicahispanacruz4.com/en/services/prueba-embarazo
-- [ ] https://www.clinicahispanacruz4.com/services/anticonceptivos
-- [ ] https://www.clinicahispanacruz4.com/en/services/anticonceptivos
-- [ ] https://www.clinicahispanacruz4.com/services/extraccion-implantes
-- [ ] https://www.clinicahispanacruz4.com/en/services/extraccion-implantes
-- [ ] https://www.clinicahispanacruz4.com/services/salud-hombre
-- [ ] https://www.clinicahispanacruz4.com/en/services/salud-hombre
-- [ ] https://www.clinicahispanacruz4.com/services/enfermedades-respiratorias
-- [ ] https://www.clinicahispanacruz4.com/en/services/enfermedades-respiratorias
-
-## Tanda 8 — B3 servicios lote 5 + sueros vitaminados (IndexNow al publicar; GSC al final)
-
-- [ ] https://www.clinicahispanacruz4.com/services/suturas-heridas
-- [ ] https://www.clinicahispanacruz4.com/en/services/suturas-heridas
-- [ ] https://www.clinicahispanacruz4.com/services/curacion-heridas
-- [ ] https://www.clinicahispanacruz4.com/en/services/curacion-heridas
-- [ ] https://www.clinicahispanacruz4.com/services/cirugias-menores
-- [ ] https://www.clinicahispanacruz4.com/en/services/cirugias-menores
-- [ ] https://www.clinicahispanacruz4.com/services/drenaje-abscesos
-- [ ] https://www.clinicahispanacruz4.com/en/services/drenaje-abscesos
-- [ ] https://www.clinicahispanacruz4.com/services/unas-encarnadas
-- [ ] https://www.clinicahispanacruz4.com/en/services/unas-encarnadas
-- [ ] https://www.clinicahispanacruz4.com/services/sueros-vitaminados
-- [ ] https://www.clinicahispanacruz4.com/en/services/sueros-vitaminados
-
-## Tanda 9 — home (hero, FAQ, schema y metadatos cambiaron en B0-B3; IndexNow enviado 2026-09-30)
-
-- [ ] https://www.clinicahispanacruz4.com/
-- [ ] https://www.clinicahispanacruz4.com/en
