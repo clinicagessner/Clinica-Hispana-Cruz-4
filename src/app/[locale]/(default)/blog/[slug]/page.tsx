@@ -330,6 +330,10 @@ function parseMarkdown(markdown: string): string {
     .replace(/<p><li>/g, '<ul><li>')
     .replace(/<\/li><\/p>/g, '</li></ul>')
     .replace(/<\/li><br><li>/g, '</li><li>')
+    // Lista pegada a una línea de texto (sin línea en blanco): abrir y cerrar
+    // el <ul> aquí; si no, los <li> quedan sueltos (Lighthouse a11y `listitem`).
+    .replace(/<br><li>/g, '</p><ul><li>')
+    .replace(/<\/li><br>/g, '</li></ul><p>')
     .replace(/<br><ul>/g, '</p><ul>')
     .replace(/<\/ul><br>/g, '</ul><p>');
 
