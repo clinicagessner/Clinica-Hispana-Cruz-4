@@ -5,7 +5,7 @@ import { useEffect, useRef } from "react";
 
 /**
  * SPA PageView tracker only — does NOT load the pixel.
- * The pixel base script is loaded via <script> in layout.tsx <head>.
+ * The pixel base script is loaded on first interaction (google-tags.tsx).
  * This component only fires PageView on client-side route changes.
  */
 export function MetaPixelSPATracker() {

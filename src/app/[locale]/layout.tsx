@@ -177,16 +177,6 @@ export default async function LocaleLayout({ children, params }: Props) {
         <link rel="preconnect" href="https://maps.googleapis.com" />
         <link rel="preconnect" href="https://lh3.googleusercontent.com" />
         <link rel="preconnect" href="https://cdn.callrail.com" />
-        <link rel="preconnect" href="https://connect.facebook.net" />
-        {/* Meta Pixel — plain script in head, NOT managed by React.
-            El ID se lee de NEXT_PUBLIC_META_PIXEL_ID (nunca hardcodear). */}
-        {process.env.NEXT_PUBLIC_META_PIXEL_ID && (
-          <script
-            dangerouslySetInnerHTML={{
-              __html: `!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('set','autoConfig',false,'${process.env.NEXT_PUBLIC_META_PIXEL_ID}');fbq('init','${process.env.NEXT_PUBLIC_META_PIXEL_ID}');fbq('track','PageView');`,
-            }}
-          />
-        )}
       </head>
       <body className="antialiased min-h-screen flex flex-col" suppressHydrationWarning>
         <MetaPixelSPATracker />
@@ -207,6 +197,7 @@ export default async function LocaleLayout({ children, params }: Props) {
         </NextIntlClientProvider>
         <ConversionEvents />
       </body>
+      {/* GA4, Ads y Meta Pixel: con la primera interacción (google-tags.tsx) */}
       <GoogleTags />
       <Script
         src="https://cdn.callrail.com/companies/457895388/15a9b373fb1cf7740b87/12/swap.js"
