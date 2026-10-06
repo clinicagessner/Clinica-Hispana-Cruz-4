@@ -1,7 +1,7 @@
 ---
 slug: "vitamina-b12-beneficios-inyecciones-houston"
 title: "Vitamina B12: Síntomas de Falta, Beneficios e Inyecciones"
-metaTitle: "Vitamina B12: Síntomas, Beneficios e Inyecciones"
+metaTitle: "Vitamina B12 Inyectable: Para Qué Sirve y Síntomas"
 description: "Para qué sirve la vitamina B12, qué síntomas da su falta, quién tiene más riesgo y cuándo se usan inyecciones o pastillas. Análisis en español en Houston."
 date: "2026-08-18"
 dateModified: "2026-09-29"
