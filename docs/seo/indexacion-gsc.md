@@ -12,18 +12,18 @@ Propiedad: `https://www.clinicahispanacruz4.com/` (prefijo de URL).
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 1 — 📨 ENVIADA 05/10/2026
+## Tanda 1  ✅ PEDIDA 05/10/2026
 
-- [ ] https://www.clinicahispanacruz4.com/blog  — cambiada 2026-09-30 · rastreada 2026-09-20 · indexada · 383 impr.
-- [ ] https://www.clinicahispanacruz4.com/promociones  — cambiada 2026-09-30 · rastreada 2026-09-23 · indexada · 333 impr.
-- [ ] https://www.clinicahispanacruz4.com/walk-in  — cambiada 2026-09-30 · rastreada 2026-08-14 · indexada · 302 impr.
-- [ ] https://www.clinicahispanacruz4.com/services/tiroides  — cambiada 2026-09-30 · rastreada 2026-08-21 · indexada · 245 impr.
-- [ ] https://www.clinicahispanacruz4.com/services/examen-fisico-escolar  — cambiada 2026-09-30 · rastreada 2026-08-21 · indexada · 230 impr.
-- [ ] https://www.clinicahispanacruz4.com/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-09-30 · rastreada 2026-09-10 · indexada · 213 impr.
-- [ ] https://www.clinicahispanacruz4.com/blog/chequeos-preventivos-hombres-houston  — cambiada 2026-09-30 · rastreada 2026-07-19 · indexada · 105 impr.
-- [ ] https://www.clinicahispanacruz4.com/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-09-30 · rastreada 2026-06-21 · indexada · 98 impr.
-- [ ] https://www.clinicahispanacruz4.com/services  — cambiada 2026-09-30 · rastreada 2026-08-16 · indexada · 66 impr.
-- [ ] https://www.clinicahispanacruz4.com/services/alergias  — cambiada 2026-09-30 · rastreada 2026-08-16 · indexada · 48 impr.
+- [x] https://www.clinicahispanacruz4.com/blog  — cambiada 2026-09-30 · rastreada 2026-09-20 · indexada · 383 impr.
+- [x] https://www.clinicahispanacruz4.com/promociones  — cambiada 2026-09-30 · rastreada 2026-09-23 · indexada · 333 impr.
+- [x] https://www.clinicahispanacruz4.com/walk-in  — cambiada 2026-09-30 · rastreada 2026-08-14 · indexada · 302 impr.
+- [x] https://www.clinicahispanacruz4.com/services/tiroides  — cambiada 2026-09-30 · rastreada 2026-08-21 · indexada · 245 impr.
+- [x] https://www.clinicahispanacruz4.com/services/examen-fisico-escolar  — cambiada 2026-09-30 · rastreada 2026-08-21 · indexada · 230 impr.
+- [x] https://www.clinicahispanacruz4.com/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-09-30 · rastreada 2026-09-10 · indexada · 213 impr.
+- [x] https://www.clinicahispanacruz4.com/blog/chequeos-preventivos-hombres-houston  — cambiada 2026-09-30 · rastreada 2026-07-19 · indexada · 105 impr.
+- [x] https://www.clinicahispanacruz4.com/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-09-30 · rastreada 2026-06-21 · indexada · 98 impr.
+- [x] https://www.clinicahispanacruz4.com/services  — cambiada 2026-09-30 · rastreada 2026-08-16 · indexada · 66 impr.
+- [x] https://www.clinicahispanacruz4.com/services/alergias  — cambiada 2026-09-30 · rastreada 2026-08-16 · indexada · 48 impr.
 
 ## Tanda 2
 
