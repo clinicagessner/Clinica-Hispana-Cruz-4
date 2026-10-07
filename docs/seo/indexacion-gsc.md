@@ -12,18 +12,18 @@ Propiedad: `https://www.clinicahispanacruz4.com/` (prefijo de URL).
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 2 — cambios del 2026-10-06 primero (análisis diario)  📨 ENVIADA 06/10/2026
+## Tanda 2 — cambios del 2026-10-06 primero (análisis diario)  ✅ PEDIDA 06/10/2026
 
-- [ ] https://www.clinicahispanacruz4.com  — cambiada 2026-10-06 · rastreada 2026-10-06 · indexada · 3604 impr.
-- [ ] https://www.clinicahispanacruz4.com/en  — cambiada 2026-10-06 · rastreada 2026-10-01 · indexada · 105 impr.
-- [ ] https://www.clinicahispanacruz4.com/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-10-06 · rastreada 2026-10-03 · indexada · 209 impr.
-- [ ] https://www.clinicahispanacruz4.com/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-06 (listas del blog dentro de <ul>, análisis diario) · indexada
-- [ ] https://www.clinicahispanacruz4.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-06 (listas del blog dentro de <ul>, análisis diario) · indexada
-- [ ] https://www.clinicahispanacruz4.com/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-10-04 · rastreada 2026-07-19 · indexada · 15 impr.
-- [ ] https://www.clinicahispanacruz4.com/services/ginecologia  — cambiada 2026-09-30 · rastreada 2026-08-23 · indexada · 12 impr.
-- [ ] https://www.clinicahispanacruz4.com/services/condiciones-cronicas  — cambiada 2026-09-30 · rastreada 2026-08-16 · indexada · 11 impr.
-- [ ] https://www.clinicahispanacruz4.com/services/examen-heces  — cambiada 2026-09-30 · rastreada 2026-09-01 · indexada · 6 impr.
-- [ ] https://www.clinicahispanacruz4.com/services/prueba-strep  — cambiada 2026-09-30 · rastreada 2026-08-25 · indexada · 6 impr.
+- [x] https://www.clinicahispanacruz4.com  — cambiada 2026-10-06 · rastreada 2026-10-06 · indexada · 3604 impr.
+- [x] https://www.clinicahispanacruz4.com/en  — cambiada 2026-10-06 · rastreada 2026-10-01 · indexada · 105 impr.
+- [x] https://www.clinicahispanacruz4.com/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-10-06 · rastreada 2026-10-03 · indexada · 209 impr.
+- [x] https://www.clinicahispanacruz4.com/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-06 (listas del blog dentro de <ul>, análisis diario) · indexada
+- [x] https://www.clinicahispanacruz4.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-06 (listas del blog dentro de <ul>, análisis diario) · indexada
+- [x] https://www.clinicahispanacruz4.com/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-10-04 · rastreada 2026-07-19 · indexada · 15 impr.
+- [x] https://www.clinicahispanacruz4.com/services/ginecologia  — cambiada 2026-09-30 · rastreada 2026-08-23 · indexada · 12 impr.
+- [x] https://www.clinicahispanacruz4.com/services/condiciones-cronicas  — cambiada 2026-09-30 · rastreada 2026-08-16 · indexada · 11 impr.
+- [x] https://www.clinicahispanacruz4.com/services/examen-heces  — cambiada 2026-09-30 · rastreada 2026-09-01 · indexada · 6 impr.
+- [x] https://www.clinicahispanacruz4.com/services/prueba-strep  — cambiada 2026-09-30 · rastreada 2026-08-25 · indexada · 6 impr.
 
 ## Tanda 3
 
