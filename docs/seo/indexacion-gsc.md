@@ -6,13 +6,13 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispanacruz4.com/` (prefijo de URL), cuenta **clinicahispanacruz4@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-09; URL Inspection API, datos ANTIGUOS del 2026-10-06: antiguos (2026-10-06): --sin-fetch):** 57 de 94 URLs del sitemap indexadas · 37 sin indexar (20 descubierta sin indexar · 11 desconocida · 4 rastreada sin indexar · 2 sin datos).
+**Estado (actualizado 2026-10-10; URL Inspection API, datos ANTIGUOS del 2026-10-06: antiguos (2026-10-06): --sin-fetch):** 57 de 94 URLs del sitemap indexadas · 37 sin indexar (20 descubierta sin indexar · 11 desconocida · 4 rastreada sin indexar · 2 sin datos).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 59 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 3  📨 ENVIADA 09/10/2026
+## Tanda 3  📨 ENVIADA 10/10/2026
 
 - [ ] https://www.clinicahispanacruz4.com/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-09-30 · rastreada 2026-08-23 · indexada · 4 impr.
 - [ ] https://www.clinicahispanacruz4.com/services/examen-alcohol-drogas  — cambiada 2026-09-30 · rastreada 2026-09-12 · indexada · 2 impr.
