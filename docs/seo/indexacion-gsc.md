@@ -6,26 +6,14 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispanacruz4.com/` (prefijo de URL), cuenta **clinicahispanacruz4@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-10; URL Inspection API, datos ANTIGUOS del 2026-10-06: antiguos (2026-10-06): --sin-fetch):** 57 de 94 URLs del sitemap indexadas · 37 sin indexar (20 descubierta sin indexar · 11 desconocida · 4 rastreada sin indexar · 2 sin datos).
+**Estado (actualizado 2026-10-11; URL Inspection API, datos ANTIGUOS del 2026-10-06: antiguos (2026-10-06): --sin-fetch):** 57 de 94 URLs del sitemap indexadas · 37 sin indexar (20 descubierta sin indexar · 11 desconocida · 4 rastreada sin indexar · 2 sin datos).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 59 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
+5 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
 <!-- /tandas:auto -->
 
-## Tanda 3  ✅ PEDIDA 11/10/2026
-
-- [x] https://www.clinicahispanacruz4.com/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-09-30 · rastreada 2026-08-23 · indexada · 4 impr.
-- [x] https://www.clinicahispanacruz4.com/services/examen-alcohol-drogas  — cambiada 2026-09-30 · rastreada 2026-09-12 · indexada · 2 impr.
-- [x] https://www.clinicahispanacruz4.com/services/ultrasonido  — cambiada 2026-09-30 · rastreada 2026-07-18 · indexada · 2 impr.
-- [x] https://www.clinicahispanacruz4.com/services/examenes-sangre  — cambiada 2026-09-30 · rastreada 2026-06-21 · indexada · 1 impr.
-- [x] https://www.clinicahispanacruz4.com/services/prueba-tuberculosis  — cambiada 2026-09-30 · rastreada 2026-09-21 · indexada · 1 impr.
-- [x] https://www.clinicahispanacruz4.com/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-09-30 · descubierta sin indexar · 0 impr.
-- [x] https://www.clinicahispanacruz4.com/blog/embarazo-temporada-gripe-vacuna-sintomas-alarma  — cambiada 2026-10-06 · sin datos de inspección · 0 impr.
-- [x] https://www.clinicahispanacruz4.com/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-09-30 · descubierta sin indexar · 0 impr.
-- [x] https://www.clinicahispanacruz4.com/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-09-30 · desconocida · 0 impr.
-- [x] https://www.clinicahispanacruz4.com/services/anticonceptivos  — cambiada 2026-09-30 · desconocida · 0 impr.
-
-## Tanda 4
+## Tanda 4  📨 ENVIADA 11/10/2026
 
 - [ ] https://www.clinicahispanacruz4.com/services/cirugias-menores  — cambiada 2026-09-30 · rastreada 2026-06-21 · indexada · 0 impr.
 - [ ] https://www.clinicahispanacruz4.com/services/curacion-heridas  — cambiada 2026-09-30 · descubierta sin indexar · 0 impr.
@@ -140,3 +128,16 @@ Sitemap `sitemap.xml` enviado por última vez el 2026-06-21 (0 errores). Detalle
 - [x] https://www.clinicahispanacruz4.com/services/condiciones-cronicas  — cambiada 2026-09-30 · rastreada 2026-08-16 · indexada · 11 impr.
 - [x] https://www.clinicahispanacruz4.com/services/examen-heces  — cambiada 2026-09-30 · rastreada 2026-09-01 · indexada · 6 impr.
 - [x] https://www.clinicahispanacruz4.com/services/prueba-strep  — cambiada 2026-09-30 · rastreada 2026-08-25 · indexada · 6 impr.
+
+## Tanda 3  ✅ PEDIDA 11/10/2026
+
+- [x] https://www.clinicahispanacruz4.com/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-09-30 · rastreada 2026-08-23 · indexada · 4 impr.
+- [x] https://www.clinicahispanacruz4.com/services/examen-alcohol-drogas  — cambiada 2026-09-30 · rastreada 2026-09-12 · indexada · 2 impr.
+- [x] https://www.clinicahispanacruz4.com/services/ultrasonido  — cambiada 2026-09-30 · rastreada 2026-07-18 · indexada · 2 impr.
+- [x] https://www.clinicahispanacruz4.com/services/examenes-sangre  — cambiada 2026-09-30 · rastreada 2026-06-21 · indexada · 1 impr.
+- [x] https://www.clinicahispanacruz4.com/services/prueba-tuberculosis  — cambiada 2026-09-30 · rastreada 2026-09-21 · indexada · 1 impr.
+- [x] https://www.clinicahispanacruz4.com/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-09-30 · descubierta sin indexar · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/blog/embarazo-temporada-gripe-vacuna-sintomas-alarma  — cambiada 2026-10-06 · sin datos de inspección · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-09-30 · descubierta sin indexar · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-09-30 · desconocida · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/services/anticonceptivos  — cambiada 2026-09-30 · desconocida · 0 impr.
