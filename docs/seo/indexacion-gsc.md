@@ -13,18 +13,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 1 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
 <!-- /tandas:auto -->
 
-## Tanda 4  📨 ENVIADA 13/10/2026
+## Tanda 4  ✅ PEDIDA 13/10/2026
 
-- [ ] https://www.clinicahispanacruz4.com/services/cirugias-menores  — cambiada 2026-09-30 · rastreada 2026-06-21 · indexada · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/services/curacion-heridas  — cambiada 2026-09-30 · descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/services/drenaje-abscesos  — cambiada 2026-09-30 · rastreada 2026-06-21 · indexada · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/services/electrocardiograma  — cambiada 2026-09-30 · desconocida · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/services/enfermedades-respiratorias  — cambiada 2026-09-30 · descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/services/enfermedades-transmision-sexual  — cambiada 2026-09-30 · rastreada 2026-06-21 · indexada · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/services/examen-dot  — cambiada 2026-09-30 · desconocida · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/services/examenes-inmigracion  — cambiada 2026-09-30 · desconocida · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/services/extraccion-implantes  — cambiada 2026-09-30 · rastreada 2026-07-01 · indexada · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/services/farmacia  — cambiada 2026-09-30 · descubierta sin indexar · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/services/cirugias-menores  — cambiada 2026-09-30 · rastreada 2026-06-21 · indexada · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/services/curacion-heridas  — cambiada 2026-09-30 · descubierta sin indexar · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/services/drenaje-abscesos  — cambiada 2026-09-30 · rastreada 2026-06-21 · indexada · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/services/electrocardiograma  — cambiada 2026-09-30 · desconocida · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/services/enfermedades-respiratorias  — cambiada 2026-09-30 · descubierta sin indexar · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/services/enfermedades-transmision-sexual  — cambiada 2026-09-30 · rastreada 2026-06-21 · indexada · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/services/examen-dot  — cambiada 2026-09-30 · desconocida · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/services/examenes-inmigracion  — cambiada 2026-09-30 · desconocida · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/services/extraccion-implantes  — cambiada 2026-09-30 · rastreada 2026-07-01 · indexada · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/services/farmacia  — cambiada 2026-09-30 · descubierta sin indexar · 0 impr.
 
 ## Tanda 5
 
