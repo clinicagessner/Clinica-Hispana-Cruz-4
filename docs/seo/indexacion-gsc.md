@@ -13,6 +13,11 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 1 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
 <!-- /tandas:auto -->
 
+## Tanda 10 — cambios del 2026-10-13 (consulta inicial gratis en la home)
+
+- [ ] https://www.clinicahispanacruz4.com/  — cambiada 2026-10-13
+- [ ] https://www.clinicahispanacruz4.com/en  — cambiada 2026-10-13
+
 ## Tanda 4  ✅ PEDIDA 13/10/2026
 
 - [x] https://www.clinicahispanacruz4.com/services/cirugias-menores  — cambiada 2026-09-30 · rastreada 2026-06-21 · indexada · 0 impr.
