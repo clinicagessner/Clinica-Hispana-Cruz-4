@@ -13,11 +13,8 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 7 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
 <!-- /tandas:auto -->
 
-## Tanda 10 — cambios del 2026-10-13 (consulta inicial gratis en la home)  📨 ENVIADA 15/10/2026
+## Tanda 10 — cambios del 2026-10-13 (consulta inicial gratis en la home)
 
-- [ ] https://www.clinicahispanacruz4.com/  — cambiada 2026-10-13
-- [ ] https://www.clinicahispanacruz4.com/en  — cambiada 2026-10-13
-- [ ] https://www.clinicahispanacruz4.com/services/suturas-heridas  — cambiada 2026-09-30 · rastreada 2026-07-29 · indexada · 2 impr.
 - [ ] https://www.clinicahispanacruz4.com/services/unas-encarnadas  — cambiada 2026-09-30 · rastreada 2026-07-28 · indexada · 2 impr.
 - [ ] https://www.clinicahispanacruz4.com/blog/piedras-en-el-rinon-o-infeccion-dolor-de-costado  — cambiada 2026-10-13 · sin datos de inspección · 0 impr.
 - [ ] https://www.clinicahispanacruz4.com/services/infecciones-urinarias  — cambiada 2026-09-30 · desconocida · 0 impr.
@@ -26,7 +23,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanacruz4.com/services/sueros-vitaminados  — cambiada 2026-09-30 · desconocida · 0 impr.
 - [ ] https://www.clinicahispanacruz4.com/services/vacunas  — cambiada 2026-09-30 · descubierta sin indexar · 0 impr.
 
-## Tanda 16 — cambios del 2026-10-15 (receta electrónica (sin farmacia))
+## Tanda 16 — cambios del 2026-10-15 (receta electrónica (sin farmacia))  📨 ENVIADA 15/10/2026
 
 - [ ] https://www.clinicahispanacruz4.com/services/farmacia  — cambiada 2026-10-15
 - [ ] https://www.clinicahispanacruz4.com/en/services/farmacia  — cambiada 2026-10-15
@@ -35,6 +32,9 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanacruz4.com/en/blog/bienvenidos-clinica-hispana-cruz-4  — cambiada 2026-10-15
 - [ ] https://www.clinicahispanacruz4.com/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-15
 - [ ] https://www.clinicahispanacruz4.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-15
+- [ ] https://www.clinicahispanacruz4.com/  — cambiada 2026-10-13
+- [ ] https://www.clinicahispanacruz4.com/en  — cambiada 2026-10-13
+- [ ] https://www.clinicahispanacruz4.com/services/suturas-heridas  — cambiada 2026-09-30 · rastreada 2026-07-29 · indexada · 2 impr.
 
 ## Tanda 11
 
