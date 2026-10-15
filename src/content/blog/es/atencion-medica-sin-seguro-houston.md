@@ -3,7 +3,7 @@ slug: "atencion-medica-sin-seguro-houston"
 title: "Atención Médica Sin Seguro en Houston: Guía de Pago Directo"
 description: "Sin seguro médico en Houston: qué opciones tiene, cuándo ir a una clínica y cuándo a emergencias, y cómo funciona el pago directo en Clínica Hispana Cruz 4."
 date: "2026-03-17"
-dateModified: "2026-09-29"
+dateModified: "2026-10-15"
 author: "Clínica Hispana Cruz 4"
 image: "/images/services/family-medicine.webp"
 featured: false
@@ -56,7 +56,7 @@ Si su situación migratoria lo permite, en [CuidadoDeSalud.gov](https://www.cuid
 - **Pregunta el precio antes.** Le decimos cuánto cuesta la consulta o el examen antes de hacerlo, para que decida con la información completa.
 - **Sin cita.** La puerta del 10100 Beechnut St, Suite 240, está abierta los siete días, de 9 AM a 9 PM.
 - **Todo en español**, desde la recepción hasta las indicaciones del tratamiento.
-- **Varios servicios en una sola parada:** [laboratorio](/services/examenes-sangre), [ultrasonido](/services/ultrasonido), [electrocardiograma](/services/electrocardiograma) y entrega de los medicamentos que le indique el equipo médico.
+- **Varios servicios en una sola parada:** [laboratorio](/services/examenes-sangre), [ultrasonido](/services/ultrasonido), [electrocardiograma](/services/electrocardiograma) y [receta electrónica](/services/farmacia) enviada a la farmacia que usted prefiera.
 - **Pago** en efectivo o con tarjeta de débito o crédito.
 
 Revise también la página de [promociones](/promociones): ahí publicamos paquetes con precio fijo, por ejemplo chequeos que incluyen análisis y consulta.

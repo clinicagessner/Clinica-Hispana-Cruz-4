@@ -3,7 +3,7 @@ slug: "atencion-medica-sin-seguro-houston"
 title: "Healthcare Without Insurance in Houston: Affordable Options"
 description: "No health insurance in Houston? Your options, when to choose a clinic over the ER, and how self-pay visits work at Clínica Hispana Cruz 4."
 date: "2026-03-17"
-dateModified: "2026-09-29"
+dateModified: "2026-10-15"
 author: "Clínica Hispana Cruz 4"
 image: "/images/services/family-medicine.webp"
 featured: false
@@ -56,7 +56,7 @@ Depending on immigration status, some households can get a subsidized plan; elig
 - **Price first.** We tell you what the visit or test costs before we do it, so you decide with the full picture.
 - **No appointment.** The door at 10100 Beechnut St, Suite 240 is open all seven days, 9 AM to 9 PM.
 - **Spanish throughout**, from the front desk to your treatment instructions. English is spoken too.
-- **Several services in one stop:** [lab work](/en/services/examenes-sangre), [ultrasound](/en/services/ultrasonido), an [EKG](/en/services/electrocardiograma) and the medications our medical team prescribes, handed to you before you leave.
+- **Several services in one stop:** [lab work](/en/services/examenes-sangre), [ultrasound](/en/services/ultrasonido), an [EKG](/en/services/electrocardiograma) and an [e-prescription](/en/services/farmacia) sent to the pharmacy you prefer.
 - **Payment** by cash, debit or credit card.
 
 Also check our [promotions page](/en/promociones), where we post fixed-price packages such as checkups that bundle lab work with a consultation.

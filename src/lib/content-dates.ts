@@ -19,7 +19,7 @@ export const SERVICE_DATES: Record<string, string> = {
   "enfermedades-transmision-sexual": "2026-09-30", // B3: texto propio
   "prueba-tuberculosis": "2026-09-30", // B3: texto propio
   "prueba-strep": "2026-09-30", // B3: texto propio
-  "infecciones-urinarias": "2026-09-30", // B3: texto propio
+  "infecciones-urinarias": "2026-10-15", // receta electrónica (sin farmacia)
   "examenes-sangre": "2026-09-30", // B3: texto propio
   "ultrasonido": "2026-09-30", // B3: texto propio
   "condiciones-cronicas": "2026-09-30", // B3: texto propio (Ads, aprobado)
@@ -33,7 +33,7 @@ export const SERVICE_DATES: Record<string, string> = {
   "alergias": "2026-09-30", // B3: texto propio
   "tiroides": "2026-09-30", // B3: texto propio
   "examen-fisico-escolar": "2026-09-30", // B3: texto propio
-  farmacia: "2026-09-30", // B3: texto propio (entrega de lo indicado en consulta, §9)
+  farmacia: "2026-10-15", // receta electrónica: la clínica no tiene farmacia (dato de los dueños)
 };
 
 export function serviceLastReviewed(slug: string): string {

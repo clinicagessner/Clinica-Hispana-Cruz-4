@@ -342,8 +342,8 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   "infecciones-urinarias": {
     "faqs": [
       {
-        "question": "¿Salgo con el tratamiento el mismo día?",
-        "answer": "Sí. Hacemos el examen de orina durante la consulta y, si confirma la infección, el tratamiento empieza ese mismo día."
+        "question": "¿Me indican el tratamiento el mismo día?",
+        "answer": "Sí. Hacemos el examen de orina durante la consulta y, si confirma la infección, ese mismo día enviamos la receta electrónica a la farmacia que usted elija."
       },
       {
         "question": "¿Puedo tomar el antibiótico que me sobró la otra vez?",
@@ -356,8 +356,8 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
     ],
     "faqsEn": [
       {
-        "question": "Will I leave with treatment the same day?",
-        "answer": "Yes. We test your urine during the visit and, if it confirms an infection, treatment starts that very day."
+        "question": "Will I get treatment the same day?",
+        "answer": "Yes. We test your urine during the visit and, if it confirms an infection, we send the prescription electronically to the pharmacy you choose that very day."
       },
       {
         "question": "Can I take leftover antibiotics from last time?",
@@ -852,30 +852,30 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   "farmacia": {
     "faqs": [
       {
-        "question": "¿Qué medicamentos puedo recoger en la farmacia de la clínica?",
-        "answer": "Los que le indique el equipo médico en su consulta aquí, más productos de venta libre para malestares comunes."
+        "question": "¿La clínica tiene farmacia?",
+        "answer": "No. Al terminar su consulta enviamos la receta de forma electrónica a la farmacia que usted elija, cerca de su casa o de su trabajo, y la recoge cuando le quede mejor."
       },
       {
-        "question": "¿Tienen opciones genéricas?",
-        "answer": "Cuando existe una versión genérica del medicamento indicado, se la ofrecemos. Suele costar menos y funciona igual."
+        "question": "¿Qué necesito para que la receta llegue a mi farmacia?",
+        "answer": "Díganos el nombre de la farmacia y la calle o la intersección donde está. Si ya compra ahí sus medicamentos de siempre, conviene elegir esa misma."
       },
       {
         "question": "¿Me explican cómo tomar el medicamento?",
-        "answer": "Sí. Al entregárselo le decimos en español la dosis, el horario, cuántos días tomarlo y qué efectos son normales."
+        "answer": "Sí. Antes de que se vaya le decimos en español la dosis, el horario, cuántos días tomarlo y qué efectos son normales."
       }
     ],
     "faqsEn": [
       {
-        "question": "Which medications can I pick up at the clinic pharmacy?",
-        "answer": "The ones our medical team prescribes during your visit here, plus over-the-counter products for common complaints."
+        "question": "Does the clinic have a pharmacy?",
+        "answer": "No. After your visit we send your prescription electronically to the pharmacy you choose, near home or work, so you can pick it up when it suits you."
       },
       {
-        "question": "Do you have generic options?",
-        "answer": "When a generic version of the prescribed medication exists, we offer it. It usually costs less and works the same."
+        "question": "What do you need to send the prescription to my pharmacy?",
+        "answer": "Tell us the pharmacy's name and the street or intersection where it is. If you already fill your regular medications there, it's best to choose that one."
       },
       {
         "question": "Will someone explain how to take my medication?",
-        "answer": "Yes. When we hand it to you, we go over the dose, timing, how many days to take it and which effects are normal, in Spanish."
+        "answer": "Yes. Before you leave, we go over the dose, timing, how many days to take it and which effects are normal, in Spanish."
       }
     ]
   }

@@ -3,7 +3,7 @@ slug: "piedras-en-el-rinon-o-infeccion-dolor-de-costado"
 title: "Piedras en el Riñón o Infección: Dolor de Costado"
 description: "Dolor en el costado o la espalda baja: cómo se distingue un cólico por piedra de una infección de riñón, qué se revisa y cuándo ir a urgencias o al 911."
 date: "2026-10-13"
-dateModified: "2026-10-13"
+dateModified: "2026-10-15"
 author: "Clínica Hispana Cruz 4"
 image: "/images/services/infecciones-urinarias.webp"
 featured: false
@@ -88,7 +88,7 @@ No maneje usted mismo con un dolor así: pida que alguien lo lleve.
 
 Cuando el dolor es tolerable, no hay fiebre alta y usted puede tomar líquidos, una valoración en la clínica ayuda a ordenar el panorama. El equipo médico le pregunta cómo empezó el dolor, si va y viene, si ha tenido piedras antes y qué color ha tenido la orina. Luego revisa el abdomen y da unos golpecitos suaves en la espalda, a la altura de cada riñón, para ver de qué lado responde.
 
-El paso clave es la orina. Con el [examen de orina](/services/infecciones-urinarias) se buscan dos cosas a la vez: rastros de sangre, que hablan a favor de una piedra, y señales de bacterias o glóbulos blancos, que apuntan a infección; si el análisis muestra que el problema es una infección sin datos de alarma, el equipo médico hace el examen de orina en la clínica y, si hay infección, sale con su tratamiento el mismo día, con indicaciones claras sobre cuánto líquido tomar y qué cambios en el dolor deben hacerlo volver. Cuando conviene identificar la bacteria exacta se envía además un urocultivo, cuyo resultado tarda unos días.
+El paso clave es la orina. Con el [examen de orina](/services/infecciones-urinarias) se buscan dos cosas a la vez: rastros de sangre, que hablan a favor de una piedra, y señales de bacterias o glóbulos blancos, que apuntan a infección; si el análisis muestra que el problema es una infección sin datos de alarma, el equipo médico hace el examen de orina en la clínica y, si hay infección, sale el mismo día con su receta enviada a su farmacia, con indicaciones claras sobre cuánto líquido tomar y qué cambios en el dolor deben hacerlo volver. Cuando conviene identificar la bacteria exacta se envía además un urocultivo, cuyo resultado tarda unos días.
 
 Según el caso, también pueden indicarse:
 

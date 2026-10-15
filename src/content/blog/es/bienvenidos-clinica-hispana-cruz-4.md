@@ -3,7 +3,7 @@ slug: "bienvenidos-clinica-hispana-cruz-4"
 title: "¡Bienvenidos a Clínica Hispana Cruz 4!"
 description: "Quiénes somos: clínica médica en español en Beechnut St, suroeste de Houston. Abierta los 7 días de 9 AM a 9 PM, sin cita y sin seguro. Servicios y cómo llegar."
 date: "2026-03-16"
-dateModified: "2026-09-29"
+dateModified: "2026-10-15"
 author: "Clínica Hispana Cruz 4"
 image: "/images/hero-bg.webp"
 featured: false
@@ -43,7 +43,7 @@ El equipo médico de la clínica cubre la mayoría de las necesidades de una fam
 
 **Procedimientos menores.** Puntos de sutura, curación de heridas, drenaje de abscesos y uñas encarnadas.
 
-**Medicamentos al salir.** Nuestra farmacia le entrega lo que el equipo médico le indicó en la consulta y productos de venta libre.
+**Receta electrónica.** Si el equipo médico le indica un medicamento, enviamos la receta a la farmacia que usted elija para que la recoja cuando le quede mejor.
 
 El catálogo completo, con lo que incluye cada servicio, está en la [página de servicios](/services).
 

@@ -1188,39 +1188,39 @@ export const SERVICES: Service[] = [
   {
     "id": "farmacia",
     "slug": "farmacia",
-    "title": "Farmacia",
-    "titleEn": "Pharmacy",
-    "shortTitle": "Farmacia",
-    "description": "Farmacia dentro de la clínica en Houston, TX: te llevas los medicamentos que indicó tu consulta y productos de venta libre.",
-    "descriptionEn": "In-clinic pharmacy in Houston, TX: take home the medications prescribed at your visit plus over-the-counter products.",
-    "longDescription": "Salir de la consulta con el medicamento en la mano ahorra una segunda parada y evita que el tratamiento se quede para después. En Clínica Hispana Cruz 4 la farmacia está dentro de la clínica: le entregamos lo que el equipo médico le indicó en su consulta y tenemos productos de venta libre para los malestares más comunes.\n\n**Qué encuentra aquí**\n- Los medicamentos que se le indicaron en su consulta con nosotros, entregados antes de irse\n- Opciones genéricas, que suelen costar menos que las de marca\n- Productos de venta libre para fiebre, dolor, gripe, tos y alergias\n- Explicación en español de cómo y cuándo tomar cada medicamento\n\n**Lo que conviene preguntar al recibir su medicamento**\n- ¿Cada cuántas horas y por cuántos días?\n- ¿Con comida o en ayunas?\n- ¿Qué efectos son normales y cuáles son motivo de consulta?\n- ¿Choca con algo que ya tomo, incluidos suplementos o remedios naturales?\n\n**Antibióticos**\nTómelos completos aunque se sienta mejor antes de terminar. Cortarlos a la mitad deja bacterias vivas que pueden volver más fuertes. No guarde lo que sobre para otra ocasión ni lo comparta.\n\n**Si ya toma otros medicamentos**\nTraiga la lista o los frascos a la consulta. Así el médico revisa que lo nuevo no interfiera con lo que ya usa para la presión, el azúcar o el colesterol.\n\n**Recetas de otros consultorios**\nLa farmacia de la clínica entrega los medicamentos indicados en las consultas que se hacen aquí. Si trae una receta de otro médico, le orientamos sobre a qué farmacia llevarla o, si lo prefiere, puede pasar a consulta con nuestro equipo.",
-    "longDescriptionEn": "Leaving the visit with your medication in hand saves a second stop and keeps treatment from being put off. At Clínica Hispana Cruz 4 the pharmacy is inside the clinic: we hand you what the medical team prescribed during your visit, and we stock over-the-counter products for the most common complaints.\n\n**What you'll find here**\n- The medications prescribed at your visit with us, handed to you before you leave\n- Generic options, which usually cost less than brand names\n- Over-the-counter products for fever, pain, flu, cough and allergies\n- A clear explanation in Spanish of how and when to take each medicine\n\n**What to ask when you get your medication**\n- How many hours apart, and for how many days?\n- With food or on an empty stomach?\n- Which effects are normal and which mean I should come back?\n- Does it clash with anything I already take, including supplements or herbal remedies?\n\n**Antibiotics**\nTake every dose prescribed, even once you start feeling better. Stopping halfway leaves live bacteria that can come back stronger. Don't save leftovers for next time or share them.\n\n**If you already take other medications**\nBring the list or the bottles to your visit. That way the doctor makes sure the new one won't interfere with what you use for blood pressure, sugar or cholesterol.\n\n**Prescriptions from other offices**\nThe clinic pharmacy provides medications prescribed during visits here. If you bring a prescription from another doctor, we'll point you to where it can be handled or, if you prefer, you can see our team for a visit.",
+    "title": "Receta Electrónica a su Farmacia",
+    "titleEn": "E-Prescriptions to Your Pharmacy",
+    "shortTitle": "Receta electrónica",
+    "description": "Receta electrónica en Houston, TX: al terminar su consulta enviamos la receta a la farmacia que usted elija y la recoge cuando le quede mejor.",
+    "descriptionEn": "E-prescriptions in Houston, TX: after your visit we send your prescription electronically to the pharmacy you choose, ready to pick up when it suits you.",
+    "longDescription": "Cuando el equipo médico le indica un tratamiento, no tiene que cargar con una receta de papel ni hacer fila para entregarla. En Clínica Hispana Cruz 4 enviamos su receta de forma electrónica a la farmacia que usted prefiera, cerca de su casa o de su trabajo, y usted la recoge cuando le quede mejor. La clínica no tiene farmacia propia; así usted decide dónde recoger su medicamento.\n\n**Cómo funciona**\n- Al terminar la consulta le preguntamos qué farmacia le acomoda\n- Enviamos la receta electrónica desde la clínica\n- Le explicamos en español cómo y cuándo tomar cada medicamento\n- Usted pasa por su farmacia en el horario que le convenga\n\n**Datos que conviene traer**\nEl nombre de la farmacia y la calle o la intersección donde está. Si ya compra ahí sus medicamentos de siempre, elija esa misma: así tienen su lista completa y pueden avisarle si algo nuevo no combina con lo que ya toma.\n\n**Lo que conviene preguntar en la consulta**\n- ¿Cada cuántas horas y por cuántos días?\n- ¿Con comida o en ayunas?\n- ¿Qué efectos son normales y cuáles son motivo de consulta?\n- ¿Choca con algo que ya tomo, incluidos suplementos o remedios naturales?\n\n**Antibióticos**\nTómelos completos aunque se sienta mejor antes de terminar. Cortarlos a la mitad deja bacterias vivas que pueden volver más fuertes. No guarde lo que sobre para otra ocasión ni lo comparta.\n\n**Si ya toma otros medicamentos**\nTraiga la lista o los frascos a la consulta. Así el equipo médico revisa que lo nuevo no interfiera con lo que ya usa para la presión, el azúcar o el colesterol, antes de enviar la receta.\n\n**Recetas de otros consultorios**\nEnviamos recetas electrónicas de las consultas que se hacen aquí. Si su tratamiento lo indicó otro médico, pida a ese consultorio que lo renueve o, si lo prefiere, pase a consulta con nuestro equipo.",
+    "longDescriptionEn": "When the medical team prescribes a treatment, you don't have to carry a paper prescription around or wait in line to drop it off. At Clínica Hispana Cruz 4 we send your prescription electronically to the pharmacy you choose, near your home or your job, so you can pick it up whenever it suits you. The clinic does not have its own pharmacy, so you decide where to get your medicine.\n\n**How it works**\n- At the end of your visit we ask which pharmacy works for you\n- We send the e-prescription from the clinic\n- We explain in Spanish how and when to take each medication\n- You stop by your pharmacy at a time that fits your day\n\n**What to have handy**\nThe pharmacy's name and the street or intersection where it is. If you already fill your regular medications there, pick that same one so they have your full list and can flag anything new that doesn't mix with what you take.\n\n**What to ask during your visit**\n- How many hours apart, and for how many days?\n- With food or on an empty stomach?\n- Which effects are normal and which mean I should come back?\n- Does it clash with anything I already take, including supplements or herbal remedies?\n\n**Antibiotics**\nTake every dose prescribed, even once you start feeling better. Stopping halfway leaves live bacteria that can come back stronger. Don't save leftovers for next time or share them.\n\n**If you already take other medications**\nBring the list or the bottles to your visit. That way the medical team makes sure the new one won't interfere with what you use for blood pressure, sugar or cholesterol before the prescription is sent.\n\n**Prescriptions from other offices**\nWe send e-prescriptions for visits done here. If another doctor prescribed your treatment, ask that office to renew it or, if you prefer, see our team for a visit.",
     "icon": "Syringe",
     "image": "/images/services/farmacia.webp",
     "category": "tratamientos",
     "keywords": [
-      "farmacia en houston",
-      "farmacia hispana houston",
-      "farmacia cerca de mí houston",
-      "medicamentos en la clínica houston"
+      "receta electrónica houston",
+      "clínica que envía la receta a mi farmacia",
+      "receta médica en español houston",
+      "receta electrónica sin seguro houston"
     ],
     "keywordsEn": [
-      "pharmacy houston",
-      "hispanic pharmacy houston",
-      "pharmacy near me houston",
-      "medications at the clinic houston"
+      "e-prescription houston",
+      "electronic prescription clinic houston",
+      "prescription sent to my pharmacy houston",
+      "spanish-speaking clinic e-prescription houston"
     ],
     "features": [
-      "Medicamentos indicados en tu consulta",
-      "Medicamentos de marca y genéricos",
-      "Medicamentos de venta libre (OTC)",
-      "Asesoría sobre tus medicamentos en español"
+      "Receta electrónica a la farmacia que usted elija",
+      "Indicaciones de su tratamiento explicadas en español",
+      "Revisión de los medicamentos que ya toma",
+      "Sin receta de papel que se pueda perder"
     ],
     "featuresEn": [
-      "Medications prescribed at your visit",
-      "Brand-name and generic medications",
-      "Over-the-counter (OTC) medications",
-      "Guidance about your medications in Spanish"
+      "E-prescription sent to the pharmacy you choose",
+      "Treatment instructions explained in Spanish",
+      "Review of the medications you already take",
+      "No paper prescription to lose"
     ],
     "highlighted": false,
     "order": 29

@@ -3,7 +3,7 @@ slug: "bienvenidos-clinica-hispana-cruz-4"
 title: "Welcome to Clínica Hispana Cruz 4!"
 description: "Who we are: a Spanish-speaking medical clinic on Beechnut St in southwest Houston. Open 7 days, 9 AM to 9 PM, walk-in, no insurance needed. Services and directions."
 date: "2026-03-16"
-dateModified: "2026-09-29"
+dateModified: "2026-10-15"
 author: "Clínica Hispana Cruz 4"
 image: "/images/hero-bg.webp"
 featured: false
@@ -43,7 +43,7 @@ The clinic's medical team covers most of what a family needs without sending you
 
 **Minor procedures.** Stitches, wound care, abscess drainage and ingrown toenails.
 
-**Medications before you leave.** Our pharmacy hands you what the medical team prescribed during the visit, plus over-the-counter products.
+**E-prescriptions.** If the medical team prescribes a medication, we send it electronically to the pharmacy you choose so you can pick it up when it suits you.
 
 The full catalog, with what each service includes, is on our [services page](/en/services).
 

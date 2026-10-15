@@ -3,7 +3,7 @@ slug: "piedras-en-el-rinon-o-infeccion-dolor-de-costado"
 title: "Kidney Stone or Infection? Side Pain and When to Get Help"
 description: "Side or lower back pain? How a kidney stone usually differs from a kidney infection, what the clinic checks, and when to go to the ER or call 911."
 date: "2026-10-13"
-dateModified: "2026-10-13"
+dateModified: "2026-10-15"
 author: "Clínica Hispana Cruz 4"
 image: "/images/services/infecciones-urinarias.webp"
 featured: false
@@ -88,7 +88,7 @@ Don't drive yourself with pain like this. Ask someone to take you.
 
 If the pain is manageable, there's no high fever and you can keep fluids down, a clinic visit helps sort things out. The medical team asks how the pain started, whether it comes and goes, whether you've had stones before and what color your urine has been. Then they examine your belly and tap gently on your back over each kidney to see which side reacts.
 
-The urine sample is the key step. A [urinalysis](/en/services/infecciones-urinarias) looks for two things at once: traces of blood, which lean toward a stone, and bacteria or white blood cells, which point to infection. When the sample shows white cells and bacteria but no blood, the pain is a dull ache rather than waves and none of the red flags listed above are present, we run the urine test at the clinic and, if there is an infection, you leave with your treatment the same day, plus a note on how much water to drink and which shifts in your side pain should bring you straight back to Beechnut. When it helps to identify the exact bacteria, a urine culture is also sent out, and that result takes a few days.
+The urine sample is the key step. A [urinalysis](/en/services/infecciones-urinarias) looks for two things at once: traces of blood, which lean toward a stone, and bacteria or white blood cells, which point to infection. When the sample shows white cells and bacteria but no blood, the pain is a dull ache rather than waves and none of the red flags listed above are present, we run the urine test at the clinic and, if there is an infection, your prescription is sent to your pharmacy the same day, plus a note on how much water to drink and which shifts in your side pain should bring you straight back to Beechnut. When it helps to identify the exact bacteria, a urine culture is also sent out, and that result takes a few days.
 
 Depending on your case, the team may also suggest:
 
