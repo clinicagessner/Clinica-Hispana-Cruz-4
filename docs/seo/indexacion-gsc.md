@@ -26,6 +26,16 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanacruz4.com/services/sueros-vitaminados  — cambiada 2026-09-30 · desconocida · 0 impr.
 - [ ] https://www.clinicahispanacruz4.com/services/vacunas  — cambiada 2026-09-30 · descubierta sin indexar · 0 impr.
 
+## Tanda 16 — cambios del 2026-10-15 (receta electrónica (sin farmacia))
+
+- [ ] https://www.clinicahispanacruz4.com/services/farmacia  — cambiada 2026-10-15
+- [ ] https://www.clinicahispanacruz4.com/en/services/farmacia  — cambiada 2026-10-15
+- [ ] https://www.clinicahispanacruz4.com/en/services/infecciones-urinarias  — cambiada 2026-10-15
+- [ ] https://www.clinicahispanacruz4.com/blog/bienvenidos-clinica-hispana-cruz-4  — cambiada 2026-10-15
+- [ ] https://www.clinicahispanacruz4.com/en/blog/bienvenidos-clinica-hispana-cruz-4  — cambiada 2026-10-15
+- [ ] https://www.clinicahispanacruz4.com/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-15
+- [ ] https://www.clinicahispanacruz4.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-15
+
 ## Tanda 11
 
 - [ ] https://www.clinicahispanacruz4.com/en/walk-in  — cambiada 2026-09-30 · rastreada 2026-08-19 · indexada · 202 impr.
@@ -36,12 +46,10 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanacruz4.com/en/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-09-30 · rastreada 2026-08-24 · indexada · 13 impr.
 - [ ] https://www.clinicahispanacruz4.com/en/services/examen-fisico-escolar  — cambiada 2026-09-30 · rastreada 2026-08-23 · indexada · 13 impr.
 - [ ] https://www.clinicahispanacruz4.com/en/services/vacunas  — cambiada 2026-09-30 · rastreada 2026-07-20 · indexada · 13 impr.
-- [ ] https://www.clinicahispanacruz4.com/en/services/farmacia  — cambiada 2026-09-30 · rastreada 2026-07-20 · indexada · 10 impr.
 - [ ] https://www.clinicahispanacruz4.com/en/services/electrocardiograma  — cambiada 2026-09-30 · rastreada 2026-07-31 · indexada · 7 impr.
 
 ## Tanda 12
 
-- [ ] https://www.clinicahispanacruz4.com/en/services/infecciones-urinarias  — cambiada 2026-09-30 · rastreada 2026-09-11 · indexada · 7 impr.
 - [ ] https://www.clinicahispanacruz4.com/en/services/curacion-heridas  — cambiada 2026-09-30 · rastreada 2026-09-11 · indexada · 6 impr.
 - [ ] https://www.clinicahispanacruz4.com/en/services/ginecologia  — cambiada 2026-09-30 · rastreada 2026-06-21 · indexada · 6 impr.
 - [ ] https://www.clinicahispanacruz4.com/en/blog  — cambiada 2026-09-30 · rastreada 2026-07-20 · indexada · 3 impr.
