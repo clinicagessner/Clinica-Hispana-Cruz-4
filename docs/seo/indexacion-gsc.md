@@ -13,18 +13,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 7 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
 <!-- /tandas:auto -->
 
-## Tanda 21 — cambios del 2026-10-15 (cambiadas sin pedir y pendientes)  📨 ENVIADA 18/10/2026
+## Tanda 21 — cambios del 2026-10-15 (cambiadas sin pedir y pendientes)  ✅ PEDIDA 18/10/2026
 
-- [ ] https://www.clinicahispanacruz4.com/services/unas-encarnadas  — cambiada 2026-09-30 · rastreada 2026-07-28 · indexada · 2 impr.
-- [ ] https://www.clinicahispanacruz4.com/blog/piedras-en-el-rinon-o-infeccion-dolor-de-costado  — cambiada 2026-10-13 · sin datos de inspección · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/services/infecciones-urinarias  — cambiada 2026-09-30 · desconocida · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/services/prueba-embarazo  — cambiada 2026-09-30 · descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/services/salud-hombre  — cambiada 2026-09-30 · descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/services/sueros-vitaminados  — cambiada 2026-09-30 · desconocida · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/services/vacunas  — cambiada 2026-09-30 · descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/en/blog/piedras-en-el-rinon-o-infeccion-dolor-de-costado  — cambiada 2026-10-15 · sin datos de inspección · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/en/walk-in  — cambiada 2026-09-30 · rastreada 2026-08-19 · indexada · 202 impr.
-- [ ] https://www.clinicahispanacruz4.com/en/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-09-30 · rastreada 2026-06-23 · rastreada sin indexar · 98 impr.
+- [x] https://www.clinicahispanacruz4.com/services/unas-encarnadas  — cambiada 2026-09-30 · rastreada 2026-07-28 · indexada · 2 impr.
+- [x] https://www.clinicahispanacruz4.com/blog/piedras-en-el-rinon-o-infeccion-dolor-de-costado  — cambiada 2026-10-13 · sin datos de inspección · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/services/infecciones-urinarias  — cambiada 2026-09-30 · desconocida · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/services/prueba-embarazo  — cambiada 2026-09-30 · descubierta sin indexar · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/services/salud-hombre  — cambiada 2026-09-30 · descubierta sin indexar · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/services/sueros-vitaminados  — cambiada 2026-09-30 · desconocida · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/services/vacunas  — cambiada 2026-09-30 · descubierta sin indexar · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/en/blog/piedras-en-el-rinon-o-infeccion-dolor-de-costado  — cambiada 2026-10-15 · sin datos de inspección · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/en/walk-in  — cambiada 2026-09-30 · rastreada 2026-08-19 · indexada · 202 impr.
+- [x] https://www.clinicahispanacruz4.com/en/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-09-30 · rastreada 2026-06-23 · rastreada sin indexar · 98 impr.
 
 ## Tanda 22
 
