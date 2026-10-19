@@ -13,18 +13,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 12 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
 <!-- /tandas:auto -->
 
-## Tanda 22  📨 ENVIADA 19/10/2026
+## Tanda 22  ✅ PEDIDA 19/10/2026
 
-- [ ] https://www.clinicahispanacruz4.com/en/services/examenes-inmigracion  — cambiada 2026-09-30 · rastreada 2026-07-19 · indexada · 28 impr.
-- [ ] https://www.clinicahispanacruz4.com/en/services  — cambiada 2026-09-30 · rastreada 2026-09-27 · rastreada sin indexar · 22 impr.
-- [ ] https://www.clinicahispanacruz4.com/en/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-09-30 · rastreada 2026-08-24 · indexada · 13 impr.
-- [ ] https://www.clinicahispanacruz4.com/en/services/examen-fisico-escolar  — cambiada 2026-09-30 · rastreada 2026-08-23 · indexada · 12 impr.
-- [ ] https://www.clinicahispanacruz4.com/en/services/vacunas  — cambiada 2026-09-30 · rastreada 2026-07-20 · indexada · 12 impr.
-- [ ] https://www.clinicahispanacruz4.com/en/services/electrocardiograma  — cambiada 2026-09-30 · rastreada 2026-07-31 · indexada · 7 impr.
-- [ ] https://www.clinicahispanacruz4.com/en/services/curacion-heridas  — cambiada 2026-09-30 · rastreada 2026-09-11 · indexada · 5 impr.
-- [ ] https://www.clinicahispanacruz4.com/en/services/ginecologia  — cambiada 2026-09-30 · rastreada 2026-06-21 · indexada · 5 impr.
-- [ ] https://www.clinicahispanacruz4.com/en/blog/chequeos-preventivos-hombres-houston  — cambiada 2026-09-30 · rastreada 2026-09-15 · indexada · 4 impr.
-- [ ] https://www.clinicahispanacruz4.com/en/blog  — cambiada 2026-09-30 · rastreada 2026-07-20 · indexada · 3 impr.
+- [x] https://www.clinicahispanacruz4.com/en/services/examenes-inmigracion  — cambiada 2026-09-30 · rastreada 2026-07-19 · indexada · 28 impr.
+- [x] https://www.clinicahispanacruz4.com/en/services  — cambiada 2026-09-30 · rastreada 2026-09-27 · rastreada sin indexar · 22 impr.
+- [x] https://www.clinicahispanacruz4.com/en/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-09-30 · rastreada 2026-08-24 · indexada · 13 impr.
+- [x] https://www.clinicahispanacruz4.com/en/services/examen-fisico-escolar  — cambiada 2026-09-30 · rastreada 2026-08-23 · indexada · 12 impr.
+- [x] https://www.clinicahispanacruz4.com/en/services/vacunas  — cambiada 2026-09-30 · rastreada 2026-07-20 · indexada · 12 impr.
+- [x] https://www.clinicahispanacruz4.com/en/services/electrocardiograma  — cambiada 2026-09-30 · rastreada 2026-07-31 · indexada · 7 impr.
+- [x] https://www.clinicahispanacruz4.com/en/services/curacion-heridas  — cambiada 2026-09-30 · rastreada 2026-09-11 · indexada · 5 impr.
+- [x] https://www.clinicahispanacruz4.com/en/services/ginecologia  — cambiada 2026-09-30 · rastreada 2026-06-21 · indexada · 5 impr.
+- [x] https://www.clinicahispanacruz4.com/en/blog/chequeos-preventivos-hombres-houston  — cambiada 2026-09-30 · rastreada 2026-09-15 · indexada · 4 impr.
+- [x] https://www.clinicahispanacruz4.com/en/blog  — cambiada 2026-09-30 · rastreada 2026-07-20 · indexada · 3 impr.
 
 ## Tanda 23
 
