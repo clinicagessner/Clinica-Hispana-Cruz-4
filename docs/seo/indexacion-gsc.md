@@ -15,6 +15,8 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 ## Tanda 23  📨 ENVIADA 20/10/2026
 
+- [ ] https://www.clinicahispanacruz4.com/blog/bulto-debajo-de-la-piel-quiste-lipoma-ganglio  — post nuevo 2026-10-20 (blog semanal)
+- [ ] https://www.clinicahispanacruz4.com/en/blog/bulto-debajo-de-la-piel-quiste-lipoma-ganglio  — post nuevo 2026-10-20 (blog semanal)
 - [ ] https://www.clinicahispanacruz4.com/en/services/condiciones-cronicas  — cambiada 2026-09-30 · rastreada 2026-06-21 · indexada · 2 impr.
 - [ ] https://www.clinicahispanacruz4.com/en/services/prueba-tuberculosis  — cambiada 2026-09-30 · rastreada 2026-06-21 · indexada · 2 impr.
 - [ ] https://www.clinicahispanacruz4.com/en/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-10-04 · rastreada 2026-07-18 · rastreada sin indexar · 1 impr.
@@ -23,6 +25,9 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanacruz4.com/en/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-09-30 · desconocida · 0 impr.
 - [ ] https://www.clinicahispanacruz4.com/en/blog/embarazo-temporada-gripe-vacuna-sintomas-alarma  — cambiada 2026-10-06 · desconocida · 0 impr.
 - [ ] https://www.clinicahispanacruz4.com/en/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-09-30 · descubierta sin indexar · 0 impr.
+
+## Tanda 26 — cambios del 2026-10-20 (devueltas de la tanda enviada el 20/10 para dejar sitio al post nuevo)
+
 - [ ] https://www.clinicahispanacruz4.com/en/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-09-30 · desconocida · 0 impr.
 - [ ] https://www.clinicahispanacruz4.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-09-30 · desconocida · 0 impr.
 
