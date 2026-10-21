@@ -6,49 +6,35 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispanacruz4.com/` (prefijo de URL), cuenta **clinicahispanacruz4@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-20; URL Inspection API, datos ANTIGUOS del 2026-10-19: antiguos (2026-10-19): --sin-fetch):** 64 de 96 URLs del sitemap indexadas · 32 sin indexar (24 desconocida · 5 descubierta sin indexar · 3 rastreada sin indexar).
+**Estado (actualizado 2026-10-21; URL Inspection API, datos ANTIGUOS del 2026-10-19: antiguos (2026-10-19): --sin-fetch):** 64 de 98 URLs del sitemap indexadas · 34 sin indexar (24 desconocida · 5 descubierta sin indexar · 3 rastreada sin indexar · 2 sin datos).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 26 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 18 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-13 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
+17 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
 <!-- /tandas:auto -->
 
-## Tanda 27 — pendientes de la tanda anterior
-
-- [ ] https://www.clinicahispanacruz4.com/blog/bulto-debajo-de-la-piel-quiste-lipoma-ganglio  — post nuevo 2026-10-20 (blog semanal)
-- [ ] https://www.clinicahispanacruz4.com/en/blog/bulto-debajo-de-la-piel-quiste-lipoma-ganglio  — post nuevo 2026-10-20 (blog semanal)
-
-## Tanda 23  ✅ PEDIDA 20/10/2026
-
-- [x] https://www.clinicahispanacruz4.com/en/services/condiciones-cronicas  — cambiada 2026-09-30 · rastreada 2026-06-21 · indexada · 2 impr.
-- [x] https://www.clinicahispanacruz4.com/en/services/prueba-tuberculosis  — cambiada 2026-09-30 · rastreada 2026-06-21 · indexada · 2 impr.
-- [x] https://www.clinicahispanacruz4.com/en/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-10-04 · rastreada 2026-07-18 · rastreada sin indexar · 1 impr.
-- [x] https://www.clinicahispanacruz4.com/en/services/extraccion-implantes  — cambiada 2026-09-30 · rastreada 2026-07-31 · indexada · 1 impr.
-- [x] https://www.clinicahispanacruz4.com/en/services/tiroides  — cambiada 2026-09-30 · rastreada 2026-06-22 · indexada · 1 impr.
-- [x] https://www.clinicahispanacruz4.com/en/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-09-30 · desconocida · 0 impr.
-- [x] https://www.clinicahispanacruz4.com/en/blog/embarazo-temporada-gripe-vacuna-sintomas-alarma  — cambiada 2026-10-06 · desconocida · 0 impr.
-- [x] https://www.clinicahispanacruz4.com/en/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-09-30 · descubierta sin indexar · 0 impr.
-
-## Tanda 26 — cambios del 2026-10-20 (devueltas de la tanda enviada el 20/10 para dejar sitio al post nuevo)
+## Tanda 26 — cambios del 2026-10-20 (devueltas de la tanda enviada el 20/10 para dejar sitio al post nuevo)  📨 ENVIADA 21/10/2026
 
 - [ ] https://www.clinicahispanacruz4.com/en/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-09-30 · desconocida · 0 impr.
 - [ ] https://www.clinicahispanacruz4.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-09-30 · desconocida · 0 impr.
-
-## Tanda 24
-
+- [ ] https://www.clinicahispanacruz4.com/blog/bulto-debajo-de-la-piel-quiste-lipoma-ganglio  — cambiada 2026-10-20 · sin datos de inspección · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/en/blog/bulto-debajo-de-la-piel-quiste-lipoma-ganglio  — cambiada 2026-10-20 · sin datos de inspección · 0 impr.
 - [ ] https://www.clinicahispanacruz4.com/en/promociones  — cambiada 2026-09-30 · desconocida · 0 impr.
 - [ ] https://www.clinicahispanacruz4.com/en/services/alergias  — cambiada 2026-09-30 · descubierta sin indexar · 0 impr.
 - [ ] https://www.clinicahispanacruz4.com/en/services/anticonceptivos  — cambiada 2026-09-30 · desconocida · 0 impr.
 - [ ] https://www.clinicahispanacruz4.com/en/services/drenaje-abscesos  — cambiada 2026-09-30 · rastreada 2026-07-19 · rastreada sin indexar · 0 impr.
 - [ ] https://www.clinicahispanacruz4.com/en/services/enfermedades-respiratorias  — cambiada 2026-09-30 · rastreada 2026-06-21 · indexada · 0 impr.
 - [ ] https://www.clinicahispanacruz4.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-09-30 · descubierta sin indexar · 0 impr.
+
+## Tanda 27
+
 - [ ] https://www.clinicahispanacruz4.com/en/services/examen-alcohol-drogas  — cambiada 2026-09-30 · rastreada 2026-07-31 · indexada · 0 impr.
 - [ ] https://www.clinicahispanacruz4.com/en/services/examen-heces  — cambiada 2026-09-30 · rastreada 2026-06-22 · indexada · 0 impr.
+
+## Tanda 28
+
 - [ ] https://www.clinicahispanacruz4.com/en/services/examenes-sangre  — cambiada 2026-09-30 · desconocida · 0 impr.
 - [ ] https://www.clinicahispanacruz4.com/en/services/prueba-embarazo  — cambiada 2026-09-30 · desconocida · 0 impr.
-
-## Tanda 25
-
 - [ ] https://www.clinicahispanacruz4.com/en/services/prueba-strep  — cambiada 2026-09-30 · desconocida · 0 impr.
 - [ ] https://www.clinicahispanacruz4.com/en/services/salud-hombre  — cambiada 2026-09-30 · desconocida · 0 impr.
 - [ ] https://www.clinicahispanacruz4.com/en/services/sueros-vitaminados  — cambiada 2026-09-30 · desconocida · 0 impr.
@@ -159,3 +145,14 @@ Sitemap `sitemap.xml` enviado por última vez el 2026-06-21 (0 errores). Detalle
 - [x] https://www.clinicahispanacruz4.com/en/services/ginecologia  — cambiada 2026-09-30 · rastreada 2026-06-21 · indexada · 5 impr.
 - [x] https://www.clinicahispanacruz4.com/en/blog/chequeos-preventivos-hombres-houston  — cambiada 2026-09-30 · rastreada 2026-09-15 · indexada · 4 impr.
 - [x] https://www.clinicahispanacruz4.com/en/blog  — cambiada 2026-09-30 · rastreada 2026-07-20 · indexada · 3 impr.
+
+## Tanda 23  ✅ PEDIDA 20/10/2026
+
+- [x] https://www.clinicahispanacruz4.com/en/services/condiciones-cronicas  — cambiada 2026-09-30 · rastreada 2026-06-21 · indexada · 2 impr.
+- [x] https://www.clinicahispanacruz4.com/en/services/prueba-tuberculosis  — cambiada 2026-09-30 · rastreada 2026-06-21 · indexada · 2 impr.
+- [x] https://www.clinicahispanacruz4.com/en/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-10-04 · rastreada 2026-07-18 · rastreada sin indexar · 1 impr.
+- [x] https://www.clinicahispanacruz4.com/en/services/extraccion-implantes  — cambiada 2026-09-30 · rastreada 2026-07-31 · indexada · 1 impr.
+- [x] https://www.clinicahispanacruz4.com/en/services/tiroides  — cambiada 2026-09-30 · rastreada 2026-06-22 · indexada · 1 impr.
+- [x] https://www.clinicahispanacruz4.com/en/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-09-30 · desconocida · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/en/blog/embarazo-temporada-gripe-vacuna-sintomas-alarma  — cambiada 2026-10-06 · desconocida · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/en/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-09-30 · descubierta sin indexar · 0 impr.
