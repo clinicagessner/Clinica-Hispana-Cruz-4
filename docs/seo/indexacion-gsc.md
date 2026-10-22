@@ -13,18 +13,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 17 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
 <!-- /tandas:auto -->
 
-## Tanda 26 — cambios del 2026-10-20 (devueltas de la tanda enviada el 20/10 para dejar sitio al post nuevo)  📨 ENVIADA 21/10/2026
+## Tanda 26 — cambios del 2026-10-20 (devueltas de la tanda enviada el 20/10 para dejar sitio al post nuevo)  ✅ PEDIDA 21/10/2026
 
-- [ ] https://www.clinicahispanacruz4.com/en/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-09-30 · desconocida · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-09-30 · desconocida · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/blog/bulto-debajo-de-la-piel-quiste-lipoma-ganglio  — cambiada 2026-10-20 · sin datos de inspección · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/en/blog/bulto-debajo-de-la-piel-quiste-lipoma-ganglio  — cambiada 2026-10-20 · sin datos de inspección · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/en/promociones  — cambiada 2026-09-30 · desconocida · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/en/services/alergias  — cambiada 2026-09-30 · descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/en/services/anticonceptivos  — cambiada 2026-09-30 · desconocida · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/en/services/drenaje-abscesos  — cambiada 2026-09-30 · rastreada 2026-07-19 · rastreada sin indexar · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/en/services/enfermedades-respiratorias  — cambiada 2026-09-30 · rastreada 2026-06-21 · indexada · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-09-30 · descubierta sin indexar · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/en/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-09-30 · desconocida · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-09-30 · desconocida · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/blog/bulto-debajo-de-la-piel-quiste-lipoma-ganglio  — cambiada 2026-10-20 · sin datos de inspección · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/en/blog/bulto-debajo-de-la-piel-quiste-lipoma-ganglio  — cambiada 2026-10-20 · sin datos de inspección · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/en/promociones  — cambiada 2026-09-30 · desconocida · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/en/services/alergias  — cambiada 2026-09-30 · descubierta sin indexar · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/en/services/anticonceptivos  — cambiada 2026-09-30 · desconocida · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/en/services/drenaje-abscesos  — cambiada 2026-09-30 · rastreada 2026-07-19 · rastreada sin indexar · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/en/services/enfermedades-respiratorias  — cambiada 2026-09-30 · rastreada 2026-06-21 · indexada · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-09-30 · descubierta sin indexar · 0 impr.
 
 ## Tanda 27
 
