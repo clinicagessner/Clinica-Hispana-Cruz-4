@@ -53,7 +53,7 @@ Tener síntomas cambia el calendario: un sangrado anormal o un flujo raro se rev
 
 ## Qué resolvemos en Clínica Hispana Cruz 4
 
-Nuestra clínica ofrece [atención ginecológica básica](/services/ginecologia) con el equipo médico general, 100 % en español:
+Nuestra clínica ofrece [atención ginecológica](/services/ginecologia) 100 % en español:
 
 - Papanicolaou y cultivos vaginales
 - [Prueba de embarazo](/services/prueba-embarazo) y orientación sobre el siguiente paso

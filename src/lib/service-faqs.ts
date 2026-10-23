@@ -201,7 +201,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "¿Hacen el control prenatal?",
-        "answer": "Confirmamos el embarazo, le damos las primeras indicaciones y podemos hacer un ultrasonido temprano. Para el control prenatal completo le orientamos con la referencia al ginecólogo u obstetra."
+        "answer": "Confirmamos el embarazo, le damos las primeras indicaciones y podemos hacer un ultrasonido temprano."
       }
     ],
     "faqsEn": [
@@ -215,7 +215,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "Do you provide prenatal care?",
-        "answer": "We confirm the pregnancy, give you first steps and can do an early ultrasound. For full prenatal care we help you with a referral to a gynecologist or obstetrician."
+        "answer": "We confirm the pregnancy, give you first steps and can do an early ultrasound."
       }
     ]
   },

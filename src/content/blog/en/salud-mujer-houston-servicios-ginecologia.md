@@ -57,14 +57,12 @@ Between work, kids and running a household, a woman's own health tends to land a
 
 ## What we offer at Clínica Hispana Cruz 4
 
-Our general medical team provides [basic gynecology care](/en/services/ginecologia) in Spanish, all in one place:
+We provide [gynecology care](/en/services/ginecologia) in Spanish, all in one place:
 
 - Pap smears and vaginal cultures
 - [Pregnancy testing](/en/services/prueba-embarazo)
 - [Birth control](/en/services/anticonceptivos) and [contraceptive implant removal](/en/services/extraccion-implantes)
 - [Ultrasound](/en/services/ultrasonido) and [blood work](/en/services/examenes-sangre)
 - [STD testing](/en/services/enfermedades-transmision-sexual)
-
-Prenatal care, surgery and abnormal results that need deeper workup are handled by a specialist gynecologist; in those cases we help you with the referral.
 
 Walk in between 9 AM and 9 PM at 10100 Beechnut St, Suite 240. Our [promotions page](/en/promociones) lists fixed-price women's checkups. And if you're looking for Spanish-language gynecology, read our guide to [Hispanic gynecologists in Houston](/en/blog/ginecologos-hispanos-houston-hablan-espanol).

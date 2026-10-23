@@ -57,14 +57,12 @@ Entre el trabajo, los hijos y la casa, la salud propia suele quedar al final de 
 
 ## Lo que ofrecemos en Clínica Hispana Cruz 4
 
-Nuestro equipo médico general da [atención ginecológica básica](/services/ginecologia) en español, en un solo lugar:
+Damos [atención ginecológica](/services/ginecologia) en español, en un solo lugar:
 
 - Papanicolaou y cultivos vaginales
 - [Prueba de embarazo](/services/prueba-embarazo)
 - [Anticonceptivos](/services/anticonceptivos) y [retiro del implante subdérmico](/services/extraccion-implantes)
 - [Ultrasonido](/services/ultrasonido) y [análisis de sangre](/services/examenes-sangre)
 - Pruebas de [infecciones de transmisión sexual](/services/enfermedades-transmision-sexual)
-
-El control del embarazo, las cirugías y los resultados anormales que requieren estudios más profundos se atienden con un ginecólogo especialista; en esos casos le orientamos con la referencia.
 
 Venga sin cita, de 9 AM a 9 PM, a 10100 Beechnut St, Suite 240. En [promociones](/promociones) publicamos chequeos de la mujer con precio fijo. Y si busca cómo encontrar ginecología en español, lea nuestra guía sobre [ginecólogos hispanos en Houston](/blog/ginecologos-hispanos-houston-hablan-espanol).

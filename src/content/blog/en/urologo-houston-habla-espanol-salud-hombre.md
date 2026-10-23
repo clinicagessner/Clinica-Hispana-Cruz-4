@@ -3,7 +3,7 @@ slug: "urologo-houston-habla-espanol-salud-hombre"
 title: "Spanish-Speaking Urologist in Houston: Men's Health"
 description: "When to see a urologist in Houston, signs of prostate problems, PSA and testosterone testing. Men's health care in Spanish, walk-in, no insurance needed."
 date: "2026-06-15"
-dateModified: "2026-09-30"
+dateModified: "2026-10-23"
 author: "Clínica Hispana Cruz 4"
 image: "/images/services/salud-hombre.webp"
 featured: false
@@ -36,7 +36,7 @@ Urology deals with the urinary system and the male reproductive system. You don'
 - Low energy, fatigue, or changes linked to testosterone
 - Erection problems
 
-At [Clínica Hispana Cruz 4](/en/services/salud-hombre) these conditions are evaluated by our general medicine team, in Spanish, and when a case calls for specialized care we refer you to trusted urologists in the Houston area.
+At [Clínica Hispana Cruz 4](/en/services/salud-hombre) we offer urology and men's health care in Spanish, walk-in and with no insurance needed: prostate checks, PSA testing, urine tests and full men's checkups.
 
 ## Signs you should check your prostate
 

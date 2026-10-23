@@ -53,7 +53,7 @@ Symptoms change the schedule: abnormal bleeding or unusual discharge gets checke
 
 ## What we handle at Clínica Hispana Cruz 4
 
-Our clinic provides [basic gynecology care](/en/services/ginecologia) through the general medical team, entirely in Spanish:
+Our clinic provides [gynecology care](/en/services/ginecologia) entirely in Spanish:
 
 - Pap smears and vaginal cultures
 - [Pregnancy testing](/en/services/prueba-embarazo) and guidance on next steps
