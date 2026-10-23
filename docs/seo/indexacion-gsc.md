@@ -13,6 +13,13 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 26 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
 <!-- /tandas:auto -->
 
+## Tanda 28 — cambios del 2026-10-23 (sin plazo de resultados de laboratorio (análisis diario)) 📨 ENVIADA 23/10/2026
+
+- [ ] https://www.clinicahispanacruz4.com/walk-in  — cambiada 2026-10-23
+- [ ] https://www.clinicahispanacruz4.com/en/walk-in  — cambiada 2026-10-23
+- [ ] https://www.clinicahispanacruz4.com/blog/chequeos-preventivos-hombres-houston  — cambiada 2026-10-23
+- [ ] https://www.clinicahispanacruz4.com/en/blog/chequeos-preventivos-hombres-houston  — cambiada 2026-10-23
+
 ## Tanda 27 ✅ PEDIDA 22/10/2026
 
 - [x] https://www.clinicahispanacruz4.com/en/services/examen-alcohol-drogas  — cambiada 2026-09-30 · rastreada 2026-07-31 · indexada · 0 impr.
