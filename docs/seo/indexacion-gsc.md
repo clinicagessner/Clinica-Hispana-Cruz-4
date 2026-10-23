@@ -13,18 +13,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 26 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
 <!-- /tandas:auto -->
 
-## Tanda 27 📨 ENVIADA 22/10/2026
+## Tanda 27 ✅ PEDIDA 22/10/2026
 
-- [ ] https://www.clinicahispanacruz4.com/en/services/examen-alcohol-drogas  — cambiada 2026-09-30 · rastreada 2026-07-31 · indexada · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/en/services/examen-heces  — cambiada 2026-09-30 · rastreada 2026-06-22 · indexada · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/en/services/examenes-sangre  — cambiada 2026-09-30 · desconocida · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/en/services/prueba-embarazo  — cambiada 2026-09-30 · desconocida · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/en/services/prueba-strep  — cambiada 2026-09-30 · desconocida · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/en/services/salud-hombre  — cambiada 2026-09-30 · desconocida · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/en/services/sueros-vitaminados  — cambiada 2026-09-30 · desconocida · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/en/services/suturas-heridas  — cambiada 2026-09-30 · desconocida · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/en/services/ultrasonido  — cambiada 2026-09-30 · desconocida · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/en/services/unas-encarnadas  — cambiada 2026-09-30 · descubierta sin indexar · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/en/services/examen-alcohol-drogas  — cambiada 2026-09-30 · rastreada 2026-07-31 · indexada · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/en/services/examen-heces  — cambiada 2026-09-30 · rastreada 2026-06-22 · indexada · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/en/services/examenes-sangre  — cambiada 2026-09-30 · desconocida · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/en/services/prueba-embarazo  — cambiada 2026-09-30 · desconocida · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/en/services/prueba-strep  — cambiada 2026-09-30 · desconocida · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/en/services/salud-hombre  — cambiada 2026-09-30 · desconocida · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/en/services/sueros-vitaminados  — cambiada 2026-09-30 · desconocida · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/en/services/suturas-heridas  — cambiada 2026-09-30 · desconocida · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/en/services/ultrasonido  — cambiada 2026-09-30 · desconocida · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/en/services/unas-encarnadas  — cambiada 2026-09-30 · descubierta sin indexar · 0 impr.
 
 ## Notas anteriores (texto previo del archivo, sin actualizar)
 
