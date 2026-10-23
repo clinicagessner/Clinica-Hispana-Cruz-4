@@ -100,7 +100,7 @@ None of these signs automatically means something serious — but every one of t
 
 ## Care in Spanish, without barriers
 
-We know why many men put off their checkup: work never lets up, they don't have insurance, or it's simply uncomfortable to discuss health in a language that isn't their own. At our clinic the entire team cares for you **100% in Spanish**, walk-in, with no insurance required and complete confidentiality. You come in, get seen, and leave with your results clearly explained.
+We know why many men put off their checkup: work never lets up, they don't have insurance, or it's simply uncomfortable to discuss health in a language that isn't their own. At our clinic the entire team cares for you **100% in Spanish**, walk-in, with no insurance required and complete confidentiality. You come in, get seen, and once your results are ready we explain them clearly.
 
 ## Practical tips for taking care of your health
 

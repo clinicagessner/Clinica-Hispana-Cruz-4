@@ -100,7 +100,7 @@ Ninguna de estas señales significa automáticamente algo grave — pero todas m
 
 ## Atención en español, sin barreras
 
-Sabemos por qué muchos hombres posponen el chequeo: el trabajo no da tregua, no tienen seguro, o simplemente incomoda hablar de salud en un idioma ajeno. En nuestra clínica todo el equipo le atiende **100% en español**, sin cita previa, sin necesidad de seguro médico y con total confidencialidad. Llega, se atiende y sale con sus resultados explicados con claridad.
+Sabemos por qué muchos hombres posponen el chequeo: el trabajo no da tregua, no tienen seguro, o simplemente incomoda hablar de salud en un idioma ajeno. En nuestra clínica todo el equipo le atiende **100% en español**, sin cita previa, sin necesidad de seguro médico y con total confidencialidad. Llega, se atiende y, cuando sus resultados están listos, se los explicamos con claridad.
 
 ## Consejos prácticos para cuidar su salud
 
