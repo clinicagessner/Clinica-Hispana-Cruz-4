@@ -13,12 +13,12 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 20 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
 <!-- /tandas:auto -->
 
-## Tanda 28 — cambios del 2026-10-23 (sin plazo de resultados de laboratorio (análisis diario)) 📨 ENVIADA 23/10/2026
+## Tanda 28 — cambios del 2026-10-23 (sin plazo de resultados de laboratorio (análisis diario)) ✅ PEDIDA 24/10/2026
 
-- [ ] https://www.clinicahispanacruz4.com/walk-in  — cambiada 2026-10-23
-- [ ] https://www.clinicahispanacruz4.com/en/walk-in  — cambiada 2026-10-23
-- [ ] https://www.clinicahispanacruz4.com/blog/chequeos-preventivos-hombres-houston  — cambiada 2026-10-23
-- [ ] https://www.clinicahispanacruz4.com/en/blog/chequeos-preventivos-hombres-houston  — cambiada 2026-10-23
+- [x] https://www.clinicahispanacruz4.com/walk-in  — cambiada 2026-10-23
+- [x] https://www.clinicahispanacruz4.com/en/walk-in  — cambiada 2026-10-23
+- [x] https://www.clinicahispanacruz4.com/blog/chequeos-preventivos-hombres-houston  — cambiada 2026-10-23
+- [x] https://www.clinicahispanacruz4.com/en/blog/chequeos-preventivos-hombres-houston  — cambiada 2026-10-23
 
 ## Tanda 29 — cambios del 2026-10-23 (regla Ads = referencia (urología/ginecología))
 
