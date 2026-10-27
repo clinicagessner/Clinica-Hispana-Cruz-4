@@ -6,21 +6,21 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispanacruz4.com/` (prefijo de URL), cuenta **clinicahispanacruz4@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-26; URL Inspection API, datos de hoy 2026-10-26):** 74 de 98 URLs del sitemap indexadas · 24 sin indexar (12 descubierta sin indexar · 10 desconocida · 2 rastreada sin indexar).
+**Estado (actualizado 2026-10-27; URL Inspection API, datos ANTIGUOS del 2026-10-26: antiguos (2026-10-26): --sin-fetch):** 74 de 98 URLs del sitemap indexadas · 24 sin indexar (12 descubierta sin indexar · 10 desconocida · 2 rastreada sin indexar).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 2 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 1 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 0 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 6 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-22 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-27).
+18 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-30).
 <!-- /tandas:auto -->
 
-## Tanda 31 — cambios del 2026-10-23 (tanda del día: páginas cambiadas y aún no pedidas) ✅ PEDIDA 26/10/2026
-
-- [x] https://www.clinicahispanacruz4.com/en/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-10-23 · rastreada 2026-10-20 · indexada · pedida 2026-10-20 · 38 impr.
-- [x] https://www.clinicahispanacruz4.com/en/services/prueba-embarazo  — cambiada 2026-10-23 · descubierta sin indexar · pedida 2026-10-22 · 0 impr.
-
-## Tanda 30
+## Tanda 32
 
 - [ ] https://www.clinicahispanacruz4.com/services/anticonceptivos  — cambiada 2026-09-30 · desconocida · pedida 2026-10-11 · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/services/curacion-heridas  — cambiada 2026-09-30 · desconocida · pedida 2026-10-13 · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/services/electrocardiograma  — cambiada 2026-09-30 · desconocida · pedida 2026-10-13 · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/services/enfermedades-respiratorias  — cambiada 2026-09-30 · descubierta sin indexar · pedida 2026-10-13 · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/services/examen-dot  — cambiada 2026-09-30 · desconocida · pedida 2026-10-13 · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/services/examenes-inmigracion  — cambiada 2026-09-30 · descubierta sin indexar · pedida 2026-10-13 · 0 impr.
 
 ## Notas anteriores (texto previo del archivo, sin actualizar)
 
@@ -182,3 +182,8 @@ Sitemap `sitemap.xml` enviado por última vez el 2026-06-21 (0 errores). Detalle
 - [x] https://www.clinicahispanacruz4.com/en/services/salud-hombre  — cambiada 2026-10-23
 - [x] https://www.clinicahispanacruz4.com/en/services/ginecologia  — cambiada 2026-10-23
 - [x] https://www.clinicahispanacruz4.com/en/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-23
+
+## Tanda 31 — cambios del 2026-10-23 (tanda del día: páginas cambiadas y aún no pedidas) ✅ PEDIDA 26/10/2026
+
+- [x] https://www.clinicahispanacruz4.com/en/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-10-23 · rastreada 2026-10-20 · indexada · pedida 2026-10-20 · 38 impr.
+- [x] https://www.clinicahispanacruz4.com/en/services/prueba-embarazo  — cambiada 2026-10-23 · descubierta sin indexar · pedida 2026-10-22 · 0 impr.
