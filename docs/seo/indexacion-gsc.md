@@ -6,14 +6,19 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispanacruz4.com/` (prefijo de URL), cuenta **clinicahispanacruz4@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-27; URL Inspection API, datos ANTIGUOS del 2026-10-26: antiguos (2026-10-26): --sin-fetch):** 74 de 98 URLs del sitemap indexadas · 24 sin indexar (12 descubierta sin indexar · 10 desconocida · 2 rastreada sin indexar).
+**Estado (actualizado 2026-10-27; URL Inspection API, datos ANTIGUOS del 2026-10-26: antiguos (2026-10-26): --sin-fetch):** 74 de 100 URLs del sitemap indexadas · 26 sin indexar (12 descubierta sin indexar · 10 desconocida · 2 rastreada sin indexar · 2 sin datos).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 0 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 6 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 18 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-30).
 <!-- /tandas:auto -->
 
-## Tanda 32
+## Tanda 33 — cambios del 2026-10-27 (post del blog semanal)  📨 ENVIADA 27/10/2026
+
+- [ ] https://www.clinicahispanacruz4.com/blog/sal-comida-de-casa-bajar-la-presion  — cambiada 2026-10-27
+- [ ] https://www.clinicahispanacruz4.com/en/blog/sal-comida-de-casa-bajar-la-presion  — cambiada 2026-10-27
+
+## Tanda 34
 
 - [ ] https://www.clinicahispanacruz4.com/services/anticonceptivos  — cambiada 2026-09-30 · desconocida · pedida 2026-10-11 · 0 impr.
 - [ ] https://www.clinicahispanacruz4.com/services/curacion-heridas  — cambiada 2026-09-30 · desconocida · pedida 2026-10-13 · 0 impr.
