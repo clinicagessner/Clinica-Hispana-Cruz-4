@@ -13,10 +13,10 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 22 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-27).
 <!-- /tandas:auto -->
 
-## Tanda 31 — cambios del 2026-10-23 (tanda del día: páginas cambiadas y aún no pedidas) 📨 ENVIADA 26/10/2026
+## Tanda 31 — cambios del 2026-10-23 (tanda del día: páginas cambiadas y aún no pedidas) ✅ PEDIDA 26/10/2026
 
-- [ ] https://www.clinicahispanacruz4.com/en/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-10-23 · rastreada 2026-10-20 · indexada · pedida 2026-10-20 · 38 impr.
-- [ ] https://www.clinicahispanacruz4.com/en/services/prueba-embarazo  — cambiada 2026-10-23 · descubierta sin indexar · pedida 2026-10-22 · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/en/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-10-23 · rastreada 2026-10-20 · indexada · pedida 2026-10-20 · 38 impr.
+- [x] https://www.clinicahispanacruz4.com/en/services/prueba-embarazo  — cambiada 2026-10-23 · descubierta sin indexar · pedida 2026-10-22 · 0 impr.
 
 ## Tanda 30
 
