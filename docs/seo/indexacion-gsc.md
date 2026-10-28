@@ -13,10 +13,10 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 18 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-30).
 <!-- /tandas:auto -->
 
-## Tanda 33 — cambios del 2026-10-27 (post del blog semanal)  📨 ENVIADA 27/10/2026
+## Tanda 33 — cambios del 2026-10-27 (post del blog semanal)  ✅ PEDIDA 28/10/2026
 
-- [ ] https://www.clinicahispanacruz4.com/blog/sal-comida-de-casa-bajar-la-presion  — cambiada 2026-10-27
-- [ ] https://www.clinicahispanacruz4.com/en/blog/sal-comida-de-casa-bajar-la-presion  — cambiada 2026-10-27
+- [x] https://www.clinicahispanacruz4.com/blog/sal-comida-de-casa-bajar-la-presion  — cambiada 2026-10-27
+- [x] https://www.clinicahispanacruz4.com/en/blog/sal-comida-de-casa-bajar-la-presion  — cambiada 2026-10-27
 
 ## Tanda 34
 
