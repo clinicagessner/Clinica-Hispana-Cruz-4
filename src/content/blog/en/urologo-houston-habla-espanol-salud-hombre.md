@@ -1,9 +1,9 @@
 ---
 slug: "urologo-houston-habla-espanol-salud-hombre"
-title: "Spanish-Speaking Urologist in Houston: Men's Health"
-description: "When to see a urologist in Houston, signs of prostate problems, PSA and testosterone testing. Men's health care in Spanish, walk-in, no insurance needed."
+title: "Urology and Men's Health in Houston"
+description: "Urology and men's health in Houston: prostate concerns, PSA and urinary symptoms. Learn about care in Spanish, walk-in and without insurance at Cruz 4."
 date: "2026-06-15"
-dateModified: "2026-10-23"
+dateModified: "2026-11-02"
 author: "Clínica Hispana Cruz 4"
 image: "/images/services/salud-hombre.webp"
 featured: false
@@ -18,7 +18,7 @@ keywords:
   - "male urinary problems Houston"
 ---
 
-# Spanish-Speaking Urologist in Houston: Men's Health
+# Urology and Men's Health in Houston
 
 Many Hispanic men in Houston put off their health for years. Sometimes it's a lack of time, sometimes it's not having insurance, and very often it's simply hard to talk about private matters in a language that isn't your own. The result is the same: problems that could have been solved early end up getting worse.
 

@@ -3,7 +3,7 @@ slug: "chequeos-preventivos-hombres-houston"
 title: "Preventive Health Checkups for Men in Houston: Age Guide"
 description: "Which screenings men need at every age: blood pressure, glucose, cholesterol and more. Preventive checkups in Spanish in Houston, walk-in, no insurance."
 date: "2026-07-19"
-dateModified: "2026-09-30"
+dateModified: "2026-11-02"
 author: "Clínica Hispana Cruz 4"
 image: "/images/services/salud-hombre.webp"
 featured: false
@@ -55,7 +55,7 @@ The [electrocardiogram](/en/services/electrocardiograma) checks your heart's rhy
 
 ### Prostate health and hormones
 
-When age or symptoms call for it, we add PSA and testosterone to your lab work. If you want to go deeper on this topic, we wrote a full guide: [Spanish-speaking urologist in Houston: men's health](/en/blog/urologo-houston-habla-espanol-salud-hombre).
+When age or symptoms call for it, we add PSA and testosterone to your lab work. If you want to go deeper on this topic, we wrote a full guide: [Urology and Men's Health in Houston](/en/blog/urologo-houston-habla-espanol-salud-hombre).
 
 ## Conditions a checkup catches early
 

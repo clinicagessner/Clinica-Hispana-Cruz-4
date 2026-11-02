@@ -3,7 +3,7 @@ slug: "chequeos-preventivos-hombres-houston"
 title: "Chequeos Preventivos para Hombres en Houston: Guía por Edad"
 description: "Qué exámenes debe hacerse un hombre según su edad: presión, glucosa, colesterol y más. Chequeo preventivo en español en Houston, sin cita y sin seguro."
 date: "2026-07-19"
-dateModified: "2026-09-30"
+dateModified: "2026-11-02"
 author: "Clínica Hispana Cruz 4"
 image: "/images/services/salud-hombre.webp"
 featured: false
@@ -55,7 +55,7 @@ El [electrocardiograma](/services/electrocardiograma) evalúa el ritmo y la acti
 
 ### Salud de la próstata y hormonas
 
-Cuando corresponde por edad o síntomas, agregamos PSA y testosterona al análisis. Si quiere profundizar en este tema, le preparamos una guía completa: [Urólogo en Houston que habla español: salud del hombre](/blog/urologo-houston-habla-espanol-salud-hombre).
+Cuando corresponde por edad o síntomas, agregamos PSA y testosterona al análisis. Si quiere profundizar en este tema, le preparamos una guía completa: [Urología y salud del hombre en Houston](/blog/urologo-houston-habla-espanol-salud-hombre).
 
 ## Condiciones que un chequeo detecta a tiempo
 
