@@ -6,11 +6,11 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispanacruz4.com/` (prefijo de URL), cuenta **clinicahispanacruz4@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-02; URL Inspection API, datos ANTIGUOS del 2026-10-26: antiguos (2026-10-26): --sin-fetch):** 74 de 100 URLs del sitemap indexadas · 26 sin indexar (12 descubierta sin indexar · 10 desconocida · 2 rastreada sin indexar · 2 sin datos).
+**Estado (actualizado 2026-11-02; URL Inspection API, datos de hoy 2026-11-02):** 68 de 100 URLs del sitemap indexadas · 32 sin indexar (13 desconocida · 10 descubierta sin indexar · 9 rastreada sin indexar).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 0 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 11 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 0 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 13 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-15 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-04).
+17 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-03).
 <!-- /tandas:auto -->
 
 ## Tanda 35 — cambios del 2026-11-02 (cumplimiento: urología como servicio, sin anunciar especialista) 📨 ENVIADA 02/11/2026
@@ -23,23 +23,27 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanacruz4.com/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-11-02
 - [ ] https://www.clinicahispanacruz4.com/en/blog  — cambiada 2026-11-02
 - [ ] https://www.clinicahispanacruz4.com/en/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-11-02
+- [ ] https://www.clinicahispanacruz4.com/services/examenes-sangre  — cambiada 2026-09-30 · rastreada 2026-06-21 · rastreada sin indexar · pedida 2026-10-11 · 8 impr.
+- [ ] https://www.clinicahispanacruz4.com/services/enfermedades-transmision-sexual  — cambiada 2026-09-30 · rastreada 2026-06-21 · rastreada sin indexar · pedida 2026-10-13 · 5 impr.
 
 ## Tanda 36
 
+- [ ] https://www.clinicahispanacruz4.com/services/drenaje-abscesos  — cambiada 2026-09-30 · desconocida · pedida 2026-10-13 · 2 impr.
+- [ ] https://www.clinicahispanacruz4.com/services/cirugias-menores  — cambiada 2026-09-30 · rastreada 2026-06-21 · rastreada sin indexar · pedida 2026-10-13 · 1 impr.
 - [ ] https://www.clinicahispanacruz4.com/services/anticonceptivos  — cambiada 2026-09-30 · desconocida · pedida 2026-10-11 · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/services/curacion-heridas  — cambiada 2026-09-30 · desconocida · pedida 2026-10-13 · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/services/electrocardiograma  — cambiada 2026-09-30 · desconocida · pedida 2026-10-13 · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/services/enfermedades-respiratorias  — cambiada 2026-09-30 · descubierta sin indexar · pedida 2026-10-13 · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/services/curacion-heridas  — cambiada 2026-09-30 · descubierta sin indexar · pedida 2026-10-13 · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/services/electrocardiograma  — cambiada 2026-09-30 · descubierta sin indexar · pedida 2026-10-13 · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/services/enfermedades-respiratorias  — cambiada 2026-09-30 · desconocida · pedida 2026-10-13 · 0 impr.
 - [ ] https://www.clinicahispanacruz4.com/services/examen-dot  — cambiada 2026-09-30 · desconocida · pedida 2026-10-13 · 0 impr.
 - [ ] https://www.clinicahispanacruz4.com/services/examenes-inmigracion  — cambiada 2026-09-30 · descubierta sin indexar · pedida 2026-10-13 · 0 impr.
 - [ ] https://www.clinicahispanacruz4.com/services/farmacia  — cambiada 2026-10-15 · descubierta sin indexar · pedida 2026-10-16 · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/services/infecciones-urinarias  — cambiada 2026-10-15 · desconocida · pedida 2026-10-18 · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/services/sueros-vitaminados  — cambiada 2026-09-30 · descubierta sin indexar · pedida 2026-10-18 · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/services/vacunas  — cambiada 2026-09-30 · desconocida · pedida 2026-10-18 · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/services/infecciones-urinarias  — cambiada 2026-10-15 · descubierta sin indexar · pedida 2026-10-18 · 0 impr.
 
 ## Tanda 37
 
-- [ ] https://www.clinicahispanacruz4.com/en/services  — cambiada 2026-09-30 · rastreada 2026-09-27 · rastreada sin indexar · pedida 2026-10-19 · 21 impr.
+- [ ] https://www.clinicahispanacruz4.com/services/sueros-vitaminados  — cambiada 2026-09-30 · desconocida · pedida 2026-10-18 · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/services/vacunas  — cambiada 2026-09-30 · descubierta sin indexar · pedida 2026-10-18 · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/en/services  — cambiada 2026-09-30 · rastreada 2026-09-27 · rastreada sin indexar · pedida 2026-10-19 · 20 impr.
 
 ## Notas anteriores (texto previo del archivo, sin actualizar)
 
