@@ -13,18 +13,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 17 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-03).
 <!-- /tandas:auto -->
 
-## Tanda 35 — cambios del 2026-11-02 (cumplimiento: urología como servicio, sin anunciar especialista) 📨 ENVIADA 02/11/2026
+## Tanda 35 — cambios del 2026-11-02 (cumplimiento: urología como servicio, sin anunciar especialista)  ✅ PEDIDA 02/11/2026
 
-- [ ] https://www.clinicahispanacruz4.com/blog/urologo-houston-habla-espanol-salud-hombre  — cambiada 2026-11-02
-- [ ] https://www.clinicahispanacruz4.com/en/blog/urologo-houston-habla-espanol-salud-hombre  — cambiada 2026-11-02
-- [ ] https://www.clinicahispanacruz4.com/blog/chequeos-preventivos-hombres-houston  — cambiada 2026-11-02
-- [ ] https://www.clinicahispanacruz4.com/en/blog/chequeos-preventivos-hombres-houston  — cambiada 2026-11-02
-- [ ] https://www.clinicahispanacruz4.com/blog  — cambiada 2026-11-02
-- [ ] https://www.clinicahispanacruz4.com/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-11-02
-- [ ] https://www.clinicahispanacruz4.com/en/blog  — cambiada 2026-11-02
-- [ ] https://www.clinicahispanacruz4.com/en/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-11-02
-- [ ] https://www.clinicahispanacruz4.com/services/examenes-sangre  — cambiada 2026-09-30 · rastreada 2026-06-21 · rastreada sin indexar · pedida 2026-10-11 · 8 impr.
-- [ ] https://www.clinicahispanacruz4.com/services/enfermedades-transmision-sexual  — cambiada 2026-09-30 · rastreada 2026-06-21 · rastreada sin indexar · pedida 2026-10-13 · 5 impr.
+- [x] https://www.clinicahispanacruz4.com/blog/urologo-houston-habla-espanol-salud-hombre  — cambiada 2026-11-02
+- [x] https://www.clinicahispanacruz4.com/en/blog/urologo-houston-habla-espanol-salud-hombre  — cambiada 2026-11-02
+- [x] https://www.clinicahispanacruz4.com/blog/chequeos-preventivos-hombres-houston  — cambiada 2026-11-02
+- [x] https://www.clinicahispanacruz4.com/en/blog/chequeos-preventivos-hombres-houston  — cambiada 2026-11-02
+- [x] https://www.clinicahispanacruz4.com/blog  — cambiada 2026-11-02
+- [x] https://www.clinicahispanacruz4.com/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-11-02
+- [x] https://www.clinicahispanacruz4.com/en/blog  — cambiada 2026-11-02
+- [x] https://www.clinicahispanacruz4.com/en/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-11-02
+- [x] https://www.clinicahispanacruz4.com/services/examenes-sangre  — cambiada 2026-09-30 · rastreada 2026-06-21 · rastreada sin indexar · pedida 2026-10-11 · 8 impr.
+- [x] https://www.clinicahispanacruz4.com/services/enfermedades-transmision-sexual  — cambiada 2026-09-30 · rastreada 2026-06-21 · rastreada sin indexar · pedida 2026-10-13 · 5 impr.
 
 ## Tanda 36
 
