@@ -5,7 +5,7 @@
 // en SERVICE_DATES con su propia fecha.
 export const SERVICES_LAST_REVIEWED = "2026-08-25";
 export const SERVICE_DATES: Record<string, string> = {
-  "sueros-vitaminados": "2026-09-30", // B3: texto propio
+  "sueros-vitaminados": "2026-11-02", // suero solo de vitamina B12 (orden de red)
   "unas-encarnadas": "2026-09-30", // B3: texto propio
   "drenaje-abscesos": "2026-09-30", // B3: texto propio
   "cirugias-menores": "2026-09-30", // B3: texto propio

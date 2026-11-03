@@ -677,7 +677,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "¿Cuánto tarda la aplicación?",
-        "answer": "Depende del tipo de suero y del volumen. Se lo indicamos antes de empezar para que organice su tiempo."
+        "answer": "Depende del volumen del suero. Se lo indicamos antes de empezar para que organice su tiempo."
       },
       {
         "question": "Me siento cansado siempre, ¿un suero lo resuelve?",
@@ -691,7 +691,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "How long does the infusion take?",
-        "answer": "It depends on the type and volume. We tell you before starting so you can plan your time."
+        "answer": "It depends on the volume of the drip. We tell you before starting so you can plan your time."
       },
       {
         "question": "I'm always tired. Will an IV fix it?",
