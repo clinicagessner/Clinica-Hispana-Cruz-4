@@ -688,6 +688,10 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   "sueros-vitaminados": {
     "faqs": [
       {
+        "question": "¿Cuánto cuestan los sueros vitaminados?",
+        "answer": "Tenemos la promoción de sueros vitaminados con 50% off: $149. También está la promoción Solo Vitaminas por $99, que incluye consulta médica general, examen de orina (EGO) y vitaminas B12, C, D y B6."
+      },
+      {
         "question": "¿Cualquier persona puede recibir un suero?",
         "answer": "No. Si tiene enfermedad del riñón o del corazón, presión alta sin control, embarazo o alergias, el personal médico puede desaconsejarlo. Por eso siempre hay una evaluación antes."
       },
@@ -701,6 +705,10 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       }
     ],
     "faqsEn": [
+      {
+        "question": "How much do the vitamin IV drips cost?",
+        "answer": "Our vitamin IV drip special is 50% off: $149. There's also the Solo Vitaminas (Vitamins Only) special for $99, which includes a general medical visit, a urine test (urinalysis) and vitamins B12, C, D and B6."
+      },
       {
         "question": "Can anyone get an IV?",
         "answer": "No. With kidney or heart disease, uncontrolled high blood pressure, pregnancy or allergies, the medical staff may advise against it. That's why there's always an evaluation first."

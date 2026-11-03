@@ -952,13 +952,13 @@ export const SERVICES: Service[] = [
   {
     "id": "sueros-vitaminados",
     "slug": "sueros-vitaminados",
-    "title": "Sueros Vitaminados (Terapia IV)",
-    "titleEn": "Vitamin IV Therapy",
+    "title": "Sueros Vitaminados con B12: Más Energía, 50% Off",
+    "titleEn": "Vitamin IV Drips with B12: More Energy, 50% Off",
     "shortTitle": "Sueros Vitaminados",
-    "description": "Sueros vitaminados (terapia IV) en Houston, TX: suero de vitamina B12 por vía intravenosa, en español y con precios accesibles.",
-    "descriptionEn": "Vitamin IV therapy in Houston, TX: a vitamin B12 IV drip, in Spanish and with affordable pricing.",
-    "longDescription": "Nuestro suero vitaminado es un suero de vitamina B12 que se aplica directamente en la vena. En Clínica Hispana Cruz 4 lo aplica personal médico después de una evaluación, en un espacio cómodo y con la explicación en español. Antes de ponerle uno queremos que sepa qué esperar y en qué casos no conviene.\n\n**Primero, la evaluación**\nAntes de cualquier suero le preguntamos por su salud y tomamos sus signos vitales: presión, pulso y temperatura. Díganos si tiene:\n- Enfermedad de los riñones o del corazón, porque el líquido extra puede sobrecargarlos\n- Presión alta mal controlada\n- Embarazo o lactancia\n- Alergias a medicamentos o reacciones previas a un suero\n- Medicamentos que toma de forma diaria\nCon esa información el personal médico decide si el suero de vitamina B12 es adecuado para usted. En algunos casos la respuesta es no, y se lo explicamos con claridad.\n\n**Cómo es la aplicación**\nSe coloca un catéter delgado en una vena del brazo o la mano, lo que se siente como un piquete. Luego usted se queda sentado mientras el suero pasa a un ritmo controlado. El tiempo depende del volumen; se lo indicamos antes de empezar. El personal revisa cómo se siente durante la aplicación.\n\n**Expectativas realistas**\nPiénselo como un complemento: comer bien, dormir lo suficiente y tratar cualquier enfermedad siguen siendo lo primero. Si el cansancio es constante, lo más útil es buscar la causa: anemia, tiroides, azúcar, falta de sueño. Podemos revisarlo en consulta con análisis de laboratorio, con resultados rápidos.\n\n**Después del suero**\nEs normal un pequeño moretón o sensibilidad donde estuvo la aguja. Avísenos si nota hinchazón, enrojecimiento que crece o dolor en el brazo, o si siente falta de aire, mareo o palpitaciones durante o después de la aplicación.\n\n**Cuándo no es el lugar indicado**\nUna deshidratación con confusión, desmayo, vómito que no para o sangre en las heces necesita atención de urgencias, no un suero en consulta.",
-    "longDescriptionEn": "Our vitamin IV is a vitamin B12 drip given straight into a vein. At Clínica Hispana Cruz 4 it's given by medical staff after an evaluation, in a comfortable space, with everything explained in Spanish. Before giving you one, we want you to know what to expect and when it isn't a good idea.\n\n**First, the evaluation**\nBefore any IV we ask about your health and take your vital signs: blood pressure, pulse and temperature. Tell us if you have:\n- Kidney or heart disease, since extra fluid can overload them\n- Poorly controlled high blood pressure\n- Pregnancy or breastfeeding\n- Medication allergies or a past reaction to an IV\n- Medications you take daily\nWith that information the medical staff decides whether the vitamin B12 IV is right for you. Sometimes the answer is no, and we explain why clearly.\n\n**How it's given**\nA thin catheter goes into a vein in the arm or hand, which feels like a pinch. Then you sit while the fluid flows at a controlled rate. The time depends on the volume; we tell you before starting. Staff check on how you feel throughout.\n\n**Realistic expectations**\nThink of it as a complement: good meals, enough sleep and proper treatment of any illness still come first. If fatigue is constant, the most useful step is finding the cause: anemia, thyroid, blood sugar, lack of sleep. We can look into it at a visit with lab work, with fast results.\n\n**After the IV**\nA small bruise or tenderness where the needle was is normal. Tell us if you notice swelling, spreading redness or pain in the arm, or if you feel short of breath, dizzy or have palpitations during or after the infusion.\n\n**When this isn't the right place**\nDehydration with confusion, fainting, vomiting that won't stop or blood in the stool needs emergency care, not an IV at a clinic visit.",
+    "description": "Sueros vitaminados con vitamina B12 en Houston, TX, para más energía. Promoción: 50% off, $149. Aplicados por personal médico y en español.",
+    "descriptionEn": "Vitamin IV drips with vitamin B12 in Houston, TX, for more energy. Special: 50% off, $149. Given by medical staff, with care in Spanish.",
+    "longDescription": "Nuestros sueros vitaminados llevan vitaminas directamente a la vena; la vitamina del suero es la B12, para que se sienta con más energía. En Clínica Hispana Cruz 4 los aplica personal médico después de una evaluación, en un espacio cómodo y con la explicación en español. Antes de ponerle uno queremos que sepa qué esperar y en qué casos no conviene.\n\n**Promociones**\n- Sueros vitaminados: 50% off, $149.\n- Promoción Solo Vitaminas, todo por solo $99: incluye consulta médica general (evaluación completa de su salud), examen de orina (EGO) y vitaminas B12, C, D y B6, para su bienestar y energía.\n\n**Primero, la evaluación**\nAntes de cualquier suero le preguntamos por su salud y tomamos sus signos vitales: presión, pulso y temperatura. Díganos si tiene:\n- Enfermedad de los riñones o del corazón, porque el líquido extra puede sobrecargarlos\n- Presión alta mal controlada\n- Embarazo o lactancia\n- Alergias a medicamentos o reacciones previas a un suero\n- Medicamentos que toma de forma diaria\nCon esa información el personal médico decide si el suero vitaminado con B12 es adecuado para usted. En algunos casos la respuesta es no, y se lo explicamos con claridad.\n\n**Cómo es la aplicación**\nSe coloca un catéter delgado en una vena del brazo o la mano, lo que se siente como un piquete. Luego usted se queda sentado mientras el suero pasa a un ritmo controlado. El tiempo depende del volumen; se lo indicamos antes de empezar. El personal revisa cómo se siente durante la aplicación.\n\n**Expectativas realistas**\nPiénselo como un complemento: comer bien, dormir lo suficiente y tratar cualquier enfermedad siguen siendo lo primero. Si el cansancio es constante, lo más útil es buscar la causa: anemia, tiroides, azúcar, falta de sueño. Podemos revisarlo en consulta con análisis de laboratorio, con resultados rápidos.\n\n**Después del suero**\nEs normal un pequeño moretón o sensibilidad donde estuvo la aguja. Avísenos si nota hinchazón, enrojecimiento que crece o dolor en el brazo, o si siente falta de aire, mareo o palpitaciones durante o después de la aplicación.\n\n**Cuándo no es el lugar indicado**\nUna deshidratación con confusión, desmayo, vómito que no para o sangre en las heces necesita atención de urgencias, no un suero en consulta.",
+    "longDescriptionEn": "Our vitamin IV drips deliver vitamins straight into a vein; the vitamin in the drip is B12, to help you feel more energy. At Clínica Hispana Cruz 4 they're given by medical staff after an evaluation, in a comfortable space, with everything explained in Spanish. Before giving you one, we want you to know what to expect and when it isn't a good idea.\n\n**Specials**\n- Vitamin IV drips: 50% off, $149.\n- Solo Vitaminas (Vitamins Only) special, all for just $99: includes a general medical visit (a complete check of your health), a urine test (urinalysis) and vitamins B12, C, D and B6, for your well-being and energy.\n\n**First, the evaluation**\nBefore any IV we ask about your health and take your vital signs: blood pressure, pulse and temperature. Tell us if you have:\n- Kidney or heart disease, since extra fluid can overload them\n- Poorly controlled high blood pressure\n- Pregnancy or breastfeeding\n- Medication allergies or a past reaction to an IV\n- Medications you take daily\nWith that information the medical staff decides whether the B12 vitamin IV is right for you. Sometimes the answer is no, and we explain why clearly.\n\n**How it's given**\nA thin catheter goes into a vein in the arm or hand, which feels like a pinch. Then you sit while the fluid flows at a controlled rate. The time depends on the volume; we tell you before starting. Staff check on how you feel throughout.\n\n**Realistic expectations**\nThink of it as a complement: good meals, enough sleep and proper treatment of any illness still come first. If fatigue is constant, the most useful step is finding the cause: anemia, thyroid, blood sugar, lack of sleep. We can look into it at a visit with lab work, with fast results.\n\n**After the IV**\nA small bruise or tenderness where the needle was is normal. Tell us if you notice swelling, spreading redness or pain in the arm, or if you feel short of breath, dizzy or have palpitations during or after the infusion.\n\n**When this isn't the right place**\nDehydration with confusion, fainting, vomiting that won't stop or blood in the stool needs emergency care, not an IV at a clinic visit.",
     "icon": "Drop",
     "image": "/images/services/sueros-vitaminados.webp",
     "category": "tratamientos",
@@ -966,7 +966,8 @@ export const SERVICES: Service[] = [
       "sueros vitaminados houston",
       "terapia iv houston",
       "suero de vitaminas houston",
-      "suero de vitamina b12 houston"
+      "suero de vitamina b12 houston",
+      "sueros vitaminados 50% off"
     ],
     "keywordsEn": [
       "vitamin iv therapy houston",
@@ -975,16 +976,16 @@ export const SERVICES: Service[] = [
       "vitamin drip houston"
     ],
     "features": [
-      "Suero de vitamina B12",
-      "Evaluación médica previa",
-      "Aplicación por personal médico",
-      "Atención en español"
+      "Sueros vitaminados con vitamina B12",
+      "Más energía",
+      "Promoción 50% off: $149",
+      "Solo Vitaminas: $99 con consulta y examen de orina"
     ],
     "featuresEn": [
-      "Vitamin B12 IV drip",
-      "Medical evaluation first",
-      "Administered by medical staff",
-      "Care in Spanish"
+      "Vitamin IV drips with vitamin B12",
+      "More energy",
+      "Special: 50% off, $149",
+      "Solo Vitaminas: $99 with visit and urine test"
     ],
     "highlighted": false,
     "order": 23
