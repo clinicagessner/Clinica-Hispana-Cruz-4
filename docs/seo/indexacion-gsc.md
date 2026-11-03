@@ -8,7 +8,7 @@ Propiedad: `https://www.clinicahispanacruz4.com/` (prefijo de URL), cuenta **cli
 <!-- tandas:auto -->
 **Estado (actualizado 2026-11-03; URL Inspection API, datos ANTIGUOS del 2026-11-02: antiguos (2026-11-02): --sin-fetch):** 68 de 100 URLs del sitemap indexadas · 32 sin indexar (13 desconocida · 10 descubierta sin indexar · 9 rastreada sin indexar).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 0 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 14 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 0 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 13 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 15 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-04).
 <!-- /tandas:auto -->
@@ -22,7 +22,14 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanacruz4.com/services  — cambiada 2026-11-02
 - [ ] https://www.clinicahispanacruz4.com/en/services  — cambiada 2026-11-02
 
-## Tanda 39
+## Tanda 41 — cambios del 2026-11-02 (anuncios = referencia (barrido completo))
+
+- [ ] https://www.clinicahispanacruz4.com/services/ginecologia  — cambiada 2026-11-02
+- [ ] https://www.clinicahispanacruz4.com/en/services/ginecologia  — cambiada 2026-11-02
+- [ ] https://www.clinicahispanacruz4.com/services/condiciones-cronicas  — cambiada 2026-11-02
+- [ ] https://www.clinicahispanacruz4.com/en/services/condiciones-cronicas  — cambiada 2026-11-02
+
+## Tanda 42
 
 - [ ] https://www.clinicahispanacruz4.com/services/drenaje-abscesos  — cambiada 2026-09-30 · desconocida · pedida 2026-10-13 · 2 impr.
 - [ ] https://www.clinicahispanacruz4.com/services/cirugias-menores  — cambiada 2026-09-30 · rastreada 2026-06-21 · rastreada sin indexar · pedida 2026-10-13 · 1 impr.
@@ -35,10 +42,9 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanacruz4.com/services/farmacia  — cambiada 2026-10-15 · descubierta sin indexar · pedida 2026-10-16 · 0 impr.
 - [ ] https://www.clinicahispanacruz4.com/services/infecciones-urinarias  — cambiada 2026-10-15 · descubierta sin indexar · pedida 2026-10-18 · 0 impr.
 
-## Tanda 40
+## Tanda 43
 
 - [ ] https://www.clinicahispanacruz4.com/services/vacunas  — cambiada 2026-09-30 · descubierta sin indexar · pedida 2026-10-18 · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/en/services/condiciones-cronicas  — cambiada 2026-09-30 · rastreada 2026-06-21 · rastreada sin indexar · pedida 2026-10-20 · 2 impr.
 - [ ] https://www.clinicahispanacruz4.com/en/services/prueba-tuberculosis  — cambiada 2026-09-30 · rastreada 2026-06-21 · rastreada sin indexar · pedida 2026-10-20 · 2 impr.
 - [ ] https://www.clinicahispanacruz4.com/en/services/tiroides  — cambiada 2026-09-30 · rastreada 2026-06-22 · rastreada sin indexar · pedida 2026-10-20 · 1 impr.
 
