@@ -22,8 +22,8 @@ export const SERVICE_DATES: Record<string, string> = {
   "infecciones-urinarias": "2026-10-15", // receta electrónica (sin farmacia)
   "examenes-sangre": "2026-09-30", // B3: texto propio
   "ultrasonido": "2026-09-30", // B3: texto propio
-  "condiciones-cronicas": "2026-09-30", // B3: texto propio (Ads, aprobado)
-  "ginecologia": "2026-09-30", // B3: texto propio (Ads, aprobado)
+  "condiciones-cronicas": "2026-11-02", // B3: texto propio (Ads, aprobado); anuncios = referencia 2026-11-02
+  "ginecologia": "2026-11-02", // B3: texto propio (Ads, aprobado); anuncios = referencia 2026-11-02
   "electrocardiograma": "2026-09-30", // B3: texto propio
   "vacunas": "2026-09-30", // B3: texto propio
   "examen-alcohol-drogas": "2026-09-30", // B3: texto propio

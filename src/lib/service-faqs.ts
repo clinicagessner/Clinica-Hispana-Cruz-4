@@ -22,6 +22,10 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       {
         "question": "¿Tengo que venir en ayunas a mis análisis de control?",
         "answer": "Para la glucosa en ayunas y a veces los triglicéridos, sí: de 8 a 12 horas, solo agua. La A1C no requiere ayuno. Le decimos qué aplica en su caso al pedir los estudios."
+      },
+      {
+        "question": "¿Cómo revisan mi riesgo cardiovascular?",
+        "answer": "Con su presión, la glucosa, la A1C y el perfil de colesterol, que se toman en la clínica, y un electrocardiograma en la misma visita cuando hace falta. Con esos datos el médico le explica su riesgo cardiovascular y el plan para controlar la hipertensión, la diabetes o el colesterol alto, en una consulta privada y confidencial."
       }
     ],
     "faqsEn": [
@@ -36,6 +40,10 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       {
         "question": "Should I skip breakfast before my control labs?",
         "answer": "For fasting glucose and sometimes triglycerides, yes: 8 to 12 hours, water only. A1C doesn't require fasting. We tell you what applies when we order the tests."
+      },
+      {
+        "question": "How do you check my cardiovascular risk?",
+        "answer": "With your blood pressure, glucose, A1C and cholesterol panel, all drawn at the clinic, plus an EKG at the same visit when needed. With those results the doctor explains your cardiovascular risk and the plan to control hypertension, diabetes or high cholesterol, in a private, confidential visit."
       }
     ]
   },
@@ -172,6 +180,10 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       {
         "question": "¿También hacen pruebas de infecciones de transmisión sexual?",
         "answer": "Sí. Si tuvo una pareja nueva, nota llagas o flujo diferente, o simplemente quiere salir de dudas, las pruebas se piden en la misma consulta y los resultados se manejan con total confidencialidad."
+      },
+      {
+        "question": "¿La consulta de ginecología tiene costo?",
+        "answer": "La consulta inicial es gratis; los exámenes y el tratamiento se pagan aparte, y le decimos el precio antes de hacerlos. La consulta ginecológica, el Papanicolaou y el ultrasonido se hacen en la misma clínica, y la inyección anticonceptiva se aplica en el consultorio."
       }
     ],
     "faqsEn": [
@@ -186,6 +198,10 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       {
         "question": "Do you also test for sexually transmitted infections?",
         "answer": "Yes. If you have a new partner, notice sores or unusual discharge, or just want peace of mind, testing is ordered at the same visit and results are handled in full confidence."
+      },
+      {
+        "question": "Does the gynecology visit cost anything?",
+        "answer": "The initial consultation is free; tests and treatment are paid separately, and we tell you the price before doing them. The gynecology visit, the Pap smear and the ultrasound are all done at the same clinic, and the birth control shot is given in the exam room."
       }
     ]
   },
