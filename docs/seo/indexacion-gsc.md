@@ -31,6 +31,11 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanacruz4.com/services/condiciones-cronicas  — cambiada 2026-11-02
 - [ ] https://www.clinicahispanacruz4.com/en/services/condiciones-cronicas  — cambiada 2026-11-02
 
+## Tanda 45 — cambios del 2026-11-04 (sueros (anuncio y flyers))
+
+- [ ] https://www.clinicahispanacruz4.com/services/sueros-vitaminados  — cambiada 2026-11-04
+- [ ] https://www.clinicahispanacruz4.com/en/services/sueros-vitaminados  — cambiada 2026-11-04
+
 ## Tanda 42
 
 - [ ] https://www.clinicahispanacruz4.com/services/drenaje-abscesos  — cambiada 2026-09-30 · desconocida · pedida 2026-10-13 · 2 impr.
