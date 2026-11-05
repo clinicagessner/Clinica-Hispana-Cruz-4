@@ -13,18 +13,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 15 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-05).
 <!-- /tandas:auto -->
 
-## Tanda 44 — cambios del 2026-11-03 (pendientes para otro día: devueltas de la Tanda 38 o sin sitio por el post del blog semanal)  📨 ENVIADA 04/11/2026
+## Tanda 44 — cambios del 2026-11-03 (pendientes para otro día: devueltas de la Tanda 38 o sin sitio por el post del blog semanal)  📨 ENVIADA 04/11/2026  ✅ PEDIDA 05/11/2026
 
-- [ ] https://www.clinicahispanacruz4.com/services/condiciones-cronicas  — cambiada 2026-11-02
-- [ ] https://www.clinicahispanacruz4.com/en/services/condiciones-cronicas  — cambiada 2026-11-02
-- [ ] https://www.clinicahispanacruz4.com/services/sueros-vitaminados  — cambiada 2026-11-04
-- [ ] https://www.clinicahispanacruz4.com/en/services/sueros-vitaminados  — cambiada 2026-11-04
-- [ ] https://www.clinicahispanacruz4.com/services/drenaje-abscesos  — cambiada 2026-09-30 · desconocida · pedida 2026-10-13 · 2 impr.
-- [ ] https://www.clinicahispanacruz4.com/services/cirugias-menores  — cambiada 2026-09-30 · rastreada 2026-06-21 · rastreada sin indexar · pedida 2026-10-13 · 1 impr.
-- [ ] https://www.clinicahispanacruz4.com/services/anticonceptivos  — cambiada 2026-09-30 · desconocida · pedida 2026-10-11 · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/services/curacion-heridas  — cambiada 2026-09-30 · descubierta sin indexar · pedida 2026-10-13 · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/services/electrocardiograma  — cambiada 2026-09-30 · descubierta sin indexar · pedida 2026-10-13 · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/services/enfermedades-respiratorias  — cambiada 2026-09-30 · desconocida · pedida 2026-10-13 · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/services/condiciones-cronicas  — cambiada 2026-11-02
+- [x] https://www.clinicahispanacruz4.com/en/services/condiciones-cronicas  — cambiada 2026-11-02
+- [x] https://www.clinicahispanacruz4.com/services/sueros-vitaminados  — cambiada 2026-11-04
+- [x] https://www.clinicahispanacruz4.com/en/services/sueros-vitaminados  — cambiada 2026-11-04
+- [x] https://www.clinicahispanacruz4.com/services/drenaje-abscesos  — cambiada 2026-09-30 · desconocida · pedida 2026-10-13 · 2 impr.
+- [x] https://www.clinicahispanacruz4.com/services/cirugias-menores  — cambiada 2026-09-30 · rastreada 2026-06-21 · rastreada sin indexar · pedida 2026-10-13 · 1 impr.
+- [x] https://www.clinicahispanacruz4.com/services/anticonceptivos  — cambiada 2026-09-30 · desconocida · pedida 2026-10-11 · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/services/curacion-heridas  — cambiada 2026-09-30 · descubierta sin indexar · pedida 2026-10-13 · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/services/electrocardiograma  — cambiada 2026-09-30 · descubierta sin indexar · pedida 2026-10-13 · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/services/enfermedades-respiratorias  — cambiada 2026-09-30 · desconocida · pedida 2026-10-13 · 0 impr.
 
 ## Tanda 46
 
