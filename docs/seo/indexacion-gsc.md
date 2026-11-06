@@ -13,18 +13,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 18 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-08).
 <!-- /tandas:auto -->
 
-## Tanda 47 — cambios del 2026-11-06 (sin superlativos: nuestro equipo médico / precios accesibles (Randy))  📨 ENVIADA 06/11/2026
+## Tanda 47 — cambios del 2026-11-06 (sin superlativos: nuestro equipo médico / precios accesibles (Randy))  📨 ENVIADA 06/11/2026  ✅ PEDIDA 06/11/2026
 
-- [ ] https://www.clinicahispanacruz4.com/  — cambiada 2026-11-06
-- [ ] https://www.clinicahispanacruz4.com/en  — cambiada 2026-11-06
-- [ ] https://www.clinicahispanacruz4.com/services/ginecologia  — cambiada 2026-11-06
-- [ ] https://www.clinicahispanacruz4.com/en/services/ginecologia  — cambiada 2026-11-06
-- [ ] https://www.clinicahispanacruz4.com/services/examen-dot  — cambiada 2026-09-30 · desconocida · pedida 2026-10-13 · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/services/examenes-inmigracion  — cambiada 2026-09-30 · descubierta sin indexar · pedida 2026-10-13 · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/services/farmacia  — cambiada 2026-10-15 · descubierta sin indexar · pedida 2026-10-16 · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/services/infecciones-urinarias  — cambiada 2026-10-15 · descubierta sin indexar · pedida 2026-10-18 · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/services/vacunas  — cambiada 2026-09-30 · descubierta sin indexar · pedida 2026-10-18 · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/en/services/prueba-tuberculosis  — cambiada 2026-09-30 · rastreada 2026-06-21 · rastreada sin indexar · pedida 2026-10-20 · 2 impr.
+- [x] https://www.clinicahispanacruz4.com/  — cambiada 2026-11-06
+- [x] https://www.clinicahispanacruz4.com/en  — cambiada 2026-11-06
+- [x] https://www.clinicahispanacruz4.com/services/ginecologia  — cambiada 2026-11-06
+- [x] https://www.clinicahispanacruz4.com/en/services/ginecologia  — cambiada 2026-11-06
+- [x] https://www.clinicahispanacruz4.com/services/examen-dot  — cambiada 2026-09-30 · desconocida · pedida 2026-10-13 · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/services/examenes-inmigracion  — cambiada 2026-09-30 · descubierta sin indexar · pedida 2026-10-13 · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/services/farmacia  — cambiada 2026-10-15 · descubierta sin indexar · pedida 2026-10-16 · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/services/infecciones-urinarias  — cambiada 2026-10-15 · descubierta sin indexar · pedida 2026-10-18 · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/services/vacunas  — cambiada 2026-09-30 · descubierta sin indexar · pedida 2026-10-18 · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/en/services/prueba-tuberculosis  — cambiada 2026-09-30 · rastreada 2026-06-21 · rastreada sin indexar · pedida 2026-10-20 · 2 impr.
 
 ## Tanda 48
 
