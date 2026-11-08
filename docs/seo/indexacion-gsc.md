@@ -13,18 +13,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 24 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-08).
 <!-- /tandas:auto -->
 
-## Tanda 48  📨 ENVIADA 07/11/2026
+## Tanda 48  📨 ENVIADA 07/11/2026  ✅ PEDIDA 07/11/2026
 
-- [ ] https://www.clinicahispanacruz4.com/en/services/tiroides  — cambiada 2026-09-30 · rastreada 2026-06-22 · rastreada sin indexar · pedida 2026-10-20 · 1 impr.
-- [ ] https://www.clinicahispanacruz4.com/en/services/anticonceptivos  — cambiada 2026-09-30 · desconocida · pedida 2026-10-21 · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/en/services/drenaje-abscesos  — cambiada 2026-09-30 · rastreada 2026-07-19 · rastreada sin indexar · pedida 2026-10-21 · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-09-30 · desconocida · pedida 2026-10-21 · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/en/services/examen-heces  — cambiada 2026-09-30 · rastreada 2026-06-22 · rastreada sin indexar · pedida 2026-10-22 · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/en/services/examenes-sangre  — cambiada 2026-09-30 · desconocida · pedida 2026-10-22 · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/en/services/prueba-strep  — cambiada 2026-09-30 · desconocida · pedida 2026-10-22 · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/en/services/suturas-heridas  — cambiada 2026-09-30 · desconocida · pedida 2026-10-22 · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/en/services/ultrasonido  — cambiada 2026-09-30 · descubierta sin indexar · pedida 2026-10-22 · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/en/services/unas-encarnadas  — cambiada 2026-09-30 · desconocida · pedida 2026-10-22 · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/en/services/tiroides  — cambiada 2026-09-30 · rastreada 2026-06-22 · rastreada sin indexar · pedida 2026-10-20 · 1 impr.
+- [x] https://www.clinicahispanacruz4.com/en/services/anticonceptivos  — cambiada 2026-09-30 · desconocida · pedida 2026-10-21 · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/en/services/drenaje-abscesos  — cambiada 2026-09-30 · rastreada 2026-07-19 · rastreada sin indexar · pedida 2026-10-21 · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-09-30 · desconocida · pedida 2026-10-21 · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/en/services/examen-heces  — cambiada 2026-09-30 · rastreada 2026-06-22 · rastreada sin indexar · pedida 2026-10-22 · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/en/services/examenes-sangre  — cambiada 2026-09-30 · desconocida · pedida 2026-10-22 · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/en/services/prueba-strep  — cambiada 2026-09-30 · desconocida · pedida 2026-10-22 · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/en/services/suturas-heridas  — cambiada 2026-09-30 · desconocida · pedida 2026-10-22 · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/en/services/ultrasonido  — cambiada 2026-09-30 · descubierta sin indexar · pedida 2026-10-22 · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/en/services/unas-encarnadas  — cambiada 2026-09-30 · desconocida · pedida 2026-10-22 · 0 impr.
 
 ## Notas anteriores (texto previo del archivo, sin actualizar)
 
