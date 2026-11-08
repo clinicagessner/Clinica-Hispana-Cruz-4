@@ -6,25 +6,18 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispanacruz4.com/` (prefijo de URL), cuenta **clinicahispanacruz4@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-07; URL Inspection API, datos ANTIGUOS del 2026-11-02: antiguos (2026-11-02): --sin-fetch):** 68 de 102 URLs del sitemap indexadas · 34 sin indexar (13 desconocida · 10 descubierta sin indexar · 9 rastreada sin indexar · 2 sin datos).
+**Estado (actualizado 2026-11-08; URL Inspection API, datos ANTIGUOS del 2026-11-02: antiguos (2026-11-02): --sin-fetch):** 68 de 102 URLs del sitemap indexadas · 34 sin indexar (13 desconocida · 10 descubierta sin indexar · 9 rastreada sin indexar · 2 sin datos).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 0 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 10 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 0 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 3 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-24 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-08).
+31 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-09).
 <!-- /tandas:auto -->
 
-## Tanda 48  📨 ENVIADA 07/11/2026  ✅ PEDIDA 07/11/2026
+## Tanda 49  📨 ENVIADA 08/11/2026
 
-- [x] https://www.clinicahispanacruz4.com/en/services/tiroides  — cambiada 2026-09-30 · rastreada 2026-06-22 · rastreada sin indexar · pedida 2026-10-20 · 1 impr.
-- [x] https://www.clinicahispanacruz4.com/en/services/anticonceptivos  — cambiada 2026-09-30 · desconocida · pedida 2026-10-21 · 0 impr.
-- [x] https://www.clinicahispanacruz4.com/en/services/drenaje-abscesos  — cambiada 2026-09-30 · rastreada 2026-07-19 · rastreada sin indexar · pedida 2026-10-21 · 0 impr.
-- [x] https://www.clinicahispanacruz4.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-09-30 · desconocida · pedida 2026-10-21 · 0 impr.
-- [x] https://www.clinicahispanacruz4.com/en/services/examen-heces  — cambiada 2026-09-30 · rastreada 2026-06-22 · rastreada sin indexar · pedida 2026-10-22 · 0 impr.
-- [x] https://www.clinicahispanacruz4.com/en/services/examenes-sangre  — cambiada 2026-09-30 · desconocida · pedida 2026-10-22 · 0 impr.
-- [x] https://www.clinicahispanacruz4.com/en/services/prueba-strep  — cambiada 2026-09-30 · desconocida · pedida 2026-10-22 · 0 impr.
-- [x] https://www.clinicahispanacruz4.com/en/services/suturas-heridas  — cambiada 2026-09-30 · desconocida · pedida 2026-10-22 · 0 impr.
-- [x] https://www.clinicahispanacruz4.com/en/services/ultrasonido  — cambiada 2026-09-30 · descubierta sin indexar · pedida 2026-10-22 · 0 impr.
-- [x] https://www.clinicahispanacruz4.com/en/services/unas-encarnadas  — cambiada 2026-09-30 · desconocida · pedida 2026-10-22 · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/services/prueba-embarazo  — cambiada 2026-10-23 · desconocida · pedida 2026-10-25 · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/services/salud-hombre  — cambiada 2026-10-23 · descubierta sin indexar · pedida 2026-10-25 · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/en/services/salud-hombre  — cambiada 2026-10-23 · descubierta sin indexar · pedida 2026-10-25 · 0 impr.
 
 ## Notas anteriores (texto previo del archivo, sin actualizar)
 
@@ -248,3 +241,16 @@ Sitemap `sitemap.xml` enviado por última vez el 2026-06-21 (0 errores). Detalle
 - [x] https://www.clinicahispanacruz4.com/services/infecciones-urinarias  — cambiada 2026-10-15 · descubierta sin indexar · pedida 2026-10-18 · 0 impr.
 - [x] https://www.clinicahispanacruz4.com/services/vacunas  — cambiada 2026-09-30 · descubierta sin indexar · pedida 2026-10-18 · 0 impr.
 - [x] https://www.clinicahispanacruz4.com/en/services/prueba-tuberculosis  — cambiada 2026-09-30 · rastreada 2026-06-21 · rastreada sin indexar · pedida 2026-10-20 · 2 impr.
+
+## Tanda 48  📨 ENVIADA 07/11/2026  ✅ PEDIDA 07/11/2026
+
+- [x] https://www.clinicahispanacruz4.com/en/services/tiroides  — cambiada 2026-09-30 · rastreada 2026-06-22 · rastreada sin indexar · pedida 2026-10-20 · 1 impr.
+- [x] https://www.clinicahispanacruz4.com/en/services/anticonceptivos  — cambiada 2026-09-30 · desconocida · pedida 2026-10-21 · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/en/services/drenaje-abscesos  — cambiada 2026-09-30 · rastreada 2026-07-19 · rastreada sin indexar · pedida 2026-10-21 · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-09-30 · desconocida · pedida 2026-10-21 · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/en/services/examen-heces  — cambiada 2026-09-30 · rastreada 2026-06-22 · rastreada sin indexar · pedida 2026-10-22 · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/en/services/examenes-sangre  — cambiada 2026-09-30 · desconocida · pedida 2026-10-22 · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/en/services/prueba-strep  — cambiada 2026-09-30 · desconocida · pedida 2026-10-22 · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/en/services/suturas-heridas  — cambiada 2026-09-30 · desconocida · pedida 2026-10-22 · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/en/services/ultrasonido  — cambiada 2026-09-30 · descubierta sin indexar · pedida 2026-10-22 · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/en/services/unas-encarnadas  — cambiada 2026-09-30 · desconocida · pedida 2026-10-22 · 0 impr.
