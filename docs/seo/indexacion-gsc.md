@@ -13,11 +13,11 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 31 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-09).
 <!-- /tandas:auto -->
 
-## Tanda 49  📨 ENVIADA 08/11/2026
+## Tanda 49  📨 ENVIADA 08/11/2026  ✅ PEDIDA 08/11/2026
 
-- [ ] https://www.clinicahispanacruz4.com/services/prueba-embarazo  — cambiada 2026-10-23 · desconocida · pedida 2026-10-25 · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/services/salud-hombre  — cambiada 2026-10-23 · descubierta sin indexar · pedida 2026-10-25 · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/en/services/salud-hombre  — cambiada 2026-10-23 · descubierta sin indexar · pedida 2026-10-25 · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/services/prueba-embarazo  — cambiada 2026-10-23 · desconocida · pedida 2026-10-25 · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/services/salud-hombre  — cambiada 2026-10-23 · descubierta sin indexar · pedida 2026-10-25 · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/en/services/salud-hombre  — cambiada 2026-10-23 · descubierta sin indexar · pedida 2026-10-25 · 0 impr.
 
 ## Notas anteriores (texto previo del archivo, sin actualizar)
 
