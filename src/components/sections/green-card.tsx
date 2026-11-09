@@ -16,8 +16,8 @@ import { Link } from "@/i18n/routing";
 import { CONTACT_INFO } from "@/lib/constants";
 
 const features = [
-  { icon: ShieldCheck, text: "Médico Civil Surgeon certificado por USCIS" },
-  { icon: CalendarCheck, text: "Resultados en 3-5 días hábiles" },
+  { icon: ShieldCheck, text: "Médico Civil Surgeon designado por USCIS" },
+  { icon: CalendarCheck, text: "Resultados rápidos" },
   { icon: CheckCircle, text: "Atención 100% en español" },
   { icon: Phone, text: "Sin cita previa necesaria" },
 ];
