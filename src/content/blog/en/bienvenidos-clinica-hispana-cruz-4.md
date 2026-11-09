@@ -1,9 +1,9 @@
 ---
 slug: "bienvenidos-clinica-hispana-cruz-4"
-title: "Welcome to Clínica Hispana Cruz 4!"
+title: "Clínica Hispana Near Me on Beechnut: Meet Cruz 4"
 description: "Who we are: a Spanish-speaking medical clinic on Beechnut St in southwest Houston. Open 7 days, 9 AM to 9 PM, walk-in, no insurance needed. Services and directions."
 date: "2026-03-16"
-dateModified: "2026-10-15"
+dateModified: "2026-11-09"
 author: "Clínica Hispana Cruz 4"
 image: "/images/hero-bg.webp"
 featured: false
@@ -17,7 +17,7 @@ keywords:
   - "walk-in clinic Houston"
 ---
 
-# Welcome to Clínica Hispana Cruz 4!
+# Clínica Hispana Near Me on Beechnut: Meet Cruz 4
 
 Clínica Hispana Cruz 4 is a general medicine practice that opened in January 2020 on Houston's southwest side. Since then we have cared for Latino families from Alief, Sharpstown, Gulfton, Westchase, Mission Bend and Bellaire who want a doctor that explains things in their language and quotes a clear price. This page sums up who we are and what you can take care of with us.
 

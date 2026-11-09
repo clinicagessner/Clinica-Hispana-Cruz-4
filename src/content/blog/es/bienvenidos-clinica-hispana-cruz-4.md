@@ -1,9 +1,9 @@
 ---
 slug: "bienvenidos-clinica-hispana-cruz-4"
-title: "¡Bienvenidos a Clínica Hispana Cruz 4!"
+title: "Clínica Hispana Cerca de Mí en Beechnut: Conozca Cruz 4"
 description: "Quiénes somos: clínica médica en español en Beechnut St, suroeste de Houston. Abierta los 7 días de 9 AM a 9 PM, sin cita y sin seguro. Servicios y cómo llegar."
 date: "2026-03-16"
-dateModified: "2026-10-15"
+dateModified: "2026-11-09"
 author: "Clínica Hispana Cruz 4"
 image: "/images/hero-bg.webp"
 featured: false
@@ -17,7 +17,7 @@ keywords:
   - "clínica sin cita Houston"
 ---
 
-# ¡Bienvenidos a Clínica Hispana Cruz 4!
+# Clínica Hispana Cerca de Mí en Beechnut: Conozca Cruz 4
 
 Clínica Hispana Cruz 4 es un consultorio de medicina general que abrió sus puertas en enero de 2020 en el suroeste de Houston. Desde entonces atendemos a familias latinas de Alief, Sharpstown, Gulfton, Westchase, Mission Bend y Bellaire que buscan un médico que les explique las cosas en su idioma y les cobre un precio claro. Esta página resume quiénes somos y qué puede resolver con nosotros.
 
