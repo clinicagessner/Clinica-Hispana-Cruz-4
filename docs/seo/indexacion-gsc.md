@@ -20,6 +20,11 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanacruz4.com/blog  — cambiada 2026-11-09
 - [ ] https://www.clinicahispanacruz4.com/en/blog  — cambiada 2026-11-09
 
+## Tanda 53 — cambios del 2026-11-10 (post del blog semanal)  📨 ENVIADA 10/11/2026
+
+- [ ] https://www.clinicahispanacruz4.com/blog/celulitis-infeccion-de-la-piel-roja-caliente-hinchada  — cambiada 2026-11-10
+- [ ] https://www.clinicahispanacruz4.com/en/blog/celulitis-infeccion-de-la-piel-roja-caliente-hinchada  — cambiada 2026-11-10
+
 ## Tanda 52
 
 - [ ] https://www.clinicahispanacruz4.com/services/extraccion-implantes  — cambiada 2026-09-30 · rastreada 2026-07-01 · rastreada sin indexar · pedida 2026-10-13 · 1 impr.
