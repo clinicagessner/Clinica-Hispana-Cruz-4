@@ -6,25 +6,12 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispanacruz4.com/` (prefijo de URL), cuenta **clinicahispanacruz4@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-09; URL Inspection API, datos de hoy 2026-11-09):** 69 de 102 URLs del sitemap indexadas · 33 sin indexar (17 descubierta sin indexar · 9 rastreada sin indexar · 7 desconocida).
+**Estado (actualizado 2026-11-10; URL Inspection API, datos ANTIGUOS del 2026-11-09: antiguos (2026-11-09): --sin-fetch):** 69 de 102 URLs del sitemap indexadas · 33 sin indexar (17 descubierta sin indexar · 9 rastreada sin indexar · 7 desconocida).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 0 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 2 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-29 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-16).
+30 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-16).
 <!-- /tandas:auto -->
-
-## Tanda 50 — cambios del 2026-11-09 (análisis diario: clínica para la mujer, near me, Civil Surgeon)  📨 ENVIADA 09/11/2026  ✅ PEDIDA 10/11/2026
-
-- [x] https://www.clinicahispanacruz4.com/services/ginecologia  — cambiada 2026-11-09
-- [x] https://www.clinicahispanacruz4.com/en/services/ginecologia  — cambiada 2026-11-09
-- [x] https://www.clinicahispanacruz4.com/en  — cambiada 2026-11-09
-- [x] https://www.clinicahispanacruz4.com/en/blog/bienvenidos-clinica-hispana-cruz-4  — cambiada 2026-11-09
-- [x] https://www.clinicahispanacruz4.com/blog/bienvenidos-clinica-hispana-cruz-4  — cambiada 2026-11-09
-- [x] https://www.clinicahispanacruz4.com/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-11-09
-- [x] https://www.clinicahispanacruz4.com/en/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-11-09
-- [x] https://www.clinicahispanacruz4.com/  — cambiada 2026-11-09
-- [x] https://www.clinicahispanacruz4.com/services/examenes-inmigracion  — cambiada 2026-11-09
-- [x] https://www.clinicahispanacruz4.com/en/services/examenes-inmigracion  — cambiada 2026-11-09
 
 ## Tanda 51 — cambios del 2026-11-09 (análisis diario: listados de servicios y blog)
 
@@ -279,3 +266,16 @@ Sitemap `sitemap.xml` enviado por última vez el 2026-06-21 (0 errores). Detalle
 - [x] https://www.clinicahispanacruz4.com/services/prueba-embarazo  — cambiada 2026-10-23 · desconocida · pedida 2026-10-25 · 0 impr.
 - [x] https://www.clinicahispanacruz4.com/services/salud-hombre  — cambiada 2026-10-23 · descubierta sin indexar · pedida 2026-10-25 · 0 impr.
 - [x] https://www.clinicahispanacruz4.com/en/services/salud-hombre  — cambiada 2026-10-23 · descubierta sin indexar · pedida 2026-10-25 · 0 impr.
+
+## Tanda 50 — cambios del 2026-11-09 (análisis diario: clínica para la mujer, near me, Civil Surgeon)  📨 ENVIADA 09/11/2026  ✅ PEDIDA 10/11/2026
+
+- [x] https://www.clinicahispanacruz4.com/services/ginecologia  — cambiada 2026-11-09
+- [x] https://www.clinicahispanacruz4.com/en/services/ginecologia  — cambiada 2026-11-09
+- [x] https://www.clinicahispanacruz4.com/en  — cambiada 2026-11-09
+- [x] https://www.clinicahispanacruz4.com/en/blog/bienvenidos-clinica-hispana-cruz-4  — cambiada 2026-11-09
+- [x] https://www.clinicahispanacruz4.com/blog/bienvenidos-clinica-hispana-cruz-4  — cambiada 2026-11-09
+- [x] https://www.clinicahispanacruz4.com/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-11-09
+- [x] https://www.clinicahispanacruz4.com/en/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-11-09
+- [x] https://www.clinicahispanacruz4.com/  — cambiada 2026-11-09
+- [x] https://www.clinicahispanacruz4.com/services/examenes-inmigracion  — cambiada 2026-11-09
+- [x] https://www.clinicahispanacruz4.com/en/services/examenes-inmigracion  — cambiada 2026-11-09
