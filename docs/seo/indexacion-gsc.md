@@ -13,18 +13,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 29 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-16).
 <!-- /tandas:auto -->
 
-## Tanda 50 — cambios del 2026-11-09 (análisis diario: clínica para la mujer, near me, Civil Surgeon)  📨 ENVIADA 09/11/2026
+## Tanda 50 — cambios del 2026-11-09 (análisis diario: clínica para la mujer, near me, Civil Surgeon)  📨 ENVIADA 09/11/2026  ✅ PEDIDA 10/11/2026
 
-- [ ] https://www.clinicahispanacruz4.com/services/ginecologia  — cambiada 2026-11-09
-- [ ] https://www.clinicahispanacruz4.com/en/services/ginecologia  — cambiada 2026-11-09
-- [ ] https://www.clinicahispanacruz4.com/en  — cambiada 2026-11-09
-- [ ] https://www.clinicahispanacruz4.com/en/blog/bienvenidos-clinica-hispana-cruz-4  — cambiada 2026-11-09
-- [ ] https://www.clinicahispanacruz4.com/blog/bienvenidos-clinica-hispana-cruz-4  — cambiada 2026-11-09
-- [ ] https://www.clinicahispanacruz4.com/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-11-09
-- [ ] https://www.clinicahispanacruz4.com/en/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-11-09
-- [ ] https://www.clinicahispanacruz4.com/  — cambiada 2026-11-09
-- [ ] https://www.clinicahispanacruz4.com/services/examenes-inmigracion  — cambiada 2026-11-09
-- [ ] https://www.clinicahispanacruz4.com/en/services/examenes-inmigracion  — cambiada 2026-11-09
+- [x] https://www.clinicahispanacruz4.com/services/ginecologia  — cambiada 2026-11-09
+- [x] https://www.clinicahispanacruz4.com/en/services/ginecologia  — cambiada 2026-11-09
+- [x] https://www.clinicahispanacruz4.com/en  — cambiada 2026-11-09
+- [x] https://www.clinicahispanacruz4.com/en/blog/bienvenidos-clinica-hispana-cruz-4  — cambiada 2026-11-09
+- [x] https://www.clinicahispanacruz4.com/blog/bienvenidos-clinica-hispana-cruz-4  — cambiada 2026-11-09
+- [x] https://www.clinicahispanacruz4.com/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-11-09
+- [x] https://www.clinicahispanacruz4.com/en/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-11-09
+- [x] https://www.clinicahispanacruz4.com/  — cambiada 2026-11-09
+- [x] https://www.clinicahispanacruz4.com/services/examenes-inmigracion  — cambiada 2026-11-09
+- [x] https://www.clinicahispanacruz4.com/en/services/examenes-inmigracion  — cambiada 2026-11-09
 
 ## Tanda 51 — cambios del 2026-11-09 (análisis diario: listados de servicios y blog)
 
