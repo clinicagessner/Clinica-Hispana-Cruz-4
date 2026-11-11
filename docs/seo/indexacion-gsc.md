@@ -6,27 +6,21 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispanacruz4.com/` (prefijo de URL), cuenta **clinicahispanacruz4@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-10; URL Inspection API, datos ANTIGUOS del 2026-11-09: antiguos (2026-11-09): --sin-fetch):** 69 de 102 URLs del sitemap indexadas · 33 sin indexar (17 descubierta sin indexar · 9 rastreada sin indexar · 7 desconocida).
+**Estado (actualizado 2026-11-11; URL Inspection API, datos ANTIGUOS del 2026-11-09: antiguos (2026-11-09): --sin-fetch):** 69 de 104 URLs del sitemap indexadas · 35 sin indexar (17 descubierta sin indexar · 9 rastreada sin indexar · 7 desconocida · 2 sin datos).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 0 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 2 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 30 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-16).
 <!-- /tandas:auto -->
 
-## Tanda 51 — cambios del 2026-11-09 (análisis diario: listados de servicios y blog)
+## Tanda 51 — cambios del 2026-11-09 (análisis diario: listados de servicios y blog) (+ Tanda 53 y Tanda 54)  📨 ENVIADA 11/11/2026
 
 - [ ] https://www.clinicahispanacruz4.com/services  — cambiada 2026-11-09
 - [ ] https://www.clinicahispanacruz4.com/en/services  — cambiada 2026-11-09
 - [ ] https://www.clinicahispanacruz4.com/blog  — cambiada 2026-11-09
 - [ ] https://www.clinicahispanacruz4.com/en/blog  — cambiada 2026-11-09
-
-## Tanda 53 — cambios del 2026-11-10 (post del blog semanal)  📨 ENVIADA 10/11/2026
-
 - [ ] https://www.clinicahispanacruz4.com/blog/celulitis-infeccion-de-la-piel-roja-caliente-hinchada  — cambiada 2026-11-10
 - [ ] https://www.clinicahispanacruz4.com/en/blog/celulitis-infeccion-de-la-piel-roja-caliente-hinchada  — cambiada 2026-11-10
-
-## Tanda 52
-
 - [ ] https://www.clinicahispanacruz4.com/services/extraccion-implantes  — cambiada 2026-09-30 · rastreada 2026-07-01 · rastreada sin indexar · pedida 2026-10-13 · 1 impr.
 - [ ] https://www.clinicahispanacruz4.com/en/services/prueba-embarazo  — cambiada 2026-10-23 · descubierta sin indexar · pedida 2026-10-26 · 0 impr.
 
