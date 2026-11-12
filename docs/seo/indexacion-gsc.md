@@ -13,16 +13,16 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 30 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-16).
 <!-- /tandas:auto -->
 
-## Tanda 51 — cambios del 2026-11-09 (análisis diario: listados de servicios y blog) (+ Tanda 53 y Tanda 54)  📨 ENVIADA 11/11/2026
+## Tanda 51 — cambios del 2026-11-09 (análisis diario: listados de servicios y blog) (+ Tanda 53 y Tanda 54)  📨 ENVIADA 11/11/2026  ✅ PEDIDA 12/11/2026
 
-- [ ] https://www.clinicahispanacruz4.com/services  — cambiada 2026-11-09
-- [ ] https://www.clinicahispanacruz4.com/en/services  — cambiada 2026-11-09
-- [ ] https://www.clinicahispanacruz4.com/blog  — cambiada 2026-11-09
-- [ ] https://www.clinicahispanacruz4.com/en/blog  — cambiada 2026-11-09
-- [ ] https://www.clinicahispanacruz4.com/blog/celulitis-infeccion-de-la-piel-roja-caliente-hinchada  — cambiada 2026-11-10
-- [ ] https://www.clinicahispanacruz4.com/en/blog/celulitis-infeccion-de-la-piel-roja-caliente-hinchada  — cambiada 2026-11-10
-- [ ] https://www.clinicahispanacruz4.com/services/extraccion-implantes  — cambiada 2026-09-30 · rastreada 2026-07-01 · rastreada sin indexar · pedida 2026-10-13 · 1 impr.
-- [ ] https://www.clinicahispanacruz4.com/en/services/prueba-embarazo  — cambiada 2026-10-23 · descubierta sin indexar · pedida 2026-10-26 · 0 impr.
+- [x] https://www.clinicahispanacruz4.com/services  — cambiada 2026-11-09
+- [x] https://www.clinicahispanacruz4.com/en/services  — cambiada 2026-11-09
+- [x] https://www.clinicahispanacruz4.com/blog  — cambiada 2026-11-09
+- [x] https://www.clinicahispanacruz4.com/en/blog  — cambiada 2026-11-09
+- [x] https://www.clinicahispanacruz4.com/blog/celulitis-infeccion-de-la-piel-roja-caliente-hinchada  — cambiada 2026-11-10
+- [x] https://www.clinicahispanacruz4.com/en/blog/celulitis-infeccion-de-la-piel-roja-caliente-hinchada  — cambiada 2026-11-10
+- [x] https://www.clinicahispanacruz4.com/services/extraccion-implantes  — cambiada 2026-09-30 · rastreada 2026-07-01 · rastreada sin indexar · pedida 2026-10-13 · 1 impr.
+- [x] https://www.clinicahispanacruz4.com/en/services/prueba-embarazo  — cambiada 2026-10-23 · descubierta sin indexar · pedida 2026-10-26 · 0 impr.
 
 ## Notas anteriores (texto previo del archivo, sin actualizar)
 
