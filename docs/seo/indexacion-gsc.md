@@ -27,6 +27,10 @@ Sitemap `sitemap.xml` enviado por última vez el 2026-06-21 (0 errores). Detalle
 
 ## Historial (tandas pedidas)
 
+## Tanda 52 — cambios del 2026-11-14 (YouTube en el footer de toda la web)
+
+- [ ] https://www.clinicahispanacruz4.com/es  — cambiada 2026-11-14
+
 ## Tanda 1  ✅ PEDIDA 05/10/2026
 
 - [x] https://www.clinicahispanacruz4.com/blog  — cambiada 2026-09-30 · rastreada 2026-09-20 · indexada · 383 impr.
