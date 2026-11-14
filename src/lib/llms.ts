@@ -57,6 +57,7 @@ function socials(): string {
   return [
     `- [Facebook](${SOCIAL_LINKS.facebook})`,
     `- [Instagram](${SOCIAL_LINKS.instagram})`,
+    `- [YouTube](${SOCIAL_LINKS.youtube})`,
     `- [Google Business Profile](${CONTACT_INFO.googleMapsUrl})`,
   ].join("\n");
 }

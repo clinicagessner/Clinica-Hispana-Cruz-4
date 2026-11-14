@@ -43,6 +43,7 @@ export const CONTACT_INFO: ContactInfo = {
 export const SOCIAL_LINKS: SocialLinks = {
   facebook: "https://www.facebook.com/clinicahispanacruz4",
   instagram: "https://www.instagram.com/clinicahispcruz4/",
+  youtube: "https://www.youtube.com/@ClinicaHispanaCruz4",
 };
 
 // Reviews reales vienen LIVE de getGooglePlaceData() (Places API New).

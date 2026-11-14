@@ -101,6 +101,7 @@ export async function JsonLdMedicalClinic() {
         sameAs: [
           SOCIAL_LINKS.facebook,
           SOCIAL_LINKS.instagram,
+          SOCIAL_LINKS.youtube,
         ].filter(Boolean),
         // Houston (área de la ficha) y los barrios del suroeste que nombra el sitio.
         areaServed: [
