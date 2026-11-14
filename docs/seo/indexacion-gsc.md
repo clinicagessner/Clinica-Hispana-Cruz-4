@@ -6,13 +6,17 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispanacruz4.com/` (prefijo de URL), cuenta **clinicahispanacruz4@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-13; URL Inspection API, datos ANTIGUOS del 2026-11-09: antiguos (2026-11-09): --sin-fetch):** 69 de 104 URLs del sitemap indexadas · 35 sin indexar (17 descubierta sin indexar · 9 rastreada sin indexar · 7 desconocida · 2 sin datos).
+**Estado (actualizado 2026-11-14; URL Inspection API, datos ANTIGUOS del 2026-11-09: antiguos (2026-11-09): --sin-fetch):** 69 de 104 URLs del sitemap indexadas · 35 sin indexar (17 descubierta sin indexar · 9 rastreada sin indexar · 7 desconocida · 2 sin datos).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 0 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 2 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 35 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-16).
-Nada pendiente: todas las URLs están indexadas y Google ya rastreó los cambios.
 <!-- /tandas:auto -->
+
+## Tanda 52 — cambios del 2026-11-14 (YouTube en el footer de toda la web)  📨 ENVIADA 14/11/2026
+
+- [ ] https://www.clinicahispanacruz4.com/  — cambiada 2026-11-14 (YouTube en el footer; /es redirige a la home)
+- [ ] https://www.clinicahispanacruz4.com/en  — cambiada 2026-11-14 (YouTube en el footer)
 
 ## Notas anteriores (texto previo del archivo, sin actualizar)
 
@@ -26,10 +30,6 @@ esté terminado todo el contenido (B3). No proponerlo antes. Las tandas se van a
 Sitemap `sitemap.xml` enviado por última vez el 2026-06-21 (0 errores). Detalle en `seo-data/2026-09-27/index-status.json`.
 
 ## Historial (tandas pedidas)
-
-## Tanda 52 — cambios del 2026-11-14 (YouTube en el footer de toda la web)
-
-- [ ] https://www.clinicahispanacruz4.com/es  — cambiada 2026-11-14
 
 ## Tanda 1  ✅ PEDIDA 05/10/2026
 
