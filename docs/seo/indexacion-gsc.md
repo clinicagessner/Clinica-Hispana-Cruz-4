@@ -13,10 +13,10 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 29 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-18).
 <!-- /tandas:auto -->
 
-## Tanda 53  📨 ENVIADA 16/11/2026
+## Tanda 53  📨 ENVIADA 16/11/2026  ✅ PEDIDA 16/11/2026
 
-- [ ] https://www.clinicahispanacruz4.com/services/examenes-sangre  — cambiada 2026-09-30 · desconocida · pedida 2026-11-02 · 5 impr.
-- [ ] https://www.clinicahispanacruz4.com/services/enfermedades-transmision-sexual  — cambiada 2026-09-30 · rastreada 2026-06-21 · rastreada sin indexar · pedida 2026-11-02 · 3 impr.
+- [x] https://www.clinicahispanacruz4.com/services/examenes-sangre  — cambiada 2026-09-30 · desconocida · pedida 2026-11-02 · 5 impr.
+- [x] https://www.clinicahispanacruz4.com/services/enfermedades-transmision-sexual  — cambiada 2026-09-30 · rastreada 2026-06-21 · rastreada sin indexar · pedida 2026-11-02 · 3 impr.
 
 ## Notas anteriores (texto previo del archivo, sin actualizar)
 
