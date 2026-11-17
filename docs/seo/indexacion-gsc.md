@@ -27,6 +27,11 @@ Sitemap `sitemap.xml` enviado por última vez el 2026-06-21 (0 errores). Detalle
 
 ## Historial (tandas pedidas)
 
+## Tanda 54 — cambios del 2026-11-17 (post del blog semanal)  📨 ENVIADA 17/11/2026
+
+- [ ] https://www.clinicahispanacruz4.com/blog/inyeccion-anticonceptiva-cada-cuanto-que-esperar  — cambiada 2026-11-17
+- [ ] https://www.clinicahispanacruz4.com/en/blog/inyeccion-anticonceptiva-cada-cuanto-que-esperar  — cambiada 2026-11-17
+
 ## Tanda 1  ✅ PEDIDA 05/10/2026
 
 - [x] https://www.clinicahispanacruz4.com/blog  — cambiada 2026-09-30 · rastreada 2026-09-20 · indexada · 383 impr.
