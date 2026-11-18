@@ -13,16 +13,94 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 24 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-20).
 <!-- /tandas:auto -->
 
+## Tanda 56 — cambios del 2026-11-18 (textos viejos de §9: equipo médico, sin especialistas ni precio fijo)
+
+- [ ] https://www.clinicahispanacruz4.com/services/anticonceptivos  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/en/services/anticonceptivos  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/services/cirugias-menores  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/en/services/cirugias-menores  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/services/condiciones-cronicas  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/en/services/condiciones-cronicas  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/services/drenaje-abscesos  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/en/services/drenaje-abscesos  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/services/electrocardiograma  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/en/services/electrocardiograma  — cambiada 2026-11-18
+
+## Tanda 57 — cambios del 2026-11-18 (textos viejos de §9: equipo médico, sin especialistas ni precio fijo)
+
+- [ ] https://www.clinicahispanacruz4.com/services/enfermedades-respiratorias  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/en/services/enfermedades-respiratorias  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/services/enfermedades-transmision-sexual  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/services/examen-dot  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/en/services/examen-dot  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/services/examen-fisico-escolar  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/en/services/examen-fisico-escolar  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/services/examen-heces  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/en/services/examen-heces  — cambiada 2026-11-18
+
+## Tanda 58 — cambios del 2026-11-18 (textos viejos de §9: equipo médico, sin especialistas ni precio fijo)
+
+- [ ] https://www.clinicahispanacruz4.com/services/examenes-inmigracion  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/en/services/examenes-inmigracion  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/services/examenes-sangre  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/en/services/examenes-sangre  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/services/ginecologia  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/en/services/ginecologia  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/services/prueba-embarazo  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/en/services/prueba-embarazo  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/services/prueba-strep  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/en/services/prueba-strep  — cambiada 2026-11-18
+
+## Tanda 59 — cambios del 2026-11-18 (textos viejos de §9: equipo médico, sin especialistas ni precio fijo)
+
+- [ ] https://www.clinicahispanacruz4.com/services/prueba-tuberculosis  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/en/services/prueba-tuberculosis  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/services/salud-hombre  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/en/services/salud-hombre  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/services/tiroides  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/en/services/tiroides  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/services/ultrasonido  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/en/services/ultrasonido  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/services/unas-encarnadas  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/en/services/unas-encarnadas  — cambiada 2026-11-18
+
+## Tanda 60 — cambios del 2026-11-18 (textos viejos de §9: equipo médico, sin especialistas ni precio fijo)
+
+- [ ] https://www.clinicahispanacruz4.com/promociones  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/en/promociones  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/walk-in  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/en/walk-in  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/en/blog/bienvenidos-clinica-hispana-cruz-4  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/en/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/en/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/en/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-11-18
+
+## Tanda 61 — cambios del 2026-11-18 (textos viejos de §9: equipo médico, sin especialistas ni precio fijo)
+
+- [ ] https://www.clinicahispanacruz4.com/en/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/en/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/en/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/blog/bienvenidos-clinica-hispana-cruz-4  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-11-18
+
+## Tanda 62 — cambios del 2026-11-18 (textos viejos de §9: equipo médico, sin especialistas ni precio fijo)
+
+- [ ] https://www.clinicahispanacruz4.com/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanacruz4.com/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-11-18
+
 ## Tanda 55
 
-- [ ] https://www.clinicahispanacruz4.com/services/cirugias-menores  — cambiada 2026-09-30 · desconocida · pedida 2026-11-04 · 1 impr.
-- [ ] https://www.clinicahispanacruz4.com/services/drenaje-abscesos  — cambiada 2026-09-30 · desconocida · pedida 2026-11-04 · 1 impr.
-- [ ] https://www.clinicahispanacruz4.com/services/anticonceptivos  — cambiada 2026-09-30 · descubierta sin indexar · pedida 2026-11-04 · 0 impr.
 - [ ] https://www.clinicahispanacruz4.com/services/curacion-heridas  — cambiada 2026-09-30 · descubierta sin indexar · pedida 2026-11-04 · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/services/electrocardiograma  — cambiada 2026-09-30 · descubierta sin indexar · pedida 2026-11-04 · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/services/enfermedades-respiratorias  — cambiada 2026-09-30 · descubierta sin indexar · pedida 2026-11-04 · 0 impr.
 - [ ] https://www.clinicahispanacruz4.com/services/sueros-vitaminados  — cambiada 2026-11-03 · desconocida · pedida 2026-11-04 · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/en/services/condiciones-cronicas  — cambiada 2026-09-30 · desconocida · pedida 2026-11-04 · 1 impr.
 - [ ] https://www.clinicahispanacruz4.com/en/services/sueros-vitaminados  — cambiada 2026-11-03 · descubierta sin indexar · pedida 2026-11-04 · 0 impr.
 
 ## Notas anteriores (texto previo del archivo, sin actualizar)
