@@ -55,7 +55,7 @@ Hasta **24 meses** si todo está en rango. El examinador puede darlo por menos t
 - **No suspenda su tratamiento**, en especial las pastillas de la presión. Dejarlas "para que no salga nada" sube la presión y acorta el certificado.
 - **Lleve lentes o aparato auditivo** si los usa.
 - **Traiga la lista de medicinas**, con nombre y dosis.
-- **Si usa insulina**, desde 2018 puede calificar, pero necesita el formulario **MCSA-5870** llenado por el médico que trata su diabetes, con no más de 45 días de antigüedad.
+- **Si usa insulina**, desde 2018 puede calificar, pero necesita el formulario **MCSA-5870** llenado por el equipo médico que trata su diabetes, con no más de 45 días de antigüedad.
 - **Si tiene apnea del sueño**, traiga el reporte de uso de su CPAP.
 - Duerma bien la noche anterior y evite la cafeína justo antes.
 

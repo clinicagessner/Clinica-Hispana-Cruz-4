@@ -25,7 +25,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "¿Cómo revisan mi riesgo cardiovascular?",
-        "answer": "Con su presión, la glucosa, la A1C y el perfil de colesterol, que se toman en la clínica, y un electrocardiograma en la misma visita cuando hace falta. Con esos datos el médico le explica su riesgo cardiovascular y el plan para controlar la hipertensión, la diabetes o el colesterol alto, en una consulta privada y confidencial."
+        "answer": "Con su presión, la glucosa, la A1C y el perfil de colesterol, que se toman en la clínica, y un electrocardiograma en la misma visita cuando hace falta. Con esos datos el equipo médico le explica su riesgo cardiovascular y el plan para controlar la hipertensión, la diabetes o el colesterol alto, en una consulta privada y confidencial."
       }
     ],
     "faqsEn": [
@@ -43,7 +43,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "How do you check my cardiovascular risk?",
-        "answer": "With your blood pressure, glucose, A1C and cholesterol panel, all drawn at the clinic, plus an EKG at the same visit when needed. With those results the doctor explains your cardiovascular risk and the plan to control hypertension, diabetes or high cholesterol, in a private, confidential visit."
+        "answer": "With your blood pressure, glucose, A1C and cholesterol panel, all drawn at the clinic, plus an EKG at the same visit when needed. With those results the medical team explains your cardiovascular risk and the plan to control hypertension, diabetes or high cholesterol, in a private, confidential visit."
       }
     ]
   },
@@ -59,7 +59,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "¿La tiroides lenta explica que haya subido mucho de peso?",
-        "answer": "Suele sumar solo unos kilos, en buena parte por retención de líquido. Un aumento grande casi siempre tiene otras causas, que el médico revisa en la misma consulta."
+        "answer": "Suele sumar solo unos kilos, en buena parte por retención de líquido. Un aumento grande casi siempre tiene otras causas, que el equipo médico revisa en la misma consulta."
       }
     ],
     "faqsEn": [
@@ -73,7 +73,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "Can a slow thyroid explain a lot of weight gain?",
-        "answer": "It usually adds only a few pounds, largely from fluid retention. A big gain almost always has other causes, which the doctor looks into at the same visit."
+        "answer": "It usually adds only a few pounds, largely from fluid retention. A big gain almost always has other causes, which the medical team looks into at the same visit."
       }
     ]
   },
@@ -141,28 +141,28 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
     "faqs": [
       {
         "question": "¿Qué parte del formulario tengo que llenar antes de venir?",
-        "answer": "La sección de historia médica, que contestan los padres o el alumno: enfermedades previas, medicamentos, alergias y antecedentes familiares. El médico llena y firma la parte del examen."
+        "answer": "La sección de historia médica, que contestan los padres o el alumno: enfermedades previas, medicamentos, alergias y antecedentes familiares. El equipo médico llena y firma la parte del examen."
       },
       {
         "question": "¿La prueba de tuberculosis se termina en una sola visita?",
         "answer": "No. Es una prueba cutánea: se aplica hoy y hay que regresar entre 48 y 72 horas después para que se lea el resultado y se anote en el formulario."
       },
       {
-        "question": "¿Qué pasa si el médico encuentra algo durante el examen?",
+        "question": "¿Qué pasa si el equipo médico encuentra algo durante el examen?",
         "answer": "Se lo explica en ese momento. Algunos hallazgos, como un soplo o presión alta, pueden requerir una revisión adicional antes de autorizar el deporte; le decimos qué sigue y cómo hacerlo."
       }
     ],
     "faqsEn": [
       {
         "question": "Which part of the form should I fill out before coming in?",
-        "answer": "The medical history section, answered by the parents or student: past illnesses, medications, allergies and family history. The doctor completes and signs the exam part."
+        "answer": "The medical history section, answered by the parents or student: past illnesses, medications, allergies and family history. The medical team completes and signs the exam part."
       },
       {
         "question": "Is the TB test done in a single visit?",
         "answer": "No. It's a skin test: it's placed today and you come back 48 to 72 hours later so the result can be read and recorded on the form."
       },
       {
-        "question": "What if the doctor finds something during the exam?",
+        "question": "What if the medical team finds something during the exam?",
         "answer": "They explain it on the spot. Some findings, such as a murmur or high blood pressure, may need an extra check before sports clearance; we tell you what comes next and how to handle it."
       }
     ]
@@ -209,7 +209,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
     "faqs": [
       {
         "question": "¿Desde cuándo puedo hacerme la prueba?",
-        "answer": "Desde el día en que la regla se atrasa, la prueba de orina da una respuesta fiable. La de sangre puede adelantarse varios días a esa fecha. Si tiene dudas sobre las fechas, el médico le dice cuál conviene."
+        "answer": "Desde el día en que la regla se atrasa, la prueba de orina da una respuesta fiable. La de sangre puede adelantarse varios días a esa fecha. Si tiene dudas sobre las fechas, el equipo médico le dice cuál conviene."
       },
       {
         "question": "La prueba casera salió con una línea muy tenue, ¿qué significa?",
@@ -223,7 +223,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
     "faqsEn": [
       {
         "question": "How early can I take the test?",
-        "answer": "From the day your period is late, a urine test gives a trustworthy answer. Blood testing can catch it several days earlier. If you're unsure of your dates, the doctor tells you which fits."
+        "answer": "From the day your period is late, a urine test gives a trustworthy answer. Blood testing can catch it several days earlier. If you're unsure of your dates, the medical team tells you which fits."
       },
       {
         "question": "My home test showed a very faint line. What does it mean?",
@@ -239,7 +239,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
     "faqs": [
       {
         "question": "¿Cuándo empiezan a proteger las pastillas?",
-        "answer": "Depende del día del ciclo en que empiece. El médico le indica si necesita usar condón como respaldo durante los primeros siete días."
+        "answer": "Depende del día del ciclo en que empiece. El equipo médico le indica si necesita usar condón como respaldo durante los primeros siete días."
       },
       {
         "question": "¿La inyección engorda?",
@@ -253,7 +253,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
     "faqsEn": [
       {
         "question": "When do the pills start protecting me?",
-        "answer": "It depends on which day of your cycle you start. The doctor tells you whether you need condoms as backup for the first seven days."
+        "answer": "It depends on which day of your cycle you start. The medical team tells you whether you need condoms as backup for the first seven days."
       },
       {
         "question": "Does the shot cause weight gain?",
@@ -299,7 +299,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
     "faqs": [
       {
         "question": "¿A qué edad debo empezar a hacerme el PSA?",
-        "answer": "Por lo general la conversación empieza a los 55 años, o antes si su padre o un hermano tuvieron cáncer de próstata. El médico le ayuda a decidir si le conviene."
+        "answer": "Por lo general la conversación empieza a los 55 años, o antes si su padre o un hermano tuvieron cáncer de próstata. El equipo médico le ayuda a decidir si le conviene."
       },
       {
         "question": "¿Un PSA alto quiere decir que tengo cáncer?",
@@ -313,7 +313,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
     "faqsEn": [
       {
         "question": "When does PSA screening usually begin?",
-        "answer": "The conversation usually starts at 55, or earlier if your father or a brother had prostate cancer. The doctor helps you decide whether it's right for you."
+        "answer": "The conversation usually starts at 55, or earlier if your father or a brother had prostate cancer. The medical team helps you decide whether it's right for you."
       },
       {
         "question": "Does a high PSA mean I have cancer?",
@@ -333,7 +333,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "¿Puedo hacerme análisis sin que un médico me los pida?",
-        "answer": "Venga a consulta y el médico decide con usted qué estudios tienen sentido según su edad, síntomas y antecedentes. Así no paga por análisis que no necesita."
+        "answer": "Venga a consulta y el equipo médico decide con usted qué estudios tienen sentido según su edad, síntomas y antecedentes. Así no paga por análisis que no necesita."
       },
       {
         "question": "¿Qué hago si me mareo cuando me sacan sangre?",
@@ -347,7 +347,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "Can I get lab work without a doctor ordering it?",
-        "answer": "Come in for a visit and the doctor decides with you which tests make sense for your age, symptoms and history. You end up paying only for studies that answer a real question."
+        "answer": "Come in for a visit and the medical team decides with you which tests make sense for your age, symptoms and history. You end up paying only for studies that answer a real question."
       },
       {
         "question": "What if I get dizzy when my blood is drawn?",
@@ -453,7 +453,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "Me vacunaron con BCG de niño, ¿puedo hacerme la prueba?",
-        "answer": "Sí, pero avíselo antes. La BCG puede dar un resultado positivo en la piel, y el médico le dirá si conviene más una prueba en sangre."
+        "answer": "Sí, pero avíselo antes. La BCG puede dar un resultado positivo en la piel, y el equipo médico le dirá si conviene más una prueba en sangre."
       },
       {
         "question": "¿Un resultado positivo quiere decir que tengo tuberculosis?",
@@ -467,7 +467,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "Can I take the skin test if I got BCG as a kid?",
-        "answer": "Yes, but mention it first. BCG can cause a positive skin reaction, and the doctor will tell you whether a blood test is a better option."
+        "answer": "Yes, but mention it first. BCG can cause a positive skin reaction, and the medical team will tell you whether a blood test is a better option."
       },
       {
         "question": "If my skin test is positive, am I sick with TB?",
@@ -483,7 +483,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "¿Cuánto tiempo después de una relación de riesgo debo hacerme la prueba?",
-        "answer": "Depende de la infección. Algunas se detectan a las una o dos semanas y otras, como el VIH o la sífilis, pueden necesitar más tiempo o repetirse. El médico le dice cuándo es el mejor momento según su caso."
+        "answer": "Depende de la infección. Algunas se detectan a las una o dos semanas y otras, como el VIH o la sífilis, pueden necesitar más tiempo o repetirse. El equipo médico le dice cuándo es el mejor momento según su caso."
       },
       {
         "question": "¿Mi pareja también tiene que tratarse?",
@@ -497,7 +497,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "How long after a risky encounter should I get tested?",
-        "answer": "It depends on the infection. Some show up after one or two weeks, while others, like HIV or syphilis, may need more time or a repeat test. The doctor tells you the best timing for your case."
+        "answer": "It depends on the infection. Some show up after one or two weeks, while others, like HIV or syphilis, may need more time or a repeat test. The medical team tells you the best timing for your case."
       },
       {
         "question": "Does my partner need treatment too?",
@@ -543,11 +543,11 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "¿Un electrocardiograma normal descarta cualquier problema del corazón?",
-        "answer": "No siempre. Muestra el ritmo y la actividad en ese momento. Si los síntomas van y vienen, el médico puede indicar estudios adicionales aunque el EKG salga normal."
+        "answer": "No siempre. Muestra el ritmo y la actividad en ese momento. Si los síntomas van y vienen, el equipo médico puede indicar estudios adicionales aunque el EKG salga normal."
       },
       {
         "question": "¿Tengo que dejar de tomar mis medicamentos antes del EKG?",
-        "answer": "No. Tome sus medicamentos como siempre y traiga la lista, porque algunos influyen en el trazo y el médico lo tiene en cuenta al leerlo."
+        "answer": "No. Tome sus medicamentos como siempre y traiga la lista, porque algunos influyen en el trazo y el equipo médico lo tiene en cuenta al leerlo."
       }
     ],
     "faqsEn": [
@@ -557,11 +557,11 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "Does a normal EKG rule out every heart problem?",
-        "answer": "Not always. It shows rhythm and activity at that moment. If symptoms come and go, the doctor may order more tests even with a normal EKG."
+        "answer": "Not always. It shows rhythm and activity at that moment. If symptoms come and go, the medical team may order more tests even with a normal EKG."
       },
       {
         "question": "Should I stop my medications before the EKG?",
-        "answer": "No. Take your medications as usual and bring the list, since some affect the tracing and the doctor factors that in."
+        "answer": "No. Take your medications as usual and bring the list, since some affect the tracing and the medical team factors that in."
       }
     ]
   },
@@ -577,7 +577,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "¿Me dan las imágenes o un reporte?",
-        "answer": "Sí. El médico le explica el resultado y le entregamos el reporte para su expediente o para llevarlo al especialista si hace falta."
+        "answer": "Sí. El equipo médico le explica el resultado y le entregamos el reporte para su expediente o para llevarlo al especialista si hace falta."
       }
     ],
     "faqsEn": [
@@ -591,7 +591,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "Will I get the images or a report?",
-        "answer": "Yes. The doctor explains the result and we give you the report for your records or to take to a specialist if needed."
+        "answer": "Yes. The medical team explains the result and we give you the report for your records or to take to a specialist if needed."
       }
     ]
   },
@@ -633,11 +633,11 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "¿Me sirven las vacunas que me pusieron en mi país?",
-        "answer": "Sí, si tienen fecha y el nombre de la vacuna. Tráigalas aunque estén en español o en una cartilla vieja; el médico las revisa y las anota en el formulario."
+        "answer": "Sí, si tienen fecha y el nombre de la vacuna. Tráigalas aunque estén en español o en una cartilla vieja; el equipo médico las revisa y las anota en el formulario."
       },
       {
         "question": "¿Y si mi prueba de tuberculosis da positivo?",
-        "answer": "Se pide una radiografía de tórax. Si sale normal, el trámite continúa. Si hay dudas, el médico le refiere al departamento de salud para completar la evaluación."
+        "answer": "Se pide una radiografía de tórax. Si sale normal, el trámite continúa. Si hay dudas, el equipo médico le refiere al departamento de salud para completar la evaluación."
       }
     ],
     "faqsEn": [
@@ -647,11 +647,11 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "Do vaccines from my home country count?",
-        "answer": "Yes, as long as they show the date and the vaccine name. Bring them even if they're in Spanish or on an old card; the doctor reviews them and records them on the form."
+        "answer": "Yes, as long as they show the date and the vaccine name. Bring them even if they're in Spanish or on an old card; the medical team reviews them and records them on the form."
       },
       {
         "question": "What if my TB test comes back positive?",
-        "answer": "A chest X-ray is ordered. If it's clear, the process continues. If there's any doubt, the doctor refers you to the health department to finish the evaluation."
+        "answer": "A chest X-ray is ordered. If it's clear, the process continues. If there's any doubt, the medical team refers you to the health department to finish the evaluation."
       }
     ]
   },
@@ -791,11 +791,11 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "¿Tengo que dejar mis medicamentos antes del procedimiento?",
-        "answer": "No los suspenda por su cuenta. Díganos cuáles toma, sobre todo anticoagulantes o aspirina, y el médico le indica qué hacer."
+        "answer": "No los suspenda por su cuenta. Díganos cuáles toma, sobre todo anticoagulantes o aspirina, y el equipo médico le indica qué hacer."
       },
       {
         "question": "¿Queda cicatriz?",
-        "answer": "Queda una cicatriz pequeña, que suele aclararse con los meses. El médico le explica antes cómo será según el tamaño y la zona."
+        "answer": "Queda una cicatriz pequeña, que suele aclararse con los meses. El equipo médico le explica antes cómo será según el tamaño y la zona."
       }
     ],
     "faqsEn": [
@@ -805,11 +805,11 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "Should I stop my medications before the procedure?",
-        "answer": "Don't stop them on your own. Tell us what you take, especially blood thinners or aspirin, and the doctor will tell you what to do."
+        "answer": "Don't stop them on your own. Tell us what you take, especially blood thinners or aspirin, and the medical team will tell you what to do."
       },
       {
         "question": "Will there be a scar?",
-        "answer": "A small scar remains that usually fades over the months. The doctor explains beforehand what to expect based on the size and location."
+        "answer": "A small scar remains that usually fades over the months. The medical team explains beforehand what to expect based on the size and location."
       }
     ]
   },
@@ -855,7 +855,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "¿Por qué se me vuelve a encarnar?",
-        "answer": "Suele deberse a la forma de cortarla, al calzado o a una uña curva de nacimiento. Si se repite en el mismo lado, el médico puede proponerle un tratamiento para ese borde."
+        "answer": "Suele deberse a la forma de cortarla, al calzado o a una uña curva de nacimiento. Si se repite en el mismo lado, el equipo médico puede proponerle un tratamiento para ese borde."
       }
     ],
     "faqsEn": [
@@ -869,7 +869,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "Why does it keep growing in?",
-        "answer": "Usually because of how it's trimmed, the footwear or a naturally curved nail. If it recurs on the same side, the doctor may suggest a treatment for that edge."
+        "answer": "Usually because of how it's trimmed, the footwear or a naturally curved nail. If it recurs on the same side, the medical team may suggest a treatment for that edge."
       }
     ]
   },

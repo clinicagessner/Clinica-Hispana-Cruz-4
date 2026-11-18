@@ -27,11 +27,11 @@ The medical exam is one of the green card requirements that raises the most ques
 
 **Gather your vaccine records.** Look for childhood cards, records from your home country and pharmacy printouts. If you were vaccinated in Texas, you can request your history from the state registry, [ImmTrac2](https://www.dshs.texas.gov/immunization-unit/immtrac2-texas-immunization-registry).
 
-**Download the form.** Fill in the applicant section at home, but **don't sign it**: you sign in front of the doctor.
+**Download the form.** Fill in the applicant section at home, but **don't sign it**: you sign in front of the civil surgeon.
 
 ## Step 2: the first visit
 
-During this appointment the doctor:
+During this appointment the medical team:
 
 1. Reviews your medical history and does a full physical, covering vision, hearing, skin, heart, lungs and mental health.
 2. Compares your records with the vaccines the [CDC](https://www.cdc.gov/immigrant-refugee-health/hcp/civil-surgeons/index.html) requires for your age.
@@ -43,16 +43,16 @@ Bring a photo ID and, if you take medications, the list.
 
 Almost always everything is normal and you go straight to step 5. Still, it helps to know what happens if not:
 
-- **Positive TB blood test.** It doesn't mean you're sick; many people born in Latin America carry a latent infection from years ago. What follows is a **chest X-ray** to look at the lungs. If it's clear, the case moves forward. If there's any doubt, the doctor refers you to the health department for a fuller evaluation.
-- **Positive syphilis or gonorrhea.** Antibiotic treatment must be completed before the doctor signs, and it's documented on the form. Once treated, neither is an obstacle to permanent residence.
+- **Positive TB blood test.** It doesn't mean you're sick; many people born in Latin America carry a latent infection from years ago. What follows is a **chest X-ray** to look at the lungs. If it's clear, the case moves forward. If there's any doubt, the medical team refers you to the health department for a fuller evaluation.
+- **Positive syphilis or gonorrhea.** Antibiotic treatment must be completed before the civil surgeon signs, and it's documented on the form. Once treated, neither is an obstacle to permanent residence.
 
 ## Step 4: missing vaccines
 
-The doctor will tell you exactly which ones you still need. Some can be given at the clinic and others at a pharmacy or health center; what matters is bringing proof. In certain situations a vaccine isn't required, for instance when it doesn't apply to your age or there's a medical contraindication. The doctor records that on the form.
+The medical team will tell you exactly which ones you still need. Some can be given at the clinic and others at a pharmacy or health center; what matters is bringing proof. In certain situations a vaccine isn't required, for instance when it doesn't apply to your age or there's a medical contraindication. The medical team records that on the form.
 
 ## Step 5: signature and envelope
 
-Once every result and vaccine is in place, you sign the form in front of the doctor, who signs it and seals it in an envelope. **Don't open it.** Keep a copy if one is given to you separately.
+Once every result and vaccine is in place, you sign the form in front of the civil surgeon, who signs it and seals it in an envelope. **Don't open it.** Keep a copy if one is given to you separately.
 
 ## Step 6: filing
 

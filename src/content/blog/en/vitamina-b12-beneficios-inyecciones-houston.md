@@ -56,7 +56,7 @@ None of these proves anything alone. Several together are a reason to ask for a 
 
 ## How it's diagnosed
 
-A blood sample measures the B12 level, usually alongside a complete blood count to look at the red cells. If the number lands in a gray zone, the doctor may order extra tests. Most people don't need to fast, but ask when the test is ordered.
+A blood sample measures the B12 level, usually alongside a complete blood count to look at the red cells. If the number lands in a gray zone, the medical team may order extra tests. Most people don't need to fast, but ask when the test is ordered.
 
 One caution: high doses of folic acid can hide the anemia caused by low B12 while nerve damage continues. That is why guessing with supplements is a bad idea.
 
@@ -70,7 +70,7 @@ It depends on **why** the level is low:
 | A diet low in B12, or metformin | High-dose pills or shots, depending on the level and symptoms |
 | Mild shortage with normal absorption | Pills plus diet changes |
 
-Shots raise the level faster and bypass the stomach. High-dose pills work for many people because a small share is absorbed even when digestion isn't ideal. The doctor decides with your result in hand.
+Shots raise the level faster and bypass the stomach. High-dose pills work for many people because a small share is absorbed even when digestion isn't ideal. The medical team decides with your result in hand.
 
 An honest note: if your B12 is already normal, an extra shot won't give you more energy. The benefit comes from correcting a real shortage.
 

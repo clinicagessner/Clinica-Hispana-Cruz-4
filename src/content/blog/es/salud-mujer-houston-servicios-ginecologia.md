@@ -43,7 +43,7 @@ Entre el trabajo, los hijos y la casa, la salud propia suele quedar al final de 
 ## De los 50 en adelante
 
 - Mamografía cada dos años hasta los 74.
-- **Detección de cáncer de colon** desde los 45, con la prueba que le indique el médico.
+- **Detección de cáncer de colon** desde los 45, con la prueba que le indique el equipo médico.
 - **Densidad ósea** a partir de los 65, o antes si hay factores de riesgo.
 - Cualquier sangrado vaginal después de la menopausia debe revisarse pronto.
 
@@ -65,4 +65,4 @@ Damos [atención ginecológica](/services/ginecologia) en español, en un solo l
 - [Ultrasonido](/services/ultrasonido) y [análisis de sangre](/services/examenes-sangre)
 - Pruebas de [infecciones de transmisión sexual](/services/enfermedades-transmision-sexual)
 
-Venga sin cita, de 9 AM a 9 PM, a 10100 Beechnut St, Suite 240. En [promociones](/promociones) publicamos chequeos de la mujer con precio fijo. Y si busca cómo encontrar ginecología en español, lea nuestra guía sobre [ginecólogos hispanos en Houston](/blog/ginecologos-hispanos-houston-hablan-espanol).
+Venga sin cita, de 9 AM a 9 PM, a 10100 Beechnut St, Suite 240. En [promociones](/promociones) publicamos chequeos de la mujer. Y si busca cómo encontrar ginecología en español, lea nuestra guía sobre [ginecólogos hispanos en Houston](/blog/ginecologos-hispanos-houston-hablan-espanol).

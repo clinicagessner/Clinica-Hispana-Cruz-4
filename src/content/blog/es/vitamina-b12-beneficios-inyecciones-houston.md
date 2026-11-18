@@ -58,7 +58,7 @@ Ninguno de estos síntomas confirma nada por sí solo. Varios juntos son motivo 
 
 ## Cómo se diagnostica
 
-Con una muestra de sangre que mide el nivel de B12, casi siempre junto a una biometría hemática para ver los glóbulos rojos. Si el resultado queda en una zona dudosa, el médico puede pedir pruebas adicionales. No hace falta ayuno en la mayoría de los casos, pero pregunte al hacer el pedido.
+Con una muestra de sangre que mide el nivel de B12, casi siempre junto a una biometría hemática para ver los glóbulos rojos. Si el resultado queda en una zona dudosa, el equipo médico puede pedir pruebas adicionales. No hace falta ayuno en la mayoría de los casos, pero pregunte al hacer el pedido.
 
 Un detalle importante: tomar ácido fólico en dosis altas puede ocultar la anemia de la falta de B12 mientras el daño a los nervios sigue. Por eso no conviene suplementarse a ciegas.
 
@@ -72,7 +72,7 @@ Depende de **por qué** falta la B12:
 | Dieta pobre en B12 o metformina | Pastillas en dosis altas o inyecciones, según el nivel y los síntomas |
 | Deficiencia leve sin problema de absorción | Pastillas y cambios en la alimentación |
 
-Las inyecciones suben el nivel más rápido y no dependen del estómago. Las pastillas en dosis altas funcionan en muchas personas porque una pequeña parte se absorbe aunque la digestión no sea perfecta. La decisión la toma el médico con su resultado en la mano.
+Las inyecciones suben el nivel más rápido y no dependen del estómago. Las pastillas en dosis altas funcionan en muchas personas porque una pequeña parte se absorbe aunque la digestión no sea perfecta. La decisión la toma el equipo médico con su resultado en la mano.
 
 Una aclaración honesta: si su B12 está normal, una inyección extra no le dará más energía. El beneficio está en corregir una falta real.
 

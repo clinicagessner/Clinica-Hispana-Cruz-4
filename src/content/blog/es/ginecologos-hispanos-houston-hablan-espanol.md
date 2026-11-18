@@ -39,7 +39,7 @@ Saber esta diferencia ahorra dinero: muchas visitas de rutina no requieren espec
 
 ## Preguntas para la primera llamada
 
-- ¿El médico habla español, o la consulta es con intérprete?
+- ¿El equipo médico habla español, o la consulta es con intérprete?
 - ¿Cuánto cuesta la consulta y cuánto el Papanicolaou o el cultivo?
 - ¿Toman las muestras ahí mismo o me mandan a otro laboratorio?
 - ¿Cómo y cuándo me entregan los resultados?
@@ -47,7 +47,7 @@ Saber esta diferencia ahorra dinero: muchas visitas de rutina no requieren espec
 
 ## Cada cuánto hacerse el Papanicolaou
 
-La pauta del [USPSTF](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/cervical-cancer-screening), el panel federal de prevención, depende de la edad. Entre los 21 y los 29 años basta una citología cada tres años. De los 30 a los 65 hay tres caminos igual de válidos: seguir con la citología trienal, pasar a la prueba del virus del papiloma humano cada lustro o combinar ambas en ese mismo intervalo. Después de los 65, quien tenga un historial de resultados normales puede dejar de hacérsela, pero esa decisión se toma con el médico.
+La pauta del [USPSTF](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/cervical-cancer-screening), el panel federal de prevención, depende de la edad. Entre los 21 y los 29 años basta una citología cada tres años. De los 30 a los 65 hay tres caminos igual de válidos: seguir con la citología trienal, pasar a la prueba del virus del papiloma humano cada lustro o combinar ambas en ese mismo intervalo. Después de los 65, quien tenga un historial de resultados normales puede dejar de hacérsela, pero esa decisión se toma con el equipo médico.
 
 Tener síntomas cambia el calendario: un sangrado anormal o un flujo raro se revisa cuando aparece, no cuando toca.
 
@@ -62,4 +62,4 @@ Nuestra clínica ofrece [atención ginecológica](/services/ginecologia) 100 % e
 
 Si un resultado o un síntoma necesita algo más, le explicamos con claridad el siguiente paso, con sus estudios en la mano.
 
-Revise la página de [promociones](/promociones): a veces hay paquetes de chequeo de la mujer con precio fijo. Venga sin cita los siete días, de 9 AM a 9 PM, a 10100 Beechnut St, Suite 240, o pregunte por WhatsApp al (281) 741-2157.
+Revise la página de [promociones](/promociones): a veces hay paquetes de chequeo de la mujer. Venga sin cita los siete días, de 9 AM a 9 PM, a 10100 Beechnut St, Suite 240, o pregunte por WhatsApp al (281) 741-2157.

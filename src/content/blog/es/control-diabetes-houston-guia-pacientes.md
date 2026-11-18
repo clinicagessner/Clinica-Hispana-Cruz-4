@@ -29,7 +29,7 @@ La glucosa del glucómetro cambia de hora en hora. La **hemoglobina A1C** es un 
 - **5.7 a 6.4 %**: prediabetes, la etapa en la que todavía se puede revertir con cambios de hábitos
 - **6.5 % o más**: diabetes
 
-Para muchas personas que ya tienen diabetes la meta es quedar **por debajo de 7 %**, aunque el médico la ajusta según la edad y otras condiciones. Si su A1C está alta, se revisa cada tres meses; cuando se estabiliza, dos veces al año suele bastar.
+Para muchas personas que ya tienen diabetes la meta es quedar **por debajo de 7 %**, aunque el equipo médico la ajusta según la edad y otras condiciones. Si su A1C está alta, se revisa cada tres meses; cuando se estabiliza, dos veces al año suele bastar.
 
 ## Las revisiones de cada año
 

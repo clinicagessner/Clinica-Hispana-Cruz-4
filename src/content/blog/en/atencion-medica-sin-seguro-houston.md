@@ -13,7 +13,6 @@ keywords:
   - "doctor without insurance Houston"
   - "affordable healthcare Houston"
   - "no insurance clinic Houston"
-  - "cheap doctor Houston TX"
   - "uninsured medical care Houston"
 ---
 
@@ -59,7 +58,7 @@ Depending on immigration status, some households can get a subsidized plan; elig
 - **Several services in one stop:** [lab work](/en/services/examenes-sangre), [ultrasound](/en/services/ultrasonido), an [EKG](/en/services/electrocardiograma) and an [e-prescription](/en/services/farmacia) sent to the pharmacy you prefer.
 - **Payment** by cash, debit or credit card.
 
-Also check our [promotions page](/en/promociones), where we post fixed-price packages such as checkups that bundle lab work with a consultation.
+Also check our [promotions page](/en/promociones), where we post packages such as checkups that bundle lab work with a consultation.
 
 ## Four ways to spend less on your health
 

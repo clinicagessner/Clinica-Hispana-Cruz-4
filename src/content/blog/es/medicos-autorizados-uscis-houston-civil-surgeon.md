@@ -39,7 +39,7 @@ El contenido lo fijan las [Instrucciones Técnicas de los CDC para Civil Surgeon
 - **Historial y examen físico**, incluida la salud mental y el consumo de sustancias.
 - **Tuberculosis:** normalmente con un análisis de sangre a partir de los 2 años.
 - **Sífilis y gonorrea**, con pruebas de sangre y orina en los rangos de edad que marcan los CDC.
-- **Vacunas:** el médico compara su cartilla con la lista que corresponde a su edad y anota cuáles faltan.
+- **Vacunas:** el equipo médico compara su cartilla con la lista que corresponde a su edad y anota cuáles faltan.
 
 Las pruebas de laboratorio toman unos días. El formulario se entrega completo cuando están todos los resultados.
 
@@ -54,7 +54,7 @@ Las pruebas de laboratorio toman unos días. El formulario se entrega completo c
 ## Errores que retrasan una Green Card
 
 - **Hacerse el examen demasiado pronto.** USCIS fija cuánto tiempo puede pasar entre la firma del médico y la presentación de su solicitud, y esa regla ha cambiado en los últimos años. Antes de pedir su turno, lea la regla actual en [uscis.gov/i-693](https://www.uscis.gov/i-693).
-- **Abrir el sobre.** Si el médico se lo entrega sellado, así debe llegar a USCIS; abierto, lo rechazan.
+- **Abrir el sobre.** Si el Civil Surgeon se lo entrega sellado, así debe llegar a USCIS; abierto, lo rechazan.
 - **Datos que no coinciden.** Nombre y fecha de nacimiento deben estar escritos igual que en el resto de su expediente.
 - **Llegar sin comprobantes de vacunas** y terminar repitiendo dosis que ya tenía.
 

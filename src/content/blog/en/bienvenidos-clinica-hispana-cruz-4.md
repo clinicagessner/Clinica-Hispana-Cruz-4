@@ -49,7 +49,7 @@ The full catalog, with what each service includes, is on our [services page](/en
 
 ## Built for people short on time or coverage
 
-Many people in the area work long shifts or weekends, which is why we stay open until 9 at night every day. And since much of the community pays out of pocket, we tell you the cost before any visit or test. On the [promotions page](/en/promociones) we post fixed-price packages that bundle lab work with a consultation.
+Many people in the area work long shifts or weekends, which is why we stay open until 9 at night every day. And since much of the community pays out of pocket, we tell you the cost before any visit or test. On the [promotions page](/en/promociones) we post packages that bundle lab work with a consultation.
 
 ## Accessibility
 

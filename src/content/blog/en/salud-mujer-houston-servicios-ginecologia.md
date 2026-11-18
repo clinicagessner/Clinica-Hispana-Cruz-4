@@ -65,4 +65,4 @@ We provide [gynecology care](/en/services/ginecologia) in Spanish, all in one pl
 - [Ultrasound](/en/services/ultrasonido) and [blood work](/en/services/examenes-sangre)
 - [STD testing](/en/services/enfermedades-transmision-sexual)
 
-Walk in between 9 AM and 9 PM at 10100 Beechnut St, Suite 240. Our [promotions page](/en/promociones) lists fixed-price women's checkups. And if you're looking for Spanish-language gynecology, read our guide to [Hispanic gynecologists in Houston](/en/blog/ginecologos-hispanos-houston-hablan-espanol).
+Walk in between 9 AM and 9 PM at 10100 Beechnut St, Suite 240. Our [promotions page](/en/promociones) lists women's checkups. And if you're looking for Spanish-language gynecology, read our guide to [Hispanic gynecologists in Houston](/en/blog/ginecologos-hispanos-houston-hablan-espanol).

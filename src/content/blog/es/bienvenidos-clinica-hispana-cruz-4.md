@@ -49,7 +49,7 @@ El catálogo completo, con lo que incluye cada servicio, está en la [página de
 
 ## Pensado para quien no tiene tiempo ni seguro
 
-En la zona mucha gente trabaja turnos largos o fines de semana. Por eso abrimos a diario hasta las 9 de la noche. Y como gran parte de la comunidad paga de su bolsillo, le decimos el costo antes de cualquier consulta o examen. En la sección de [promociones](/promociones) publicamos paquetes con precio fijo que combinan análisis y consulta.
+En la zona mucha gente trabaja turnos largos o fines de semana. Por eso abrimos a diario hasta las 9 de la noche. Y como gran parte de la comunidad paga de su bolsillo, le decimos el costo antes de cualquier consulta o examen. En la sección de [promociones](/promociones) publicamos paquetes que combinan análisis y consulta.
 
 ## Accesibilidad
 

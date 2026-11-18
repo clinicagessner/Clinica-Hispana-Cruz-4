@@ -29,7 +29,7 @@ A glucometer reading changes hour to hour. **Hemoglobin A1C** is a blood test th
 - **5.7 to 6.4%**: prediabetes, the stage where lifestyle changes can still turn things around
 - **6.5% or higher**: diabetes
 
-For many people who already have diabetes the goal is **under 7%**, though the doctor adjusts it for age and other conditions. If your A1C is high it gets rechecked every three months; once stable, twice a year is usually enough.
+For many people who already have diabetes the goal is **under 7%**, though the medical team adjusts it for age and other conditions. If your A1C is high it gets rechecked every three months; once stable, twice a year is usually enough.
 
 ## Yearly checks
 

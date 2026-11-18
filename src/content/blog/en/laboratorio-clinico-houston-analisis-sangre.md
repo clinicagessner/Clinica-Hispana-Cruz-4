@@ -27,7 +27,7 @@ keywords:
 
 **Metabolic panel.** Glucose, kidney function (creatinine), body salts such as sodium and potassium and, in the comprehensive version, the liver. It gives an overall view of how several organs are working at once.
 
-**Lipid panel.** Measures the fats in your blood: the protective HDL, the artery-clogging LDL, triglycerides and the overall total. The doctor uses them to size up heart risk.
+**Lipid panel.** Measures the fats in your blood: the protective HDL, the artery-clogging LDL, triglycerides and the overall total. The medical team uses them to size up heart risk.
 
 **Hemoglobin A1C.** Average blood sugar over the past three months, key for diagnosing and tracking diabetes. Our [diabetes control guide](/en/blog/control-diabetes-houston-guia-pacientes) covers it in depth.
 
@@ -41,7 +41,7 @@ It depends on the test:
 
 - **Yes, 8 to 12 hours** for fasting glucose and often for triglycerides. Water only.
 - **No** for A1C, the CBC or TSH.
-- **Medications** are usually taken as normal, with water, unless the doctor says otherwise. If you use insulin or diabetes pills, ask how to adjust them that day to avoid a low.
+- **Medications** are usually taken as normal, with water, unless the medical team says otherwise. If you use insulin or diabetes pills, ask how to adjust them that day to avoid a low.
 
 A handy trick: get your blood drawn early in the morning so the fast overlaps with your sleep. Drinking water makes the vein easier to find.
 
@@ -51,12 +51,12 @@ Each line of the report has three parts: the **test name**, **your value** and t
 
 A value just outside the range doesn't always mean illness: what you ate, hard exercise the day before or a cold can nudge it. What matters is the whole picture and how it compares with earlier tests. That's why it pays to keep your results and bring them to every visit.
 
-Good questions for the doctor: which value concerns you? Should it be repeated? When should I have this test again?
+Good questions for the medical team: which value concerns you? Should it be repeated? When should I have this test again?
 
 ## How often should you get lab work?
 
-- **Healthy adults:** the doctor decides what to order at the yearly checkup based on age and history.
-- **If you live with a chronic condition** such as diabetes, the doctor usually repeats labs two to four times a year as part of your [chronic care](/en/services/condiciones-cronicas).
+- **Healthy adults:** the medical team decides what to order at the yearly checkup based on age and history.
+- **If you live with a chronic condition** such as diabetes, the medical team usually repeats labs two to four times a year as part of your [chronic care](/en/services/condiciones-cronicas).
 - **With symptoms:** when they appear, without waiting for the checkup.
 
 ## The lab at Clínica Hispana Cruz 4
@@ -67,4 +67,4 @@ Our [clinical lab](/en/services/examenes-sangre) is inside the clinic, so the vi
 - We let you know when your results are ready and the medical team walks you through them
 - A clear price before the test, no insurance needed
 
-No booking required: Suite 240 at 10100 Beechnut St sees patients all week. Our [promotions page](/en/promociones) sometimes lists fixed-price lab-and-visit packages.
+No booking required: Suite 240 at 10100 Beechnut St sees patients all week. Our [promotions page](/en/promociones) sometimes lists lab-and-visit packages.

@@ -39,7 +39,7 @@ Knowing the difference saves money: many routine visits don't call for a special
 
 ## Questions for the first phone call
 
-- Does the doctor speak Spanish, or is the visit through an interpreter?
+- Does the medical team speak Spanish, or is the visit through an interpreter?
 - What does the visit cost, and what about the Pap smear or culture?
 - Are samples taken on site, or will I be sent to another lab?
 - How and when do I get my results?
@@ -47,7 +47,7 @@ Knowing the difference saves money: many routine visits don't call for a special
 
 ## How often to get a Pap smear
 
-Guidance from the [USPSTF](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/cervical-cancer-screening), the federal prevention panel, depends on age. From 21 through 29, a Pap test every three years is enough. From 30 to 65 there are three equally valid paths: keep the three-year Pap, switch to human papillomavirus testing every five years, or pair both on that same five-year cycle. Past 65, women with a history of normal results may stop, but that call is made with the doctor.
+Guidance from the [USPSTF](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/cervical-cancer-screening), the federal prevention panel, depends on age. From 21 through 29, a Pap test every three years is enough. From 30 to 65 there are three equally valid paths: keep the three-year Pap, switch to human papillomavirus testing every five years, or pair both on that same five-year cycle. Past 65, women with a history of normal results may stop, but that call is made with the medical team.
 
 Symptoms change the schedule: abnormal bleeding or unusual discharge gets checked when it shows up, not when the next screening is due.
 
@@ -62,4 +62,4 @@ Our clinic provides [gynecology care](/en/services/ginecologia) entirely in Span
 
 If a result or symptom needs something more, we explain the next step plainly, with your test results in hand.
 
-Check the [promotions page](/en/promociones): we sometimes run fixed-price women's checkup packages. Walk in any day from 9 AM to 9 PM at 10100 Beechnut St, Suite 240, or ask on WhatsApp at (281) 741-2157.
+Check the [promotions page](/en/promociones): we sometimes run women's checkup packages. Walk in any day from 9 AM to 9 PM at 10100 Beechnut St, Suite 240, or ask on WhatsApp at (281) 741-2157.

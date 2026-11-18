@@ -27,10 +27,10 @@ Anyone applying for permanent residence from inside the United States will soone
 USCIS runs a public search tool at [my.uscis.gov/findadoctor](https://my.uscis.gov/findadoctor).
 
 1. Enter your home or work ZIP code (77072 covers the Alief and Sharpstown area, for example).
-2. Check the doctor's name and the exact office address.
+2. Check the medical team's name and the exact office address.
 3. If a clinic calls itself "authorized", ask for the name of the physician who will sign and look that person up yourself.
 
-The designation is personal: it belongs to the doctor, not the building. That's why it pays to confirm who will see you.
+The designation is personal: it belongs to the physician, not the building. That's why it pays to confirm who will see you.
 
 ## What the I-693 exam covers
 
@@ -39,7 +39,7 @@ The content is set by the [CDC Technical Instructions for Civil Surgeons](https:
 - **History and physical exam**, including mental health and substance use.
 - **Tuberculosis:** usually a blood test from age 2 on.
 - **Syphilis and gonorrhea**, with blood and urine tests in the age ranges the CDC specifies.
-- **Vaccinations:** the doctor compares your record against the list for your age and notes any that are missing.
+- **Vaccinations:** the medical team compares your record against the list for your age and notes any that are missing.
 
 Lab tests take a few days. The form is handed over complete once every result is in.
 
@@ -53,8 +53,8 @@ Lab tests take a few days. The form is handed over complete once every result is
 
 ## Mistakes that hold up a Green Card
 
-- **Getting the exam too early.** USCIS limits how much time can pass between the doctor's signature and filing your application, and that rule has changed in recent years. Read the current one at [uscis.gov/i-693](https://www.uscis.gov/i-693) before booking.
-- **Opening the envelope.** If the doctor hands it to you sealed, it must reach USCIS that way; opened, it gets rejected.
+- **Getting the exam too early.** USCIS limits how much time can pass between the civil surgeon's signature and filing your application, and that rule has changed in recent years. Read the current one at [uscis.gov/i-693](https://www.uscis.gov/i-693) before booking.
+- **Opening the envelope.** If the civil surgeon hands it to you sealed, it must reach USCIS that way; opened, it gets rejected.
 - **Mismatched details.** Your name and date of birth must be written exactly as in the rest of your file.
 - **Showing up without vaccine records** and ending up repeating doses you already had.
 

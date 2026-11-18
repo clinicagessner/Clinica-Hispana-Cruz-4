@@ -31,7 +31,7 @@ El examen médico es uno de los requisitos que más dudas genera al tramitar la 
 
 ## Paso 2: la primera visita
 
-En esta consulta el médico:
+En esta consulta el equipo médico:
 
 1. Revisa su historial médico y le hace un examen físico completo, que incluye vista, oído, piel, corazón, pulmones y salud mental.
 2. Compara sus comprobantes con las vacunas que exigen los [CDC](https://www.cdc.gov/immigrant-refugee-health/hcp/civil-surgeons/index.html) para su edad.
@@ -44,11 +44,11 @@ Traiga identificación con foto y, si toma medicamentos, la lista.
 Casi siempre todo sale normal y se pasa directo al paso 5. Pero conviene saber qué ocurre si no:
 
 - **Tuberculosis positiva en sangre.** No significa que esté enfermo; muchas personas nacidas en Latinoamérica tienen una infección latente de hace años. Lo que sigue es una **placa del pecho** para revisar los pulmones. Si la placa es normal, el caso sigue adelante. Si hay dudas, el médico le refiere al departamento de salud para una evaluación más completa.
-- **Sífilis o gonorrea positivas.** Hay que completar el tratamiento con antibióticos antes de que el médico firme, y queda documentado en el formulario. Una vez tratadas, no son un obstáculo para la residencia.
+- **Sífilis o gonorrea positivas.** Hay que completar el tratamiento con antibióticos antes de que el Civil Surgeon firme, y queda documentado en el formulario. Una vez tratadas, no son un obstáculo para la residencia.
 
 ## Paso 4: las vacunas que falten
 
-El médico le dirá con precisión cuáles le faltan. Algunas se pueden aplicar en la clínica y otras en una farmacia o en su centro de salud; lo importante es traer el comprobante. Hay situaciones en las que una vacuna no se exige, por ejemplo si no corresponde a su edad o hay una contraindicación médica. El médico lo anota en el formulario.
+El equipo médico le dirá con precisión cuáles le faltan. Algunas se pueden aplicar en la clínica y otras en una farmacia o en su centro de salud; lo importante es traer el comprobante. Hay situaciones en las que una vacuna no se exige, por ejemplo si no corresponde a su edad o hay una contraindicación médica. El equipo médico lo anota en el formulario.
 
 ## Paso 5: la firma y el sobre
 

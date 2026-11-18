@@ -41,7 +41,7 @@ Depende del estudio:
 
 - **Sí, entre 8 y 12 horas** para glucosa en ayunas y, muchas veces, para triglicéridos. Solo agua.
 - **No hace falta** para la A1C, la biometría hemática ni la TSH.
-- **Los medicamentos** normalmente se toman como siempre, con agua, salvo que el médico le diga otra cosa. Si usa insulina o pastillas para el azúcar, pregunte cómo ajustarlas ese día para evitar un bajón.
+- **Los medicamentos** normalmente se toman como siempre, con agua, salvo que el equipo médico le diga otra cosa. Si usa insulina o pastillas para el azúcar, pregunte cómo ajustarlas ese día para evitar un bajón.
 
 Un buen truco: hágase la toma temprano por la mañana, así el ayuno coincide con las horas de sueño. Tomar agua ayuda a que la vena se encuentre más fácil.
 
@@ -51,12 +51,12 @@ Cada renglón del reporte tiene tres partes: el **nombre** del estudio, **su val
 
 Un valor apenas fuera de rango no siempre significa enfermedad: pudo influir lo que comió, un ejercicio fuerte el día anterior o un resfriado. Lo que importa es el conjunto y cómo se compara con análisis anteriores. Por eso conviene guardar sus resultados y llevarlos a cada consulta.
 
-Preguntas útiles para el médico: ¿qué valor le preocupa?, ¿hay que repetirlo?, ¿cuándo me vuelvo a hacer este estudio?
+Preguntas útiles para el equipo médico: ¿qué valor le preocupa?, ¿hay que repetirlo?, ¿cuándo me vuelvo a hacer este estudio?
 
 ## ¿Cada cuánto hacerse análisis?
 
-- **Adultos sanos:** según la edad y los antecedentes, el médico decide qué pedir en el chequeo anual.
-- **Si vive con una enfermedad crónica** como la diabetes, el médico suele repetirlos dos a cuatro veces al año dentro de su [control de condiciones crónicas](/services/condiciones-cronicas).
+- **Adultos sanos:** según la edad y los antecedentes, el equipo médico decide qué pedir en el chequeo anual.
+- **Si vive con una enfermedad crónica** como la diabetes, el equipo médico suele repetirlos dos a cuatro veces al año dentro de su [control de condiciones crónicas](/services/condiciones-cronicas).
 - **Con síntomas:** cuando aparecen, sin esperar al chequeo.
 
 ## El laboratorio de Clínica Hispana Cruz 4
@@ -67,4 +67,4 @@ Tenemos [laboratorio clínico](/services/examenes-sangre) dentro de la clínica,
 - Le avisamos cuando sus resultados estén listos y el equipo médico se los explica
 - Precio claro antes del estudio, sin necesidad de seguro
 
-No hace falta reservar: la Suite 240 del 10100 de Beechnut St recibe pacientes toda la semana. En [promociones](/promociones) a veces hay paquetes de análisis con consulta a precio fijo.
+No hace falta reservar: la Suite 240 del 10100 de Beechnut St recibe pacientes toda la semana. En [promociones](/promociones) a veces hay paquetes de análisis con consulta.

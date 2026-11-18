@@ -13,7 +13,6 @@ keywords:
   - "médico sin seguro Houston"
   - "clínica sin seguro Houston TX"
   - "atención médica accesible Houston"
-  - "doctor barato Houston"
   - "healthcare no insurance Houston"
 ---
 
@@ -59,7 +58,7 @@ Si su situación migratoria lo permite, en [CuidadoDeSalud.gov](https://www.cuid
 - **Varios servicios en una sola parada:** [laboratorio](/services/examenes-sangre), [ultrasonido](/services/ultrasonido), [electrocardiograma](/services/electrocardiograma) y [receta electrónica](/services/farmacia) enviada a la farmacia que usted prefiera.
 - **Pago** en efectivo o con tarjeta de débito o crédito.
 
-Revise también la página de [promociones](/promociones): ahí publicamos paquetes con precio fijo, por ejemplo chequeos que incluyen análisis y consulta.
+Revise también la página de [promociones](/promociones): ahí publicamos paquetes, por ejemplo chequeos que incluyen análisis y consulta.
 
 ## Cuatro formas de gastar menos en su salud
 
