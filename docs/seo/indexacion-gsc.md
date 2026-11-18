@@ -6,13 +6,24 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispanacruz4.com/` (prefijo de URL), cuenta **clinicahispanacruz4@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-17; URL Inspection API, datos ANTIGUOS del 2026-11-16: antiguos (2026-11-16): --sin-fetch):** 73 de 104 URLs del sitemap indexadas · 31 sin indexar (17 descubierta sin indexar · 10 desconocida · 4 rastreada sin indexar).
+**Estado (actualizado 2026-11-18; URL Inspection API, datos ANTIGUOS del 2026-11-16: antiguos (2026-11-16): --sin-fetch):** 73 de 106 URLs del sitemap indexadas · 33 sin indexar (17 descubierta sin indexar · 10 desconocida · 4 rastreada sin indexar · 2 sin datos).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 0 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 0 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 9 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-31 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-18).
-Nada pendiente: todas las URLs están indexadas y Google ya rastreó los cambios.
+24 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-20).
 <!-- /tandas:auto -->
+
+## Tanda 55
+
+- [ ] https://www.clinicahispanacruz4.com/services/cirugias-menores  — cambiada 2026-09-30 · desconocida · pedida 2026-11-04 · 1 impr.
+- [ ] https://www.clinicahispanacruz4.com/services/drenaje-abscesos  — cambiada 2026-09-30 · desconocida · pedida 2026-11-04 · 1 impr.
+- [ ] https://www.clinicahispanacruz4.com/services/anticonceptivos  — cambiada 2026-09-30 · descubierta sin indexar · pedida 2026-11-04 · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/services/curacion-heridas  — cambiada 2026-09-30 · descubierta sin indexar · pedida 2026-11-04 · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/services/electrocardiograma  — cambiada 2026-09-30 · descubierta sin indexar · pedida 2026-11-04 · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/services/enfermedades-respiratorias  — cambiada 2026-09-30 · descubierta sin indexar · pedida 2026-11-04 · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/services/sueros-vitaminados  — cambiada 2026-11-03 · desconocida · pedida 2026-11-04 · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/en/services/condiciones-cronicas  — cambiada 2026-09-30 · desconocida · pedida 2026-11-04 · 1 impr.
+- [ ] https://www.clinicahispanacruz4.com/en/services/sueros-vitaminados  — cambiada 2026-11-03 · descubierta sin indexar · pedida 2026-11-04 · 0 impr.
 
 ## Notas anteriores (texto previo del archivo, sin actualizar)
 
@@ -26,11 +37,6 @@ esté terminado todo el contenido (B3). No proponerlo antes. Las tandas se van a
 Sitemap `sitemap.xml` enviado por última vez el 2026-06-21 (0 errores). Detalle en `seo-data/2026-09-27/index-status.json`.
 
 ## Historial (tandas pedidas)
-
-## Tanda 54 — cambios del 2026-11-17 (post del blog semanal)  📨 ENVIADA 17/11/2026  ✅ PEDIDA 17/11/2026
-
-- [x] https://www.clinicahispanacruz4.com/blog/inyeccion-anticonceptiva-cada-cuanto-que-esperar  — cambiada 2026-11-17
-- [x] https://www.clinicahispanacruz4.com/en/blog/inyeccion-anticonceptiva-cada-cuanto-que-esperar  — cambiada 2026-11-17
 
 ## Tanda 1  ✅ PEDIDA 05/10/2026
 
@@ -294,3 +300,8 @@ Sitemap `sitemap.xml` enviado por última vez el 2026-06-21 (0 errores). Detalle
 
 - [x] https://www.clinicahispanacruz4.com/services/examenes-sangre  — cambiada 2026-09-30 · desconocida · pedida 2026-11-02 · 5 impr.
 - [x] https://www.clinicahispanacruz4.com/services/enfermedades-transmision-sexual  — cambiada 2026-09-30 · rastreada 2026-06-21 · rastreada sin indexar · pedida 2026-11-02 · 3 impr.
+
+## Tanda 54 — cambios del 2026-11-17 (post del blog semanal)  📨 ENVIADA 17/11/2026  ✅ PEDIDA 17/11/2026
+
+- [x] https://www.clinicahispanacruz4.com/blog/inyeccion-anticonceptiva-cada-cuanto-que-esperar  — cambiada 2026-11-17
+- [x] https://www.clinicahispanacruz4.com/en/blog/inyeccion-anticonceptiva-cada-cuanto-que-esperar  — cambiada 2026-11-17
