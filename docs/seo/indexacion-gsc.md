@@ -99,7 +99,6 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 ## Tanda 64 — cambios del 2026-11-21 (error de GSC al pedir el 20/11)
 
-- [ ] https://www.clinicahispanacruz4.com/en/services/cirugias-menores  — cambiada 2026-11-21
 - [ ] https://www.clinicahispanacruz4.com/services/electrocardiograma  — cambiada 2026-11-21
 
 ## Tanda 63
