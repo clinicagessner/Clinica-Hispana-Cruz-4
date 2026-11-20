@@ -13,18 +13,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 7 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-20).
 <!-- /tandas:auto -->
 
-## Tanda 56 — cambios del 2026-11-18 (textos viejos de §9: equipo médico, sin especialistas ni precio fijo)  📨 ENVIADA 19/11/2026
+## Tanda 56 — cambios del 2026-11-18 (textos viejos de §9: equipo médico, sin especialistas ni precio fijo)  📨 ENVIADA 19/11/2026  ✅ PEDIDA 20/11/2026
 
-- [ ] https://www.clinicahispanacruz4.com/services/anticonceptivos  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanacruz4.com/en/services/anticonceptivos  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanacruz4.com/services/cirugias-menores  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanacruz4.com/en/services/cirugias-menores  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanacruz4.com/services/condiciones-cronicas  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanacruz4.com/en/services/condiciones-cronicas  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanacruz4.com/services/drenaje-abscesos  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanacruz4.com/en/services/drenaje-abscesos  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanacruz4.com/services/electrocardiograma  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanacruz4.com/en/services/electrocardiograma  — cambiada 2026-11-18
+- [x] https://www.clinicahispanacruz4.com/services/anticonceptivos  — cambiada 2026-11-18
+- [x] https://www.clinicahispanacruz4.com/en/services/anticonceptivos  — cambiada 2026-11-18
+- [x] https://www.clinicahispanacruz4.com/services/cirugias-menores  — cambiada 2026-11-18
+- [x] https://www.clinicahispanacruz4.com/en/services/cirugias-menores  — cambiada 2026-11-18
+- [x] https://www.clinicahispanacruz4.com/services/condiciones-cronicas  — cambiada 2026-11-18
+- [x] https://www.clinicahispanacruz4.com/en/services/condiciones-cronicas  — cambiada 2026-11-18
+- [x] https://www.clinicahispanacruz4.com/services/drenaje-abscesos  — cambiada 2026-11-18
+- [x] https://www.clinicahispanacruz4.com/en/services/drenaje-abscesos  — cambiada 2026-11-18
+- [x] https://www.clinicahispanacruz4.com/services/electrocardiograma  — cambiada 2026-11-18
+- [x] https://www.clinicahispanacruz4.com/en/services/electrocardiograma  — cambiada 2026-11-18
 
 ## Tanda 57 — cambios del 2026-11-18 (textos viejos de §9: equipo médico, sin especialistas ni precio fijo)
 
@@ -96,6 +96,11 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanacruz4.com/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-11-18
 - [ ] https://www.clinicahispanacruz4.com/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-11-18
 - [ ] https://www.clinicahispanacruz4.com/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-11-18
+
+## Tanda 64 — cambios del 2026-11-21 (error de GSC al pedir el 20/11)
+
+- [ ] https://www.clinicahispanacruz4.com/en/services/cirugias-menores  — cambiada 2026-11-21
+- [ ] https://www.clinicahispanacruz4.com/services/electrocardiograma  — cambiada 2026-11-21
 
 ## Tanda 63
 
