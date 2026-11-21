@@ -6,15 +6,16 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispanacruz4.com/` (prefijo de URL), cuenta **clinicahispanacruz4@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-20; URL Inspection API, datos ANTIGUOS del 2026-11-16: antiguos (2026-11-16): --sin-fetch):** 73 de 106 URLs del sitemap indexadas · 33 sin indexar (17 descubierta sin indexar · 10 desconocida · 4 rastreada sin indexar · 2 sin datos).
+**Estado (actualizado 2026-11-21; URL Inspection API, datos ANTIGUOS del 2026-11-16: antiguos (2026-11-16): --sin-fetch):** 73 de 106 URLs del sitemap indexadas · 33 sin indexar (17 descubierta sin indexar · 10 desconocida · 4 rastreada sin indexar · 2 sin datos).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 0 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 6 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 0 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 7 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-10 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-21).
+9 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-25).
 <!-- /tandas:auto -->
 
-## Tanda 57 — cambios del 2026-11-18 (textos viejos de §9: equipo médico, sin especialistas ni precio fijo)
+## Tanda 57 — cambios del 2026-11-18 (textos viejos de §9: equipo médico, sin especialistas ni precio fijo)  📨 ENVIADA 21/11/2026
 
+- [ ] https://www.clinicahispanacruz4.com/services/electrocardiograma  — cambiada 2026-11-21
 - [ ] https://www.clinicahispanacruz4.com/services/enfermedades-respiratorias  — cambiada 2026-11-18
 - [ ] https://www.clinicahispanacruz4.com/en/services/enfermedades-respiratorias  — cambiada 2026-11-18
 - [ ] https://www.clinicahispanacruz4.com/services/enfermedades-transmision-sexual  — cambiada 2026-11-18
@@ -24,7 +25,6 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanacruz4.com/services/examen-fisico-escolar  — cambiada 2026-11-18
 - [ ] https://www.clinicahispanacruz4.com/en/services/examen-fisico-escolar  — cambiada 2026-11-18
 - [ ] https://www.clinicahispanacruz4.com/services/examen-heces  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanacruz4.com/en/services/examen-heces  — cambiada 2026-11-18
 
 ## Tanda 58 — cambios del 2026-11-18 (textos viejos de §9: equipo médico, sin especialistas ni precio fijo)
 
@@ -80,13 +80,10 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 ## Tanda 62 — cambios del 2026-11-18 (textos viejos de §9: equipo médico, sin especialistas ni precio fijo)
 
+- [ ] https://www.clinicahispanacruz4.com/en/services/examen-heces  — cambiada 2026-11-18
 - [ ] https://www.clinicahispanacruz4.com/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-11-18
 - [ ] https://www.clinicahispanacruz4.com/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-11-18
 - [ ] https://www.clinicahispanacruz4.com/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-11-18
-
-## Tanda 64 — cambios del 2026-11-21 (error de GSC al pedir el 20/11)
-
-- [ ] https://www.clinicahispanacruz4.com/services/electrocardiograma  — cambiada 2026-11-21
 
 ## Tanda 65
 
@@ -96,6 +93,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanacruz4.com/services/sueros-vitaminados  — cambiada 2026-11-03 · desconocida · pedida 2026-11-04 · 0 impr.
 - [ ] https://www.clinicahispanacruz4.com/services/vacunas  — cambiada 2026-09-30 · desconocida · pedida 2026-11-06 · 0 impr.
 - [ ] https://www.clinicahispanacruz4.com/en/services/sueros-vitaminados  — cambiada 2026-11-03 · descubierta sin indexar · pedida 2026-11-04 · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/en/services/suturas-heridas  — cambiada 2026-09-30 · descubierta sin indexar · pedida 2026-11-07 · 0 impr.
 
 ## Notas anteriores (texto previo del archivo, sin actualizar)
 
