@@ -13,18 +13,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 9 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-25).
 <!-- /tandas:auto -->
 
-## Tanda 57 — cambios del 2026-11-18 (textos viejos de §9: equipo médico, sin especialistas ni precio fijo)  📨 ENVIADA 21/11/2026
+## Tanda 57 — cambios del 2026-11-18 (textos viejos de §9: equipo médico, sin especialistas ni precio fijo)  📨 ENVIADA 21/11/2026  ✅ PEDIDA 21/11/2026
 
-- [ ] https://www.clinicahispanacruz4.com/services/electrocardiograma  — cambiada 2026-11-21
-- [ ] https://www.clinicahispanacruz4.com/services/enfermedades-respiratorias  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanacruz4.com/en/services/enfermedades-respiratorias  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanacruz4.com/services/enfermedades-transmision-sexual  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanacruz4.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanacruz4.com/services/examen-dot  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanacruz4.com/en/services/examen-dot  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanacruz4.com/services/examen-fisico-escolar  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanacruz4.com/en/services/examen-fisico-escolar  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanacruz4.com/services/examen-heces  — cambiada 2026-11-18
+- [x] https://www.clinicahispanacruz4.com/services/electrocardiograma  — cambiada 2026-11-21
+- [x] https://www.clinicahispanacruz4.com/services/enfermedades-respiratorias  — cambiada 2026-11-18
+- [x] https://www.clinicahispanacruz4.com/en/services/enfermedades-respiratorias  — cambiada 2026-11-18
+- [x] https://www.clinicahispanacruz4.com/services/enfermedades-transmision-sexual  — cambiada 2026-11-18
+- [x] https://www.clinicahispanacruz4.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-11-18
+- [x] https://www.clinicahispanacruz4.com/services/examen-dot  — cambiada 2026-11-18
+- [x] https://www.clinicahispanacruz4.com/en/services/examen-dot  — cambiada 2026-11-18
+- [x] https://www.clinicahispanacruz4.com/services/examen-fisico-escolar  — cambiada 2026-11-18
+- [x] https://www.clinicahispanacruz4.com/en/services/examen-fisico-escolar  — cambiada 2026-11-18
+- [x] https://www.clinicahispanacruz4.com/services/examen-heces  — cambiada 2026-11-18
 
 ## Tanda 58 — cambios del 2026-11-18 (textos viejos de §9: equipo médico, sin especialistas ni precio fijo)
 
