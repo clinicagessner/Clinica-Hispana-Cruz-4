@@ -6,14 +6,14 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispanacruz4.com/` (prefijo de URL), cuenta **clinicahispanacruz4@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-22; URL Inspection API, datos ANTIGUOS del 2026-11-16: antiguos (2026-11-16): --sin-fetch):** 73 de 106 URLs del sitemap indexadas · 33 sin indexar (17 descubierta sin indexar · 10 desconocida · 4 rastreada sin indexar · 2 sin datos).
+**Estado (actualizado 2026-11-23; URL Inspection API, datos de hoy 2026-11-23):** 76 de 106 URLs del sitemap indexadas · 30 sin indexar (17 descubierta sin indexar · 9 desconocida · 4 rastreada sin indexar).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 0 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 7 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-14 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-25).
+11 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-25).
 <!-- /tandas:auto -->
 
-## Tanda 58 — cambios del 2026-11-18 (textos viejos de §9: equipo médico, sin especialistas ni precio fijo)  📨 ENVIADA 22/11/2026
+## Tanda 58 — cambios del 2026-11-18 (textos viejos de §9: equipo médico, sin especialistas ni precio fijo)  📨 ENVIADA 23/11/2026
 
 - [ ] https://www.clinicahispanacruz4.com/services/examenes-inmigracion  — cambiada 2026-11-18
 - [ ] https://www.clinicahispanacruz4.com/en/services/examenes-inmigracion  — cambiada 2026-11-18
@@ -76,11 +76,11 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 - [ ] https://www.clinicahispanacruz4.com/services/curacion-heridas  — cambiada 2026-09-30 · descubierta sin indexar · pedida 2026-11-04 · 0 impr.
 - [ ] https://www.clinicahispanacruz4.com/services/farmacia  — cambiada 2026-10-15 · descubierta sin indexar · pedida 2026-11-06 · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/services/infecciones-urinarias  — cambiada 2026-10-15 · desconocida · pedida 2026-11-06 · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/services/infecciones-urinarias  — cambiada 2026-10-15 · descubierta sin indexar · pedida 2026-11-06 · 0 impr.
 - [ ] https://www.clinicahispanacruz4.com/services/sueros-vitaminados  — cambiada 2026-11-03 · desconocida · pedida 2026-11-04 · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/services/vacunas  — cambiada 2026-09-30 · desconocida · pedida 2026-11-06 · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/services/vacunas  — cambiada 2026-09-30 · descubierta sin indexar · pedida 2026-11-06 · 0 impr.
 - [ ] https://www.clinicahispanacruz4.com/en/services/sueros-vitaminados  — cambiada 2026-11-03 · descubierta sin indexar · pedida 2026-11-04 · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/en/services/suturas-heridas  — cambiada 2026-09-30 · descubierta sin indexar · pedida 2026-11-07 · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/en/services/suturas-heridas  — cambiada 2026-09-30 · desconocida · pedida 2026-11-07 · 0 impr.
 
 ## Notas anteriores (texto previo del archivo, sin actualizar)
 
