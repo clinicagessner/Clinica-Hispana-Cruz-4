@@ -15,6 +15,8 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 ## Tanda 58 — cambios del 2026-11-18 (textos viejos de §9: equipo médico, sin especialistas ni precio fijo)  📨 ENVIADA 24/11/2026
 
+- [ ] https://www.clinicahispanacruz4.com/blog/prostata-agrandada-o-cancer-diferencias-psa  — cambiada 2026-11-24 (post del blog semanal)
+- [ ] https://www.clinicahispanacruz4.com/en/blog/prostata-agrandada-o-cancer-diferencias-psa  — cambiada 2026-11-24 (post del blog semanal)
 - [ ] https://www.clinicahispanacruz4.com/services/examenes-inmigracion  — cambiada 2026-11-18
 - [ ] https://www.clinicahispanacruz4.com/en/services/examenes-inmigracion  — cambiada 2026-11-18
 - [ ] https://www.clinicahispanacruz4.com/services/examenes-sangre  — cambiada 2026-11-18
@@ -23,8 +25,6 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanacruz4.com/en/services/ginecologia  — cambiada 2026-11-18
 - [ ] https://www.clinicahispanacruz4.com/services/prueba-embarazo  — cambiada 2026-11-18
 - [ ] https://www.clinicahispanacruz4.com/en/services/prueba-embarazo  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanacruz4.com/services/prueba-strep  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanacruz4.com/en/services/prueba-strep  — cambiada 2026-11-18
 
 ## Tanda 59 — cambios del 2026-11-18 (textos viejos de §9: equipo médico, sin especialistas ni precio fijo)
 
@@ -71,6 +71,11 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanacruz4.com/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-11-18
 - [ ] https://www.clinicahispanacruz4.com/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-11-18
 - [ ] https://www.clinicahispanacruz4.com/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-11-18
+
+## Tanda 64 — cambios del 2026-11-24 (devueltas de la tanda 58 por el post del blog semanal)
+
+- [ ] https://www.clinicahispanacruz4.com/services/prueba-strep  — cambiada 2026-11-24
+- [ ] https://www.clinicahispanacruz4.com/en/services/prueba-strep  — cambiada 2026-11-24
 
 ## Tanda 63
 
