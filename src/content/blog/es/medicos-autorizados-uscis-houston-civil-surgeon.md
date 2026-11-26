@@ -1,9 +1,9 @@
 ---
 slug: "medicos-autorizados-uscis-houston-civil-surgeon"
-title: "Médicos Autorizados por USCIS en Houston: Cómo Comprobarlo"
-description: "Cómo saber si un médico en Houston es Civil Surgeon autorizado por USCIS para el examen I-693, qué incluye el examen, qué llevar y errores que retrasan su caso."
+title: "Examen de Inmigración Cerca de Mí: Médicos Autorizados por USCIS"
+description: "¿Busca un examen físico de inmigración cerca de usted en Houston? Cómo comprobar que el médico es Civil Surgeon designado por USCIS, qué incluye el I-693 y qué llevar."
 date: "2026-05-31"
-dateModified: "2026-09-29"
+dateModified: "2026-11-26"
 author: "Clínica Hispana Cruz 4"
 image: "/images/services/I-693.webp"
 featured: false
@@ -18,7 +18,7 @@ keywords:
   - "clínicas autorizadas para examen médico de residencia"
 ---
 
-# Médicos Autorizados por USCIS en Houston: Cómo Comprobarlo
+# Examen de Inmigración Cerca de Mí: Médicos Autorizados por USCIS
 
 Cuando alguien pide la residencia permanente desde dentro de Estados Unidos, tarde o temprano le piden el **formulario I-693**, el informe del examen médico de inmigración. Ese papel solo vale si lo firma un médico designado por USCIS, al que se llama **Civil Surgeon**. Un doctor puede ser excelente y aun así no tener esa designación; si firma él, el formulario no sirve.
 
@@ -68,5 +68,7 @@ Nuestra clínica cuenta con médico designado por USCIS para el [examen de inmig
 - Recibimos pacientes toda la semana, incluso sábado y domingo, en la Suite 240 del 10100 de Beechnut St. Puede llegar sin cita o llamar al (281) 588-0033 para preguntar el precio y los requisitos de su caso.
 
 Si su abogado o su preparador de formularios le dio instrucciones específicas, tráigalas: las revisamos junto con usted.
+
+Si busca un examen físico de inmigración cerca de usted en el suroeste de Houston, estamos en Beechnut, a pocos minutos de Alief, Sharpstown y Bellaire. Antes de ir a cualquier clínica, haga la búsqueda en el localizador de USCIS con su código postal: así compara opciones cercanas y llega sabiendo quién firmará su formulario.
 
 *Esta guía es informativa y no sustituye la asesoría legal de inmigración.*

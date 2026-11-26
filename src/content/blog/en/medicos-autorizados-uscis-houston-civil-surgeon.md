@@ -1,9 +1,9 @@
 ---
 slug: "medicos-autorizados-uscis-houston-civil-surgeon"
-title: "USCIS-Authorized Doctors in Houston: How to Check"
-description: "How to confirm a Houston doctor is a USCIS-designated Civil Surgeon for the I-693, what the exam covers, what to bring and mistakes that delay your case."
+title: "Immigration Physical Near Me: How to Verify USCIS Doctors"
+description: "Looking for an immigration medical exam near you in Houston? How to confirm a doctor is a USCIS-designated Civil Surgeon, what the I-693 covers and what to bring."
 date: "2026-05-31"
-dateModified: "2026-09-29"
+dateModified: "2026-11-26"
 author: "Clínica Hispana Cruz 4"
 image: "/images/services/I-693.webp"
 featured: false
@@ -18,7 +18,7 @@ keywords:
   - "Green Card medical exam Houston"
 ---
 
-# USCIS-Authorized Doctors in Houston: How to Check
+# Immigration Physical Near Me: How to Verify USCIS Doctors
 
 Anyone applying for permanent residence from inside the United States will sooner or later be asked for **Form I-693**, the report of the immigration medical exam. USCIS accepts it only with the signature of a physician it has designated for the job, a **Civil Surgeon**. A physician can be excellent and still lack that designation; if they sign, the form is worthless.
 
@@ -68,5 +68,7 @@ Our clinic has a USCIS-designated physician for the [I-693 immigration exam](/en
 - We see patients all week, weekends included, at Suite 240, 10100 Beechnut St. Walk in, or call (281) 588-0033 to ask about the price and what your case requires.
 
 If your attorney or form preparer gave you specific instructions, bring them and we'll go over them together.
+
+If you're looking for an immigration physical near you in southwest Houston, we're on Beechnut, a few minutes from Alief, Sharpstown and Bellaire. Before choosing any clinic, run the USCIS locator with your ZIP code: you can compare nearby options and arrive knowing who will sign your form.
 
 *This guide is for information only and is not immigration legal advice.*

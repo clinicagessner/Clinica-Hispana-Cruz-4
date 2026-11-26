@@ -1,9 +1,9 @@
 ---
 slug: "salud-mujer-houston-servicios-ginecologia"
-title: "Women's Health in Houston: Checkups for Every Life Stage"
-description: "Which checkups a woman needs in her 20s, 30s, 40s and 50s, which symptoms shouldn't wait, and the basic gynecology care we offer in Spanish in Houston."
+title: "Pap Smear Near Me in Houston: Women's Checkups by Age"
+description: "A Pap smear near you on Beechnut in Houston, walk-in and in Spanish: how often to get one and which checkups a woman needs in her 20s, 30s, 40s and 50s."
 date: "2026-03-20"
-dateModified: "2026-09-30"
+dateModified: "2026-11-26"
 author: "Clínica Hispana Cruz 4"
 image: "/images/services/gynecology.webp"
 featured: false
@@ -17,7 +17,7 @@ keywords:
   - "women's checkup Houston"
 ---
 
-# Women's Health in Houston: Checkups for Every Life Stage
+# Pap Smear Near Me in Houston: Women's Checkups by Age
 
 Between work, kids and running a household, a woman's own health tends to land at the bottom of the list, and many only see a doctor when something hurts. This guide lays out, decade by decade, which checkups make sense even when you feel fine, and which symptoms deserve a visit without waiting for the next appointment.
 
@@ -65,4 +65,8 @@ We provide [gynecology care](/en/services/ginecologia) in Spanish, all in one pl
 - [Ultrasound](/en/services/ultrasonido) and [blood work](/en/services/examenes-sangre)
 - [STD testing](/en/services/enfermedades-transmision-sexual)
 
-Walk in between 9 AM and 9 PM at 10100 Beechnut St, Suite 240. Our [promotions page](/en/promociones) lists women's checkups. And if you're looking for Spanish-language gynecology, read our guide to [Hispanic gynecologists in Houston](/en/blog/ginecologos-hispanos-houston-hablan-espanol).
+Walk in between 9 AM and 9 PM at 10100 Beechnut St, Suite 240. Our [promotions page](/en/promociones) lists women's checkups. And if you're looking for Spanish-language gynecology, read our [guide to gynecology care in Spanish in Houston](/en/blog/ginecologos-hispanos-houston-hablan-espanol).
+
+## A Pap smear near you, on Beechnut
+
+If you searched for a "Pap smear near me" (or "examen de Papanicolaou cerca de mí") and live in Alief, Sharpstown or southwest Houston, you can get it here without an appointment: the sample is taken in a private exam room, every step is explained in Spanish or English, and we let you know as soon as the result arrives. Beforehand, skip douching, vaginal suppositories and sex for two days, and try not to come during your period. Service details are on our [women's clinic page](/en/services/ginecologia).
