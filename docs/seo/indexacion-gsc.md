@@ -6,11 +6,11 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispanacruz4.com/` (prefijo de URL), cuenta **clinicahispanacruz4@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-27; URL Inspection API, datos ANTIGUOS del 2026-11-26: antiguos (2026-11-26): --sin-fetch):** 78 de 108 URLs del sitemap indexadas · 30 sin indexar (15 descubierta sin indexar · 10 desconocida · 5 rastreada sin indexar).
+**Estado (actualizado 2026-11-27; URL Inspection API, datos ANTIGUOS del 2026-09-29: antiguos (2026-09-29): --sin-fetch):** 57 de 108 URLs del sitemap indexadas · 51 sin indexar (25 descubierta sin indexar · 16 sin datos · 6 desconocida · 4 rastreada sin indexar).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 0 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 8 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 0 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 22 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-15 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-12-03).
+15 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-12-01).
 <!-- /tandas:auto -->
 
 ## Tanda 59 — cambios del 2026-11-18 (textos viejos de §9: equipo médico, sin especialistas ni precio fijo)
@@ -48,6 +48,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanacruz4.com/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-11-18
 
 ## Tanda 64 — cambios del 2026-11-24 (devueltas de la tanda 58 por el post del blog semanal)  📨 ENVIADA 27/11/2026
+
 - [ ] https://www.clinicahispanacruz4.com/services/prueba-strep  — cambiada 2026-11-24
 - [ ] https://www.clinicahispanacruz4.com/en/services/prueba-strep  — cambiada 2026-11-24
 - [ ] https://www.clinicahispanacruz4.com/services/prueba-tuberculosis  — cambiada 2026-11-18
@@ -59,14 +60,43 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanacruz4.com/services/ultrasonido  — cambiada 2026-11-18
 - [ ] https://www.clinicahispanacruz4.com/en/services/ultrasonido  — cambiada 2026-11-18
 
-## Tanda 67
+## Tanda 68 — cambios del 2026-11-27 (aviso I-693 pausado)
 
+- [ ] https://www.clinicahispanacruz4.com/services/examenes-inmigracion  — cambiada 2026-11-27
+- [ ] https://www.clinicahispanacruz4.com/en/services/examenes-inmigracion  — cambiada 2026-11-27
+- [ ] https://www.clinicahispanacruz4.com/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-11-27
+- [ ] https://www.clinicahispanacruz4.com/en/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-11-27
+- [ ] https://www.clinicahispanacruz4.com/  — cambiada 2026-11-27
+- [ ] https://www.clinicahispanacruz4.com/en  — cambiada 2026-11-27
+
+## Tanda 69
+
+- [ ] https://www.clinicahispanacruz4.com/blog/bulto-debajo-de-la-piel-quiste-lipoma-ganglio  — cambiada 2026-10-20 · sin datos de inspección · pedida 2026-10-21 · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/blog/celulitis-infeccion-de-la-piel-roja-caliente-hinchada  — cambiada 2026-11-10 · sin datos de inspección · pedida 2026-11-11 · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/blog/embarazo-temporada-gripe-vacuna-sintomas-alarma  — cambiada 2026-10-06 · sin datos de inspección · pedida 2026-10-11 · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/blog/piedras-en-el-rinon-o-infeccion-dolor-de-costado  — cambiada 2026-10-15 · sin datos de inspección · pedida 2026-10-18 · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/blog/ronchas-y-sarpullidos-en-ninos-alergia-virus-o-picaduras  — cambiada 2026-11-03 · sin datos de inspección · pedida 2026-11-03 · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/blog/sal-comida-de-casa-bajar-la-presion  — cambiada 2026-10-27 · sin datos de inspección · pedida 2026-10-28 · 0 impr.
 - [ ] https://www.clinicahispanacruz4.com/services/curacion-heridas  — cambiada 2026-09-30 · descubierta sin indexar · pedida 2026-11-04 · 0 impr.
 - [ ] https://www.clinicahispanacruz4.com/services/farmacia  — cambiada 2026-10-15 · descubierta sin indexar · pedida 2026-11-06 · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/services/infecciones-urinarias  — cambiada 2026-10-15 · desconocida · pedida 2026-11-06 · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/services/sueros-vitaminados  — cambiada 2026-11-03 · desconocida · pedida 2026-11-04 · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/services/vacunas  — cambiada 2026-09-30 · descubierta sin indexar · pedida 2026-11-06 · 0 impr.
-- [ ] https://www.clinicahispanacruz4.com/en/services  — cambiada 2026-09-30 · rastreada 2026-09-27 · rastreada sin indexar · pedida 2026-11-11 · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/services/infecciones-urinarias  — cambiada 2026-10-15 · descubierta sin indexar · pedida 2026-11-06 · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/services/sueros-vitaminados  — cambiada 2026-11-03 · descubierta sin indexar · pedida 2026-11-04 · 0 impr.
+
+## Tanda 70
+
+- [ ] https://www.clinicahispanacruz4.com/services/vacunas  — cambiada 2026-09-29 · descubierta sin indexar · pedida 2026-11-06 · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/en/services  — cambiada 2026-09-29 · rastreada 2026-09-27 · rastreada sin indexar · pedida 2026-11-11 · 53 impr.
+- [ ] https://www.clinicahispanacruz4.com/en/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-10-04 · rastreada 2026-07-18 · rastreada sin indexar · pedida 2026-10-20 · 1 impr.
+- [ ] https://www.clinicahispanacruz4.com/en/blog/bulto-debajo-de-la-piel-quiste-lipoma-ganglio  — cambiada 2026-10-20 · sin datos de inspección · pedida 2026-10-21 · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/en/blog/celulitis-infeccion-de-la-piel-roja-caliente-hinchada  — cambiada 2026-11-10 · sin datos de inspección · pedida 2026-11-11 · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/en/blog/embarazo-temporada-gripe-vacuna-sintomas-alarma  — cambiada 2026-10-06 · sin datos de inspección · pedida 2026-10-20 · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/en/blog/piedras-en-el-rinon-o-infeccion-dolor-de-costado  — cambiada 2026-10-15 · sin datos de inspección · pedida 2026-10-18 · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/en/blog/ronchas-y-sarpullidos-en-ninos-alergia-virus-o-picaduras  — cambiada 2026-11-03 · sin datos de inspección · pedida 2026-11-03 · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/en/blog/sal-comida-de-casa-bajar-la-presion  — cambiada 2026-10-27 · sin datos de inspección · pedida 2026-10-28 · 0 impr.
+- [ ] https://www.clinicahispanacruz4.com/en/services/alergias  — cambiada 2026-09-29 · descubierta sin indexar · pedida 2026-10-21 · 0 impr.
+
+## Tanda 71
+
 - [ ] https://www.clinicahispanacruz4.com/en/services/sueros-vitaminados  — cambiada 2026-11-03 · desconocida · pedida 2026-11-04 · 0 impr.
 - [ ] https://www.clinicahispanacruz4.com/en/services/suturas-heridas  — cambiada 2026-09-30 · descubierta sin indexar · pedida 2026-11-07 · 0 impr.
 
