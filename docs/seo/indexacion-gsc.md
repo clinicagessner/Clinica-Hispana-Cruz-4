@@ -6,23 +6,12 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispanacruz4.com/` (prefijo de URL), cuenta **clinicahispanacruz4@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-26; URL Inspection API, datos de hoy 2026-11-26):** 78 de 108 URLs del sitemap indexadas · 30 sin indexar (15 descubierta sin indexar · 10 desconocida · 5 rastreada sin indexar).
+**Estado (actualizado 2026-11-27; URL Inspection API, datos ANTIGUOS del 2026-11-26: antiguos (2026-11-26): --sin-fetch):** 78 de 108 URLs del sitemap indexadas · 30 sin indexar (15 descubierta sin indexar · 10 desconocida · 5 rastreada sin indexar).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 0 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 8 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 15 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-12-03).
 <!-- /tandas:auto -->
-
-## Tanda 66 — cambios del 2026-11-26 (análisis diario: Papanicolaou e inmigración cerca de mí, frases de los anuncios)  📨 ENVIADA 26/11/2026  ✅ PEDIDA 26/11/2026
-
-- [x] https://www.clinicahispanacruz4.com/  — cambiada 2026-11-26 (análisis diario)
-- [x] https://www.clinicahispanacruz4.com/en  — cambiada 2026-11-26 (análisis diario)
-- [x] https://www.clinicahispanacruz4.com/services/ginecologia  — cambiada 2026-11-26 (análisis diario)
-- [x] https://www.clinicahispanacruz4.com/en/services/ginecologia  — cambiada 2026-11-26 (análisis diario)
-- [x] https://www.clinicahispanacruz4.com/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-11-26 (análisis diario)
-- [x] https://www.clinicahispanacruz4.com/en/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-11-26 (análisis diario)
-- [x] https://www.clinicahispanacruz4.com/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-11-26 (análisis diario)
-- [x] https://www.clinicahispanacruz4.com/en/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-11-26 (análisis diario)
 
 ## Tanda 59 — cambios del 2026-11-18 (textos viejos de §9: equipo médico, sin especialistas ni precio fijo)
 
@@ -58,8 +47,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanacruz4.com/en/services/examen-heces  — cambiada 2026-11-18
 - [ ] https://www.clinicahispanacruz4.com/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-11-18
 
-## Tanda 64 — cambios del 2026-11-24 (devueltas de la tanda 58 por el post del blog semanal)
-
+## Tanda 64 — cambios del 2026-11-24 (devueltas de la tanda 58 por el post del blog semanal)  📨 ENVIADA 27/11/2026
 - [ ] https://www.clinicahispanacruz4.com/services/prueba-strep  — cambiada 2026-11-24
 - [ ] https://www.clinicahispanacruz4.com/en/services/prueba-strep  — cambiada 2026-11-24
 - [ ] https://www.clinicahispanacruz4.com/services/prueba-tuberculosis  — cambiada 2026-11-18
@@ -401,3 +389,14 @@ Sitemap `sitemap.xml` enviado por última vez el 2026-06-21 (0 errores). Detalle
 - [x] https://www.clinicahispanacruz4.com/en/services/ginecologia  — cambiada 2026-11-18
 - [x] https://www.clinicahispanacruz4.com/services/prueba-embarazo  — cambiada 2026-11-18
 - [x] https://www.clinicahispanacruz4.com/en/services/prueba-embarazo  — cambiada 2026-11-18
+
+## Tanda 66 — cambios del 2026-11-26 (análisis diario: Papanicolaou e inmigración cerca de mí, frases de los anuncios)  📨 ENVIADA 26/11/2026  ✅ PEDIDA 26/11/2026
+
+- [x] https://www.clinicahispanacruz4.com/  — cambiada 2026-11-26 (análisis diario)
+- [x] https://www.clinicahispanacruz4.com/en  — cambiada 2026-11-26 (análisis diario)
+- [x] https://www.clinicahispanacruz4.com/services/ginecologia  — cambiada 2026-11-26 (análisis diario)
+- [x] https://www.clinicahispanacruz4.com/en/services/ginecologia  — cambiada 2026-11-26 (análisis diario)
+- [x] https://www.clinicahispanacruz4.com/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-11-26 (análisis diario)
+- [x] https://www.clinicahispanacruz4.com/en/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-11-26 (análisis diario)
+- [x] https://www.clinicahispanacruz4.com/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-11-26 (análisis diario)
+- [x] https://www.clinicahispanacruz4.com/en/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-11-26 (análisis diario)
