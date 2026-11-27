@@ -13,16 +13,16 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 15 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-12-03).
 <!-- /tandas:auto -->
 
-## Tanda 66 — cambios del 2026-11-26 (análisis diario: Papanicolaou e inmigración cerca de mí, frases de los anuncios)  📨 ENVIADA 26/11/2026
+## Tanda 66 — cambios del 2026-11-26 (análisis diario: Papanicolaou e inmigración cerca de mí, frases de los anuncios)  📨 ENVIADA 26/11/2026  ✅ PEDIDA 26/11/2026
 
-- [ ] https://www.clinicahispanacruz4.com/  — cambiada 2026-11-26 (análisis diario)
-- [ ] https://www.clinicahispanacruz4.com/en  — cambiada 2026-11-26 (análisis diario)
-- [ ] https://www.clinicahispanacruz4.com/services/ginecologia  — cambiada 2026-11-26 (análisis diario)
-- [ ] https://www.clinicahispanacruz4.com/en/services/ginecologia  — cambiada 2026-11-26 (análisis diario)
-- [ ] https://www.clinicahispanacruz4.com/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-11-26 (análisis diario)
-- [ ] https://www.clinicahispanacruz4.com/en/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-11-26 (análisis diario)
-- [ ] https://www.clinicahispanacruz4.com/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-11-26 (análisis diario)
-- [ ] https://www.clinicahispanacruz4.com/en/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-11-26 (análisis diario)
+- [x] https://www.clinicahispanacruz4.com/  — cambiada 2026-11-26 (análisis diario)
+- [x] https://www.clinicahispanacruz4.com/en  — cambiada 2026-11-26 (análisis diario)
+- [x] https://www.clinicahispanacruz4.com/services/ginecologia  — cambiada 2026-11-26 (análisis diario)
+- [x] https://www.clinicahispanacruz4.com/en/services/ginecologia  — cambiada 2026-11-26 (análisis diario)
+- [x] https://www.clinicahispanacruz4.com/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-11-26 (análisis diario)
+- [x] https://www.clinicahispanacruz4.com/en/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-11-26 (análisis diario)
+- [x] https://www.clinicahispanacruz4.com/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-11-26 (análisis diario)
+- [x] https://www.clinicahispanacruz4.com/en/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-11-26 (análisis diario)
 
 ## Tanda 59 — cambios del 2026-11-18 (textos viejos de §9: equipo médico, sin especialistas ni precio fijo)
 
